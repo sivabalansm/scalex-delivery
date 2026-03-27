@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Maxx Database v2 → v3 — Summary for Team</title>
+  <style>
+    :root {
+      --bg: #f8f9fa;
+      --card: #fff;
+      --text: #1a1a1a;
+      --muted: #5c5c5c;
+      --accent: #0d6efd;
+      --border: #dee2e6;
+      --success: #198754;
+      --warning: #ffc107;
+    }
+    * { box-sizing: border-box; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+      line-height: 1.5;
+      color: var(--text);
+      background: var(--bg);
+      margin: 0;
+      padding: 2rem;
+      max-width: 900px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    h1 {
+      font-size: 1.75rem;
+      font-weight: 700;
+      margin: 0 0 0.25rem 0;
+      color: var(--text);
+    }
+    .subtitle { color: var(--muted); font-size: 0.95rem; margin-bottom: 1.5rem; }
+    section {
+      background: var(--card);
+      border-radius: 8px;
+      padding: 1.25rem 1.5rem;
+      margin-bottom: 1.25rem;
+      border: 1px solid var(--border);
+    }
+    section h2 {
+      font-size: 1.1rem;
+      font-weight: 600;
+      margin: 0 0 0.75rem 0;
+      color: var(--text);
+      padding-bottom: 0.35rem;
+      border-bottom: 2px solid var(--accent);
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+    }
+    th, td {
+      text-align: left;
+      padding: 0.5rem 0.75rem;
+      border-bottom: 1px solid var(--border);
+    }
+    th {
+      font-weight: 600;
+      color: var(--muted);
+      font-size: 0.8rem;
+      text-transform: uppercase;
+      letter-spacing: 0.02em;
+    }
+    tr:last-child td { border-bottom: none; }
+    .col-area { width: 22%; }
+    .col-v2 { width: 28%; background: #f1f3f5; }
+    .col-v3 { width: 50%; background: #e7f1ff; }
+    .delta-table .col-v3 { font-weight: 500; }
+    ul {
+      margin: 0.5rem 0 0 0;
+      padding-left: 1.25rem;
+    }
+    li { margin-bottom: 0.25rem; }
+    .badge {
+      display: inline-block;
+      padding: 0.2rem 0.5rem;
+      border-radius: 4px;
+      font-size: 0.75rem;
+      font-weight: 600;
+    }
+    .badge-new { background: #d1e7dd; color: #0a3622; }
+    .badge-change { background: #fff3cd; color: #664d03; }
+    .one-liner {
+      background: #e7f1ff;
+      border-left: 4px solid var(--accent);
+      padding: 0.75rem 1rem;
+      font-size: 0.9rem;
+      margin: 0.75rem 0 0 0;
+    }
+    .not-in-package { color: var(--muted); font-size: 0.9rem; }
+    .footer { margin-top: 1.5rem; color: var(--muted); font-size: 0.8rem; }
+  </style>
+</head>
+<body>
+  <h1>Maxx Database v2 → v3</h1>
+  <p class="subtitle">Summary for team · 24 Feb 2026 · Botpress package</p>
+
+  <section>
+    <h2>What v3 is</h2>
+    <p>v3 is the <strong>last structural change</strong> to the Maxx/Botpress tables. We have finalized the taxonomy content (per current best assumptions and task 13a IT updates) and locked the schema. The <strong>for siva v3 final</strong> package contains everything needed to implement against v3. Data population (AHT, rate validation, modifier quantification, etc.) is a separate workstream and does not change the schema.</p>
+  </section>
+
+  <section>
+    <h2>v2 → v3 changes (what Botpress needs to implement)</h2>
+    <table class="delta-table">
+      <thead>
+        <tr>
+          <th class="col-area">Area</th>
+          <th class="col-v2">v2 (current at Botpress)</th>
+          <th class="col-v3">v3</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><strong>TBL-004</strong></td>
+          <td>Resource_Unit_Name; 4 SLA columns (SLA_Timeliness_Type, SLA_Timeliness_Default, SLA_Quality_Type, SLA_Quality_Default)</td>
+          <td><strong>Service_Unit_Name</strong> (rename); <strong>Service_Unit_Definition</strong> (TEXT, new); <strong>4 SLA columns removed</strong> — SLA data now in two new tables only</td>
+        </tr>
+        <tr>
+          <td><strong>TBL-005</strong></td>
+          <td>No Date_of_FX, no ITO_Market_Maturity</td>
+          <td><strong>Date_of_FX</strong>, <strong>ITO_Market_Maturity</strong> (new columns)</td>
+        </tr>
+        <tr>
+          <td><strong>TBL-006</strong></td>
+          <td>Column: deliveryLocations</td>
+          <td>Column renamed to <strong>deliveryRegions</strong> (same data)</td>
+        </tr>
+        <tr>
+          <td><strong>TBL-015</strong></td>
+          <td>59 rows</td>
+          <td><strong>61 rows</strong> — added 2 PLATFORM_FEE rows (ADJ-060 Basic_Platform +3–8%, ADJ-061 Full_Platform +8–15%)</td>
+        </tr>
+        <tr>
+          <td><strong>New tables</strong></td>
+          <td>—</td>
+          <td><strong>SLA.csv</strong> (11 rows, master); <strong>Service_Type_SLA.csv</strong> (1,850 rows, junction). Use these for SLA by service type instead of TBL-004</td>
+        </tr>
+      </tbody>
+    </table>
+    <p style="margin-top: 0.75rem; font-size: 0.9rem;"><strong>Modifier math:</strong> When TBL-015.Adjustment_Type = PERCENTAGE and TBL-010.Application_Type = MULTIPLICATIVE, use <strong>multiplier = 1 + (Adjustment_Pct/100)</strong>. Documented in schema and mapping.</p>
+  </section>
+
+  <section>
+    <h2>What’s finalized (taxonomy)</h2>
+    <ul>
+      <li><strong>TBL-001:</strong> 16 towers — no renames.</li>
+      <li><strong>TBL-002:</strong> IT categories updated (task 13a): Application Development &amp; Maintenance (ADM), End-User Services, IT Consulting &amp; Advisory, Network &amp; Telecommunications, Enterprise Software &amp; Platforms (CAT-IT-009). Other towers unchanged.</li>
+      <li><strong>TBL-004:</strong> IT: 8 new CAT-IT-009 service types (ERP Admin, CRM Platform Mgmt, SaaS License Mgmt, SAM, Software Compliance &amp; Audit, Productivity Suite Admin, Enterprise Software Implementation, etc.). Service_Unit_Name / Service_Unit_Definition columns present; population deferred.</li>
+      <li><strong>TBL-007:</strong> Aliases aligned to current service types.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>What’s not in this package (researched updates, later)</h2>
+    <p class="not-in-package">These will be applied in a separate data workstream. Schema does not change.</p>
+    <ul>
+      <li>AHT (Default_AHT_Minutes) — 428 gaps to fill</li>
+      <li>Rate validation (TBL-003 vs benchmarks; FD6 provenance)</li>
+      <li>Modifier quantification beyond current seed</li>
+      <li>Service_Unit_Name / Service_Unit_Definition population</li>
+      <li>Vendor/location enrichment (TBL-006, TBL-009)</li>
+      <li>Contract benchmark data (TBL-014)</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>What the team needs to know</h2>
+    <p><strong>Package location:</strong> <code>projects/R_methodology/for siva v3 final/</code></p>
+    <p><strong>Contents:</strong> 19 table CSVs (TBL-001–TBL-017 + SLA.csv + Service_Type_SLA.csv) + R_DATABASE_SCHEMA.md, R_MAXXBOT_BOTPRESS_MAPPING.md, R_FUNCTION_CATALOG.md, R_MAXX_METHODOLOGY_v2.md, R_GOLDEN_QUESTION_ANSWERS_v2.md, AUTHORITATIVE_VALUES.md, README_SIVA_PACKAGE_V3_FINAL.md, R_BOTPRESS_V3_UPDATE_FOR_SIVA.md.</p>
+    <p><strong>One-liner for Siva/team:</strong></p>
+    <div class="one-liner">
+      v3 is applied and packaged: TBL-004 has Service_Unit_Name + Service_Unit_Definition and no SLA columns (SLA in two new tables); TBL-005 has Date_of_FX and ITO_Market_Maturity; TBL-006 has deliveryRegions; TBL-015 has 2 PLATFORM_FEE rows. The “for siva v3 final” folder has 19 table files + updated schema, mapping, methodology, golden answers, and function catalog. Structure is ready for Botpress; data population is separate.
+    </div>
+  </section>
+
+  <p class="footer">Maxx Database v3 · R project · 2026-02-24</p>
+</body>
+</html>

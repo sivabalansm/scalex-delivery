@@ -1,0 +1,186 @@
+Location_Code,Country,City,Region,Currency_Code,USD_FX_Rate,Cost_Index,Timezone,Labor_Market_Tier,Notes,CL_Strength_Rating
+US-AUS,United States,Austin,,USD,1.0,98,America/Chicago,1,"Tech hub, growing BPO presence",1
+US-PHX,United States,Phoenix,,USD,1.0,92,America/Phoenix,1,Lower cost US market,1
+US-TPA,United States,Tampa,,USD,1.0,88,America/New_York,1,Finance/tech services hub,1
+US-SLC,United States,Salt Lake City,,USD,1.0,90,America/Denver,1,Growing tech presence,1
+US-OMA,United States,Omaha,,USD,1.0,82,America/Chicago,2,Contact center hub,1
+US-DAL,United States,Dallas,,USD,1.0,94,America/Chicago,1,"Major metro, finance/tech",1
+US-ATL,United States,Atlanta,,USD,1.0,90,America/New_York,1,Major corporate HQ hub,1
+US-DEN,United States,Denver,,USD,1.0,92,America/Denver,1,Growing tech market,1
+US-CHI,United States,Chicago,,USD,1.0,96,America/Chicago,1,Midwest financial hub,1
+US-MIA,United States,Miami,,USD,1.0,88,America/New_York,1,"LATAM gateway, bilingual",1
+CA-TOR,Canada,Toronto,,CAD,0.72,85,America/Toronto,1,Major financial center,3
+CA-MTL,Canada,Montreal,,CAD,0.72,78,America/Montreal,1,Bilingual market (FR/EN),3
+CA-VAN,Canada,Vancouver,,CAD,0.72,82,America/Vancouver,1,Tech/gaming hub,1
+CA-CAL,Canada,Calgary,,CAD,0.72,75,America/Edmonton,2,Energy sector expertise,1
+MX-MEX,Mexico,Mexico City,LATAM,MXN,0.053,48,America/Mexico_City,2,Largest nearshore hub,3
+MX-MTY,Mexico,Monterrey,LATAM,MXN,0.053,52,America/Monterrey,2,Industrial/tech hub,1
+MX-GDL,Mexico,Guadalajara,LATAM,MXN,0.053,45,America/Mexico_City,2,Tech/IT services,3
+MX-TIJ,Mexico,Tijuana,LATAM,MXN,0.053,42,America/Tijuana,2,"Border city, manufacturing",1
+MX-QRO,Mexico,Queretaro,LATAM,MXN,0.053,44,America/Mexico_City,2,Growing tech hub,1
+BR-SAO,Brazil,Sao Paulo,LATAM,BRL,0.183,55,America/Sao_Paulo,2,Largest LATAM economy,2
+BR-RIO,Brazil,Rio de Janeiro,LATAM,BRL,0.183,52,America/Sao_Paulo,2,Secondary hub,2
+CO-BOG,Colombia,Bogota,LATAM,COP,0.000248,42,America/Bogota,2,Top nearshore destination,2
+CO-MDE,Colombia,Medellin,LATAM,COP,0.000248,38,America/Bogota,2,Innovation hub,2
+AR-BUE,Argentina,Buenos Aires,LATAM,ARS,0.00076,35,America/Argentina/Buenos_Aires,2,"High skills, currency volatility",2
+CR-SJO,Costa Rica,San Jose,Central_America,CRC,0.002,55,America/Costa_Rica,2,"Premium nearshore, high English",1
+GT-GUA,Guatemala,Guatemala City,Central_America,GTQ,0.131,38,America/Guatemala,3,Emerging BPO market,1
+PE-LIM,Peru,Lima,LATAM,PEN,0.287,40,America/Lima,3,Growing contact center market,1
+SV-SAL,El Salvador,San Salvador,Central_America,USD,1.0,36,America/El_Salvador,3,"USD economy, emerging market",1
+NI-MGA,Nicaragua,Managua,Central_America,NIO,0.027,32,America/Managua,3,Lowest cost LATAM,1
+GY-GEO,Guyana,Georgetown,LATAM,GYD,0.0048,35,America/Guyana,3,"English-speaking, emerging",1
+SR-PBO,Suriname,Paramaribo,LATAM,SRD,0.026,38,America/Paramaribo,3,Dutch-speaking,1
+CL-SCL,Chile,Santiago,LATAM,CLP,0.001,48,America/Santiago,2,"Stable economy, high skills",1
+EC-UIO,Ecuador,Quito,LATAM,USD,1.0,35,America/Guayaquil,3,USD economy,1
+PA-PTY,Panama,Panama City,Central_America,USD,1.0,52,America/Panama,2,"Financial hub, USD",1
+DO-SDQ,Dominican Republic,Santo Domingo,Caribbean,DOP,0.016,35,America/Santo_Domingo,3,Emerging nearshore,1
+HN-TGU,Honduras,Tegucigalpa,Central_America,HNL,0.04,30,America/Tegucigalpa,3,Low cost Central America,1
+GB-LON,United Kingdom,London,EMEA,GBP,1.34,105,Europe/London,1,"Premium market, financial services",4
+GB-MAN,United Kingdom,Manchester,EMEA,GBP,1.34,80,Europe/London,1,Lower cost UK alternative,4
+IE-DUB,Ireland,Dublin,EMEA,EUR,1.16,95,Europe/Dublin,1,"Tech hub, multilingual",5
+ES-BCN,Spain,Barcelona,EMEA,EUR,1.16,68,Europe/Madrid,2,Multilingual hub,3
+PT-LIS,Portugal,Lisbon,EMEA,EUR,1.16,58,Europe/Lisbon,2,Growing tech/BPO hub,1
+GR-ATH,Greece,Athens,EMEA,EUR,1.16,55,Europe/Athens,2,Multilingual capabilities,1
+IL-TLV,Israel,Tel Aviv,EMEA,ILS,0.293,88,Asia/Jerusalem,1,Tech/cyber specialty,1
+TR-IST,Turkey,Istanbul,EMEA,TRY,0.024,38,Europe/Istanbul,2,"Large talent pool, currency risk",1
+SA-RIY,Saudi Arabia,Riyadh,EMEA,SAR,0.266,72,Asia/Riyadh,2,Growing tech investment,1
+TN-TUN,Tunisia,Tunis,EMEA,TND,0.346,32,Africa/Tunis,3,Francophone BPO hub,1
+PL-WAW,Poland,Warsaw,EMEA,PLN,0.273,48,Europe/Warsaw,2,Major SSC hub,4
+PL-KRK,Poland,Krakow,EMEA,PLN,0.273,45,Europe/Warsaw,2,Tech/IT services hub,4
+PL-WRO,Poland,Wroclaw,EMEA,PLN,0.273,42,Europe/Warsaw,2,Growing SSC market,1
+RO-BUC,Romania,Bucharest,EMEA,RON,0.23,38,Europe/Bucharest,2,Growing tech hub,3
+RO-CLJ,Romania,Cluj-Napoca,EMEA,RON,0.23,35,Europe/Bucharest,2,Tech hub,1
+BG-SOF,Bulgaria,Sofia,EMEA,BGN,0.593,35,Europe/Sofia,2,Cost-effective CEE,1
+CZ-PRG,Czech Republic,Prague,EMEA,CZK,0.047,52,Europe/Prague,2,Premium CEE market,4
+HU-BUD,Hungary,Budapest,EMEA,HUF,0.0029,42,Europe/Budapest,2,SSC hub,4
+AL-TIA,Albania,Tirana,EMEA,ALL,0.012,28,Europe/Tirane,3,Emerging low-cost,1
+UA-KYV,Ukraine,Kyiv,EMEA,UAH,0.024,22,Europe/Kiev,2,Strong IT talent (conflict risk),1
+RS-BEG,Serbia,Belgrade,EMEA,RSD,0.009,32,Europe/Belgrade,2,Emerging IT/SSC hub,1
+SK-BTS,Slovakia,Bratislava,EMEA,EUR,1.16,45,Europe/Bratislava,2,Central Europe SSC,1
+LT-VNO,Lithuania,Vilnius,EMEA,EUR,1.16,42,Europe/Vilnius,2,Baltic fintech hub,1
+LV-RIX,Latvia,Riga,EMEA,EUR,1.16,40,Europe/Riga,2,Baltic SSC market,1
+EE-TLL,Estonia,Tallinn,EMEA,EUR,1.16,48,Europe/Tallinn,2,Digital-first economy,1
+HR-ZAG,Croatia,Zagreb,EMEA,EUR,1.16,42,Europe/Zagreb,2,New Eurozone member,1
+ZA-CPT,South Africa,Cape Town,EMEA,ZAR,0.056,38,Africa/Johannesburg,2,Premium Africa BPO,1
+ZA-JNB,South Africa,Johannesburg,EMEA,ZAR,0.056,36,Africa/Johannesburg,2,Largest SA city,2
+EG-CAI,Egypt,Cairo,EMEA,EGP,0.021,25,Africa/Cairo,2,Arabic/English hub,1
+MA-CAS,Morocco,Casablanca,EMEA,MAD,0.111,32,Africa/Casablanca,2,Francophone hub,1
+KE-NBO,Kenya,Nairobi,EMEA,KES,0.0077,28,Africa/Nairobi,3,East Africa hub,1
+GH-ACC,Ghana,Accra,EMEA,GHS,0.091,30,Africa/Accra,3,English-speaking West Africa,1
+BJ-COT,Benin,Cotonou,EMEA,XOF,0.0018,25,Africa/Porto-Novo,3,Francophone West Africa,1
+RW-KGL,Rwanda,Kigali,EMEA,RWF,0.00072,25,Africa/Kigali,3,Emerging Africa tech hub,1
+IN-BLR,India,Bangalore,APAC,INR,0.0115,28,Asia/Kolkata,2,IT/Tech capital,4
+IN-HYD,India,Hyderabad,APAC,INR,0.0115,26,Asia/Kolkata,2,Growing tech hub,4
+IN-CHE,India,Chennai,APAC,INR,0.0115,25,Asia/Kolkata,2,BPO/IT services,4
+IN-PUN,India,Pune,APAC,INR,0.0115,25,Asia/Kolkata,2,IT/automotive hub,4
+IN-MUM,India,Mumbai,APAC,INR,0.0115,30,Asia/Kolkata,2,Financial services,4
+IN-DEL,India,Delhi NCR,APAC,INR,0.0115,28,Asia/Kolkata,2,Gurgaon/Noida BPO belt,1
+IN-KOL,India,Kolkata,APAC,INR,0.0115,22,Asia/Kolkata,2,Lower cost India tier 2,1
+IN-AHM,India,Ahmedabad,APAC,INR,0.0115,23,Asia/Kolkata,2,Emerging India tier 2,1
+PH-MNL,Philippines,Manila,APAC,PHP,0.0175,32,Asia/Manila,2,Global CX/BPO capital,3
+PH-CEB,Philippines,Cebu,APAC,PHP,0.0175,28,Asia/Manila,2,Lower cost PH alternative,3
+PH-CLK,Philippines,Clark,APAC,PHP,0.0175,26,Asia/Manila,2,Special economic zone,1
+PH-DAV,Philippines,Davao,APAC,PHP,0.0175,24,Asia/Manila,3,Mindanao BPO hub,1
+PH-ILO,Philippines,Iloilo,APAC,PHP,0.0175,22,Asia/Manila,3,Emerging Visayas hub,1
+MY-KUL,Malaysia,Kuala Lumpur,APAC,MYR,0.237,42,Asia/Kuala_Lumpur,2,Multilingual SSC hub,3
+VN-SGN,Vietnam,Ho Chi Minh City,APAC,VND,3.8e-05,25,Asia/Ho_Chi_Minh,2,Fastest growing APAC BPO,1
+VN-HAN,Vietnam,Hanoi,APAC,VND,3.8e-05,22,Asia/Ho_Chi_Minh,2,Lower cost alternative,1
+TH-BKK,Thailand,Bangkok,APAC,THB,0.029,35,Asia/Bangkok,2,Regional hub,2
+ID-JKT,Indonesia,Jakarta,APAC,IDR,6.3e-05,28,Asia/Jakarta,2,Largest SE Asia population,1
+SG-SIN,Singapore,Singapore,APAC,SGD,0.776,95,Asia/Singapore,1,Premium APAC hub,4
+TW-TPE,Taiwan,Taipei,APAC,TWD,0.033,55,Asia/Taipei,2,Tech manufacturing hub,1
+CN-DLC,China,Dalian,APAC,CNY,0.139,35,Asia/Shanghai,2,Japanese-language BPO,1
+CN-SHA,China,Shanghai,APAC,CNY,0.139,52,Asia/Shanghai,2,Premium China market,1
+JP-TYO,Japan,Tokyo,APAC,JPY,0.0067,110,Asia/Tokyo,1,Premium market,1
+KR-SEL,South Korea,Seoul,APAC,KRW,0.00071,78,Asia/Seoul,1,Tech hub,1
+AU-SYD,Australia,Sydney,APAC,AUD,0.643,102,Australia/Sydney,1,Premium APAC market,1
+AU-MEL,Australia,Melbourne,APAC,AUD,0.643,98,Australia/Melbourne,1,Secondary Australian hub,1
+BD-DAC,Bangladesh,Dhaka,APAC,BDT,0.0083,18,Asia/Dhaka,3,"Very low cost, emerging IT",1
+LK-CMB,Sri Lanka,Colombo,APAC,LKR,0.003,22,Asia/Colombo,3,"High English, recovering economy",1
+PK-KHI,Pakistan,Karachi,APAC,PKR,0.0036,20,Asia/Karachi,3,"Low cost, large talent pool",1
+NP-KTM,Nepal,Kathmandu,APAC,NPR,0.0074,18,Asia/Kathmandu,3,Emerging low-cost market,1
+GLOBAL,Global,Global,Global,USD,1.0,100,UTC,Global,Location-agnostic global benchmark rates,3
+IN-TRV,India,Thiruvananthapuram,South_Asia,INR,83.0,27,UTC+5:30,Tier1,60000-70000; IT development; product engineering; BPO; data analytics,7
+IN-COK,India,Kochi,South_Asia,INR,83.0,22,UTC+5:30,Tier2,15000-20000; Voice and non-voice BPO; data entry; customer service; back office,6
+IN-CJB,India,Coimbatore,South_Asia,INR,83.0,27,UTC+5:30,Tier2,35000-45000; IT services; embedded and IoT; industrial automation; BPO,6
+IN-JAI,India,Jaipur,South_Asia,INR,83.0,25,UTC+5:30,Tier2,28000-35000; Call center; finance and accounting BPO; data processing; IT services; analytics,6
+IN-IXC,India,Chandigarh/Mohali,South_Asia,INR,83.0,27,UTC+5:30,Tier2,15000-22000; Call center; technical helpdesk; back office; field investigations,6
+IN-VTZ,India,Visakhapatnam,South_Asia,INR,83.0,21,UTC+5:30,Tier3,8000-15000; Voice customer experience; customer support; data processing; back office,5
+IN-BBI,India,Bhubaneswar,South_Asia,INR,83.0,25,UTC+5:30,Tier2,20000-28000; IT development; software engineering; BPO; analytics,6
+IN-LKO,India,Lucknow,South_Asia,INR,83.0,24,UTC+5:30,Tier2,18000-30000; Customer support; data entry; finance and accounting; IT services,6
+IN-NAG,India,Nagpur,South_Asia,INR,83.0,27,UTC+5:30,Tier3,12000-22000; Software development; call center; data entry; back office,5
+IN-IDR,India,Indore,South_Asia,INR,83.0,25,UTC+5:30,Tier2,18000-28000; Customer service BPO; technical support; software development; data processing,6
+IN-MYQ,India,Mysore,South_Asia,INR,83.0,28,UTC+5:30,Tier3,14000-20000; IT training; software engineering; BPO operations,5
+IN-IXE,India,Mangalore,South_Asia,INR,83.0,26,UTC+5:30,Tier3,1700-2500; Mortgage processing; financial services BPO; property data analytics; research,5
+IN-BDQ,India,Vadodara,South_Asia,INR,83.0,27,UTC+5:30,Tier2,15000-25000; Engineering R&D; IT services; software development; BPO,6
+IN-AMD,India,Ahmedabad secondary areas,South_Asia,INR,83.0,27,UTC+5:30,Tier2,25000-45000; IT services; BPO; call center; healthcare BPO; back office,6
+IN-CCU,India,Kolkata secondary,South_Asia,INR,83.0,27,UTC+5:30,Tier2,35000-55000; Finance and procurement; logistics BPO; customer service; IT development; data processing,6
+PH-DVO,Philippines,Davao,Southeast_Asia,PHP,56.0,35,UTC+8,Tier1,85000 (2024)[web:3][web:6]; Customer service; technical support; sales; collections; back-office; content moderation[web:82],7
+PH-BCB,Philippines,Bacolod,Southeast_Asia,PHP,56.0,35,UTC+8,Tier3,~40% of city workforce in BPO[web:99]; Customer service; technical support; IT-enabled services; finance & accounting; back-office; softwar,5
+PH-BAG,Philippines,Baguio,Southeast_Asia,PHP,56.0,35,UTC+8,Tier3,BPO is top services job generator[web:97][web:107]; Data entry; customer support; voice/non-voice operations[web:5][web:11][web:103],5
+PH-SRR,Philippines,Santa Rosa (Laguna),Southeast_Asia,PHP,56.0,35,UTC+8,Tier3,Growing BPO hub (no published headcount)[web:110]; Customer service; back-office support[web:110][web:33],5
+PH-LIP,Philippines,Lipa (Batangas),Southeast_Asia,PHP,56.0,35,UTC+8,Tier3,Multiple sites; no consolidated figure[web:63][web:69]; Customer service (voice & chat); healthcare support; technical support; back-office[web:63][web:66],5
+PH-DGT,Philippines,Dumaguete,Southeast_Asia,PHP,56.0,35,UTC+8,Tier3,Multiple major vendors; no published total employment[web:44][web:139]; Customer support; technical assistance; digital solutions; content technology; back-office; healthca,5
+PH-CDO,Philippines,Cagayan de Oro,Southeast_Asia,PHP,56.0,35,UTC+8,Tier3,Growing BPO presence; multiple sites (no consolidated figure)[web:43][web:46][web:144]; Customer service; technical support; back-office[web:46][web:52],5
+PH-GES,Philippines,General Santos,Southeast_Asia,PHP,56.0,35,UTC+8,Tier3,Emerging BPO market; limited data[web:45][web:57]; Customer service; sales; appointment setting[web:45][web:51][web:54],5
+PH-NAG,Philippines,Naga (Camarines Sur),Southeast_Asia,PHP,56.0,35,UTC+8,Tier2,Target 28000 ICT-related jobs by 2028[web:127]; Inbound/outbound call center; telemarketing; appointment setting; lead generation; B2B/B2C support[w,6
+PH-CRK,Philippines,Pampanga/Clark Area,Southeast_Asia,PHP,56.0,35,UTC+8,Tier1,Part of 70000+ new countryside IT-BPM jobs in 2022; major cluster in Central Luzon[web:121][web:25]; Customer experience; technical support; sales; back-office; AI/analytics; content moderation[web:25,7
+GT-QUE,Guatemala,Quetzaltenango,Central_America,GTQ,7.8,60,UTC-6,Tier3,nan; Bilingual voice; customer service; back office,5
+CR-HER,Costa Rica,Heredia,Central_America,CRC,510.0,70,UTC-6,Tier3,nan; Customer support; technical support; IT services; back office,5
+CR-ALJ,Costa Rica,Alajuela,Central_America,CRC,510.0,70,UTC-6,Tier3,nan; Customer support; back office; shared services,5
+JM-KIN,Jamaica,Kingston,Caribbean,JMD,155.0,35,UTC-5,Tier2,~35000; Customer service; tech support; F&A; claims; design; software dev; research; transcription; animatio,6
+SV-SSA,El Salvador,San Salvador,Central_America,USD,1.0,50,UTC-6,Tier2,>30000; Customer service; tech support; sales; lead gen; back office; chat/email,6
+SV-STC,El Salvador,Santa Tecla,Central_America,USD,1.0,50,UTC-6,Tier3,nan; Customer service; sales; back office,5
+HN-SPS,Honduras,San Pedro Sula,Central_America,HNL,25.0,35,UTC-6,Tier2,20000-30000; Customer support; tech support; sales; collections; back office,6
+DO-STI,Dominican Republic,Santiago de los Caballeros,Caribbean,DOP,58.0,25,UTC-4,Tier3,nan; Customer service; sales; back office,5
+TT-POS,Trinidad & Tobago,Port of Spain metro (Barataria/Chaguanas/Wallerfield),Caribbean,TTD,6.8,50,UTC-4,Tier3,~3000-4000; Customer service; tech support; healthcare; legal; F&A; back office,5
+PL-GDN,Poland,Gdansk/Tricity,Eastern_Europe,PLN,4.0,30,UTC+1,Tier2,40500; IT; CX; F&A; R&D,6
+PL-KTW,Poland,Katowice/GZM,Eastern_Europe,PLN,4.0,31,UTC+1,Tier2,33400; IT; SSC/GBS; BPO; R&D,6
+PL-LOD,Poland,Lodz,Eastern_Europe,PLN,4.0,29,UTC+1,Tier2,29600; F&A; IT; Procurement; HR; Data & Analytics,6
+PL-POZ,Poland,Poznan,Eastern_Europe,PLN,4.0,30,UTC+1,Tier2,28200; F&A; IT; Procurement; HR; CX,6
+PL-BDG,Poland,Bydgoszcz,Eastern_Europe,PLN,4.0,26,UTC+1,Tier3,11900; Logistics & Supply Chain; Manufacturing Support; GBS; IT,5
+PL-SZZ,Poland,Szczecin,Eastern_Europe,PLN,4.0,26,UTC+1,Tier3,8200; SSC/BPO; IT; CX,5
+PL-LUZ,Poland,Lublin,Eastern_Europe,PLN,4.0,25,UTC+1,Tier3,9800; F&A; Banking & Insurance; IT; CX,5
+PL-RZE,Poland,Rzeszow,Eastern_Europe,PLN,4.0,25,UTC+1,Tier3,6300; F&A; HR; Procurement; IT,5
+RO-IAS,Romania,Iași,Eastern_Europe,RON,4.6,26,UTC+2,Tier3,12000-15000 (est.); Software dev & R&D; IT outsourcing; F&A SSC; customer support; telemarketing; DB & infra support,5
+RO-TIM,Romania,Timișoara,Eastern_Europe,RON,4.6,27,UTC+2,Tier2,"18000-22000 (est.); Engineering & manufacturing support; IT dev; SSC (F&A, procurement, HR); customer & technical suppor",6
+RO-BV,Romania,Brașov,Eastern_Europe,RON,4.6,26,UTC+2,Tier3,"10000-12000 (est.); BPO (F&A, HR, customer service); IT services; SSC; call centers; content & digital services",5
+BG-PDV,Bulgaria,Plovdiv,Eastern_Europe,BGN,1.8,20,UTC+2,Tier3,8000 (2020); proj. 13000; IT outsourcing & software dev; BPO; customer operations; tech support; back-office,5
+LT-KUN,Lithuania,Kaunas,Baltics,EUR,1.0,30,UTC+2,Tier3,8 SSCs (employment n/a); Shared services; BPO; IT & financial services support,5
+MA-RBA,Morocco,Rabat,Africa,MAD,10.0,50,UTC+1,Tier2,"20000; French BPO, CX",6
+MA-TNG,Morocco,Tangier,Africa,MAD,10.0,50,UTC+1,Tier2,"15000; French BPO, CX",6
+MA-FES,Morocco,Fes,Africa,MAD,10.0,50,UTC+1,Tier3,"10000; French BPO, CX",5
+MA-MEK,Morocco,Meknes,Africa,MAD,10.0,50,UTC+1,Tier3,"10000; French BPO, CX",5
+MA-MOH,Morocco,Mohammedia,Africa,MAD,10.0,50,UTC+1,Tier3,"5000; French BPO, CX",5
+EG-HRG,Egypt,Hurghada,Africa,EGP,31.0,45,UTC+2,Tier3,"5000; CX, tourism support",5
+EG-ALX,Egypt,Alexandria,Africa,EGP,31.0,45,UTC+2,Tier3,"10000; CX, back office",5
+ZA-DBN,South Africa,Durban,Africa,ZAR,18.0,42,UTC+2,Tier2,"40000; CX, collections",6
+ZA-PLZ,South Africa,Port Elizabeth,Africa,ZAR,18.0,42,UTC+2,Tier2,15000; CX,6
+KE-MBA,Kenya,Mombasa,Africa,KES,153.0,30,UTC+3,Tier3,"3000; CX, back office",5
+NG-LOS,Nigeria,Lagos,Africa,NGN,1550.0,35,UTC+1,Tier2,"25000; CX, fintech support, tech support",6
+NG-ABV,Nigeria,Abuja,Africa,NGN,1550.0,35,UTC+1,Tier3,"5000; CX, tech support",5
+MU-EBE,Mauritius,Ebene,Africa,MUR,45.0,45,UTC+4,Tier2,"20000; FAO, IT support, CX, multilingual support",6
+MU-PLU,Mauritius,Port Louis,Africa,MUR,45.0,45,UTC+4,Tier3,"12000; CX, back office",5
+MG-TNR,Madagascar,Antananarivo,Africa,MGA,4500.0,27,UTC+3,Tier3,"12000; French BPO, CX, data entry, back office",5
+SN-DKR,Senegal,Dakar,Africa,XOF,600.0,35,UTC+0,Tier2,"15000; CX, IT outsourcing, data processing",6
+ET-ADD,Ethiopia,Addis Ababa,Africa,ETB,57.0,30,UTC+3,Tier3,"12000; IT support, CX, data entry",5
+ET-BHD,Ethiopia,Bahir Dar,Africa,ETB,57.0,30,UTC+3,Tier3,"2000; IT support, data services",5
+VN-DAD,Vietnam,Da Nang,Southeast_Asia,VND,24500.0,25,UTC+7,Tier2,"15-25K; Software dev, game dev, QA testing",6
+MY-CYB,Malaysia,Cyberjaya,Southeast_Asia,MYR,4.4,42,UTC+8,Tier1,30-50K; HSBC IBM DHL TCS shared services,7
+MY-PEN,Malaysia,Penang,Southeast_Asia,MYR,4.4,40,UTC+8,Tier2,"15-25K; IT, electronics, shared services",6
+MY-JHB,Malaysia,Johor Bahru,Southeast_Asia,MYR,4.4,35,UTC+8,Tier2,"10-20K; SSC, F&A, data centers",6
+ID-BDO,Indonesia,Bandung,Southeast_Asia,IDR,15800.0,27,UTC+7,Tier3,"5-10K; IT, creative services",5
+ID-SUB,Indonesia,Surabaya,Southeast_Asia,IDR,15800.0,27,UTC+7,Tier3,"5-10K; Customer service, IT",5
+ID-SMG,Indonesia,Semarang,Southeast_Asia,IDR,15800.0,25,UTC+7,Tier3,5-10K; Transcosmos contact center,5
+TH-CNX,Thailand,Chiang Mai,Southeast_Asia,THB,35.0,34,UTC+7,Tier3,"3-8K; IT, digital services",5
+CN-SZX,China,Shenzhen,APAC,CNY,7.2,52,UTC+8,Tier1,40-70K; Huawei Tencent tech hub,7
+CN-CTU,China,Chengdu,APAC,CNY,7.2,38,UTC+8,Tier2,30-50K; Accenture Wipro IBM IT outsourcing,6
+CN-HGH,China,Hangzhou,APAC,CNY,7.2,48,UTC+8,Tier1,40-60K; Alibaba ecosystem fintech,7
+CO-CLO,Colombia,Cali,LATAM,COP,4000.0,45,UTC-5,Tier2,15K+; Foundever Teleperformance voice CX,6
+CO-BAQ,Colombia,Barranquilla,LATAM,COP,4000.0,45,UTC-5,Tier2,8-10K; Auxis hub bilingual,6
+CO-BGA,Colombia,Bucaramanga,LATAM,COP,4000.0,40,UTC-5,Tier3,3-5K; CustomerServ partners,5
+CO-CTG,Colombia,Cartagena,LATAM,COP,4000.0,45,UTC-5,Tier3,2-4K; Tourism hospitality BPO,5
+CO-PEI,Colombia,Pereira,LATAM,COP,4000.0,40,UTC-5,Tier3,2-3K; Voice CX back office,5
+BR-CWB,Brazil,Curitiba,LATAM,BRL,5.0,35,UTC-3,Tier2,20K+; TIVIT Atento IT/Voice,6
+BR-POA,Brazil,Porto Alegre,LATAM,BRL,5.0,35,UTC-3,Tier2,10K+; IT software nearshore,6
+BR-BHZ,Brazil,Belo Horizonte,LATAM,BRL,5.0,35,UTC-3,Tier2,15K+; Alfa Contact IT/Voice,6

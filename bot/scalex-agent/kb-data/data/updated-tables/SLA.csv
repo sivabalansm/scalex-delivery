@@ -1,0 +1,12 @@
+SLA_ID,SLA_Name,SLA_Type,Default_Target,Unit,Description
+SLA-001,Processing,Timeliness,,hours,SLA type from TBL-004 (Timeliness)
+SLA-002,Accuracy,Quality,,percent,SLA type from TBL-004 (Quality)
+SLA-003,Compliance,Quality,,percent,SLA type from TBL-004 (Quality)
+SLA-004,Response,Timeliness,,hours,SLA type from TBL-004 (Timeliness)
+SLA-005,FCR,Quality,,percent,SLA type from TBL-004 (Quality)
+SLA-006,Resolution,Timeliness,,hours,SLA type from TBL-004 (Timeliness)
+SLA-007,Turnaround,Timeliness,,hours,SLA type from TBL-004 (Timeliness)
+SLA-008,Delivery,Timeliness,,hours,SLA type from TBL-004 (Timeliness)
+SLA-009,CSAT,Quality,,percent,SLA type from TBL-004 (Quality)
+SLA-010,Error_Rate,Quality,,percent,SLA type from TBL-004 (Quality)
+SLA-011,First_Pass,Quality,,percent,SLA type from TBL-004 (Quality)

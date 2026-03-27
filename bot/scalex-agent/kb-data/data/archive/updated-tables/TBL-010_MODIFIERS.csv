@@ -1,0 +1,40 @@
+Modifier_Code,Modifier_Name,Question_Text,Value_Type,Common_Values,Triggers_For,Priority,Required_By_Default,Modifier_Category,Application_Type,Application_Step,Max_Adjustment_Pct
+LOC_PREMIUM,Location Cost Index,Where will services be delivered from?,derived,,ALL,1,False,A_LOCATION,MULTIPLICATIVE,2,
+LOC_US_REF,US Reference Index,(display only — derived from LOC_PREMIUM),derived,,ALL,2,False,A_LOCATION,MULTIPLICATIVE,2,
+CITY_TIER,City Tier Differential,Which city specifically?,single_select,,ALL,3,False,A_LOCATION,MULTIPLICATIVE,2,15.00
+ONSHORE_PREMIUM,Onshore Delivery Premium,Is onshore (US/UK) delivery required?,boolean,,ALL,4,False,A_LOCATION,MULTIPLICATIVE,2,
+NEARSHORE_PREMIUM,Nearshore Delivery Premium,Is nearshore (LATAM/E.Europe) delivery acceptable?,boolean,,ALL,5,False,A_LOCATION,MULTIPLICATIVE,2,
+CLINICAL_SPEC,Clinical/GxP Specialization,Does this require clinical/GxP domain expertise?,boolean,,"CL,HR",6,False,B_SPECIALIZATION,MULTIPLICATIVE,3,40.00
+AI_ML_SPEC,AI/ML Engineering,Does this require AI/ML engineering skills?,boolean,,"AI,IT",7,False,B_SPECIALIZATION,MULTIPLICATIVE,3,30.00
+CYBERSEC_SPEC,Cybersecurity Specialization,Does this require cybersecurity specialization?,boolean,,IT,8,False,B_SPECIALIZATION,MULTIPLICATIVE,3,50.00
+LEGAL_SPEC,Legal (JD Required),Does this require a licensed attorney?,boolean,,PS,9,False,B_SPECIALIZATION,MULTIPLICATIVE,3,100.00
+MULTI_LANG,Multilingual Requirement,What languages beyond English are required?,multi_select,,"CO,COP,HR",10,False,B_SPECIALIZATION,MULTIPLICATIVE,3,40.00
+NIGHT_SHIFT,Night/Weekend Shift,Is non-business-hours coverage required?,single_select,,"CO,IT,FA",11,False,B_SPECIALIZATION,MULTIPLICATIVE,3,20.00
+SEC_CLEARANCE,Security Clearance,What security clearance level is required?,single_select,,"IT,PS",12,False,B_SPECIALIZATION,MULTIPLICATIVE,3,80.00
+FINANCIAL_SPEC,Financial Services Domain,Does this require financial services domain expertise?,boolean,,"FA,IT,PS",13,False,B_SPECIALIZATION,MULTIPLICATIVE,3,25.00
+HEALTHCARE_SPEC,Healthcare Domain,Does this require healthcare domain expertise (beyond HIPAA)?,boolean,,"HR,IT,CO",14,False,B_SPECIALIZATION,MULTIPLICATIVE,3,20.00
+GOV_SPEC,Government Domain,Does this require government/public sector expertise?,boolean,,"IT,PS",15,False,B_SPECIALIZATION,MULTIPLICATIVE,3,35.00
+COMPLEXITY_ADJ,Complexity Tier,What is the complexity level of this service?,single_select,,ALL,16,False,B_SPECIALIZATION,MULTIPLICATIVE,4,
+VOLUME_DISCOUNT,Volume Tier Discount,What is the approximate monthly transaction volume?,single_select,,ALL,17,False,C_VOLUME,ADDITIVE,6,-15.00
+RAMP_PREMIUM,Ramp/Learning Curve,Is this a new engagement requiring ramp-up?,boolean,,ALL,18,False,C_VOLUME,ADDITIVE,6,50.00
+CONTRACT_TERM,Term Length Discount,What is the expected contract duration?,single_select,,ALL,19,False,C_VOLUME,ADDITIVE,6,-10.00
+DEDICATED_RESOURCE,Dedicated vs Shared,Are dedicated (vs shared) resources required?,single_select,,"CO,IT,FA",20,False,C_VOLUME,ADDITIVE,6,20.00
+SLA_PREMIUM,SLA Stringency Premium,Do you require above-standard SLA targets?,single_select,,ALL,21,False,D_QUALITY,ADDITIVE,6,15.00
+OUTCOME_RISK,Outcome-Based Risk Buffer,Is this priced on an outcome/transaction basis?,boolean,,ALL,22,False,D_QUALITY,ADDITIVE,6,20.00
+QUALITY_TIER,Quality Tier,What quality tier is required?,single_select,,ALL,23,False,D_QUALITY,ADDITIVE,6,20.00
+GDPR,GDPR Compliance,Does this involve EU personal data (GDPR)?,boolean,,ALL,24,False,E_REGULATORY,ADDITIVE,5,20.00
+HIPAA,HIPAA Compliance,Does this involve US healthcare data (HIPAA)?,boolean,,"HR,IT,CO,CL",25,False,E_REGULATORY,ADDITIVE,5,25.00
+PCI_DSS,PCI-DSS Compliance,Does this involve payment card data (PCI-DSS)?,boolean,,"IT,FA,CO",26,False,E_REGULATORY,ADDITIVE,5,15.00
+SOX,SOX Compliance,Does this involve SOX-regulated financial reporting?,boolean,,"FA,IT",27,False,E_REGULATORY,ADDITIVE,5,15.00
+FEDRAMP,FedRAMP Compliance,Does this require FedRAMP authorization?,boolean,,IT,28,False,E_REGULATORY,ADDITIVE,5,35.00
+DATA_RESIDENCY,Data Localization,Are there data residency/localization requirements?,single_select,,ALL,29,False,E_REGULATORY,ADDITIVE,5,60.00
+STATE_REG,US State-Specific Regulation,Are there US state-specific regulatory requirements?,multi_select,,"HR,FA",30,False,E_REGULATORY,ADDITIVE,5,15.00
+AUTOMATION_DISC,Automation Discount,What level of automation/AI is applied to this process?,single_select,,ALL,31,False,F_TECHNOLOGY,ADDITIVE,7,-80.00
+TOOL_PROVISION,Tool/License Provision,Does the vendor provide tools/licenses?,boolean,,"IT,FA",32,False,F_TECHNOLOGY,ADDITIVE,7,15.00
+PLATFORM_FEE,Platform/Infrastructure Fee,Is there a separate platform/infrastructure fee?,text,,IT,33,False,F_TECHNOLOGY,ADDITIVE,7,
+TRANSITION_PREMIUM,Transition/Migration Cost,Is there a transition/migration from current provider?,boolean,,ALL,34,False,G_CONTRACT,ADDITIVE,8,25.00
+GOVERNANCE_OVERHEAD,VMO/Governance Cost,What governance overhead is expected?,single_select,,ALL,35,False,G_CONTRACT,ADDITIVE,8,5.00
+RETAINED_ORG,Retained Organization Cost,What retained organization is required internally?,single_select,,ALL,36,False,G_CONTRACT,ADDITIVE,8,10.00
+PRICING_MODEL_CONV,Pricing Model Conversion,What pricing model conversion is needed?,single_select,,ALL,37,False,G_CONTRACT,ADDITIVE,8,15.00
+EXCLUSIVITY_PREMIUM,Exclusivity/Single-Source,Is vendor exclusivity required?,boolean,,ALL,38,False,G_CONTRACT,ADDITIVE,8,10.00
+INNOVATION_FUND,Innovation/CI Investment,Is a contractual innovation fund expected?,boolean,,"IT,CO",39,False,G_CONTRACT,ADDITIVE,8,5.00

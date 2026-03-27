@@ -1,0 +1,4 @@
+Load_Level,Multiplier_Median,Description
+Light,1.20,"Lower support labor and/or client provides more scope (facilities, tools). Typical for high-skill/niche service types (e.g. software engineering, architecture) with lighter TL/QA intensity."
+Standard,1.45,"Typical managed-service delivery: standard support ratios (TL, QA, etc.) and typical vendor vs client scope. Default for most service types."
+Premium,1.65,"Heavy support labor and/or vendor provides full scope (facilities, equipment, workflow tools). Typical for L1 customer service, high volume, many juniors, high QA intensity."

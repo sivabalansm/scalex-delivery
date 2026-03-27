@@ -1,0 +1,21 @@
+{
+  "name": "scalex-agent",
+  "version": "1.0.0",
+  "description": "A Botpress Agent built with the ADK",
+  "type": "module",
+  "packageManager": "bun@latest",
+  "scripts": {
+    "dev": "adk dev",
+    "build": "adk build",
+    "deploy": "adk deploy"
+  },
+  "dependencies": {
+    "@botpress/runtime": "^1.16.3",
+    "csv-parse": "^6.1.0",
+    "csv-parser": "^3.2.0",
+    "docx": "^9.6.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}

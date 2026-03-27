@@ -1,0 +1,1463 @@
+Alias_ID,User_Term,Service_Type_ID,Service_Type_Name,Confidence
+ALI-00001,1099 preparation,ST-FA-001-01-07,1099 Reporting,LOW
+ALI-00002,1099 reporting,ST-FA-001-01-07,1099 Reporting,HIGH
+ALI-00003,24/7 dba on-call support,ST-IT-002-05-10,24/7 DBA On-Call Support,HIGH
+ALI-00004,3d & lidar annotation,ST-AI-002-05-01,3D & LiDAR Annotation Services,MEDIUM
+ALI-00005,3d & lidar annotation services,ST-AI-002-05-01,3D & LiDAR Annotation Services,HIGH
+ALI-00006,3d modeling,ST-ME-008-01-01,3D Modeling,HIGH
+ALI-00007,3d point cloud annotation,ST-AI-001-05-01,3D Point Cloud Annotation,HIGH
+ALI-00008,a/b testing infrastructure,ST-AI-004-05-01,A/B Testing Infrastructure,HIGH
+ALI-00009,absence,ST-HR-009-01-05,Absence Management,MEDIUM
+ALI-00010,absence management,ST-HR-009-01-05,Absence Management,HIGH
+ALI-00011,access control,ST-FR-004-01-02,Access Control,HIGH
+ALI-00012,access control systems,ST-FR-006-02-01,Access Control Systems Services,MEDIUM
+ALI-00013,access control systems services,ST-FR-006-02-01,Access Control Systems Services,HIGH
+ALI-00014,accessibility compliance,ST-COP-005-04-01,Accessibility Compliance,HIGH
+ALI-00015,account certification,ST-FA-004-02-04,Account Certification,HIGH
+ALI-00016,account maintenance,ST-CO-005-01-03,Account Maintenance,HIGH
+ALI-00017,account reconciliation,ST-FA-003-01-02,Account Reconciliation,HIGH
+ALI-00018,accounts payable,ST-FA-001-02-01,Expense Reimbursement Processing,HIGH
+ALI-00019,accounts receivable,ST-FA-002-01-01,Customer Invoicing,HIGH
+ALI-00020,accruals,ST-FA-003-01-05,Accruals Management,MEDIUM
+ALI-00021,accruals management,ST-FA-003-01-05,Accruals Management,HIGH
+ALI-00022,accurate pay calculations,ST-HR-009-02-04,Time & Attendance Integration,LOW
+ALI-00023,ad moderation,ST-COP-002-05-01,Ad Moderation,HIGH
+ALI-00024,adaptive maintenance,ST-IT-001-02-03,Adaptive Maintenance,HIGH
+ALI-00025,adjudication,ST-HR-001-01-01,Medical Claims Adjudication,LOW
+ALI-00026,administrative staffing,ST-HR-003-04-03,Administrative Staffing,HIGH
+ALI-00027,aerial inspection,ST-EN-005-01-05,Aerial Inspection,HIGH
+ALI-00028,after-hours support,ST-CO-001-01-04,After-Hours Support,HIGH
+ALI-00029,aggregate reports,ST-CL-007-01-04,Aggregate Reports,HIGH
+ALI-00030,aggregate safety reporting (psur/pbrer),ST-CL-004-03-01,Aggregate Safety Reporting (PSUR/PBRER) Services,MEDIUM
+ALI-00031,aggregate safety reporting (psur/pbrer) services,ST-CL-004-03-01,Aggregate Safety Reporting (PSUR/PBRER) Services,HIGH
+ALI-00032,ai chatbot development,ST-AI-002-02-05,AI Chatbot Development,HIGH
+ALI-00033,ai content generation,ST-AI-002-02-06,AI Content Generation,HIGH
+ALI-00034,ai red teaming,ST-AI-004-03-01,AI Red Teaming,HIGH
+ALI-00035,ai-assisted moderation,ST-COP-002-02-01,AI-Assisted Moderation,HIGH
+ALI-00036,ai-assisted moderation,ST-ME-008-02-01,AI-Assisted Moderation Services,MEDIUM
+ALI-00037,ai-assisted moderation services,ST-ME-008-02-01,AI-Assisted Moderation Services,HIGH
+ALI-00038,all bs accounts,ST-FA-004-02-04,Account Certification,LOW
+ALI-00039,ami deployment,ST-EN-001-01-01,AMI Deployment,HIGH
+ALI-00040,analysis,ST-CL-002-01-03,IND/CTA Preparation,LOW
+ALI-00041,analysis,ST-CL-005-01-01,Statistical Analysis Planning,LOW
+ALI-00042,analysis,ST-CL-005-01-02,Statistical Programming,LOW
+ALI-00043,analysis,ST-CL-006-01-03,Informed Consent Forms,LOW
+ALI-00044,analysis,ST-CL-006-01-04,Clinical Study Reports,LOW
+ALI-00045,analysis,ST-COP-001-06-02,SEO Audit,LOW
+ALI-00046,analysis,ST-ME-002-02-03,Re-Recording Mixing,LOW
+ALI-00047,analysis,ST-ME-005-02-01,Lip-Sync Dubbing,LOW
+ALI-00048,analysis,ST-ME-005-02-02,Voice-Over Recording,LOW
+ALI-00049,analysis,ST-ME-007-01-03,Metadata Management,LOW
+ALI-00050,anomalies,ST-FA-004-02-06,Audit Analytics,LOW
+ALI-00051,anti-piracy,ST-ME-004-02-01,Anti-Piracy Services,MEDIUM
+ALI-00052,anti-piracy services,ST-ME-004-02-01,Anti-Piracy Services,HIGH
+ALI-00053,ap,ST-FA-001-01-01,Invoice Processing,LOW
+ALI-00054,ap processing,ST-FA-001-01-01,Invoice Processing,MEDIUM
+ALI-00055,api development & integration,ST-IT-001-01-03,API Development & Integration,HIGH
+ALI-00056,appeal review,ST-COP-002-06-01,Appeal Review,HIGH
+ALI-00057,appeals & escalation,ST-ME-008-04-01,Appeals & Escalation Services,MEDIUM
+ALI-00058,appeals & escalation services,ST-ME-008-04-01,Appeals & Escalation Services,HIGH
+ALI-00059,applicant screening,ST-HR-006-02-03,Applicant Screening,HIGH
+ALI-00060,application performance monitoring,ST-IT-001-02-06,Application Performance Monitoring,HIGH
+ALI-00061,application support,ST-IT-001-02-01,Application Support L1/L2/L3,MEDIUM
+ALI-00062,application support l1/l2/l3,ST-IT-001-02-01,Application Support L1/L2/L3,HIGH
+ALI-00063,appointment setting,ST-CO-002-02-02,Appointment Setting,HIGH
+ALI-00064,apqp/ppap support,ST-MO-002-02-03,APQP/PPAP Support,HIGH
+ALI-00065,ar,ST-FA-002-01-01,Customer Invoicing,LOW
+ALI-00066,ar reporting & analytics,ST-FA-002-01-05,AR Reporting & Analytics,HIGH
+ALI-00067,archive storage,ST-ME-006-03-01,Archive Storage Services,MEDIUM
+ALI-00068,archive storage services,ST-ME-006-03-01,Archive Storage Services,HIGH
+ALI-00069,asset inventory,ST-EN-005-02-01,Asset Inventory,HIGH
+ALI-00070,asset recovery,ST-SC-008-02-01,Asset Recovery,HIGH
+ALI-00071,asset recovery,ST-SC-011-03-01,Asset Recovery Services,MEDIUM
+ALI-00072,asset recovery services,ST-SC-011-03-01,Asset Recovery Services,HIGH
+ALI-00073,at-risk customers,ST-CO-004-02-02,Churn Prevention,LOW
+ALI-00074,ats,ST-HR-009-04-01,ATS Administration,MEDIUM
+ALI-00075,ats administration,ST-HR-009-04-01,ATS Administration,HIGH
+ALI-00076,attribution & effectiveness,ST-ME-007-03-01,Attribution & Effectiveness Services,MEDIUM
+ALI-00077,attribution & effectiveness services,ST-ME-007-03-01,Attribution & Effectiveness Services,HIGH
+ALI-00078,audience measurement and engagement tracking,ST-ME-007-02-01,Digital Analytics Services,LOW
+ALI-00079,audience research,ST-ME-007-04-01,Audience Research Services,MEDIUM
+ALI-00080,audience research services,ST-ME-007-04-01,Audience Research Services,HIGH
+ALI-00081,audio annotation,ST-AI-002-04-01,Audio Annotation Services,MEDIUM
+ALI-00082,audio annotation services,ST-AI-002-04-01,Audio Annotation Services,HIGH
+ALI-00083,audio production,ST-ME-001-03-01,Audio Production Services,MEDIUM
+ALI-00084,audio production services,ST-ME-001-03-01,Audio Production Services,HIGH
+ALI-00085,audio qc,ST-ME-006-01-03,Audio QC,HIGH
+ALI-00086,audio transcription,ST-AI-001-04-01,Audio Transcription,HIGH
+ALI-00087,audit analytics,ST-FA-004-02-06,Audit Analytics,HIGH
+ALI-00088,automated technical qc,ST-ME-006-01-01,Automated Technical QC,HIGH
+ALI-00089,automation engineering,ST-MO-008-03-01,Automation Engineering Services,MEDIUM
+ALI-00090,automation engineering services,ST-MO-008-03-01,Automation Engineering Services,HIGH
+ALI-00091,automation integration,ST-MO-005-04-01,Automation Integration Services,MEDIUM
+ALI-00092,automation integration services,ST-MO-005-04-01,Automation Integration Services,HIGH
+ALI-00093,autonomous systems,ST-AI-002-05-01,3D & LiDAR Annotation Services,LOW
+ALI-00094,autonomous vehicle data,ST-AI-006-01-01,Autonomous Vehicle Data,HIGH
+ALI-00095,b2b lead generation,ST-CO-002-02-01,B2B Lead Generation,HIGH
+ALI-00096,b2b teams,ST-CO-002-02-02,Appointment Setting,LOW
+ALI-00097,b2c telesales,ST-CO-002-02-03,B2C Telesales,HIGH
+ALI-00098,background verification,ST-HR-006-05-01,Background Verification,HIGH
+ALI-00099,backup and recovery,ST-IT-002-03-02,Backup and Recovery Services,MEDIUM
+ALI-00100,backup and recovery services,ST-IT-002-03-02,Backup and Recovery Services,HIGH
+ALI-00101,bank fee analysis,ST-FA-005-01-05,Bank Fee Analysis,HIGH
+ALI-00102,bank reconciliation,ST-FA-003-01-03,Bank Reconciliation,HIGH
+ALI-00103,bank relationship mgmt,ST-FA-008-03-01,Bank Relationship Mgmt Services,MEDIUM
+ALI-00104,bank relationship mgmt services,ST-FA-008-03-01,Bank Relationship Mgmt Services,HIGH
+ALI-00105,bas,ST-FR-003-02-01,BAS Management,MEDIUM
+ALI-00106,bas management,ST-FR-003-02-01,BAS Management,HIGH
+ALI-00107,battery storage o&m,ST-EN-004-03-01,Battery Storage O&M Services,MEDIUM
+ALI-00108,battery storage o&m services,ST-EN-004-03-01,Battery Storage O&M Services,HIGH
+ALI-00109,benefits administration,ST-HR-007-01-01,Open Enrollment Processing,MEDIUM
+ALI-00110,benefits billing reconciliation,ST-HR-007-02-03,Benefits Billing Reconciliation,HIGH
+ALI-00111,benefits call center,ST-HR-007-01-04,Benefits Call Center,HIGH
+ALI-00112,benefits eligibility,ST-HR-007-01-02,Benefits Eligibility Management,MEDIUM
+ALI-00113,benefits eligibility management,ST-HR-007-01-02,Benefits Eligibility Management,HIGH
+ALI-00114,bias auditing,ST-AI-004-04-01,Bias Auditing,HIGH
+ALI-00115,bilingual support,ST-CO-001-01-05,Bilingual Support,HIGH
+ALI-00116,blog writing,ST-COP-001-03-01,Blog Writing,HIGH
+ALI-00117,board advisory,ST-PS-010-04-01,Board Advisory Services,MEDIUM
+ALI-00118,board advisory services,ST-PS-010-04-01,Board Advisory Services,HIGH
+ALI-00119,box build assembly,ST-MO-001-02-04,Box Build Assembly,HIGH
+ALI-00120,bpo,ST-CO-001-01-01,Tier 1 Voice Support,LOW
+ALI-00121,brand identity,ST-PS-006-01-02,Brand Identity,HIGH
+ALI-00122,brand strategy,ST-PS-002-01-03,Brand Strategy,HIGH
+ALI-00123,brand strategy & identity,ST-PS-012-01-01,Brand Strategy & Identity Services,MEDIUM
+ALI-00124,brand strategy & identity services,ST-PS-012-01-01,Brand Strategy & Identity Services,HIGH
+ALI-00125,brand tracking,ST-PS-007-01-02,Brand Tracking,HIGH
+ALI-00126,breakdown maintenance,ST-MO-003-01-03,Breakdown Maintenance,HIGH
+ALI-00127,broadcast mastering,ST-ME-003-01-03,Broadcast Mastering,HIGH
+ALI-00128,budget development,ST-FA-008-01-01,Budget Development,HIGH
+ALI-00129,budgeting support,ST-FA-009-01-01,Budgeting Support Services,MEDIUM
+ALI-00130,budgeting support services,ST-FA-009-01-01,Budgeting Support Services,HIGH
+ALI-00131,build-to-order,ST-MO-001-01-02,Build-to-Order,HIGH
+ALI-00132,building automation,ST-FR-010-03-01,Building Automation Services,MEDIUM
+ALI-00133,building automation services,ST-FR-010-03-01,Building Automation Services,HIGH
+ALI-00134,business case development,ST-FA-008-02-02,Business Case Development,HIGH
+ALI-00135,business intelligence,ST-IT-006-02-01,Business Intelligence Services,MEDIUM
+ALI-00136,business intelligence services,ST-IT-006-02-01,Business Intelligence Services,HIGH
+ALI-00137,business process outsourcing,ST-CO-001-01-01,Tier 1 Voice Support,LOW
+ALI-00138,c-suite coaching,ST-PS-010-01-01,C-Suite Coaching Services,MEDIUM
+ALI-00139,c-suite coaching services,ST-PS-010-01-01,C-Suite Coaching Services,HIGH
+ALI-00140,cad/cam,ST-PS-005-01-04,CAD/CAM Services,MEDIUM
+ALI-00141,cad/cam services,ST-PS-005-01-04,CAD/CAM Services,HIGH
+ALI-00142,cafe,ST-FR-005-01-01,Cafe Management,MEDIUM
+ALI-00143,cafe management,ST-FR-005-01-01,Cafe Management,HIGH
+ALI-00144,calculation,ST-ME-004-03-01,Royalty Administration Services,LOW
+ALI-00145,call center,ST-CO-001-01-01,Tier 1 Voice Support,MEDIUM
+ALI-00146,call center bpo,ST-CO-001-01-01,Tier 1 Voice Support,MEDIUM
+ALI-00147,camera data wrangling,ST-ME-001-01-02,Camera Data Wrangling,HIGH
+ALI-00148,campus recruiting,ST-HR-006-02-08,Campus Recruiting,HIGH
+ALI-00149,candidate sourcing,ST-HR-006-02-02,Candidate Sourcing,HIGH
+ALI-00150,capacity planning,ST-CO-008-03-01,Capacity Planning Services,MEDIUM
+ALI-00151,capacity planning,ST-IT-002-02-06,Capacity Planning,HIGH
+ALI-00152,capacity planning,ST-MO-008-04-01,Capacity Planning Services,MEDIUM
+ALI-00153,capacity planning services,ST-CO-008-03-01,Capacity Planning Services,HIGH
+ALI-00154,capacity planning services,ST-MO-008-04-01,Capacity Planning Services,HIGH
+ALI-00155,capital planning,ST-FR-002-02-02,Capital Planning,HIGH
+ALI-00156,capital projects,ST-FR-003-03-01,Capital Projects Services,MEDIUM
+ALI-00157,capital projects services,ST-FR-003-03-01,Capital Projects Services,HIGH
+ALI-00158,caption creation,ST-COP-003-04-03,Caption Creation,HIGH
+ALI-00159,carbon & sustainability,ST-EN-008-04-01,Carbon & Sustainability Services,MEDIUM
+ALI-00160,carbon & sustainability services,ST-EN-008-04-01,Carbon & Sustainability Services,HIGH
+ALI-00161,carbon accounting & reporting,ST-PS-013-02-01,Carbon Accounting & Reporting Services,MEDIUM
+ALI-00162,carbon accounting & reporting services,ST-PS-013-02-01,Carbon Accounting & Reporting Services,HIGH
+ALI-00163,carrier,ST-SC-005-01-04,Carrier Management,MEDIUM
+ALI-00164,carrier data integration,ST-HR-007-03-01,Carrier Data Integration,HIGH
+ALI-00165,carrier management,ST-SC-005-01-04,Carrier Management,HIGH
+ALI-00166,cash application,ST-FA-002-01-02,Cash Application,HIGH
+ALI-00167,cash application,ST-FA-002-04-01,Cash Application Services,MEDIUM
+ALI-00168,cash application services,ST-FA-002-04-01,Cash Application Services,HIGH
+ALI-00169,cash forecasting,ST-FA-005-01-02,Cash Forecasting,HIGH
+ALI-00170,catalog,ST-FA-007-01-04,Catalog Management,MEDIUM
+ALI-00171,catalog,ST-SC-006-04-01,Catalog Management,MEDIUM
+ALI-00172,catalog management,ST-FA-007-01-04,Catalog Management,HIGH
+ALI-00173,catalog management,ST-SC-006-04-01,Catalog Management,HIGH
+ALI-00174,category,ST-SC-001-01-02,Category Management,MEDIUM
+ALI-00175,category management,ST-SC-001-01-02,Category Management,HIGH
+ALI-00176,catering,ST-FR-007-03-01,Catering Services,MEDIUM
+ALI-00177,catering services,ST-FR-007-03-01,Catering Services,HIGH
+ALI-00178,cdisc standards,ST-CL-004-02-01,CDISC Standards,HIGH
+ALI-00179,cdisc standards conversion,ST-CL-006-04-01,CDISC Standards Conversion Services,MEDIUM
+ALI-00180,cdisc standards conversion services,ST-CL-006-04-01,CDISC Standards Conversion Services,HIGH
+ALI-00181,central monitoring,ST-CL-003-01-01,Central Monitoring,HIGH
+ALI-00182,certification,ST-MO-002-04-01,Certification Services,MEDIUM
+ALI-00183,certification services,ST-MO-002-04-01,Certification Services,HIGH
+ALI-00184,change,ST-PS-002-04-01,Change Management,MEDIUM
+ALI-00185,change,ST-PS-004-01-03,Change Management,MEDIUM
+ALI-00186,change management,ST-PS-002-04-01,Change Management,HIGH
+ALI-00187,change management,ST-PS-004-01-03,Change Management,HIGH
+ALI-00188,character animation,ST-ME-008-01-02,Character Animation,HIGH
+ALI-00189,chart of accounts maintenance,ST-FA-003-01-06,Chart of Accounts Maintenance,HIGH
+ALI-00190,chat/chatbot support,ST-IT-003-01-08,Chat/Chatbot Support,HIGH
+ALI-00191,chatbot,ST-CO-007-01-04,Chatbot Management,MEDIUM
+ALI-00192,chatbot management,ST-CO-007-01-04,Chatbot Management,HIGH
+ALI-00193,churn prevention,ST-CO-004-02-02,Churn Prevention,HIGH
+ALI-00194,claims,ST-CO-005-03-01,Claims Processing,MEDIUM
+ALI-00195,claims processing,ST-CO-005-03-01,Claims Processing,HIGH
+ALI-00196,claims processing,ST-CO-006-04-01,Claims Processing Services,MEDIUM
+ALI-00197,claims processing services,ST-CO-006-04-01,Claims Processing Services,HIGH
+ALI-00198,classification,ST-SC-008-03-01,Classification Services,MEDIUM
+ALI-00199,classification services,ST-SC-008-03-01,Classification Services,HIGH
+ALI-00200,clean room assembly,ST-MO-006-02-01,Clean Room Assembly,HIGH
+ALI-00201,climate risk assessment,ST-PS-013-03-01,Climate Risk Assessment Services,MEDIUM
+ALI-00202,climate risk assessment services,ST-PS-013-03-01,Climate Risk Assessment Services,HIGH
+ALI-00203,climate-controlled storage,ST-SC-004-01-06,Climate-Controlled Storage,HIGH
+ALI-00204,clinical data,ST-CL-006-02-01,Clinical Data Management,MEDIUM
+ALI-00205,clinical data management,ST-CL-006-02-01,Clinical Data Management,HIGH
+ALI-00206,clinical narratives,ST-CL-006-01-05,Clinical Narratives,HIGH
+ALI-00207,clinical project,ST-CL-001-01-01,Clinical Project Management,MEDIUM
+ALI-00208,clinical project management,ST-CL-001-01-01,Clinical Project Management,HIGH
+ALI-00209,clinical study reports,ST-CL-006-01-04,Clinical Study Reports,HIGH
+ALI-00210,clinical supplies,ST-CL-001-01-05,Clinical Supplies Management,MEDIUM
+ALI-00211,clinical supplies management,ST-CL-001-01-05,Clinical Supplies Management,HIGH
+ALI-00212,clm support,ST-PS-001-02-03,CLM Support,HIGH
+ALI-00213,cloud architecture design,ST-IT-004-04-02,Cloud Architecture Design,HIGH
+ALI-00214,cloud backup & recovery,ST-IT-004-01-03,Cloud Backup & Recovery,HIGH
+ALI-00215,cloud cost optimization,ST-IT-004-01-02,Cloud Cost Optimization,HIGH
+ALI-00216,cloud infrastructure,ST-IT-004-01-01,Cloud Infrastructure Management,MEDIUM
+ALI-00217,cloud infrastructure management,ST-IT-004-01-01,Cloud Infrastructure Management,HIGH
+ALI-00218,cloud migration,ST-IT-004-04-01,Cloud Migration Services,MEDIUM
+ALI-00219,cloud migration services,ST-IT-004-04-01,Cloud Migration Services,HIGH
+ALI-00220,cloud security posture,ST-IT-004-05-01,Cloud Security Posture Management,MEDIUM
+ALI-00221,cloud security posture management,ST-IT-004-05-01,Cloud Security Posture Management,HIGH
+ALI-00222,cmc regulatory,ST-CL-002-04-01,CMC Regulatory Services,MEDIUM
+ALI-00223,cmc regulatory services,ST-CL-002-04-01,CMC Regulatory Services,HIGH
+ALI-00224,cmm inspection,ST-MO-007-01-04,CMM Inspection,HIGH
+ALI-00225,cnc/robotics maintenance,ST-MO-003-01-04,CNC/Robotics Maintenance,HIGH
+ALI-00226,co-monitoring,ST-CL-003-01-05,Co-Monitoring,HIGH
+ALI-00227,co-packing and retail display building,ST-SC-009-03-01,Contract Packaging Services,LOW
+ALI-00228,cobra,ST-HR-007-02-01,COBRA Administration,MEDIUM
+ALI-00229,cobra administration,ST-HR-007-02-01,COBRA Administration,HIGH
+ALI-00230,code generation evaluation,ST-AI-002-01-04,Code Generation Evaluation,HIGH
+ALI-00231,coffee,ST-FR-005-01-05,Coffee Services,MEDIUM
+ALI-00232,coffee & beverage,ST-FR-007-04-01,Coffee & Beverage Services,MEDIUM
+ALI-00233,coffee & beverage services,ST-FR-007-04-01,Coffee & Beverage Services,HIGH
+ALI-00234,coffee services,ST-FR-005-01-05,Coffee Services,HIGH
+ALI-00235,cold storage,ST-SC-004-03-01,Cold Storage Services,MEDIUM
+ALI-00236,cold storage services,ST-SC-004-03-01,Cold Storage Services,HIGH
+ALI-00237,collections,ST-FA-002-02-01,Collections Management,MEDIUM
+ALI-00238,collections management,ST-FA-002-02-01,Collections Management,HIGH
+ALI-00239,color grading,ST-ME-002-01-02,Color Grading,HIGH
+ALI-00240,commercial contracts,ST-PS-004-04-01,Commercial Contracts Services,MEDIUM
+ALI-00241,commercial contracts services,ST-PS-004-04-01,Commercial Contracts Services,HIGH
+ALI-00242,common area,ST-FR-002-01-02,Common Area Management,MEDIUM
+ALI-00243,common area management,ST-FR-002-01-02,Common Area Management,HIGH
+ALI-00244,communications,ST-HR-007-01-01,Open Enrollment Processing,LOW
+ALI-00245,community,ST-CO-008-01-02,Community Management,MEDIUM
+ALI-00246,community,ST-COP-002-01-05,Community Management,MEDIUM
+ALI-00247,community management,ST-CO-008-01-02,Community Management,HIGH
+ALI-00248,community management,ST-COP-002-01-05,Community Management,HIGH
+ALI-00249,compensation benchmarking,ST-HR-002-03-01,Compensation Benchmarking,HIGH
+ALI-00250,competitive intelligence,ST-PS-007-01-04,Competitive Intelligence,HIGH
+ALI-00251,competitive intelligence,ST-PS-009-03-01,Competitive Intelligence Services,MEDIUM
+ALI-00252,competitive intelligence services,ST-PS-009-03-01,Competitive Intelligence Services,HIGH
+ALI-00253,complaint resolution,ST-CO-001-03-01,Complaint Resolution,HIGH
+ALI-00254,compliance & audit support,ST-IT-005-03-01,Compliance & Audit Support,HIGH
+ALI-00255,compliance editing,ST-ME-006-01-05,Compliance Editing,HIGH
+ALI-00256,compliance training,ST-HR-008-04-01,Compliance Training Administration,MEDIUM
+ALI-00257,compliance training administration,ST-HR-008-04-01,Compliance Training Administration,HIGH
+ALI-00258,compression,ST-EN-006-03-01,Compression Services,MEDIUM
+ALI-00259,compression services,ST-EN-006-03-01,Compression Services,HIGH
+ALI-00260,conference,ST-FR-008-03-01,Conference Services,MEDIUM
+ALI-00261,conference services,ST-FR-008-03-01,Conference Services,HIGH
+ALI-00262,configuration,ST-IT-002-02-05,Configuration Management,MEDIUM
+ALI-00263,configuration management,ST-IT-002-02-05,Configuration Management,HIGH
+ALI-00264,configure-to-order,ST-MO-006-01-04,Configure-to-Order,HIGH
+ALI-00265,consignment programs,ST-SC-007-04-01,Consignment Programs Services,MEDIUM
+ALI-00266,consignment programs services,ST-SC-007-04-01,Consignment Programs Services,HIGH
+ALI-00267,constitutional ai feedback,ST-AI-002-02-01,Constitutional AI Feedback,HIGH
+ALI-00268,consumer products co-manufacturing,ST-MO-001-03-01,Consumer Products Co-Manufacturing Services,MEDIUM
+ALI-00269,consumer products co-manufacturing services,ST-MO-001-03-01,Consumer Products Co-Manufacturing Services,HIGH
+ALI-00270,consumer research,ST-PS-007-01-01,Consumer Research,HIGH
+ALI-00271,contact center,ST-CO-001-01-01,Tier 1 Voice Support,MEDIUM
+ALI-00272,contact center technology,ST-IT-008-04-01,Contact Center Technology Services,MEDIUM
+ALI-00273,contact center technology services,ST-IT-008-04-01,Contact Center Technology Services,HIGH
+ALI-00274,content,ST-HR-008-01-01,LMS Administration,LOW
+ALI-00275,content aggregation,ST-COP-004-03-01,Content Aggregation,HIGH
+ALI-00276,content archival,ST-COP-004-05-01,Content Archival,HIGH
+ALI-00277,content cataloging,ST-ME-007-01-05,Content Cataloging,HIGH
+ALI-00278,content governance,ST-COP-004-04-01,Content Governance,HIGH
+ALI-00279,content marketing,ST-PS-002-02-04,Content Marketing,HIGH
+ALI-00280,content migration,ST-COP-004-02-01,Content Migration,HIGH
+ALI-00281,content moderation decisions and account actions,ST-ME-008-04-01,Appeals & Escalation Services,LOW
+ALI-00282,content refresh,ST-COP-004-01-02,Content Refresh,HIGH
+ALI-00283,content restoration,ST-ME-006-04-01,Content Restoration Services,MEDIUM
+ALI-00284,content restoration services,ST-ME-006-04-01,Content Restoration Services,HIGH
+ALI-00285,content safety moderation,ST-AI-004-04-02,Content Safety Moderation,HIGH
+ALI-00286,content tagging,ST-COP-004-03-03,Content Tagging,HIGH
+ALI-00287,contingent workforce,ST-HR-003-01-01,Contingent Workforce Management,MEDIUM
+ALI-00288,contingent workforce management,ST-HR-003-01-01,Contingent Workforce Management,HIGH
+ALI-00289,contract,ST-FA-007-02-01,Contract Management,MEDIUM
+ALI-00290,contract filling,ST-MO-008-01-03,Contract Filling,HIGH
+ALI-00291,contract management,ST-FA-007-02-01,Contract Management,HIGH
+ALI-00292,contract packaging,ST-SC-009-03-01,Contract Packaging Services,MEDIUM
+ALI-00293,contract packaging services,ST-SC-009-03-01,Contract Packaging Services,HIGH
+ALI-00294,contract review,ST-PS-001-02-02,Contract Review,HIGH
+ALI-00295,contribution/distribution,ST-ME-002-04-01,Contribution/Distribution Services,MEDIUM
+ALI-00296,contribution/distribution services,ST-ME-002-04-01,Contribution/Distribution Services,HIGH
+ALI-00297,control center operations,ST-EN-002-01-01,Control Center Operations,HIGH
+ALI-00298,control tower,ST-SC-006-02-01,Control Tower Services,MEDIUM
+ALI-00299,control tower,ST-SC-012-04-01,Control Tower Services,MEDIUM
+ALI-00300,control tower services,ST-SC-006-02-01,Control Tower Services,HIGH
+ALI-00301,control tower services,ST-SC-012-04-01,Control Tower Services,HIGH
+ALI-00302,copy editing,ST-COP-005-01-02,Copy Editing,HIGH
+ALI-00303,corporate income tax compliance,ST-FA-006-01-01,Corporate Income Tax Compliance,HIGH
+ALI-00304,corporate strategy consulting,ST-PS-003-01-01,Corporate Strategy Consulting,HIGH
+ALI-00305,corrective maintenance,ST-IT-001-02-02,Corrective Maintenance,HIGH
+ALI-00306,cost transformation,ST-PS-004-01-04,Cost Transformation,HIGH
+ALI-00307,creative campaign development,ST-PS-002-01-04,Creative Campaign Development,HIGH
+ALI-00308,credit,ST-FA-002-02-02,Credit Management,MEDIUM
+ALI-00309,credit,ST-FA-002-03-01,Credit Management,MEDIUM
+ALI-00310,credit management,ST-FA-002-02-02,Credit Management,HIGH
+ALI-00311,credit management,ST-FA-002-03-01,Credit Management,HIGH
+ALI-00312,credits & incentives,ST-FA-005-04-01,Credits & Incentives Services,MEDIUM
+ALI-00313,credits & incentives services,ST-FA-005-04-01,Credits & Incentives Services,HIGH
+ALI-00314,crew staffing,ST-ME-001-04-01,Production Services,LOW
+ALI-00315,criminal,ST-HR-006-05-01,Background Verification,LOW
+ALI-00316,crisis communications,ST-PS-008-02-01,Crisis Communications Services,MEDIUM
+ALI-00317,crisis communications services,ST-PS-008-02-01,Crisis Communications Services,HIGH
+ALI-00318,critical date,ST-FR-002-03-01,Critical Date Management,MEDIUM
+ALI-00319,critical date management,ST-FR-002-03-01,Critical Date Management,HIGH
+ALI-00320,cross-docking,ST-SC-004-01-05,Cross-Docking,HIGH
+ALI-00321,csam detection,ST-COP-002-04-01,CSAM Detection,HIGH
+ALI-00322,ctd module writing,ST-CL-006-01-06,CTD Module Writing,HIGH
+ALI-00323,cultural integration and productivity,ST-HR-008-03-01,New Hire Orientation,LOW
+ALI-00324,cultural validation,ST-COP-005-03-01,Cultural Validation,HIGH
+ALI-00325,current and former employees,ST-HR-009-01-04,Employment Verification,LOW
+ALI-00326,custom application development,ST-IT-001-01-01,Custom Application Development,HIGH
+ALI-00327,custom research,ST-PS-009-02-01,Custom Research Services,MEDIUM
+ALI-00328,custom research services,ST-PS-009-02-01,Custom Research Services,HIGH
+ALI-00329,customer invoicing,ST-FA-002-01-01,Customer Invoicing,HIGH
+ALI-00330,customer master data,ST-FA-002-01-04,Customer Master Data Management,MEDIUM
+ALI-00331,customer master data management,ST-FA-002-01-04,Customer Master Data Management,HIGH
+ALI-00332,customer onboarding,ST-CO-004-01-01,Customer Onboarding,HIGH
+ALI-00333,customer service,ST-CO-001-01-01,Tier 1 Voice Support,MEDIUM
+ALI-00334,customer support,ST-CO-001-01-01,Tier 1 Voice Support,MEDIUM
+ALI-00335,customer support,ST-CO-008-01-01,Social Customer Service,MEDIUM
+ALI-00336,customs brokerage,ST-SC-007-01-01,Customs Brokerage,HIGH
+ALI-00337,cx,ST-CO-001-01-01,Tier 1 Voice Support,LOW
+ALI-00338,cx,ST-CO-008-01-01,Social Customer Service,MEDIUM
+ALI-00339,cx research,ST-PS-007-02-01,CX Research,HIGH
+ALI-00340,dailies,ST-ME-001-01-01,Dailies Processing,MEDIUM
+ALI-00341,dailies processing,ST-ME-001-01-01,Dailies Processing,HIGH
+ALI-00342,daily cash positioning,ST-FA-005-01-01,Daily Cash Positioning,HIGH
+ALI-00343,data archival & purging,ST-IT-002-05-08,Data Archival & Purging,HIGH
+ALI-00344,data center operations,ST-IT-002-01-01,Data Center Operations,HIGH
+ALI-00345,data connectivity,ST-IT-008-02-01,Data Connectivity Services,MEDIUM
+ALI-00346,data connectivity services,ST-IT-008-02-01,Data Connectivity Services,HIGH
+ALI-00347,data drift detection,ST-AI-005-03-03,Data Drift Detection,HIGH
+ALI-00348,data engineering,ST-IT-006-01-01,Data Engineering Services,MEDIUM
+ALI-00349,data engineering services,ST-IT-006-01-01,Data Engineering Services,HIGH
+ALI-00350,data entry,ST-CO-005-02-01,Data Entry,HIGH
+ALI-00351,data governance,ST-IT-006-04-01,Data Governance Services,MEDIUM
+ALI-00352,data governance services,ST-IT-006-04-01,Data Governance Services,HIGH
+ALI-00353,data keying,ST-CO-005-02-01,Data Entry,MEDIUM
+ALI-00354,data pipeline maintenance,ST-AI-003-01-02,Data Pipeline Maintenance,HIGH
+ALI-00355,data quality,ST-AI-003-02-02,Data Quality Management,MEDIUM
+ALI-00356,data quality management,ST-AI-003-02-02,Data Quality Management,HIGH
+ALI-00357,data science / ml,ST-IT-006-03-01,Data Science / ML Services,MEDIUM
+ALI-00358,data science / ml services,ST-IT-006-03-01,Data Science / ML Services,HIGH
+ALI-00359,data warehouse design,ST-AI-003-02-01,Data Warehouse Design,HIGH
+ALI-00360,database,ST-CL-004-01-02,Database Management,MEDIUM
+ALI-00361,database backup & recovery,ST-IT-002-05-03,Database Backup & Recovery,HIGH
+ALI-00362,database management,ST-CL-004-01-02,Database Management,HIGH
+ALI-00363,database migration,ST-IT-002-05-09,Database Migration Services,MEDIUM
+ALI-00364,database migration services,ST-IT-002-05-09,Database Migration Services,HIGH
+ALI-00365,database monitoring,ST-IT-002-05-01,Database Monitoring,HIGH
+ALI-00366,database patching & upgrades,ST-IT-002-05-05,Database Patching & Upgrades,HIGH
+ALI-00367,database performance tuning,ST-IT-002-05-02,Database Performance Tuning,HIGH
+ALI-00368,database provisioning,ST-IT-002-05-07,Database Provisioning,HIGH
+ALI-00369,database security,ST-IT-002-05-04,Database Security Management,MEDIUM
+ALI-00370,database security management,ST-IT-002-05-04,Database Security Management,HIGH
+ALI-00371,day porter,ST-FR-005-02-01,Day Porter Services,MEDIUM
+ALI-00372,day porter services,ST-FR-005-02-01,Day Porter Services,HIGH
+ALI-00373,dcp mastering,ST-ME-003-01-01,DCP Mastering,HIGH
+ALI-00374,debt/investment,ST-FA-005-01-07,Debt/Investment Management,MEDIUM
+ALI-00375,debt/investment management,ST-FA-005-01-07,Debt/Investment Management,HIGH
+ALI-00376,decision support,ST-FA-008-02-01,Financial Modeling,LOW
+ALI-00377,decommissioning & remediation,ST-EN-007-03-01,Decommissioning & Remediation Services,MEDIUM
+ALI-00378,decommissioning & remediation services,ST-EN-007-03-01,Decommissioning & Remediation Services,HIGH
+ALI-00379,deductions/disputes,ST-FA-002-01-03,Deductions/Disputes Management,MEDIUM
+ALI-00380,deductions/disputes management,ST-FA-002-01-03,Deductions/Disputes Management,HIGH
+ALI-00381,demand forecasting,ST-SC-006-01-02,Demand Forecasting,HIGH
+ALI-00382,demand planning,ST-SC-007-03-01,Demand Planning Services,MEDIUM
+ALI-00383,demand planning services,ST-SC-007-03-01,Demand Planning Services,HIGH
+ALI-00384,demand response,ST-EN-008-01-01,Demand Response Management,MEDIUM
+ALI-00385,demand response management,ST-EN-008-01-01,Demand Response Management,HIGH
+ALI-00386,departing employees,ST-HR-006-04-01,Outplacement Services,LOW
+ALI-00387,dependent verification,ST-HR-007-02-02,Dependent Verification,HIGH
+ALI-00388,desktop imaging,ST-IT-003-03-01,Desktop Imaging,HIGH
+ALI-00389,desktop repair,ST-IT-003-02-03,Desktop Repair,HIGH
+ALI-00390,devops implementation,ST-IT-001-05-01,DevOps Implementation,HIGH
+ALI-00391,dfm analysis,ST-MO-004-01-02,DFM Analysis,HIGH
+ALI-00392,die casting tooling,ST-MO-005-01-02,Die Casting Tooling,HIGH
+ALI-00393,digital advertising,ST-PS-002-02-01,Digital Advertising,HIGH
+ALI-00394,digital analytics,ST-ME-007-02-01,Digital Analytics Services,MEDIUM
+ALI-00395,digital analytics services,ST-ME-007-02-01,Digital Analytics Services,HIGH
+ALI-00396,digital archive,ST-ME-007-01-04,Digital Archive Management,MEDIUM
+ALI-00397,digital archive management,ST-ME-007-01-04,Digital Archive Management,HIGH
+ALI-00398,digital compositing,ST-ME-008-01-04,Digital Compositing,HIGH
+ALI-00399,digital mailroom,ST-FR-006-01-03,Digital Mailroom,HIGH
+ALI-00400,digital marketing,ST-PS-007-03-01,Digital Marketing Services,MEDIUM
+ALI-00401,digital marketing services,ST-PS-007-03-01,Digital Marketing Services,HIGH
+ALI-00402,digital strategy,ST-PS-003-02-01,Digital Strategy,HIGH
+ALI-00403,digitization,ST-ME-006-02-01,Digitization Services,MEDIUM
+ALI-00404,digitization services,ST-ME-006-02-01,Digitization Services,HIGH
+ALI-00405,direct load control,ST-EN-008-01-03,Direct Load Control,HIGH
+ALI-00406,disaster recovery as a,ST-IT-002-03-03,Disaster Recovery as a Service,MEDIUM
+ALI-00407,disaster recovery as a service,ST-IT-002-03-03,Disaster Recovery as a Service,HIGH
+ALI-00408,discount capture optimization,ST-FA-001-01-05,Discount Capture Optimization,HIGH
+ALI-00409,dispute & litigation support,ST-PS-006-04-01,Dispute & Litigation Support Services,MEDIUM
+ALI-00410,dispute & litigation support services,ST-PS-006-04-01,Dispute & Litigation Support Services,HIGH
+ALI-00411,distribution center operations,ST-SC-004-04-01,Distribution Center Operations Services,MEDIUM
+ALI-00412,distribution center operations services,ST-SC-004-04-01,Distribution Center Operations Services,HIGH
+ALI-00413,distribution maintenance,ST-EN-004-02-01,Distribution Maintenance,HIGH
+ALI-00414,dns/dhcp,ST-IT-002-04-07,DNS/DHCP Management,MEDIUM
+ALI-00415,dns/dhcp management,ST-IT-002-04-07,DNS/DHCP Management,HIGH
+ALI-00416,document,ST-CO-005-02-02,Document Processing,MEDIUM
+ALI-00417,document annotation,ST-AI-002-06-01,Document Annotation Services,MEDIUM
+ALI-00418,document annotation services,ST-AI-002-06-01,Document Annotation Services,HIGH
+ALI-00419,document intelligence,ST-AI-001-03-03,Document Intelligence,HIGH
+ALI-00420,document processing,ST-CO-005-02-02,Document Processing,HIGH
+ALI-00421,document review,ST-PS-001-01-01,Document Review,HIGH
+ALI-00422,domain expert rlhf,ST-AI-002-02-02,Domain Expert RLHF,HIGH
+ALI-00423,dpo data generation,ST-AI-002-01-03,DPO Data Generation,HIGH
+ALI-00424,drug testing coordination,ST-HR-006-05-02,Drug Testing Coordination,HIGH
+ALI-00425,due diligence support,ST-PS-001-02-05,Due Diligence Support,HIGH
+ALI-00426,duplicate payment prevention,ST-FA-001-01-04,Duplicate Payment Prevention,HIGH
+ALI-00427,e-commerce,ST-SC-009-01-01,Fulfillment Services,LOW
+ALI-00428,e-commerce fulfillment,ST-SC-005-04-01,E-commerce Fulfillment Services,MEDIUM
+ALI-00429,e-commerce fulfillment services,ST-SC-005-04-01,E-commerce Fulfillment Services,HIGH
+ALI-00430,early visibility,ST-FA-004-01-06,Flash Reporting,LOW
+ALI-00431,early-stage collections,ST-CO-006-01-01,Early-Stage Collections,HIGH
+ALI-00432,ecommerce fulfillment,ST-SC-004-02-01,eCommerce Fulfillment,HIGH
+ALI-00433,ecrf design,ST-CL-004-01-01,eCRF Design,HIGH
+ALI-00434,ectd publishing,ST-CL-002-01-05,eCTD Publishing,HIGH
+ALI-00435,edc/cdms implementation,ST-CL-006-03-01,EDC/CDMS Implementation Services,MEDIUM
+ALI-00436,edc/cdms implementation services,ST-CL-006-03-01,EDC/CDMS Implementation Services,HIGH
+ALI-00437,ediscovery,ST-PS-001-01-02,eDiscovery Processing,MEDIUM
+ALI-00438,ediscovery processing,ST-PS-001-01-02,eDiscovery Processing,HIGH
+ALI-00439,edr,ST-IT-005-01-08,EDR Management,MEDIUM
+ALI-00440,edr management,ST-IT-005-01-08,EDR Management,HIGH
+ALI-00441,elearning content,ST-COP-001-05-01,eLearning Content,HIGH
+ALI-00442,electrical design,ST-PS-005-01-03,Electrical Design,HIGH
+ALI-00443,electrical systems,ST-FR-003-01-02,Electrical Systems,HIGH
+ALI-00444,electromechanical integration,ST-MO-001-02-02,Electromechanical Integration,HIGH
+ALI-00445,electronic sub-assembly,ST-MO-006-01-02,Electronic Sub-Assembly,HIGH
+ALI-00446,elevator maintenance,ST-FR-003-01-05,Elevator Maintenance,HIGH
+ALI-00447,email marketing,ST-PS-002-02-06,Email Marketing,HIGH
+ALI-00448,email response,ST-CO-007-02-01,Email Response,HIGH
+ALI-00449,embedded systems development,ST-PS-005-02-01,Embedded Systems Development,HIGH
+ALI-00450,emergencies,ST-IT-002-05-10,24/7 DBA On-Call Support,LOW
+ALI-00451,emergency,ST-FR-004-02-01,Emergency Management,MEDIUM
+ALI-00452,emergency management,ST-FR-004-02-01,Emergency Management,HIGH
+ALI-00453,emergency restoration,ST-EN-004-01-01,Emergency Restoration,HIGH
+ALI-00454,employee assistance programs,ST-HR-005-01-01,Employee Assistance Programs,HIGH
+ALI-00455,employee benefits inquiries,ST-HR-007-01-04,Benefits Call Center,LOW
+ALI-00456,employee engagement surveys,ST-HR-009-03-02,Employee Engagement Surveys,HIGH
+ALI-00457,employee investigations,ST-HR-002-05-01,Employee Investigations,HIGH
+ALI-00458,employee records,ST-HR-009-01-01,Employee Records Management,MEDIUM
+ALI-00459,employee records management,ST-HR-009-01-01,Employee Records Management,HIGH
+ALI-00460,employees across multiple state jurisdictions,ST-HR-009-02-06,Multi-State Payroll,LOW
+ALI-00461,employment verification,ST-HR-009-01-04,Employment Verification,HIGH
+ALI-00462,ems operations,ST-EN-002-01-04,EMS Operations,HIGH
+ALI-00463,energy,ST-FR-003-02-02,Energy Management,MEDIUM
+ALI-00464,energy consulting,ST-FR-010-02-01,Energy Consulting Services,MEDIUM
+ALI-00465,energy consulting services,ST-FR-010-02-01,Energy Consulting Services,HIGH
+ALI-00466,energy efficiency programs,ST-EN-008-02-01,Energy Efficiency Programs,HIGH
+ALI-00467,energy management,ST-FR-003-02-02,Energy Management,HIGH
+ALI-00468,energy risk,ST-EN-006-02-01,Energy Risk Management,MEDIUM
+ALI-00469,energy risk management,ST-EN-006-02-01,Energy Risk Management,HIGH
+ALI-00470,energy scheduling,ST-EN-006-01-01,Energy Scheduling,HIGH
+ALI-00471,engineering staffing,ST-HR-003-03-01,Engineering Staffing,HIGH
+ALI-00472,enrollment,ST-HR-007-01-03,FSA/HSA Administration,LOW
+ALI-00473,enrollment,ST-HR-007-03-01,Carrier Data Integration,LOW
+ALI-00474,enterprise architecture,ST-IT-007-02-01,Enterprise Architecture Services,MEDIUM
+ALI-00475,enterprise architecture services,ST-IT-007-02-01,Enterprise Architecture Services,HIGH
+ALI-00476,environmental changes (os,ST-IT-001-02-03,Adaptive Maintenance,LOW
+ALI-00477,environmental compliance,ST-EN-007-02-01,Environmental Compliance,HIGH
+ALI-00478,environmental compliance,ST-EN-008-03-01,Environmental Compliance Services,MEDIUM
+ALI-00479,environmental compliance services,ST-EN-008-03-01,Environmental Compliance Services,HIGH
+ALI-00480,environmental monitoring,ST-MO-006-04-01,Environmental Monitoring Services,MEDIUM
+ALI-00481,environmental monitoring services,ST-MO-006-04-01,Environmental Monitoring Services,HIGH
+ALI-00482,environmental testing,ST-MO-007-01-02,Environmental Testing,HIGH
+ALI-00483,environmental/retail design,ST-PS-012-04-01,Environmental/Retail Design Services,MEDIUM
+ALI-00484,environmental/retail design services,ST-PS-012-04-01,Environmental/Retail Design Services,HIGH
+ALI-00485,equipment calibration,ST-MO-005-02-01,Equipment Calibration Services,MEDIUM
+ALI-00486,equipment calibration services,ST-MO-005-02-01,Equipment Calibration Services,HIGH
+ALI-00487,equipment installation,ST-MO-005-03-01,Equipment Installation Services,MEDIUM
+ALI-00488,equipment installation services,ST-MO-005-03-01,Equipment Installation Services,HIGH
+ALI-00489,equity and compliance,ST-HR-002-03-06,Pay Equity Analysis,LOW
+ALI-00490,esg strategy,ST-PS-013-01-01,ESG Strategy Services,MEDIUM
+ALI-00491,esg strategy services,ST-PS-013-01-01,ESG Strategy Services,HIGH
+ALI-00492,etl pipeline development,ST-AI-003-01-01,ETL Pipeline Development,HIGH
+ALI-00493,event security,ST-FR-004-01-05,Event Security,HIGH
+ALI-00494,executive compensation support,ST-HR-002-03-05,Executive Compensation Support,HIGH
+ALI-00495,executive dining,ST-FR-005-01-04,Executive Dining,HIGH
+ALI-00496,executive protection,ST-FR-006-04-01,Executive Protection Services,MEDIUM
+ALI-00497,executive protection services,ST-FR-006-04-01,Executive Protection Services,HIGH
+ALI-00498,executive search,ST-HR-006-01-01,Executive Search,HIGH
+ALI-00499,exit interview,ST-HR-006-04-02,Exit Interview Administration,MEDIUM
+ALI-00500,exit interview administration,ST-HR-006-04-02,Exit Interview Administration,HIGH
+ALI-00501,expansion/upsell programs,ST-CO-004-04-01,Expansion/Upsell Programs Services,MEDIUM
+ALI-00502,expansion/upsell programs services,ST-CO-004-04-01,Expansion/Upsell Programs Services,HIGH
+ALI-00503,expedited shipping,ST-SC-003-01-04,Expedited Shipping,HIGH
+ALI-00504,expedited/hotshot,ST-SC-001-04-01,Expedited/Hotshot Services,MEDIUM
+ALI-00505,expedited/hotshot services,ST-SC-001-04-01,Expedited/Hotshot Services,HIGH
+ALI-00506,expense reimbursement,ST-FA-001-02-01,Expense Reimbursement Processing,MEDIUM
+ALI-00507,expense reimbursement processing,ST-FA-001-02-01,Expense Reimbursement Processing,HIGH
+ALI-00508,experiment tracking,ST-AI-005-01-04,Experiment Tracking,HIGH
+ALI-00509,export compliance,ST-SC-007-01-04,Export Compliance,HIGH
+ALI-00510,express/overnight,ST-SC-002-02-01,Express/Overnight Services,MEDIUM
+ALI-00511,express/overnight services,ST-SC-002-02-01,Express/Overnight Services,HIGH
+ALI-00512,external audit coordination,ST-FA-004-02-01,External Audit Coordination,HIGH
+ALI-00513,external data,ST-CL-004-01-04,External Data Management,MEDIUM
+ALI-00514,external data management,ST-CL-004-01-04,External Data Management,HIGH
+ALI-00515,f&a,ST-FA-001-01-01,Invoice Processing,MEDIUM
+ALI-00516,fact-checking,ST-COP-005-01-04,Fact-Checking,HIGH
+ALI-00517,fao,ST-FA-001-01-01,Invoice Processing,MEDIUM
+ALI-00518,faq development,ST-COP-001-01-02,FAQ Development,HIGH
+ALI-00519,feature store,ST-AI-005-01-01,Feature Store Management,MEDIUM
+ALI-00520,feature store management,ST-AI-005-01-01,Feature Store Management,HIGH
+ALI-00521,federal lobbying,ST-PS-011-01-01,Federal Lobbying Services,MEDIUM
+ALI-00522,federal lobbying services,ST-PS-011-01-01,Federal Lobbying Services,HIGH
+ALI-00523,field service dispatch,ST-CO-003-04-01,Field Service Dispatch Services,MEDIUM
+ALI-00524,field service dispatch services,ST-CO-003-04-01,Field Service Dispatch Services,HIGH
+ALI-00525,final delivery to end consumers,ST-SC-002-03-01,Last-Mile Delivery Services,LOW
+ALI-00526,final product assembly,ST-MO-006-01-03,Final Product Assembly,HIGH
+ALI-00527,final quality inspection,ST-MO-002-01-03,Final Quality Inspection,HIGH
+ALI-00528,finance and accounting,ST-FA-001-01-01,Invoice Processing,MEDIUM
+ALI-00529,financial ai data,ST-AI-006-04-01,Financial AI Data,HIGH
+ALI-00530,financial consolidation,ST-FA-003-04-01,Financial Consolidation Services,MEDIUM
+ALI-00531,financial consolidation,ST-FA-004-01-03,Financial Consolidation,HIGH
+ALI-00532,financial consolidation services,ST-FA-003-04-01,Financial Consolidation Services,HIGH
+ALI-00533,financial modeling,ST-FA-008-02-01,Financial Modeling,HIGH
+ALI-00534,financial statement preparation,ST-FA-004-01-02,Financial Statement Preparation,HIGH
+ALI-00535,financial statement schedules,ST-FA-004-02-02,Financial Statement Schedules,HIGH
+ALI-00536,fire/life safety,ST-FR-003-01-04,Fire/Life Safety,HIGH
+ALI-00537,firewall,ST-IT-002-04-04,Firewall Management,MEDIUM
+ALI-00538,firewall management,ST-IT-002-04-04,Firewall Management,HIGH
+ALI-00539,first article inspection,ST-MO-007-01-05,First Article Inspection,HIGH
+ALI-00540,fixed asset accounting,ST-FA-003-02-01,Fixed Asset Accounting,HIGH
+ALI-00541,fixture manufacturing,ST-MO-005-01-03,Fixture Manufacturing,HIGH
+ALI-00542,flash reporting,ST-FA-004-01-06,Flash Reporting,HIGH
+ALI-00543,fleet,ST-FR-012-03-01,Fleet Management,MEDIUM
+ALI-00544,fleet leasing,ST-SC-010-01-01,Fleet Leasing Services,MEDIUM
+ALI-00545,fleet leasing services,ST-SC-010-01-01,Fleet Leasing Services,HIGH
+ALI-00546,fleet maintenance,ST-SC-010-02-01,Fleet Maintenance Services,MEDIUM
+ALI-00547,fleet maintenance services,ST-SC-010-02-01,Fleet Maintenance Services,HIGH
+ALI-00548,fleet management,ST-FR-012-03-01,Fleet Management,HIGH
+ALI-00549,food,ST-MO-001-03-01,Consumer Products Co-Manufacturing Services,LOW
+ALI-00550,footnote disclosure preparation,ST-FA-004-02-05,Footnote Disclosure Preparation,HIGH
+ALI-00551,forecasting,ST-FA-008-01-02,Forecasting,HIGH
+ALI-00552,forecasting,ST-FA-009-02-01,Forecasting Services,MEDIUM
+ALI-00553,forecasting services,ST-FA-009-02-01,Forecasting Services,HIGH
+ALI-00554,formulary,ST-HR-001-03-01,Formulary Management,MEDIUM
+ALI-00555,formulary management,ST-HR-001-03-01,Formulary Management,HIGH
+ALI-00556,free trade zone,ST-SC-008-04-01,Free Trade Zone Management,MEDIUM
+ALI-00557,free trade zone management,ST-SC-008-04-01,Free Trade Zone Management,HIGH
+ALI-00558,freight audit & payment,ST-SC-005-01-02,Freight Audit & Payment,HIGH
+ALI-00559,freight forwarding,ST-SC-003-01-01,Freight Forwarding,HIGH
+ALI-00560,freight forwarding,ST-SC-003-04-01,Freight Forwarding Services,MEDIUM
+ALI-00561,freight forwarding services,ST-SC-003-04-01,Freight Forwarding Services,HIGH
+ALI-00562,fsa/hsa,ST-HR-007-01-03,FSA/HSA Administration,MEDIUM
+ALI-00563,fsa/hsa administration,ST-HR-007-01-03,FSA/HSA Administration,HIGH
+ALI-00564,fta,ST-SC-007-01-03,FTA Management,MEDIUM
+ALI-00565,fta management,ST-SC-007-01-03,FTA Management,HIGH
+ALI-00566,ftl shipping,ST-SC-003-01-03,FTL Shipping,HIGH
+ALI-00567,fuel,ST-SC-010-04-01,Fuel Management,MEDIUM
+ALI-00568,fuel management,ST-SC-010-04-01,Fuel Management,HIGH
+ALI-00569,fulfillment,ST-SC-009-01-01,Fulfillment Services,MEDIUM
+ALI-00570,fulfillment services,ST-SC-009-01-01,Fulfillment Services,HIGH
+ALI-00571,full cycle recruiting,ST-HR-006-02-01,Full-Cycle Recruitment,MEDIUM
+ALI-00572,full-cycle recruiting,ST-HR-006-02-01,Full-Cycle Recruitment,MEDIUM
+ALI-00573,full-cycle recruitment,ST-HR-006-02-01,Full-Cycle Recruitment,HIGH
+ALI-00574,full-turnkey manufacturing,ST-MO-001-01-01,Full-Turnkey Manufacturing,HIGH
+ALI-00575,functional qa,ST-COP-005-02-01,Functional QA,HIGH
+ALI-00576,functional testing,ST-MO-007-01-01,Functional Testing,HIGH
+ALI-00577,furniture procurement,ST-FR-009-04-01,Furniture Procurement Services,MEDIUM
+ALI-00578,furniture procurement services,ST-FR-009-04-01,Furniture Procurement Services,HIGH
+ALI-00579,fx exposure,ST-FA-005-01-08,FX Exposure Management,MEDIUM
+ALI-00580,fx exposure management,ST-FA-005-01-08,FX Exposure Management,HIGH
+ALI-00581,gaming localization,ST-COP-003-06-01,Gaming Localization,HIGH
+ALI-00582,garnishment,ST-HR-009-02-03,Garnishment Processing,MEDIUM
+ALI-00583,garnishment processing,ST-HR-009-02-03,Garnishment Processing,HIGH
+ALI-00584,genai applications,ST-AI-003-04-01,Prompt Engineering Services,LOW
+ALI-00585,general management consulting,ST-HR-002-02-01,General Management Consulting Services,MEDIUM
+ALI-00586,general management consulting services,ST-HR-002-02-01,General Management Consulting Services,HIGH
+ALI-00587,general repairs,ST-FR-004-04-01,General Repairs Services,MEDIUM
+ALI-00588,general repairs services,ST-FR-004-04-01,General Repairs Services,HIGH
+ALI-00589,generator/ups maintenance,ST-FR-003-01-06,Generator/UPS Maintenance,HIGH
+ALI-00590,global payroll coordination,ST-HR-009-02-07,Global Payroll Coordination,HIGH
+ALI-00591,global registrations,ST-CL-002-03-01,Global Registrations Services,MEDIUM
+ALI-00592,global registrations services,ST-CL-002-03-01,Global Registrations Services,HIGH
+ALI-00593,goods receipt,ST-FA-007-01-05,Goods Receipt Processing,MEDIUM
+ALI-00594,goods receipt processing,ST-FA-007-01-05,Goods Receipt Processing,HIGH
+ALI-00595,government ai data,ST-AI-006-03-01,Government AI Data,HIGH
+ALI-00596,gps tracking,ST-SC-010-03-01,Telematics Services,LOW
+ALI-00597,graphic design,ST-PS-006-01-03,Graphic Design,HIGH
+ALI-00598,grid interconnection,ST-EN-007-04-01,Grid Interconnection Services,MEDIUM
+ALI-00599,grid interconnection services,ST-EN-007-04-01,Grid Interconnection Services,HIGH
+ALI-00600,grid management & balancing,ST-EN-002-03-01,Grid Management & Balancing Services,MEDIUM
+ALI-00601,grid management & balancing services,ST-EN-002-03-01,Grid Management & Balancing Services,HIGH
+ALI-00602,grievance,ST-HR-002-05-02,Grievance Management,MEDIUM
+ALI-00603,grievance management,ST-HR-002-05-02,Grievance Management,HIGH
+ALI-00604,gross-to-net,ST-HR-009-02-01,Payroll Processing,LOW
+ALI-00605,growth strategy,ST-PS-003-01-02,Growth Strategy,HIGH
+ALI-00606,hallucination detection,ST-AI-004-04-03,Hallucination Detection,HIGH
+ALI-00607,handyman and general maintenance services,ST-FR-004-04-01,General Repairs Services,LOW
+ALI-00608,hardware support,ST-IT-003-02-01,Hardware Support,HIGH
+ALI-00609,hardware/device support,ST-CO-003-01-03,Hardware/Device Support,HIGH
+ALI-00610,health,ST-HR-007-01-02,Benefits Eligibility Management,LOW
+ALI-00611,health claims,ST-HR-001-01-01,Medical Claims Adjudication,MEDIUM
+ALI-00612,healthcare claims,ST-HR-001-01-01,Medical Claims Adjudication,MEDIUM
+ALI-00613,help desk,ST-HR-009-01-02,HR Help Desk,MEDIUM
+ALI-00614,high availability & replication,ST-IT-002-05-06,High Availability & Replication,HIGH
+ALI-00615,high-value customers,ST-CO-001-01-03,Premium/VIP Support,LOW
+ALI-00616,home entertainment authoring,ST-ME-003-01-04,Home Entertainment Authoring,HIGH
+ALI-00617,hr advisory,ST-HR-002-01-01,HR Advisory Services,MEDIUM
+ALI-00618,hr advisory services,ST-HR-002-01-01,HR Advisory Services,HIGH
+ALI-00619,hr compliance auditing,ST-HR-002-04-01,HR Compliance Auditing,HIGH
+ALI-00620,hr help desk,ST-HR-009-01-02,HR Help Desk,HIGH
+ALI-00621,hr outsourcing,ST-HR-009-01-01,Employee Records Management,MEDIUM
+ALI-00622,hr technology platforms,ST-HR-009-01-08,HRIS Support,LOW
+ALI-00623,hris implementation,ST-HR-009-01-07,HRIS Implementation,HIGH
+ALI-00624,hris support,ST-HR-009-01-08,HRIS Support,HIGH
+ALI-00625,hro,ST-HR-009-01-01,Employee Records Management,MEDIUM
+ALI-00626,hs classification,ST-SC-007-01-02,HS Classification,HIGH
+ALI-00627,hts and schedule b tariff determination,ST-SC-008-03-01,Classification Services,LOW
+ALI-00628,human evaluation,ST-AI-004-01-01,Human Evaluation,HIGH
+ALI-00629,human translation,ST-COP-003-01-01,Human Translation,HIGH
+ALI-00630,hvac maintenance,ST-FR-003-01-01,HVAC Maintenance,HIGH
+ALI-00631,i-9/e-verify,ST-HR-009-01-03,I-9/E-Verify Administration,MEDIUM
+ALI-00632,i-9/e-verify administration,ST-HR-009-01-03,I-9/E-Verify Administration,HIGH
+ALI-00633,icsr,ST-CL-007-01-01,ICSR Processing,MEDIUM
+ALI-00634,icsr processing,ST-CL-007-01-01,ICSR Processing,HIGH
+ALI-00635,identity & access,ST-IT-005-02-01,Identity & Access Management,MEDIUM
+ALI-00636,identity & access management,ST-IT-005-02-01,Identity & Access Management,HIGH
+ALI-00637,image bounding box annotation,ST-AI-001-01-01,Image Bounding Box Annotation,HIGH
+ALI-00638,image classification,ST-AI-001-01-03,Image Classification,HIGH
+ALI-00639,image collection,ST-AI-001-01-06,Image Collection,HIGH
+ALI-00640,image moderation,ST-COP-002-01-02,Image Moderation,HIGH
+ALI-00641,imaging core lab,ST-CL-008-04-01,Imaging Core Lab Services,MEDIUM
+ALI-00642,imaging core lab services,ST-CL-008-04-01,Imaging Core Lab Services,HIGH
+ALI-00643,immigration,ST-PS-005-04-01,Immigration Services,MEDIUM
+ALI-00644,immigration services,ST-PS-005-04-01,Immigration Services,HIGH
+ALI-00645,in-app messaging,ST-CO-007-01-03,In-App Messaging,HIGH
+ALI-00646,in-house banking/netting,ST-FA-005-01-06,In-House Banking/Netting,HIGH
+ALI-00647,in-process qc,ST-MO-002-01-02,In-Process QC,HIGH
+ALI-00648,inbound calls,ST-CO-001-01-01,Tier 1 Voice Support,MEDIUM
+ALI-00649,incident,ST-IT-003-01-01,Incident Management,MEDIUM
+ALI-00650,incident management,ST-IT-003-01-01,Incident Management,HIGH
+ALI-00651,incoming inspection,ST-MO-002-01-01,Incoming Inspection,HIGH
+ALI-00652,ind/cta preparation,ST-CL-002-01-03,IND/CTA Preparation,HIGH
+ALI-00653,industrial hygiene,ST-MO-006-03-01,Industrial Hygiene Services,MEDIUM
+ALI-00654,industrial hygiene services,ST-MO-006-03-01,Industrial Hygiene Services,HIGH
+ALI-00655,industrial packaging,ST-MO-008-01-05,Industrial Packaging,HIGH
+ALI-00656,industrial/product design,ST-PS-012-03-01,Industrial/Product Design Services,MEDIUM
+ALI-00657,industrial/product design services,ST-PS-012-03-01,Industrial/Product Design Services,HIGH
+ALI-00658,industry analysis,ST-PS-009-04-01,Industry Analysis Services,MEDIUM
+ALI-00659,industry analysis services,ST-PS-009-04-01,Industry Analysis Services,HIGH
+ALI-00660,industry-specific compliance,ST-MO-007-04-01,Industry-Specific Compliance Services,MEDIUM
+ALI-00661,industry-specific compliance services,ST-MO-007-04-01,Industry-Specific Compliance Services,HIGH
+ALI-00662,influencer marketing,ST-PS-002-02-05,Influencer Marketing,HIGH
+ALI-00663,informed consent forms,ST-CL-006-01-03,Informed Consent Forms,HIGH
+ALI-00664,infrastructure monitoring,ST-IT-002-02-04,Infrastructure Monitoring,HIGH
+ALI-00665,injection mold manufacturing,ST-MO-005-01-01,Injection Mold Manufacturing,HIGH
+ALI-00666,inquiry response,ST-CO-001-01-02,Inquiry Response,HIGH
+ALI-00667,insights and savings,ST-FA-007-03-01,Spend Analytics,LOW
+ALI-00668,insights on productivity,ST-HR-009-01-06,Workforce Analytics,LOW
+ALI-00669,integrated audit,ST-FA-006-03-01,Integrated Audit Services,MEDIUM
+ALI-00670,integrated audit services,ST-FA-006-03-01,Integrated Audit Services,HIGH
+ALI-00671,intellectual property litigation,ST-PS-003-04-01,Intellectual Property Litigation Services,MEDIUM
+ALI-00672,intellectual property litigation services,ST-PS-003-04-01,Intellectual Property Litigation Services,HIGH
+ALI-00673,intercompany accounting,ST-FA-003-01-04,Intercompany Accounting,HIGH
+ALI-00674,intercompany accounting,ST-FA-003-03-01,Intercompany Accounting Services,MEDIUM
+ALI-00675,intercompany accounting services,ST-FA-003-03-01,Intercompany Accounting Services,HIGH
+ALI-00676,interim analysis,ST-CL-005-01-03,Interim Analysis,HIGH
+ALI-00677,intermodal,ST-SC-001-03-01,Intermodal Services,MEDIUM
+ALI-00678,intermodal services,ST-SC-001-03-01,Intermodal Services,HIGH
+ALI-00679,intermodal transportation,ST-SC-003-02-01,Intermodal Transportation,HIGH
+ALI-00680,internal communications,ST-PS-008-03-01,Internal Communications Services,MEDIUM
+ALI-00681,internal communications services,ST-PS-008-03-01,Internal Communications Services,HIGH
+ALI-00682,internal controls testing,ST-FA-004-02-03,Internal Controls Testing,HIGH
+ALI-00683,internal equity and external alignment,ST-HR-002-03-02,Job Evaluation/Grading,LOW
+ALI-00684,internal investigations,ST-PS-005-03-01,Internal Investigations Services,MEDIUM
+ALI-00685,internal investigations services,ST-PS-005-03-01,Internal Investigations Services,HIGH
+ALI-00686,interpretation,ST-COP-003-07-01,Interpretation Services,MEDIUM
+ALI-00687,interpretation services,ST-COP-003-07-01,Interpretation Services,HIGH
+ALI-00688,interview scheduling,ST-HR-006-02-04,Interview Scheduling,HIGH
+ALI-00689,inventory planning,ST-SC-006-01-03,Inventory Planning,HIGH
+ALI-00690,investigator brochure,ST-CL-006-01-02,Investigator Brochure,HIGH
+ALI-00691,investigator brochures,ST-CL-005-03-01,Investigator Brochures Services,MEDIUM
+ALI-00692,investigator brochures services,ST-CL-005-03-01,Investigator Brochures Services,HIGH
+ALI-00693,investor relations,ST-PS-008-04-01,Investor Relations Services,MEDIUM
+ALI-00694,investor relations services,ST-PS-008-04-01,Investor Relations Services,HIGH
+ALI-00695,invoice,ST-FA-001-01-01,Invoice Processing,MEDIUM
+ALI-00696,invoice management,ST-FA-001-01-01,Invoice Processing,MEDIUM
+ALI-00697,invoice processing,ST-FA-001-01-01,Invoice Processing,HIGH
+ALI-00698,invoicing,ST-FA-001-01-01,Invoice Processing,MEDIUM
+ALI-00699,ios/android,ST-IT-001-01-02,Mobile Application Development,LOW
+ALI-00700,it asset,ST-IT-003-04-01,IT Asset Management,MEDIUM
+ALI-00701,it asset management,ST-IT-003-04-01,IT Asset Management,HIGH
+ALI-00702,it help desk,ST-IT-002-01-01,Data Center Operations,MEDIUM
+ALI-00703,it managed services,ST-IT-002-01-01,Data Center Operations,MEDIUM
+ALI-00704,it outsourcing,ST-IT-001-01-01,Custom Application Development,MEDIUM
+ALI-00705,it services,ST-IT-001-01-01,Custom Application Development,MEDIUM
+ALI-00706,it staffing,ST-HR-003-02-01,IT Staffing,HIGH
+ALI-00707,it strategy,ST-IT-007-01-01,IT Strategy Services,MEDIUM
+ALI-00708,it strategy services,ST-IT-007-01-01,IT Strategy Services,HIGH
+ALI-00709,ito,ST-IT-001-01-01,Custom Application Development,MEDIUM
+ALI-00710,janitorial,ST-FR-001-01-01,Janitorial Services,MEDIUM
+ALI-00711,janitorial services,ST-FR-001-01-01,Janitorial Services,HIGH
+ALI-00712,job evaluation/grading,ST-HR-002-03-02,Job Evaluation/Grading,HIGH
+ALI-00713,journal entry,ST-FA-003-01-01,Journal Entry Processing,MEDIUM
+ALI-00714,journal entry processing,ST-FA-003-01-01,Journal Entry Processing,HIGH
+ALI-00715,jurisdictions,ST-FA-004-01-05,Statutory Reporting,LOW
+ALI-00716,kaizen events,ST-MO-008-02-01,Lean/Six Sigma Consulting Services,LOW
+ALI-00717,kb maintenance,ST-COP-004-01-01,KB Maintenance,HIGH
+ALI-00718,kdm,ST-ME-003-01-02,KDM Management,MEDIUM
+ALI-00719,kdm management,ST-ME-003-01-02,KDM Management,HIGH
+ALI-00720,key opinion leader (kol),ST-CL-003-02-01,Key Opinion Leader (KOL) Management,MEDIUM
+ALI-00721,key opinion leader (kol) management,ST-CL-003-02-01,Key Opinion Leader (KOL) Management,HIGH
+ALI-00722,keying,ST-CO-005-02-01,Data Entry,MEDIUM
+ALI-00723,keypoint annotation,ST-AI-001-01-05,Keypoint Annotation,HIGH
+ALI-00724,keyword research,ST-COP-001-06-03,Keyword Research,HIGH
+ALI-00725,kitting & assembly,ST-SC-009-02-01,Kitting & Assembly Services,MEDIUM
+ALI-00726,kitting & assembly services,ST-SC-009-02-01,Kitting & Assembly Services,HIGH
+ALI-00727,kitting/assembly,ST-SC-004-01-04,Kitting/Assembly,HIGH
+ALI-00728,knowledge,ST-CO-007-03-01,Knowledge Management,MEDIUM
+ALI-00729,knowledge base creation,ST-COP-001-01-01,Knowledge Base Creation,HIGH
+ALI-00730,knowledge management,ST-CO-007-03-01,Knowledge Management,HIGH
+ALI-00731,knowledge transfer & documentation,ST-IT-001-02-07,Knowledge Transfer & Documentation,HIGH
+ALI-00732,kpi reporting,ST-FA-008-01-03,KPI Reporting,HIGH
+ALI-00733,kubernetes/container,ST-IT-004-02-01,Kubernetes/Container Management,MEDIUM
+ALI-00734,kubernetes/container management,ST-IT-004-02-01,Kubernetes/Container Management,HIGH
+ALI-00735,labeling,ST-MO-008-01-04,Labeling Services,MEDIUM
+ALI-00736,labeling services,ST-MO-008-01-04,Labeling Services,HIGH
+ALI-00737,labor forecasting,ST-HR-003-04-02,Labor Forecasting,HIGH
+ALI-00738,landscaping,ST-FR-001-01-04,Landscaping,HIGH
+ALI-00739,landscaping,ST-FR-011-01-01,Landscaping Services,MEDIUM
+ALI-00740,landscaping services,ST-FR-011-01-01,Landscaping Services,HIGH
+ALI-00741,last mile delivery,ST-SC-003-03-01,Last Mile Delivery,HIGH
+ALI-00742,last-mile delivery,ST-SC-002-03-01,Last-Mile Delivery Services,MEDIUM
+ALI-00743,last-mile delivery services,ST-SC-002-03-01,Last-Mile Delivery Services,HIGH
+ALI-00744,late-stage collections,ST-CO-006-03-01,Late-Stage Collections,HIGH
+ALI-00745,lead logistics provider,ST-SC-003-01-05,Lead Logistics Provider,HIGH
+ALI-00746,leadership development programs,ST-HR-008-02-01,Leadership Development Programs,HIGH
+ALI-00747,leadership development programs,ST-PS-010-02-01,Leadership Development Programs Services,MEDIUM
+ALI-00748,leadership development programs services,ST-PS-010-02-01,Leadership Development Programs Services,HIGH
+ALI-00749,lean manufacturing,ST-MO-004-02-01,Lean Manufacturing,HIGH
+ALI-00750,lean/six sigma consulting,ST-MO-008-02-01,Lean/Six Sigma Consulting Services,MEDIUM
+ALI-00751,lean/six sigma consulting services,ST-MO-008-02-01,Lean/Six Sigma Consulting Services,HIGH
+ALI-00752,lease,ST-FR-002-01-01,Lease Administration,MEDIUM
+ALI-00753,lease accounting,ST-FA-003-02-02,Lease Accounting,HIGH
+ALI-00754,lease administration,ST-FR-002-01-01,Lease Administration,HIGH
+ALI-00755,lease audit,ST-FR-002-04-01,Lease Audit Services,MEDIUM
+ALI-00756,lease audit services,ST-FR-002-04-01,Lease Audit Services,HIGH
+ALI-00757,leave of absence,ST-HR-004-03-02,Leave of Absence Administration,MEDIUM
+ALI-00758,leave of absence administration,ST-HR-004-03-02,Leave of Absence Administration,HIGH
+ALI-00759,legacy application modernization,ST-IT-001-03-01,Legacy Application Modernization,HIGH
+ALI-00760,legal collections,ST-CO-005-04-01,Legal Collections Services,MEDIUM
+ALI-00761,legal collections services,ST-CO-005-04-01,Legal Collections Services,HIGH
+ALI-00762,legal research,ST-PS-001-02-01,Legal Research,HIGH
+ALI-00763,legal transcription,ST-COP-003-07-03,Legal Transcription,HIGH
+ALI-00764,legal transcription,ST-PS-001-02-04,Legal Transcription,HIGH
+ALI-00765,life & disability,ST-HR-004-03-03,Life & Disability Administration,MEDIUM
+ALI-00766,life & disability administration,ST-HR-004-03-03,Life & Disability Administration,HIGH
+ALI-00767,life/disability claims,ST-HR-004-03-01,Life/Disability Claims Processing,MEDIUM
+ALI-00768,life/disability claims processing,ST-HR-004-03-01,Life/Disability Claims Processing,HIGH
+ALI-00769,line balancing,ST-MO-004-01-04,Line Balancing,HIGH
+ALI-00770,linguistic qa,ST-COP-005-01-01,Linguistic QA,HIGH
+ALI-00771,lip-sync dubbing,ST-ME-005-02-01,Lip-Sync Dubbing,HIGH
+ALI-00772,literature surveillance,ST-CL-007-01-06,Literature Surveillance,HIGH
+ALI-00773,litigation and regulatory matters,ST-PS-001-01-01,Document Review,LOW
+ALI-00774,litigation support,ST-PS-001-01-03,Litigation Support,HIGH
+ALI-00775,live chat support,ST-CO-007-01-01,Live Chat Support,HIGH
+ALI-00776,live stream moderation,ST-COP-002-01-04,Live Stream Moderation,HIGH
+ALI-00777,llm fine-tuning and evaluation,ST-AI-003-05-01,Synthetic Training Data for GenAI Services,LOW
+ALI-00778,llm fine-tuning operations,ST-AI-003-03-01,LLM Fine-Tuning Operations Services,MEDIUM
+ALI-00779,llm fine-tuning operations services,ST-AI-003-03-01,LLM Fine-Tuning Operations Services,HIGH
+ALI-00780,llm integration,ST-AI-005-02-03,LLM Integration,HIGH
+ALI-00781,llm security assessment,ST-AI-004-03-02,LLM Security Assessment,HIGH
+ALI-00782,llms,ST-AI-003-03-01,LLM Fine-Tuning Operations Services,LOW
+ALI-00783,lms,ST-HR-008-01-01,LMS Administration,MEDIUM
+ALI-00784,lms administration,ST-HR-008-01-01,LMS Administration,HIGH
+ALI-00785,lms platform,ST-HR-009-05-01,LMS Platform Services,MEDIUM
+ALI-00786,lms platform services,ST-HR-009-05-01,LMS Platform Services,HIGH
+ALI-00787,load balancer,ST-IT-002-04-08,Load Balancer Management,MEDIUM
+ALI-00788,load balancer management,ST-IT-002-04-08,Load Balancer Management,HIGH
+ALI-00789,load curtailment,ST-EN-008-01-02,Load Curtailment,HIGH
+ALI-00790,load planning,ST-SC-005-01-03,Load Planning,HIGH
+ALI-00791,long-haul,ST-SC-001-03-01,Intermodal Services,LOW
+ALI-00792,loyalty program support,ST-CO-004-01-02,Loyalty Program Support,HIGH
+ALI-00793,ltl shipping,ST-SC-003-01-02,LTL Shipping,HIGH
+ALI-00794,m&a strategy,ST-PS-003-01-04,M&A Strategy,HIGH
+ALI-00795,m&a tax advisory,ST-FA-005-03-01,M&A Tax Advisory Services,MEDIUM
+ALI-00796,m&a tax advisory services,ST-FA-005-03-01,M&A Tax Advisory Services,HIGH
+ALI-00797,mailroom operations,ST-FR-006-01-01,Mailroom Operations,HIGH
+ALI-00798,make-ready engineering,ST-EN-004-02-03,Make-Ready Engineering,HIGH
+ALI-00799,mam implementation,ST-ME-007-01-01,MAM Implementation,HIGH
+ALI-00800,managed detection & response,ST-IT-005-01-05,Managed Detection & Response,HIGH
+ALI-00801,managed services,ST-IT-002-01-01,Data Center Operations,MEDIUM
+ALI-00802,management reporting,ST-FA-004-01-04,Management Reporting,HIGH
+ALI-00803,management reporting,ST-FA-009-03-01,Management Reporting Services,MEDIUM
+ALI-00804,management reporting services,ST-FA-009-03-01,Management Reporting Services,HIGH
+ALI-00805,managers on employee relations matters,ST-HR-002-01-01,HR Advisory Services,LOW
+ALI-00806,manual meter reading,ST-EN-001-01-04,Manual Meter Reading,HIGH
+ALI-00807,manual visual qc,ST-ME-006-01-02,Manual Visual QC,HIGH
+ALI-00808,manufacturability analysis,ST-MO-004-01-02,DFM Analysis,LOW
+ALI-00809,manufacturing,ST-MO-004-04-01,MRO Procurement Services,LOW
+ALI-00810,manufacturing it support,ST-MO-003-03-01,Manufacturing IT Support Services,MEDIUM
+ALI-00811,manufacturing it support services,ST-MO-003-03-01,Manufacturing IT Support Services,HIGH
+ALI-00812,manuscripts & publications,ST-CL-005-04-01,Manuscripts & Publications Services,MEDIUM
+ALI-00813,manuscripts & publications services,ST-CL-005-04-01,Manuscripts & Publications Services,HIGH
+ALI-00814,market entry strategy,ST-PS-003-01-03,Market Entry Strategy,HIGH
+ALI-00815,market risk,ST-EN-003-03-01,Risk Management & Analytics Services,LOW
+ALI-00816,market settlements,ST-EN-006-01-02,Market Settlements,HIGH
+ALI-00817,marketing analytics,ST-PS-002-03-01,Marketing Analytics,HIGH
+ALI-00818,marketing copywriting,ST-COP-001-03-02,Marketing Copywriting,HIGH
+ALI-00819,mechanical design,ST-PS-005-01-02,Mechanical Design,HIGH
+ALI-00820,mechanical sub-assembly,ST-MO-006-01-01,Mechanical Sub-Assembly,HIGH
+ALI-00821,media buying,ST-PS-002-01-02,Media Buying,HIGH
+ALI-00822,media ingest,ST-ME-007-01-02,Media Ingest Services,MEDIUM
+ALI-00823,media ingest services,ST-ME-007-01-02,Media Ingest Services,HIGH
+ALI-00824,media planning,ST-PS-002-01-01,Media Planning,HIGH
+ALI-00825,media relations,ST-PS-008-01-01,Media Relations Services,MEDIUM
+ALI-00826,media relations services,ST-PS-008-01-01,Media Relations Services,HIGH
+ALI-00827,medical claims adjudication,ST-HR-001-01-01,Medical Claims Adjudication,HIGH
+ALI-00828,medical coding,ST-CL-004-01-03,Medical Coding,HIGH
+ALI-00829,medical communications,ST-CL-008-01-03,Medical Communications,HIGH
+ALI-00830,medical image annotation,ST-AI-006-02-01,Medical Image Annotation,HIGH
+ALI-00831,medical imaging annotation,ST-AI-002-07-01,Medical Imaging Annotation Services,MEDIUM
+ALI-00832,medical imaging annotation services,ST-AI-002-07-01,Medical Imaging Annotation Services,HIGH
+ALI-00833,medical information,ST-CL-003-03-01,Medical Information Services,MEDIUM
+ALI-00834,medical information,ST-CL-008-01-01,Medical Information Services,MEDIUM
+ALI-00835,medical information services,ST-CL-003-03-01,Medical Information Services,HIGH
+ALI-00836,medical information services,ST-CL-008-01-01,Medical Information Services,HIGH
+ALI-00837,medical review,ST-CL-007-01-02,Medical Review,HIGH
+ALI-00838,medical transcription,ST-COP-003-07-04,Medical Transcription,HIGH
+ALI-00839,meeting room,ST-FR-007-02-01,Meeting Room Management,MEDIUM
+ALI-00840,meeting room management,ST-FR-007-02-01,Meeting Room Management,HIGH
+ALI-00841,meeting transcription,ST-COP-003-07-05,Meeting Transcription,HIGH
+ALI-00842,mental health,ST-HR-005-03-01,Mental Health Services,MEDIUM
+ALI-00843,mental health services,ST-HR-005-03-01,Mental Health Services,HIGH
+ALI-00844,merit/bonus,ST-HR-002-03-04,Merit/Bonus Administration,MEDIUM
+ALI-00845,merit/bonus administration,ST-HR-002-03-04,Merit/Bonus Administration,HIGH
+ALI-00846,messaging/sms support,ST-CO-002-04-01,Messaging/SMS Support Services,MEDIUM
+ALI-00847,messaging/sms support services,ST-CO-002-04-01,Messaging/SMS Support Services,HIGH
+ALI-00848,metadata,ST-ME-007-01-03,Metadata Management,MEDIUM
+ALI-00849,metadata localization,ST-ME-005-01-05,Metadata Localization,HIGH
+ALI-00850,metadata management,ST-ME-007-01-03,Metadata Management,HIGH
+ALI-00851,meter data,ST-EN-001-01-03,Meter Data Management,MEDIUM
+ALI-00852,meter data collection,ST-EN-001-01-02,Meter Data Collection,HIGH
+ALI-00853,meter data management,ST-EN-001-01-03,Meter Data Management,HIGH
+ALI-00854,meter testing,ST-EN-001-01-05,Meter Testing,HIGH
+ALI-00855,metering & measurement,ST-EN-006-04-01,Metering & Measurement Services,MEDIUM
+ALI-00856,metering & measurement services,ST-EN-006-04-01,Metering & Measurement Services,HIGH
+ALI-00857,micro-market,ST-FR-005-01-03,Micro-Market Services,MEDIUM
+ALI-00858,micro-market services,ST-FR-005-01-03,Micro-Market Services,HIGH
+ALI-00859,mid-stage collections,ST-CO-006-02-01,Mid-Stage Collections,HIGH
+ALI-00860,middle/back office,ST-EN-003-04-01,Middle/Back Office Services,MEDIUM
+ALI-00861,middle/back office services,ST-EN-003-04-01,Middle/Back Office Services,HIGH
+ALI-00862,miscellaneous payments,ST-HR-010-01-01,Miscellaneous Payments Services,MEDIUM
+ALI-00863,miscellaneous payments services,ST-HR-010-01-01,Miscellaneous Payments Services,HIGH
+ALI-00864,ml pipeline automation,ST-AI-005-01-02,ML Pipeline Automation,HIGH
+ALI-00865,mobile application development,ST-IT-001-01-02,Mobile Application Development,HIGH
+ALI-00866,mobile patrol,ST-FR-004-01-04,Mobile Patrol,HIGH
+ALI-00867,model benchmarking,ST-AI-004-02-01,Model Benchmarking,HIGH
+ALI-00868,model deployment,ST-AI-005-02-02,Model Deployment Services,MEDIUM
+ALI-00869,model deployment services,ST-AI-005-02-02,Model Deployment Services,HIGH
+ALI-00870,model explainability,ST-AI-005-01-05,Model Explainability,HIGH
+ALI-00871,model output correction,ST-AI-002-01-05,Model Output Correction,HIGH
+ALI-00872,model performance monitoring,ST-AI-005-03-01,Model Performance Monitoring,HIGH
+ALI-00873,model registry,ST-AI-005-01-03,Model Registry,HIGH
+ALI-00874,model retraining pipeline,ST-AI-005-02-01,Model Retraining Pipeline,HIGH
+ALI-00875,month-end close,ST-FA-004-01-01,Month-End Close Management,MEDIUM
+ALI-00876,month-end close management,ST-FA-004-01-01,Month-End Close Management,HIGH
+ALI-00877,motion capture,ST-ME-008-01-03,Motion Capture Processing,MEDIUM
+ALI-00878,motion capture processing,ST-ME-008-01-03,Motion Capture Processing,HIGH
+ALI-00879,move,ST-FR-007-01-02,Move Management,MEDIUM
+ALI-00880,move,ST-FR-009-03-01,Move Management,MEDIUM
+ALI-00881,move management,ST-FR-007-01-02,Move Management,HIGH
+ALI-00882,move management,ST-FR-009-03-01,Move Management,HIGH
+ALI-00883,mpls,ST-IT-008-02-01,Data Connectivity Services,LOW
+ALI-00884,mro procurement,ST-MO-004-04-01,MRO Procurement Services,MEDIUM
+ALI-00885,mro procurement services,ST-MO-004-04-01,MRO Procurement Services,HIGH
+ALI-00886,msl outsourcing,ST-CL-008-01-02,MSL Outsourcing,HIGH
+ALI-00887,mtpe,ST-COP-003-02-01,MTPE Services,MEDIUM
+ALI-00888,mtpe services,ST-COP-003-02-01,MTPE Services,HIGH
+ALI-00889,multi-cloud,ST-IT-004-01-04,Multi-Cloud Management,MEDIUM
+ALI-00890,multi-cloud management,ST-IT-004-01-04,Multi-Cloud Management,HIGH
+ALI-00891,multi-state payroll,ST-HR-009-02-06,Multi-State Payroll,HIGH
+ALI-00892,multilingual collection,ST-AI-001-03-05,Multilingual Collection,HIGH
+ALI-00893,multimedia subtitling,ST-COP-003-04-01,Multimedia Subtitling,HIGH
+ALI-00894,music composition,ST-ME-002-02-04,Music Composition,HIGH
+ALI-00895,nda/bla preparation,ST-CL-002-01-04,NDA/BLA Preparation,HIGH
+ALI-00896,nerc cip compliance,ST-EN-007-01-02,NERC CIP Compliance,HIGH
+ALI-00897,nerc o&p compliance,ST-EN-007-01-01,NERC O&P Compliance,HIGH
+ALI-00898,network configuration,ST-IT-002-04-03,Network Configuration Management,MEDIUM
+ALI-00899,network configuration management,ST-IT-002-04-03,Network Configuration Management,HIGH
+ALI-00900,network incident,ST-IT-002-04-02,Network Incident Management,MEDIUM
+ALI-00901,network incident management,ST-IT-002-04-02,Network Incident Management,HIGH
+ALI-00902,network monitoring,ST-IT-002-04-01,Network Monitoring,HIGH
+ALI-00903,network operations center,ST-ME-002-03-01,Network Operations Center Services,MEDIUM
+ALI-00904,network operations center services,ST-ME-002-03-01,Network Operations Center Services,HIGH
+ALI-00905,network security operations,ST-IT-005-01-09,Network Security Operations,HIGH
+ALI-00906,network support,ST-CO-003-01-04,Network Support,HIGH
+ALI-00907,new hire orientation,ST-HR-008-03-01,New Hire Orientation,HIGH
+ALI-00908,newsletter curation,ST-COP-004-03-02,Newsletter Curation,HIGH
+ALI-00909,nlp models,ST-AI-002-03-01,Text Annotation Services,LOW
+ALI-00910,non-destructive testing,ST-MO-007-01-03,Non-Destructive Testing,HIGH
+ALI-00911,notifications,ST-HR-007-02-01,COBRA Administration,LOW
+ALI-00912,npi,ST-MO-001-01-03,NPI Services,MEDIUM
+ALI-00913,npi services,ST-MO-001-01-03,NPI Services,HIGH
+ALI-00914,object detection,ST-AI-001-01-01,Image Bounding Box Annotation,LOW
+ALI-00915,offer letter generation,ST-HR-006-02-05,Offer Letter Generation,HIGH
+ALI-00916,offline editorial,ST-ME-002-01-01,Offline Editorial,HIGH
+ALI-00917,oilfield equipment &,ST-EN-005-04-01,Oilfield Equipment & Services,MEDIUM
+ALI-00918,oilfield equipment & services,ST-EN-005-04-01,Oilfield Equipment & Services,HIGH
+ALI-00919,on-page optimization,ST-COP-001-06-04,On-Page Optimization,HIGH
+ALI-00920,on-site monitoring,ST-CL-003-01-02,On-Site Monitoring,HIGH
+ALI-00921,onboarding document collection,ST-HR-006-02-06,Onboarding Document Collection,HIGH
+ALI-00922,onboarding/offboarding,ST-IT-003-01-07,Onboarding/Offboarding,HIGH
+ALI-00923,online conform,ST-ME-002-01-03,Online Conform,HIGH
+ALI-00924,open enrollment,ST-HR-007-01-01,Open Enrollment Processing,MEDIUM
+ALI-00925,open enrollment processing,ST-HR-007-01-01,Open Enrollment Processing,HIGH
+ALI-00926,operating model design,ST-PS-004-01-01,Operating Model Design,HIGH
+ALI-00927,order,ST-CO-002-01-01,Order Management,MEDIUM
+ALI-00928,order,ST-CO-005-01-01,Order Processing,MEDIUM
+ALI-00929,order management,ST-CO-002-01-01,Order Management,HIGH
+ALI-00930,order processing,ST-CO-002-01-01,Order Management,MEDIUM
+ALI-00931,order processing,ST-CO-005-01-01,Order Processing,HIGH
+ALI-00932,order processing,ST-FA-007-01-02,Purchase Order Management,MEDIUM
+ALI-00933,order to cash,ST-CO-002-01-01,Order Management,MEDIUM
+ALI-00934,order to cash,ST-FA-007-01-02,Purchase Order Management,MEDIUM
+ALI-00935,organizational change,ST-HR-002-06-02,Organizational Change Management,MEDIUM
+ALI-00936,organizational change management,ST-HR-002-06-02,Organizational Change Management,HIGH
+ALI-00937,osha compliance,ST-MO-007-03-01,OSHA Compliance Services,MEDIUM
+ALI-00938,osha compliance services,ST-MO-007-03-01,OSHA Compliance Services,HIGH
+ALI-00939,osha vpp (voluntary protection programs),ST-MO-007-03-01,OSHA Compliance Services,LOW
+ALI-00940,otc,ST-CO-002-01-01,Order Management,MEDIUM
+ALI-00941,otc,ST-FA-007-01-02,Purchase Order Management,MEDIUM
+ALI-00942,ott delivery,ST-ME-003-02-01,OTT Delivery,HIGH
+ALI-00943,outage,ST-EN-001-02-01,Outage Management,MEDIUM
+ALI-00944,outage communication,ST-EN-002-02-01,Outage Communication,HIGH
+ALI-00945,outage management,ST-EN-001-02-01,Outage Management,HIGH
+ALI-00946,outplacement,ST-HR-006-04-01,Outplacement Services,MEDIUM
+ALI-00947,outplacement services,ST-HR-006-04-01,Outplacement Services,HIGH
+ALI-00948,outsourcing,ST-CO-001-01-01,Tier 1 Voice Support,LOW
+ALI-00949,overflow/after-hours,ST-CO-001-04-01,Overflow/After-Hours Services,MEDIUM
+ALI-00950,overflow/after-hours services,ST-CO-001-04-01,Overflow/After-Hours Services,HIGH
+ALI-00951,p2p operations,ST-FA-001-03-01,P2P Operations Services,MEDIUM
+ALI-00952,p2p operations services,ST-FA-001-03-01,P2P Operations Services,HIGH
+ALI-00953,packaging design,ST-PS-012-02-01,Packaging Design Services,MEDIUM
+ALI-00954,packaging design services,ST-PS-012-02-01,Packaging Design Services,HIGH
+ALI-00955,pallet storage,ST-SC-004-01-03,Pallet Storage,HIGH
+ALI-00956,parking operations,ST-FR-012-01-01,Parking Operations Services,MEDIUM
+ALI-00957,parking operations services,ST-FR-012-01-01,Parking Operations Services,HIGH
+ALI-00958,parts & equipment,ST-EN-001-03-01,Parts & Equipment Services,MEDIUM
+ALI-00959,parts & equipment services,ST-EN-001-03-01,Parts & Equipment Services,HIGH
+ALI-00960,password reset,ST-IT-003-01-03,Password Reset Services,MEDIUM
+ALI-00961,password reset services,ST-IT-003-01-03,Password Reset Services,HIGH
+ALI-00962,patch,ST-IT-002-02-03,Patch Management,MEDIUM
+ALI-00963,patch management,ST-IT-002-02-03,Patch Management,HIGH
+ALI-00964,patent prosecution,ST-PS-001-03-01,Patent Prosecution,HIGH
+ALI-00965,patient recruitment,ST-CL-001-01-03,Patient Recruitment,HIGH
+ALI-00966,patient recruitment,ST-CL-001-04-01,Patient Recruitment Services,MEDIUM
+ALI-00967,patient recruitment services,ST-CL-001-04-01,Patient Recruitment Services,HIGH
+ALI-00968,patient retention,ST-CL-001-01-04,Patient Retention,HIGH
+ALI-00969,pay equity analysis,ST-HR-002-03-06,Pay Equity Analysis,HIGH
+ALI-00970,payment,ST-FA-001-01-02,Payment Processing,MEDIUM
+ALI-00971,payment processing,ST-FA-001-01-02,Payment Processing,HIGH
+ALI-00972,payroll,ST-HR-009-02-01,Payroll Processing,MEDIUM
+ALI-00973,payroll inquiry resolution,ST-HR-009-02-08,Payroll Inquiry Resolution,HIGH
+ALI-00974,payroll processing,ST-HR-009-02-01,Payroll Processing,HIGH
+ALI-00975,payroll tax,ST-FA-004-03-01,Payroll Tax Services,MEDIUM
+ALI-00976,payroll tax services,ST-FA-004-03-01,Payroll Tax Services,HIGH
+ALI-00977,pcb assembly,ST-MO-001-02-01,PCB Assembly,HIGH
+ALI-00978,penetration testing,ST-IT-005-01-04,Penetration Testing,HIGH
+ALI-00979,penetration testing,ST-IT-005-04-01,Penetration Testing Services,MEDIUM
+ALI-00980,penetration testing services,ST-IT-005-04-01,Penetration Testing Services,HIGH
+ALI-00981,perfective maintenance,ST-IT-001-02-04,Perfective Maintenance,HIGH
+ALI-00982,performance alerting,ST-AI-005-03-02,Performance Alerting,HIGH
+ALI-00983,performance engineering,ST-EN-001-04-01,Performance Engineering Services,MEDIUM
+ALI-00984,performance engineering services,ST-EN-001-04-01,Performance Engineering Services,HIGH
+ALI-00985,performance improvement support,ST-HR-009-03-01,Performance Improvement Support,HIGH
+ALI-00986,performance management,ST-HR-009-03-03,Performance Management Administration,MEDIUM
+ALI-00987,performance management administration,ST-HR-009-03-03,Performance Management Administration,HIGH
+ALI-00988,pest control,ST-FR-001-01-03,Pest Control,HIGH
+ALI-00989,pest control,ST-FR-011-03-01,Pest Control Services,MEDIUM
+ALI-00990,pest control services,ST-FR-011-03-01,Pest Control Services,HIGH
+ALI-00991,pick and pack,ST-SC-004-01-01,Pick and Pack,HIGH
+ALI-00992,pk/pd analysis,ST-CL-005-02-01,PK/PD Analysis,HIGH
+ALI-00993,plan administration,ST-HR-001-02-01,TPA Plan Administration,LOW
+ALI-00994,platform integrity,ST-COP-002-07-01,Platform Integrity,HIGH
+ALI-00995,player/app development,ST-ME-003-04-01,Player/App Development Services,MEDIUM
+ALI-00996,player/app development services,ST-ME-003-04-01,Player/App Development Services,HIGH
+ALI-00997,plumbing,ST-FR-004-03-01,Plumbing Services,MEDIUM
+ALI-00998,plumbing services,ST-FR-004-03-01,Plumbing Services,HIGH
+ALI-00999,plumbing systems,ST-FR-003-01-03,Plumbing Systems,HIGH
+ALI-01000,po,ST-SC-002-01-01,PO Processing,MEDIUM
+ALI-01001,po matching,ST-FA-001-03-01,P2P Operations Services,LOW
+ALI-01002,po processing,ST-SC-002-01-01,PO Processing,HIGH
+ALI-01003,pole inspection,ST-EN-005-01-02,Pole Inspection,HIGH
+ALI-01004,policy,ST-HR-002-06-01,Policy Administration,MEDIUM
+ALI-01005,policy administration,ST-HR-002-06-01,Policy Administration,HIGH
+ALI-01006,policy development,ST-COP-002-03-01,Policy Development,HIGH
+ALI-01007,polygon annotation,ST-AI-001-01-04,Polygon Annotation,HIGH
+ALI-01008,portfolio strategy,ST-PS-001-04-01,Portfolio Strategy Services,MEDIUM
+ALI-01009,portfolio strategy services,ST-PS-001-04-01,Portfolio Strategy Services,HIGH
+ALI-01010,post-approval maintenance,ST-CL-002-02-01,Post-Approval Maintenance,HIGH
+ALI-01011,pr,ST-PS-002-01-05,PR Services,MEDIUM
+ALI-01012,pr services,ST-PS-002-01-05,PR Services,HIGH
+ALI-01013,precision machining,ST-MO-001-04-01,Precision Machining Services,MEDIUM
+ALI-01014,precision machining services,ST-MO-001-04-01,Precision Machining Services,HIGH
+ALI-01015,predictive maintenance,ST-MO-003-01-02,Predictive Maintenance,HIGH
+ALI-01016,premium/vip support,ST-CO-001-01-03,Premium/VIP Support,HIGH
+ALI-01017,preventive maintenance,ST-IT-001-02-05,Preventive Maintenance,HIGH
+ALI-01018,preventive maintenance,ST-MO-003-01-01,Preventive Maintenance,HIGH
+ALI-01019,primary packaging,ST-MO-008-01-01,Primary Packaging,HIGH
+ALI-01020,proactive csm,ST-CO-004-02-01,Proactive CSM,HIGH
+ALI-01021,process development,ST-MO-004-01-01,Process Development,HIGH
+ALI-01022,process documentation,ST-COP-001-04-02,Process Documentation,HIGH
+ALI-01023,process optimization,ST-PS-004-01-02,Process Optimization,HIGH
+ALI-01024,product description writing,ST-COP-001-02-01,Product Description Writing,HIGH
+ALI-01025,product design engineering,ST-PS-005-01-01,Product Design Engineering,HIGH
+ALI-01026,product refurbishment,ST-SC-008-01-02,Product Refurbishment,HIGH
+ALI-01027,product testing,ST-PS-007-01-03,Product Testing,HIGH
+ALI-01028,production,ST-ME-001-04-01,Production Services,MEDIUM
+ALI-01029,production operations,ST-EN-005-03-01,Production Operations Services,MEDIUM
+ALI-01030,production operations services,ST-EN-005-03-01,Production Operations Services,HIGH
+ALI-01031,production planning support,ST-MO-003-04-01,Production Planning Support Services,MEDIUM
+ALI-01032,production planning support services,ST-MO-003-04-01,Production Planning Support Services,HIGH
+ALI-01033,production services,ST-ME-001-04-01,Production Services,HIGH
+ALI-01034,production transcoding,ST-ME-001-01-03,Production Transcoding,HIGH
+ALI-01035,program/project,ST-IT-007-03-01,Program/Project Management,MEDIUM
+ALI-01036,program/project management,ST-IT-007-03-01,Program/Project Management,HIGH
+ALI-01037,programmatic labeling,ST-AI-005-04-01,Programmatic Labeling Services,MEDIUM
+ALI-01038,programmatic labeling services,ST-AI-005-04-01,Programmatic Labeling Services,HIGH
+ALI-01039,project,ST-FR-003-04-01,Project Management,MEDIUM
+ALI-01040,project management,ST-FR-003-04-01,Project Management,HIGH
+ALI-01041,prompt engineering,ST-AI-002-02-03,Prompt Engineering,HIGH
+ALI-01042,prompt engineering,ST-AI-003-04-01,Prompt Engineering Services,MEDIUM
+ALI-01043,prompt engineering services,ST-AI-003-04-01,Prompt Engineering Services,HIGH
+ALI-01044,prompt injection testing,ST-AI-004-03-03,Prompt Injection Testing,HIGH
+ALI-01045,prompt optimization,ST-AI-002-02-04,Prompt Optimization,HIGH
+ALI-01046,proof of concept development,ST-IT-001-01-05,Proof of Concept Development,HIGH
+ALI-01047,proofreading,ST-COP-005-01-03,Proofreading,HIGH
+ALI-01048,property accounting,ST-FR-002-02-01,Property Accounting,HIGH
+ALI-01049,property tax,ST-FA-004-04-01,Property Tax Services,MEDIUM
+ALI-01050,property tax compliance,ST-FA-006-02-03,Property Tax Compliance,HIGH
+ALI-01051,property tax services,ST-FA-004-04-01,Property Tax Services,HIGH
+ALI-01052,protocol development,ST-CL-006-01-01,Protocol Development,HIGH
+ALI-01053,psur,ST-CL-004-03-01,Aggregate Safety Reporting (PSUR/PBRER) Services,LOW
+ALI-01054,publication planning,ST-CL-003-04-01,Publication Planning Services,MEDIUM
+ALI-01055,publication planning,ST-CL-008-01-04,Publication Planning,HIGH
+ALI-01056,publication planning services,ST-CL-003-04-01,Publication Planning Services,HIGH
+ALI-01057,purchase order,ST-FA-007-01-02,Purchase Order Management,MEDIUM
+ALI-01058,purchase order management,ST-FA-007-01-02,Purchase Order Management,HIGH
+ALI-01059,purchase requisition,ST-FA-007-01-01,Purchase Requisition Processing,MEDIUM
+ALI-01060,purchase requisition processing,ST-FA-007-01-01,Purchase Requisition Processing,HIGH
+ALI-01061,qc & compliance,ST-ME-005-04-01,QC & Compliance Services,MEDIUM
+ALI-01062,qc & compliance services,ST-ME-005-04-01,QC & Compliance Services,HIGH
+ALI-01063,qualified lead generation,ST-CO-002-02-01,B2B Lead Generation,LOW
+ALI-01064,quality assurance & testing,ST-IT-001-04-01,Quality Assurance & Testing,HIGH
+ALI-01065,quality systems consulting,ST-CL-007-04-01,Quality Systems Consulting Services,MEDIUM
+ALI-01066,quality systems consulting services,ST-CL-007-04-01,Quality Systems Consulting Services,HIGH
+ALI-01067,rag implementation,ST-AI-005-02-04,RAG Implementation,HIGH
+ALI-01068,re-recording mixing,ST-ME-002-02-03,Re-Recording Mixing,HIGH
+ALI-01069,real estate transactions,ST-PS-004-03-01,Real Estate Transactions Services,MEDIUM
+ALI-01070,real estate transactions services,ST-PS-004-03-01,Real Estate Transactions Services,HIGH
+ALI-01071,real-time monitoring,ST-EN-002-01-03,Real-Time Monitoring,HIGH
+ALI-01072,real-time streaming,ST-AI-003-01-03,Real-Time Streaming,HIGH
+ALI-01073,receiving operations,ST-FR-006-01-04,Receiving Operations,HIGH
+ALI-01074,receiving/put-away,ST-SC-004-01-02,Receiving/Put-Away,HIGH
+ALI-01075,reception,ST-FR-001-01-02,Reception Services,MEDIUM
+ALI-01076,reception,ST-FR-008-02-01,Reception Services,MEDIUM
+ALI-01077,reception services,ST-FR-001-01-02,Reception Services,HIGH
+ALI-01078,reception services,ST-FR-008-02-01,Reception Services,HIGH
+ALI-01079,recruitment marketing,ST-HR-006-02-07,Recruitment Marketing,HIGH
+ALI-01080,recruitment process outsourcing,ST-HR-006-02-01,Full-Cycle Recruitment,HIGH
+ALI-01081,recycling,ST-FR-008-01-02,Recycling Management,MEDIUM
+ALI-01082,recycling & disposal,ST-SC-011-04-01,Recycling & Disposal Services,MEDIUM
+ALI-01083,recycling & disposal services,ST-SC-011-04-01,Recycling & Disposal Services,HIGH
+ALI-01084,recycling management,ST-FR-008-01-02,Recycling Management,HIGH
+ALI-01085,refurbishment,ST-SC-011-02-01,Refurbishment Services,MEDIUM
+ALI-01086,refurbishment services,ST-SC-011-02-01,Refurbishment Services,HIGH
+ALI-01087,regulatory compliance,ST-HR-002-04-01,HR Compliance Auditing,LOW
+ALI-01088,regulatory defense,ST-PS-003-03-01,Regulatory Defense Services,MEDIUM
+ALI-01089,regulatory defense services,ST-PS-003-03-01,Regulatory Defense Services,HIGH
+ALI-01090,regulatory strategy,ST-CL-002-01-02,Regulatory Strategy,HIGH
+ALI-01091,regulatory strategy,ST-PS-011-03-01,Regulatory Strategy Services,MEDIUM
+ALI-01092,regulatory strategy services,ST-PS-011-03-01,Regulatory Strategy Services,HIGH
+ALI-01093,regulatory submissions,ST-CL-002-01-01,Regulatory Submissions,HIGH
+ALI-01094,release,ST-IT-001-05-02,Release Management,MEDIUM
+ALI-01095,release management,ST-IT-001-05-02,Release Management,HIGH
+ALI-01096,reliability engineering,ST-MO-004-03-01,Reliability Engineering Services,MEDIUM
+ALI-01097,reliability engineering services,ST-MO-004-03-01,Reliability Engineering Services,HIGH
+ALI-01098,reliability testing,ST-MO-007-02-01,Reliability Testing,HIGH
+ALI-01099,remote connect/disconnect,ST-EN-001-01-06,Remote Connect/Disconnect,HIGH
+ALI-01100,remote desktop support,ST-IT-003-01-04,Remote Desktop Support,HIGH
+ALI-01101,remote production support,ST-ME-001-01-04,Remote Production Support,HIGH
+ALI-01102,renewable asset,ST-EN-004-04-01,Renewable Asset Management,MEDIUM
+ALI-01103,renewable asset management,ST-EN-004-04-01,Renewable Asset Management,HIGH
+ALI-01104,renewal,ST-CO-004-03-01,Renewal Management,MEDIUM
+ALI-01105,renewal calling,ST-CO-002-02-06,Renewal Calling,HIGH
+ALI-01106,renewal management,ST-CO-004-03-01,Renewal Management,HIGH
+ALI-01107,reorganizations,ST-HR-002-06-02,Organizational Change Management,LOW
+ALI-01108,reprographics,ST-FR-008-04-01,Reprographics Services,MEDIUM
+ALI-01109,reprographics services,ST-FR-008-04-01,Reprographics Services,HIGH
+ALI-01110,response ranking,ST-AI-002-01-01,Response Ranking,HIGH
+ALI-01111,retention insights,ST-HR-006-04-02,Exit Interview Administration,LOW
+ALI-01112,returns,ST-CO-005-01-02,Returns Processing,MEDIUM
+ALI-01113,returns,ST-SC-008-01-01,Returns Processing,MEDIUM
+ALI-01114,returns processing,ST-CO-005-01-02,Returns Processing,HIGH
+ALI-01115,returns processing,ST-SC-008-01-01,Returns Processing,HIGH
+ALI-01116,returns processing,ST-SC-011-01-01,Returns Processing Services,MEDIUM
+ALI-01117,returns processing services,ST-SC-011-01-01,Returns Processing Services,HIGH
+ALI-01118,revenue protection,ST-EN-003-02-02,Revenue Protection,HIGH
+ALI-01119,review response,ST-CO-008-01-03,Review Response,HIGH
+ALI-01120,rework/repair,ST-MO-001-02-03,Rework/Repair Services,MEDIUM
+ALI-01121,rework/repair services,ST-MO-001-02-03,Rework/Repair Services,HIGH
+ALI-01122,rfx and sourcing events,ST-FA-007-03-02,Sourcing Support,LOW
+ALI-01123,rights clearance,ST-ME-004-01-03,Rights Clearance,HIGH
+ALI-01124,rights management,ST-ME-004-04-01,Rights Management Services,MEDIUM
+ALI-01125,rights management services,ST-ME-004-04-01,Rights Management Services,HIGH
+ALI-01126,rights tracking,ST-ME-004-01-01,Rights Tracking,HIGH
+ALI-01127,risk management & analytics,ST-EN-003-03-01,Risk Management & Analytics Services,MEDIUM
+ALI-01128,risk management & analytics services,ST-EN-003-03-01,Risk Management & Analytics Services,HIGH
+ALI-01129,rma,ST-SC-008-01-03,RMA Management,MEDIUM
+ALI-01130,rma management,ST-SC-008-01-03,RMA Management,HIGH
+ALI-01131,rmp/rems development,ST-CL-007-02-01,RMP/REMS Development,HIGH
+ALI-01132,root cause analysis,ST-MO-002-02-04,Root Cause Analysis,HIGH
+ALI-01133,rotoscoping,ST-ME-008-01-05,Rotoscoping,HIGH
+ALI-01134,route optimization,ST-SC-005-02-01,Route Optimization,HIGH
+ALI-01135,royalty administration,ST-ME-004-03-01,Royalty Administration Services,MEDIUM
+ALI-01136,royalty administration services,ST-ME-004-03-01,Royalty Administration Services,HIGH
+ALI-01137,royalty calculation,ST-ME-004-01-02,Royalty Calculation,HIGH
+ALI-01138,rpo,ST-HR-006-01-01,Executive Search,MEDIUM
+ALI-01139,rtsm/irt,ST-CL-001-01-06,RTSM/IRT Services,MEDIUM
+ALI-01140,rtsm/irt services,ST-CL-001-01-06,RTSM/IRT Services,HIGH
+ALI-01141,rwe generation,ST-CL-008-02-01,RWE Generation,HIGH
+ALI-01142,saas,ST-IT-004-03-01,SaaS Management,MEDIUM
+ALI-01143,saas management,ST-IT-004-03-01,SaaS Management,HIGH
+ALI-01144,safety compliance,ST-EN-007-02-02,Safety Compliance,HIGH
+ALI-01145,safety database hosting,ST-CL-007-01-03,Safety Database Hosting,HIGH
+ALI-01146,salary structure design,ST-HR-002-03-03,Salary Structure Design,HIGH
+ALI-01147,sales & use tax compliance,ST-FA-006-02-01,Sales & Use Tax Compliance,HIGH
+ALI-01148,sample storage & biobanking,ST-CL-008-03-01,Sample Storage & Biobanking Services,MEDIUM
+ALI-01149,sample storage & biobanking services,ST-CL-008-03-01,Sample Storage & Biobanking Services,HIGH
+ALI-01150,scada,ST-EN-002-01-02,SCADA Management,MEDIUM
+ALI-01151,scada management,ST-EN-002-01-02,SCADA Management,HIGH
+ALI-01152,scheduling/shift planning,ST-HR-003-04-01,Scheduling/Shift Planning,HIGH
+ALI-01153,score composition,ST-ME-001-03-01,Audio Production Services,LOW
+ALI-01154,script adaptation,ST-ME-005-01-04,Script Adaptation,HIGH
+ALI-01155,sd-wan,ST-IT-002-04-05,SD-WAN Management,MEDIUM
+ALI-01156,sd-wan management,ST-IT-002-04-05,SD-WAN Management,HIGH
+ALI-01157,sdh/closed captioning,ST-ME-005-01-03,SDH/Closed Captioning,HIGH
+ALI-01158,sdtm and adam dataset creation,ST-CL-006-04-01,CDISC Standards Conversion Services,LOW
+ALI-01159,sec filing support,ST-FA-010-01-01,SEC Filing Support Services,MEDIUM
+ALI-01160,sec filing support services,ST-FA-010-01-01,SEC Filing Support Services,HIGH
+ALI-01161,secondary packaging,ST-MO-008-01-02,Secondary Packaging,HIGH
+ALI-01162,security awareness training,ST-IT-005-01-06,Security Awareness Training,HIGH
+ALI-01163,security consulting,ST-IT-005-05-01,Security Consulting Services,MEDIUM
+ALI-01164,security consulting services,ST-IT-005-05-01,Security Consulting Services,HIGH
+ALI-01165,security incident response,ST-IT-005-01-02,Security Incident Response,HIGH
+ALI-01166,security operations center,ST-IT-005-01-01,Security Operations Center,HIGH
+ALI-01167,self-service portal,ST-IT-003-01-06,Self-Service Portal Management,MEDIUM
+ALI-01168,self-service portal management,ST-IT-003-01-06,Self-Service Portal Management,HIGH
+ALI-01169,semantic segmentation,ST-AI-001-01-02,Semantic Segmentation,HIGH
+ALI-01170,sentiment annotation,ST-AI-001-03-02,Sentiment Annotation,HIGH
+ALI-01171,seo,ST-PS-002-02-02,SEO Services,MEDIUM
+ALI-01172,seo audit,ST-COP-001-06-02,SEO Audit,HIGH
+ALI-01173,seo content writing,ST-COP-001-06-01,SEO Content Writing,HIGH
+ALI-01174,seo services,ST-PS-002-02-02,SEO Services,HIGH
+ALI-01175,server,ST-IT-002-02-01,Server Administration,MEDIUM
+ALI-01176,server administration,ST-IT-002-02-01,Server Administration,HIGH
+ALI-01177,serverless operations,ST-IT-004-02-02,Serverless Operations,HIGH
+ALI-01178,service connection,ST-EN-004-02-02,Service Connection,HIGH
+ALI-01179,service design,ST-PS-006-02-01,Service Design,HIGH
+ALI-01180,service desk,ST-IT-002-01-01,Data Center Operations,MEDIUM
+ALI-01181,service request fulfillment,ST-IT-003-01-02,Service Request Fulfillment,HIGH
+ALI-01182,sft data creation,ST-AI-002-01-02,SFT Data Creation,HIGH
+ALI-01183,shipping,ST-FR-006-01-02,Shipping Services,MEDIUM
+ALI-01184,shipping services,ST-FR-006-01-02,Shipping Services,HIGH
+ALI-01185,shuttle,ST-FR-012-02-01,Shuttle Services,MEDIUM
+ALI-01186,shuttle services,ST-FR-012-02-01,Shuttle Services,HIGH
+ALI-01187,siem,ST-IT-005-01-07,SIEM Management,MEDIUM
+ALI-01188,siem management,ST-IT-005-01-07,SIEM Management,HIGH
+ALI-01189,siem platforms,ST-IT-005-01-07,SIEM Management,LOW
+ALI-01190,signal detection,ST-CL-007-01-05,Signal Detection,HIGH
+ALI-01191,signal detection & risk,ST-CL-004-04-01,Signal Detection & Risk Management,MEDIUM
+ALI-01192,signal detection & risk management,ST-CL-004-04-01,Signal Detection & Risk Management,HIGH
+ALI-01193,simulation/analysis,ST-PS-005-02-02,Simulation/Analysis,HIGH
+ALI-01194,site closeout visits,ST-CL-003-01-04,Site Closeout Visits,HIGH
+ALI-01195,site contracting,ST-CL-001-02-02,Site Contracting,HIGH
+ALI-01196,site feasibility,ST-CL-001-02-01,Site Feasibility,HIGH
+ALI-01197,site initiation visits,ST-CL-003-01-03,Site Initiation Visits,HIGH
+ALI-01198,site management organizations,ST-CL-001-03-01,Site Management Organizations Services,MEDIUM
+ALI-01199,site management organizations services,ST-CL-001-03-01,Site Management Organizations Services,HIGH
+ALI-01200,skills assessment,ST-HR-008-03-02,Skills Assessment,HIGH
+ALI-01201,skip tracing,ST-CO-006-02-02,Skip Tracing,HIGH
+ALI-01202,sms support,ST-CO-007-01-02,SMS Support,HIGH
+ALI-01203,snow & ice removal,ST-FR-011-02-01,Snow & Ice Removal Services,MEDIUM
+ALI-01204,snow & ice removal services,ST-FR-011-02-01,Snow & Ice Removal Services,HIGH
+ALI-01205,soc 2,ST-IT-005-03-01,Compliance & Audit Support,LOW
+ALI-01206,social customer,ST-CO-008-01-01,Social Customer Service,MEDIUM
+ALI-01207,social customer service,ST-CO-008-01-01,Social Customer Service,HIGH
+ALI-01208,social media,ST-PS-007-04-01,Social Media Management,MEDIUM
+ALI-01209,social media content,ST-COP-001-03-03,Social Media Content,HIGH
+ALI-01210,social media management,ST-PS-007-04-01,Social Media Management,HIGH
+ALI-01211,social media marketing,ST-PS-002-02-03,Social Media Marketing,HIGH
+ALI-01212,social media support,ST-CO-002-03-01,Social Media Support Services,MEDIUM
+ALI-01213,social media support services,ST-CO-002-03-01,Social Media Support Services,HIGH
+ALI-01214,social monitoring,ST-CO-008-02-01,Social Monitoring,HIGH
+ALI-01215,software application support,ST-CO-003-01-02,Software Application Support,HIGH
+ALI-01216,software localization,ST-COP-003-05-01,Software Localization,HIGH
+ALI-01217,software support,ST-IT-003-02-02,Software Support,HIGH
+ALI-01218,sound design,ST-ME-002-02-02,Sound Design,HIGH
+ALI-01219,sound editing,ST-ME-002-02-01,Sound Editing,HIGH
+ALI-01220,sourcing,ST-HR-006-02-01,Full-Cycle Recruitment,LOW
+ALI-01221,sourcing support,ST-FA-007-03-02,Sourcing Support,HIGH
+ALI-01222,sox compliance,ST-FA-004-02-03,Internal Controls Testing,LOW
+ALI-01223,space planning,ST-FR-007-01-01,Space Planning,HIGH
+ALI-01224,space planning,ST-FR-009-02-01,Space Planning Services,MEDIUM
+ALI-01225,space planning services,ST-FR-009-02-01,Space Planning Services,HIGH
+ALI-01226,spare parts,ST-MO-003-01-05,Spare Parts Management,MEDIUM
+ALI-01227,spare parts management,ST-MO-003-01-05,Spare Parts Management,HIGH
+ALI-01228,spc,ST-MO-002-02-01,SPC Services,MEDIUM
+ALI-01229,spc services,ST-MO-002-02-01,SPC Services,HIGH
+ALI-01230,specialty cleaning,ST-FR-005-03-01,Specialty Cleaning Services,MEDIUM
+ALI-01231,specialty cleaning services,ST-FR-005-03-01,Specialty Cleaning Services,HIGH
+ALI-01232,speech collection,ST-AI-001-04-02,Speech Collection,HIGH
+ALI-01233,spend analysis,ST-SC-001-02-01,Spend Analysis,HIGH
+ALI-01234,spend analytics,ST-FA-007-03-01,Spend Analytics,HIGH
+ALI-01235,staffing,ST-CL-001-01-01,Clinical Project Management,MEDIUM
+ALI-01236,standard transcription,ST-COP-003-07-02,Standard Transcription,HIGH
+ALI-01237,state & local affairs,ST-PS-011-02-01,State & Local Affairs Services,MEDIUM
+ALI-01238,state & local affairs services,ST-PS-011-02-01,State & Local Affairs Services,HIGH
+ALI-01239,statistical analysis planning,ST-CL-005-01-01,Statistical Analysis Planning,HIGH
+ALI-01240,statistical programming,ST-CL-005-01-02,Statistical Programming,HIGH
+ALI-01241,statutory audit support,ST-FA-010-03-01,Statutory Audit Support Services,MEDIUM
+ALI-01242,statutory audit support services,ST-FA-010-03-01,Statutory Audit Support Services,HIGH
+ALI-01243,statutory reporting,ST-FA-004-01-05,Statutory Reporting,HIGH
+ALI-01244,storage,ST-IT-002-03-01,Storage Management,MEDIUM
+ALI-01245,storage management,ST-IT-002-03-01,Storage Management,HIGH
+ALI-01246,strategic sourcing,ST-SC-001-01-01,Strategic Sourcing,HIGH
+ALI-01247,streaming platform,ST-ME-003-03-01,Streaming Platform Services,MEDIUM
+ALI-01248,streaming platform services,ST-ME-003-03-01,Streaming Platform Services,HIGH
+ALI-01249,study startup,ST-CL-001-01-02,Study Startup,HIGH
+ALI-01250,style guide development,ST-COP-002-03-02,Style Guide Development,HIGH
+ALI-01251,subscription box fulfillment,ST-SC-009-04-01,Subscription Box Fulfillment Services,MEDIUM
+ALI-01252,subscription box fulfillment services,ST-SC-009-04-01,Subscription Box Fulfillment Services,HIGH
+ALI-01253,subscriptions,ST-CO-002-02-06,Renewal Calling,LOW
+ALI-01254,substation maintenance,ST-EN-004-01-03,Substation Maintenance,HIGH
+ALI-01255,subtitle creation,ST-ME-005-01-01,Subtitle Creation,HIGH
+ALI-01256,subtitle qc,ST-ME-006-01-04,Subtitle QC,HIGH
+ALI-01257,subtitle translation,ST-ME-005-01-02,Subtitle Translation,HIGH
+ALI-01258,subtitling,ST-ME-005-03-01,Subtitling Services,MEDIUM
+ALI-01259,subtitling services,ST-ME-005-03-01,Subtitling Services,HIGH
+ALI-01260,supplier,ST-SC-006-03-01,Supplier Management,MEDIUM
+ALI-01261,supplier management,ST-SC-006-03-01,Supplier Management,HIGH
+ALI-01262,supplier master,ST-FA-001-04-01,Supplier Master Management,MEDIUM
+ALI-01263,supplier master management,ST-FA-001-04-01,Supplier Master Management,HIGH
+ALI-01264,supplier onboarding,ST-FA-007-01-03,Supplier Onboarding,HIGH
+ALI-01265,supplier performance,ST-FA-007-02-02,Supplier Performance Management,MEDIUM
+ALI-01266,supplier performance management,ST-FA-007-02-02,Supplier Performance Management,HIGH
+ALI-01267,supplier qualification,ST-SC-001-01-03,Supplier Qualification,HIGH
+ALI-01268,supplier quality engineering,ST-MO-002-02-02,Supplier Quality Engineering,HIGH
+ALI-01269,supplier risk assessment,ST-SC-001-02-03,Supplier Risk Assessment,HIGH
+ALI-01270,supply chain consulting,ST-PS-004-02-01,Supply Chain Consulting,HIGH
+ALI-01271,supply chain contract,ST-SC-001-01-04,Supply Chain Contract Management,MEDIUM
+ALI-01272,supply chain contract management,ST-SC-001-01-04,Supply Chain Contract Management,HIGH
+ALI-01273,surveillance & monitoring,ST-FR-006-03-01,Surveillance & Monitoring Services,MEDIUM
+ALI-01274,surveillance & monitoring services,ST-FR-006-03-01,Surveillance & Monitoring Services,HIGH
+ALI-01275,survey calling,ST-CO-002-02-05,Survey Calling,HIGH
+ALI-01276,surveys,ST-ME-007-04-01,Audience Research Services,LOW
+ALI-01277,sustainability assurance,ST-PS-013-04-01,Sustainability Assurance Services,MEDIUM
+ALI-01278,sustainability assurance services,ST-PS-013-04-01,Sustainability Assurance Services,HIGH
+ALI-01279,sustainability programs,ST-FR-010-04-01,Sustainability Programs Services,MEDIUM
+ALI-01280,sustainability programs services,ST-FR-010-04-01,Sustainability Programs Services,HIGH
+ALI-01281,sustainability reporting,ST-FR-008-01-01,Sustainability Reporting,HIGH
+ALI-01282,syndicated research,ST-PS-009-01-01,Syndicated Research Services,MEDIUM
+ALI-01283,syndicated research services,ST-PS-009-01-01,Syndicated Research Services,HIGH
+ALI-01284,synthetic data generation,ST-AI-003-01-04,Synthetic Data Generation,HIGH
+ALI-01285,synthetic training data for genai,ST-AI-003-05-01,Synthetic Training Data for GenAI Services,MEDIUM
+ALI-01286,synthetic training data for genai services,ST-AI-003-05-01,Synthetic Training Data for GenAI Services,HIGH
+ALI-01287,t&s,ST-COP-002-01-01,UGC Text Review,LOW
+ALI-01288,tail spend,ST-SC-001-02-02,Tail Spend Management,MEDIUM
+ALI-01289,tail spend management,ST-SC-001-02-02,Tail Spend Management,HIGH
+ALI-01290,tape-to-file conversion and format migration,ST-ME-006-02-01,Digitization Services,LOW
+ALI-01291,tax authority correspondence,ST-FA-006-01-04,Tax Authority Correspondence,HIGH
+ALI-01292,tax filing & remittance,ST-HR-009-02-02,Tax Filing & Remittance,HIGH
+ALI-01293,tax provision,ST-FA-006-01-02,Tax Provision,HIGH
+ALI-01294,team effectiveness,ST-PS-010-03-01,Team Effectiveness Services,MEDIUM
+ALI-01295,team effectiveness services,ST-PS-010-03-01,Team Effectiveness Services,HIGH
+ALI-01296,tech support,ST-CO-003-01-01,Tier 1 Technical Support,MEDIUM
+ALI-01297,tech support,ST-CO-003-02-01,Tier 2 Technical Support,MEDIUM
+ALI-01298,tech support,ST-CO-003-03-01,Tier 3 Technical Support,MEDIUM
+ALI-01299,technical feasibility validation,ST-IT-001-01-05,Proof of Concept Development,LOW
+ALI-01300,technical help desk,ST-IT-002-01-01,Data Center Operations,MEDIUM
+ALI-01301,technical recruiting,ST-HR-006-03-01,Technical Recruiting,HIGH
+ALI-01302,technical writing,ST-COP-001-04-01,Technical Writing,HIGH
+ALI-01303,technology implementation,ST-PS-004-02-02,Technology Implementation,HIGH
+ALI-01304,telematics,ST-SC-010-03-01,Telematics Services,MEDIUM
+ALI-01305,telematics services,ST-SC-010-03-01,Telematics Services,HIGH
+ALI-01306,tenant,ST-FR-001-02-01,Tenant Services,MEDIUM
+ALI-01307,tenant services,ST-FR-001-02-01,Tenant Services,HIGH
+ALI-01308,terminology,ST-COP-003-01-02,Terminology Management,MEDIUM
+ALI-01309,terminology management,ST-COP-003-01-02,Terminology Management,HIGH
+ALI-01310,testing laboratories,ST-MO-002-03-01,Testing Laboratories Services,MEDIUM
+ALI-01311,testing laboratories services,ST-MO-002-03-01,Testing Laboratories Services,HIGH
+ALI-01312,text annotation,ST-AI-002-03-01,Text Annotation Services,MEDIUM
+ALI-01313,text annotation services,ST-AI-002-03-01,Text Annotation Services,HIGH
+ALI-01314,text data collection,ST-AI-001-03-04,Text Data Collection,HIGH
+ALI-01315,text ner annotation,ST-AI-001-03-01,Text NER Annotation,HIGH
+ALI-01316,thermography inspection,ST-EN-005-01-04,Thermography Inspection,HIGH
+ALI-01317,tier 1 technical support,ST-CO-003-01-01,Tier 1 Technical Support,HIGH
+ALI-01318,tier 1 voice support,ST-CO-001-01-01,Tier 1 Voice Support,HIGH
+ALI-01319,tier 2 technical support,ST-CO-003-02-01,Tier 2 Technical Support,HIGH
+ALI-01320,tier 2 voice support,ST-CO-001-02-01,Tier 2 Voice Support,HIGH
+ALI-01321,tier 3 technical support,ST-CO-003-03-01,Tier 3 Technical Support,HIGH
+ALI-01322,time & attendance integration,ST-HR-009-02-04,Time & Attendance Integration,HIGH
+ALI-01323,time & motion studies,ST-MO-004-01-03,Time & Motion Studies,HIGH
+ALI-01324,tmf,ST-CL-001-01-07,TMF Management,MEDIUM
+ALI-01325,tmf management,ST-CL-001-01-07,TMF Management,HIGH
+ALI-01326,tms managed,ST-SC-012-01-01,TMS Managed Services,MEDIUM
+ALI-01327,tms managed services,ST-SC-012-01-01,TMS Managed Services,HIGH
+ALI-01328,tms operations,ST-SC-005-01-01,TMS Operations,HIGH
+ALI-01329,tool maintenance,ST-MO-005-01-04,Tool Maintenance,HIGH
+ALI-01330,tpa plan,ST-HR-001-02-01,TPA Plan Administration,MEDIUM
+ALI-01331,tpa plan administration,ST-HR-001-02-01,TPA Plan Administration,HIGH
+ALI-01332,tpm implementation,ST-MO-003-02-01,TPM Implementation,HIGH
+ALI-01333,trade association,ST-PS-011-04-01,Trade Association Management,MEDIUM
+ALI-01334,trade association management,ST-PS-011-04-01,Trade Association Management,HIGH
+ALI-01335,trademark,ST-PS-001-03-02,Trademark Management,MEDIUM
+ALI-01336,trademark management,ST-PS-001-03-02,Trademark Management,HIGH
+ALI-01337,training content development,ST-HR-008-01-02,Training Content Development,HIGH
+ALI-01338,training needs analysis,ST-HR-008-03-03,Training Needs Analysis,HIGH
+ALI-01339,transcreation,ST-COP-003-03-01,Transcreation,HIGH
+ALI-01340,transfer pricing,ST-FA-005-02-01,Transfer Pricing Services,MEDIUM
+ALI-01341,transfer pricing documentation,ST-FA-006-01-05,Transfer Pricing Documentation,HIGH
+ALI-01342,transfer pricing services,ST-FA-005-02-01,Transfer Pricing Services,HIGH
+ALI-01343,transformer maintenance,ST-EN-005-01-03,Transformer Maintenance,HIGH
+ALI-01344,transmission lines,ST-EN-002-04-01,Vegetation Management,LOW
+ALI-01345,transmission maintenance,ST-EN-004-01-02,Transmission Maintenance,HIGH
+ALI-01346,transmission scheduling,ST-EN-006-01-03,Transmission Scheduling,HIGH
+ALI-01347,transportation,ST-SC-005-03-01,Transportation Management,MEDIUM
+ALI-01348,transportation management,ST-SC-005-03-01,Transportation Management,HIGH
+ALI-01349,treasury bank reconciliation,ST-FA-005-01-03,Treasury Bank Reconciliation,HIGH
+ALI-01350,trust & safety operations,ST-ME-008-03-01,Trust & Safety Operations Services,MEDIUM
+ALI-01351,trust & safety operations services,ST-ME-008-03-01,Trust & Safety Operations Services,HIGH
+ALI-01352,trust and safety,ST-COP-002-01-01,UGC Text Review,MEDIUM
+ALI-01353,ugc text review,ST-COP-002-01-01,UGC Text Review,HIGH
+ALI-01354,ui/ux design,ST-IT-001-01-04,UI/UX Design Services,MEDIUM
+ALI-01355,ui/ux design services,ST-IT-001-01-04,UI/UX Design Services,HIGH
+ALI-01356,underground locating,ST-EN-004-02-04,Underground Locating,HIGH
+ALI-01357,unemployment claims,ST-HR-004-01-01,Unemployment Claims Management,MEDIUM
+ALI-01358,unemployment claims management,ST-HR-004-01-01,Unemployment Claims Management,HIGH
+ALI-01359,unified communications,ST-IT-008-03-01,Unified Communications Services,MEDIUM
+ALI-01360,unified communications services,ST-IT-008-03-01,Unified Communications Services,HIGH
+ALI-01361,uniformed officers,ST-FR-004-01-01,Uniformed Officers,HIGH
+ALI-01362,unreachable debtors,ST-CO-006-02-02,Skip Tracing,LOW
+ALI-01363,upsell/cross-sell,ST-CO-002-02-04,Upsell/Cross-sell,HIGH
+ALI-01364,utility bill calculation,ST-EN-003-01-01,Utility Bill Calculation,HIGH
+ALI-01365,utility contact center,ST-EN-003-01-03,Utility Contact Center,HIGH
+ALI-01366,utility credit & collections,ST-EN-003-02-01,Utility Credit & Collections,HIGH
+ALI-01367,utility payment,ST-EN-003-01-02,Utility Payment Processing,MEDIUM
+ALI-01368,utility payment processing,ST-EN-003-01-02,Utility Payment Processing,HIGH
+ALI-01369,utility procurement,ST-FR-010-01-01,Utility Procurement Services,MEDIUM
+ALI-01370,utility procurement services,ST-FR-010-01-01,Utility Procurement Services,HIGH
+ALI-01371,utilization review,ST-HR-001-04-01,Utilization Review,HIGH
+ALI-01372,ux/ui design,ST-PS-006-01-01,UX/UI Design,HIGH
+ALI-01373,v&v testing,ST-PS-005-02-03,V&V Testing,HIGH
+ALI-01374,valuation,ST-PS-006-03-01,Valuation Services,MEDIUM
+ALI-01375,valuation services,ST-PS-006-03-01,Valuation Services,HIGH
+ALI-01376,variable compensation modeling,ST-HR-002-03-07,Variable Compensation Modeling,HIGH
+ALI-01377,variance analysis,ST-FA-004-01-07,Variance Analysis,HIGH
+ALI-01378,vat/gst compliance,ST-FA-006-02-02,VAT/GST Compliance,HIGH
+ALI-01379,vegetation,ST-EN-002-04-01,Vegetation Management,MEDIUM
+ALI-01380,vegetation,ST-EN-005-01-01,Vegetation Management,MEDIUM
+ALI-01381,vegetation management,ST-EN-002-04-01,Vegetation Management,HIGH
+ALI-01382,vegetation management,ST-EN-005-01-01,Vegetation Management,HIGH
+ALI-01383,vending,ST-FR-005-01-02,Vending Services,MEDIUM
+ALI-01384,vending services,ST-FR-005-01-02,Vending Services,HIGH
+ALI-01385,vendor coordination,ST-FR-001-03-01,Vendor Coordination Services,MEDIUM
+ALI-01386,vendor coordination services,ST-FR-001-03-01,Vendor Coordination Services,HIGH
+ALI-01387,vendor inquiry helpdesk,ST-FA-001-01-06,Vendor Inquiry Helpdesk,HIGH
+ALI-01388,vendor managed inventory,ST-SC-007-02-01,Vendor Managed Inventory Services,MEDIUM
+ALI-01389,vendor managed inventory services,ST-SC-007-02-01,Vendor Managed Inventory Services,HIGH
+ALI-01390,vendor master data,ST-FA-001-01-03,Vendor Master Data Management,MEDIUM
+ALI-01391,vendor master data management,ST-FA-001-01-03,Vendor Master Data Management,HIGH
+ALI-01392,vendor qualification,ST-CL-007-03-01,Vendor Qualification Services,MEDIUM
+ALI-01393,vendor qualification services,ST-CL-007-03-01,Vendor Qualification Services,HIGH
+ALI-01394,video collection,ST-AI-001-02-03,Video Collection,HIGH
+ALI-01395,video encoding,ST-ME-003-02-02,Video Encoding,HIGH
+ALI-01396,video event annotation,ST-AI-001-02-02,Video Event Annotation,HIGH
+ALI-01397,video moderation,ST-COP-002-01-03,Video Moderation,HIGH
+ALI-01398,video object tracking,ST-AI-001-02-01,Video Object Tracking,HIGH
+ALI-01399,video surveillance,ST-FR-004-01-03,Video Surveillance,HIGH
+ALI-01400,vip security and travel security,ST-FR-006-04-01,Executive Protection Services,LOW
+ALI-01401,vip/executive support,ST-IT-003-01-05,VIP/Executive Support,HIGH
+ALI-01402,virtual production support,ST-ME-001-02-01,Virtual Production Support,HIGH
+ALI-01403,virtualization,ST-IT-002-02-02,Virtualization Management,MEDIUM
+ALI-01404,virtualization management,ST-IT-002-02-02,Virtualization Management,HIGH
+ALI-01405,visibility platform,ST-SC-012-03-01,Visibility Platform Services,MEDIUM
+ALI-01406,visibility platform services,ST-SC-012-03-01,Visibility Platform Services,HIGH
+ALI-01407,vmi,ST-SC-006-01-01,VMI Services,MEDIUM
+ALI-01408,vmi services,ST-SC-006-01-01,VMI Services,HIGH
+ALI-01409,voice,ST-IT-008-01-01,Voice Services,MEDIUM
+ALI-01410,voice services,ST-IT-008-01-01,Voice Services,HIGH
+ALI-01411,voice-over localization,ST-COP-003-04-02,Voice-Over Localization,HIGH
+ALI-01412,voice-over recording,ST-ME-005-02-02,Voice-Over Recording,HIGH
+ALI-01413,voluntary benefits,ST-HR-004-02-01,Voluntary Benefits Administration,MEDIUM
+ALI-01414,voluntary benefits administration,ST-HR-004-02-01,Voluntary Benefits Administration,HIGH
+ALI-01415,vpp operations,ST-EN-008-01-04,VPP Operations,HIGH
+ALI-01416,vulnerability,ST-IT-005-01-03,Vulnerability Management,MEDIUM
+ALI-01417,vulnerability management,ST-IT-005-01-03,Vulnerability Management,HIGH
+ALI-01418,w-2/year-end,ST-HR-009-02-05,W-2/Year-End Processing,MEDIUM
+ALI-01419,w-2/year-end processing,ST-HR-009-02-05,W-2/Year-End Processing,HIGH
+ALI-01420,warranty,ST-SC-008-01-04,Warranty Management,MEDIUM
+ALI-01421,warranty management,ST-SC-008-01-04,Warranty Management,HIGH
+ALI-01422,waste,ST-FR-001-01-05,Waste Management,MEDIUM
+ALI-01423,waste management,ST-FR-001-01-05,Waste Management,HIGH
+ALI-01424,website localization,ST-COP-003-05-02,Website Localization,HIGH
+ALI-01425,wellness programs,ST-HR-005-02-01,Wellness Programs,HIGH
+ALI-01426,white glove delivery,ST-SC-002-04-01,White Glove Delivery Services,MEDIUM
+ALI-01427,white glove delivery services,ST-SC-002-04-01,White Glove Delivery Services,HIGH
+ALI-01428,white paper development,ST-COP-001-03-04,White Paper Development,HIGH
+ALI-01429,win-back campaigns,ST-CO-004-02-03,Win-Back Campaigns,HIGH
+ALI-01430,window cleaning,ST-FR-001-01-06,Window Cleaning,HIGH
+ALI-01431,window cleaning,ST-FR-005-04-01,Window Cleaning Services,MEDIUM
+ALI-01432,window cleaning services,ST-FR-005-04-01,Window Cleaning Services,HIGH
+ALI-01433,wire transfer execution,ST-FA-005-01-04,Wire Transfer Execution,HIGH
+ALI-01434,wireless network,ST-IT-002-04-06,Wireless Network Management,MEDIUM
+ALI-01435,wireless network management,ST-IT-002-04-06,Wireless Network Management,HIGH
+ALI-01436,wires,ST-FA-005-01-04,Wire Transfer Execution,LOW
+ALI-01437,withholding tax,ST-FA-006-01-03,Withholding Tax Management,MEDIUM
+ALI-01438,withholding tax management,ST-FA-006-01-03,Withholding Tax Management,HIGH
+ALI-01439,wms managed,ST-SC-012-02-01,WMS Managed Services,MEDIUM
+ALI-01440,wms managed services,ST-SC-012-02-01,WMS Managed Services,HIGH
+ALI-01441,workers compensation,ST-HR-004-01-02,Workers Compensation Administration,MEDIUM
+ALI-01442,workers compensation administration,ST-HR-004-01-02,Workers Compensation Administration,HIGH
+ALI-01443,workforce analytics,ST-HR-009-01-06,Workforce Analytics,HIGH
+ALI-01444,workplace strategy,ST-FR-009-01-01,Workplace Strategy Services,MEDIUM
+ALI-01445,workplace strategy services,ST-FR-009-01-01,Workplace Strategy Services,HIGH
+ALI-01446,xbrl tagging,ST-FA-010-02-01,XBRL Tagging Services,MEDIUM
+ALI-01447,xbrl tagging services,ST-FA-010-02-01,XBRL Tagging Services,HIGH
+ALI-01448,red teaming,ST-AI-004-03-01,AI Red Teaming,HIGH
+ALI-01449,red team,ST-AI-004-03-01,AI Red Teaming,HIGH
+ALI-01450,red teaming providers,ST-AI-004-03-01,AI Red Teaming,HIGH
+ALI-01451,adversarial testing,ST-AI-004-03-01,AI Red Teaming,HIGH
+ALI-01452,ai security testing,ST-AI-004-03-01,AI Red Teaming,HIGH
+ALI-01453,ml red teaming,ST-AI-004-03-01,AI Red Teaming,HIGH
+ALI-01454,model red teaming,ST-AI-004-03-01,AI Red Teaming,HIGH
+ALI-01455,ai adversarial testing,ST-AI-004-03-01,AI Red Teaming,HIGH
+ALI-01456,llm security,ST-AI-004-03-02,LLM Security Assessment,HIGH
+ALI-01457,llm testing,ST-AI-004-03-02,LLM Security Assessment,MEDIUM
+ALI-01458,large language model security,ST-AI-004-03-02,LLM Security Assessment,HIGH
+ALI-01459,genai security,ST-AI-004-03-02,LLM Security Assessment,HIGH
+ALI-01460,prompt injection,ST-AI-004-03-03,Prompt Injection Testing,HIGH
+ALI-01461,prompt security,ST-AI-004-03-03,Prompt Injection Testing,HIGH
+ALI-01462,jailbreak testing,ST-AI-004-03-03,Prompt Injection Testing,HIGH

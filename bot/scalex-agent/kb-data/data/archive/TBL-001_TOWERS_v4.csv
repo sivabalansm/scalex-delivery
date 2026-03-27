@@ -1,0 +1,15 @@
+Tower_Code,Tower_Name,Description,Status,Service_Type_Count,Vendor_Count
+HR,Human Resources,"HR outsourcing, payroll, benefits, talent acquisition",Active,84,125
+FA,Finance & Accounting,"F&A BPO, accounts payable/receivable, FP&A",Active,85,16
+IT,Information Technology,"IT services, infrastructure, application management",Active,91,185
+CO,Customer Operations,"Contact center, customer service, technical support",Active,54,14
+PS,Professional Services,"Consulting, legal, advisory services",Active,85,227
+CL,Clinical/Life Sciences,"Clinical trials, regulatory affairs, pharmacovigilance",Active,65,94
+AI,AI & Data Services,"Data annotation, AI training, MLOps",Active,68,166
+COP,Content Operations,"Content moderation, trust & safety, localization",Active,56,96
+SC,Supply Chain,"Logistics, procurement, inventory management",Active,73,222
+FR,Facilities & Real Estate,"Facilities management, real estate services",Active,71,225
+ME,Media & Entertainment,"Video production, post-production, content distribution",Active,63,76
+EN,Energy & Utilities,"Meter operations, grid management, utility services",Active,59,137
+MO,Manufacturing Operations,"Contract manufacturing, QC, assembly, packaging",Active,63,150
+IV,Industry Verticals,"Industry-specific BPO (Healthcare, Insurance, Financial Services)",Active,0,8

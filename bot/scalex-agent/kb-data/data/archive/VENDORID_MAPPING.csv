@@ -1,0 +1,1742 @@
+Vendor_Name,Vendor_ID,Search_Key
+Accenture,VND-0001,accenture
+ADP,VND-0002,adp
+TCS,VND-0003,tcs
+Capgemini,VND-0004,capgemini
+IBM,VND-0005,ibm
+Conduent,VND-0006,conduent
+Strada,VND-0007,strada
+Wipro,VND-0008,wipro
+Cognizant,VND-0009,cognizant
+Infosys,VND-0010,infosys
+Paychex,VND-0011,paychex
+UKG,VND-0012,ukg
+Workday,VND-0013,workday
+SAP SuccessFactors,VND-0014,sap successfactors
+Oracle HCM,VND-0015,oracle hcm
+Dayforce,VND-0016,dayforce
+Deel,VND-0017,deel
+Remote,VND-0018,remote
+Papaya Global,VND-0019,papaya global
+Randstad,VND-0020,randstad
+Cielo,VND-0021,cielo
+Korn Ferry,VND-0022,korn ferry
+Allegis Group,VND-0023,allegis group
+ManpowerGroup,VND-0024,manpowergroup
+Adecco Group,VND-0025,adecco group
+Kelly Services,VND-0026,kelly services
+Hays,VND-0027,hays
+Robert Half,VND-0028,robert half
+Beeline,VND-0029,beeline
+Magnit,VND-0030,magnit
+Insight Global,VND-0031,insight global
+Russell Reynolds,VND-0032,russell reynolds
+Heidrick & Struggles,VND-0033,heidrick & struggles
+Spencer Stuart,VND-0034,spencer stuart
+Egon Zehnder,VND-0035,egon zehnder
+Teleperformance,VND-0036,teleperformance
+Concentrix,VND-0037,concentrix
+Foundever,VND-0038,foundever
+TTEC,VND-0039,ttec
+Alorica,VND-0040,alorica
+Genpact,VND-0041,genpact
+WNS,VND-0042,wns
+TaskUs,VND-0043,taskus
+NICE,VND-0044,nice
+Genesys,VND-0045,genesys
+Five9,VND-0046,five9
+HCLTech,VND-0047,hcltech
+NTT DATA,VND-0048,ntt data
+DXC Technology,VND-0049,dxc technology
+Kyndryl,VND-0050,kyndryl
+EPAM,VND-0051,epam
+Globant,VND-0052,globant
+Persistent Systems,VND-0053,persistent systems
+LTIMindtree,VND-0054,ltimindtree
+Tech Mahindra,VND-0055,tech mahindra
+Mphasis,VND-0056,mphasis
+Ensono,VND-0057,ensono
+Rackspace,VND-0058,rackspace
+Deloitte,VND-0059,deloitte
+PwC,VND-0060,pwc
+EY,VND-0061,ey
+KPMG,VND-0062,kpmg
+CrowdStrike,VND-0063,crowdstrike
+Palo Alto Networks,VND-0064,palo alto networks
+Securitas,VND-0065,securitas
+Trustwave,VND-0066,trustwave
+Optiv,VND-0067,optiv
+Coalfire,VND-0068,coalfire
+HighRadius,VND-0069,highradius
+BlackLine,VND-0070,blackline
+Coupa,VND-0071,coupa
+Basware,VND-0072,basware
+EXL,VND-0073,exl
+Sutherland,VND-0074,sutherland
+GEP,VND-0075,gep
+SAP Ariba,VND-0076,sap ariba
+Ivalua,VND-0077,ivalua
+JAGGAER,VND-0078,jaggaer
+Proxima,VND-0079,proxima
+Efficio,VND-0080,efficio
+CBRE,VND-0081,cbre
+JLL,VND-0082,jll
+Cushman & Wakefield,VND-0083,cushman & wakefield
+Colliers,VND-0084,colliers
+ISS A/S,VND-0085,iss a/s
+ABM Industries,VND-0086,abm industries
+Allied Universal,VND-0087,allied universal
+Compass Group,VND-0088,compass group
+Sodexo,VND-0089,sodexo
+Aramark,VND-0090,aramark
+DHL,VND-0091,dhl
+DSV,VND-0092,dsv
+Kuehne+Nagel,VND-0093,kuehne+nagel
+CEVA Logistics,VND-0094,ceva logistics
+GXO Logistics,VND-0095,gxo logistics
+XPO,VND-0096,xpo
+C.H. Robinson,VND-0097,c.h. robinson
+GEODIS,VND-0098,geodis
+Maersk,VND-0099,maersk
+FedEx Logistics,VND-0100,fedex logistics
+UPS Supply Chain Solutions,VND-0101,ups supply chain solutions
+McKinsey,VND-0102,mckinsey
+BCG,VND-0103,bcg
+Bain,VND-0104,bain
+Oliver Wyman,VND-0105,oliver wyman
+Kearney,VND-0106,kearney
+Roland Berger,VND-0107,roland berger
+Simon-Kucher,VND-0108,simon-kucher
+L.E.K. Consulting,VND-0109,l.e.k. consulting
+Alvarez & Marsal,VND-0110,alvarez & marsal
+FTI Consulting,VND-0111,fti consulting
+Huron Consulting,VND-0112,huron consulting
+Consilio,VND-0113,consilio
+UnitedLex,VND-0114,unitedlex
+QuisLex,VND-0115,quislex
+Integreon,VND-0116,integreon
+Elevate,VND-0117,elevate
+Ensemble Health Partners,VND-0118,ensemble health partners
+R1 RCM,VND-0119,r1 rcm
+Optum,VND-0120,optum
+Conifer Health Solutions,VND-0121,conifer health solutions
+AGS Health,VND-0122,ags health
+Omega Healthcare,VND-0123,omega healthcare
+Broadridge,VND-0124,broadridge
+SS&C Technologies,VND-0125,ss&c technologies
+DXC Insurance,VND-0126,dxc insurance
+Hexaware,VND-0127,hexaware
+SD Worx,VND-0128,sd worx
+TMF Group,VND-0129,tmf group
+CloudPay,VND-0130,cloudpay
+Neeyamo,VND-0131,neeyamo
+Ramco Systems,VND-0132,ramco systems
+isolved,VND-0133,isolved
+Paycom,VND-0134,paycom
+Paylocity,VND-0135,paylocity
+Zellis,VND-0136,zellis
+Benefitfocus,VND-0137,benefitfocus
+Businessolver,VND-0138,businessolver
+Alight,VND-0139,alight
+Velocity Global,VND-0140,velocity global
+Multiplier,VND-0141,multiplier
+Oyster HR,VND-0142,oyster hr
+Safeguard Global,VND-0143,safeguard global
+ADP TotalSource,VND-0144,adp totalsource
+Insperity,VND-0145,insperity
+TriNet,VND-0146,trinet
+Justworks,VND-0147,justworks
+Rippling,VND-0148,rippling
+Cornerstone OnDemand,VND-0149,cornerstone ondemand
+Skillsoft,VND-0150,skillsoft
+Pontoon Solutions,VND-0151,pontoon solutions
+Guidant Global,VND-0152,guidant global
+SimplifyVMS,VND-0153,simplifyvms
+SAP Fieldglass,VND-0154,sap fieldglass
+Coupa Contingent Workforce,VND-0155,coupa contingent workforce
+TEKsystems,VND-0156,teksystems
+Aerotek,VND-0157,aerotek
+Innova Solutions,VND-0158,innova solutions
+ASGN,VND-0159,asgn
+Kforce,VND-0160,kforce
+Employbridge,VND-0161,employbridge
+TrueBlue,VND-0162,trueblue
+Hudson RPO,VND-0163,hudson rpo
+Aya Healthcare,VND-0164,aya healthcare
+Cross Country Healthcare,VND-0165,cross country healthcare
+AMN Healthcare,VND-0166,amn healthcare
+Thoughtworks,VND-0167,thoughtworks
+Endava,VND-0168,endava
+Softserve,VND-0169,softserve
+Zensar Technologies,VND-0170,zensar technologies
+Cyient,VND-0171,cyient
+Birlasoft,VND-0172,birlasoft
+Coforge,VND-0173,coforge
+Unisys,VND-0174,unisys
+SentinelOne,VND-0175,sentinelone
+Zscaler,VND-0176,zscaler
+Fortinet,VND-0177,fortinet
+Mandiant,VND-0178,mandiant
+Rapid7,VND-0179,rapid7
+Qualys,VND-0180,qualys
+Tenable,VND-0181,tenable
+Arctic Wolf,VND-0182,arctic wolf
+Sophos,VND-0183,sophos
+Secureworks,VND-0184,secureworks
+LevelBlue,VND-0185,levelblue
+Auxis,VND-0186,auxis
+Datamatics,VND-0187,datamatics
+Personiv,VND-0188,personiv
+eClerx,VND-0189,eclerx
+Oracle Procurement Cloud,VND-0190,oracle procurement cloud
+Corcentric,VND-0191,corcentric
+Xchanging,VND-0192,xchanging
+WNS Procurement,VND-0193,wns procurement
+IBM Procurement,VND-0194,ibm procurement
+Infosys BPM,VND-0195,infosys bpm
+Nippon Express,VND-0196,nippon express
+DB Schenker,VND-0197,db schenker
+Sinotrans,VND-0198,sinotrans
+Expeditors,VND-0199,expeditors
+Flexport,VND-0200,flexport
+RXO,VND-0201,rxo
+TQL,VND-0202,tql
+Echo Global Logistics,VND-0203,echo global logistics
+J.B. Hunt,VND-0204,j.b. hunt
+Amazon Logistics,VND-0205,amazon logistics
+LaserShip/OnTrac,VND-0206,lasership/ontrac
+Uber Freight,VND-0207,uber freight
+GardaWorld,VND-0208,gardaworld
+Savills,VND-0209,savills
+Newmark,VND-0210,newmark
+BrightView,VND-0211,brightview
+C&W Services,VND-0212,c&w services
+Planned Companies,VND-0213,planned companies
+West Monroe,VND-0214,west monroe
+Booz Allen Hamilton,VND-0215,booz allen hamilton
+Slalom,VND-0216,slalom
+Protiviti,VND-0217,protiviti
+BDO USA,VND-0218,bdo usa
+Grant Thornton,VND-0219,grant thornton
+RSM US,VND-0220,rsm us
+CliftonLarsonAllen,VND-0221,cliftonlarsonallen
+10Clouds,VND-0222,10clouds
+365 Retail Markets,VND-0223,365 retail markets
+4change consulting,VND-0224,4change consulting
+75F,VND-0225,75f
+8x8,VND-0226,8x8
+A2Z EMS,VND-0227,a2z ems
+AB Tasty,VND-0228,ab tasty
+ABB,VND-0229,abb
+ABB/Hitachi Energy,VND-0230,abb/hitachi energy
+ABF Freight,VND-0231,abf freight
+ABM,VND-0232,abm
+ACDi,VND-0233,acdi
+ADP SmartCompliance,VND-0234,adp smartcompliance
+AECOM,VND-0235,aecom
+AGM Container Controls,VND-0236,agm container controls
+AIT,VND-0237,ait
+AIT Worldwide,VND-0238,ait worldwide
+AIVEDA,VND-0239,aiveda
+AMT Medical,VND-0240,amt medical
+APi,VND-0241,api
+ASTM International,VND-0242,astm international
+AT&T Business,VND-0243,at&t business
+AWS,VND-0244,aws
+AWS Backup,VND-0245,aws backup
+AWS DMS,VND-0246,aws dms
+AWS Elemental,VND-0247,aws elemental
+AWS Rekognition,VND-0248,aws rekognition
+Accent (Accent Food Services),VND-0249,accent (accent food services)
+Accent Food Services,VND-0250,accent food services
+Accenture Security,VND-0251,accenture security
+Accenture Song,VND-0252,accenture song
+Accessibility.Works,VND-0253,accessibility.works
+Acción Performance,VND-0254,acción performance
+Acclaro,VND-0255,acclaro
+Aclara (Hubbell),VND-0256,aclara (hubbell)
+Acolad,VND-0257,acolad
+ActionPak,VND-0258,actionpak
+ActiveFence,VND-0259,activefence
+Acumen Legal,VND-0260,acumen legal
+Acxiom,VND-0261,acxiom
+Addepto,VND-0262,addepto
+Adobe AEM Assets,VND-0263,adobe aem assets
+Adobe Analytics,VND-0264,adobe analytics
+Adobe Content Cloud,VND-0265,adobe content cloud
+Advanced Tech Svcs,VND-0266,advanced tech svcs
+Advanced Technologies,VND-0267,advanced technologies
+Aetion,VND-0268,aetion
+Alamon Inc.,VND-0269,alamon inc.
+Alation,VND-0270,alation
+Alcast,VND-0271,alcast
+Aldridge Electric,VND-0272,aldridge electric
+AlertMedia,VND-0273,alertmedia
+Alexander Mann,VND-0274,alexander mann
+Alight Solutions,VND-0275,alight solutions
+Alinea,VND-0276,alinea
+Alinea Customs,VND-0277,alinea customs
+AlixPartners,VND-0278,alixpartners
+All Packaging Solutions,VND-0279,all packaging solutions
+Allegis Group,VND-0280,allegis group
+AllenComm,VND-0281,allencomm
+Allied Universal (Executive Protection),VND-0282,allied universal (executive protection)
+Allucent,VND-0283,allucent
+Alpega,VND-0284,alpega
+Alpha Omega Translations,VND-0285,alpha omega translations
+AlphaSense,VND-0286,alphasense
+Alt Legal,VND-0287,alt legal
+Altair,VND-0288,altair
+Altasciences,VND-0289,altasciences
+Amazon CloudWatch,VND-0290,amazon cloudwatch
+Amazon Prime Video Tech,VND-0291,amazon prime video tech
+Amazon S3 Glacier,VND-0292,amazon s3 glacier
+Amelia,VND-0293,amelia
+Ameresco,VND-0294,ameresco
+America (Assumed ABM),VND-0295,america (assumed abm)
+Americold,VND-0296,americold
+Aminad,VND-0297,aminad
+Amphora,VND-0298,amphora
+Amplity,VND-0299,amplity
+Anaplan,VND-0300,anaplan
+Andovar,VND-0301,andovar
+Animal Logic,VND-0302,animal logic
+Ankura,VND-0303,ankura
+Annotell,VND-0304,annotell
+Anolytics,VND-0305,anolytics
+Ansible,VND-0306,ansible
+Answernet,VND-0307,answernet
+Ansys,VND-0308,ansys
+Anthem,VND-0309,anthem
+Antidote,VND-0310,antidote
+AnyDesk,VND-0311,anydesk
+Apex Companies,VND-0312,apex companies
+Apex Group,VND-0313,apex group
+Apexon,VND-0314,apexon
+AppLovin (Mobile Focus),VND-0315,applovin (mobile focus)
+AppRecode,VND-0316,apprecode
+Appen,VND-0317,appen
+Applause,VND-0318,applause
+Applied Tech Svcs,VND-0319,applied tech svcs
+Applied Technical Services,VND-0320,applied technical services
+Aptagon Technologies,VND-0321,aptagon technologies
+Aptive Environmental,VND-0322,aptive environmental
+Aquanima,VND-0323,aquanima
+Aramark Refreshments,VND-0324,aramark refreshments
+ArcBest,VND-0325,arcbest
+Archive360,VND-0326,archive360
+Ardoq,VND-0327,ardoq
+Argilla,VND-0328,argilla
+ArisGlobal,VND-0329,arisglobal
+Arista Networks,VND-0330,arista networks
+Arize AI,VND-0331,arize ai
+Arriello,VND-0332,arriello
+Arrive,VND-0333,arrive
+Arrive Logistics,VND-0334,arrive logistics
+Arrow Medical,VND-0335,arrow medical
+Arthur,VND-0336,arthur
+Aruba (HPE),VND-0337,aruba (hpe)
+Aryaka,VND-0338,aryaka
+Ask Sage,VND-0339,ask sage
+AskDataEntry,VND-0340,askdataentry
+Aspire Scientific,VND-0341,aspire scientific
+Asplundh,VND-0342,asplundh
+Assa Abloy,VND-0343,assa abloy
+Assa Abloy (HID),VND-0344,assa abloy (hid)
+AssetWorks,VND-0345,assetworks
+Astronomer,VND-0346,astronomer
+Atlan,VND-0347,atlan
+Atlas Industrial,VND-0348,atlas industrial
+Atlassian,VND-0349,atlassian
+Atsuro Global,VND-0350,atsuro global
+Atwell,VND-0351,atwell
+AuditBoard,VND-0352,auditboard
+Augury,VND-0353,augury
+AutoCruitment,VND-0354,autocruitment
+Automation Anywhere,VND-0355,automation anywhere
+Automation Solutions of America,VND-0356,automation solutions of america
+Auxochromofours,VND-0357,auxochromofours
+Avaya,VND-0358,avaya
+Avercast,VND-0359,avercast
+Averna,VND-0360,averna
+Avid (MediaCentral),VND-0361,avid (mediacentral)
+Avis Budget Group,VND-0362,avis budget group
+Avison Young,VND-0363,avison young
+Awesense,VND-0364,awesense
+Axiom,VND-0365,axiom
+Axis Communications,VND-0366,axis communications
+Axle Logistics,VND-0367,axle logistics
+AxleHire,VND-0368,axlehire
+AxleHire/Jitsu,VND-0369,axlehire/jitsu
+Aya Data,VND-0370,aya data
+Azumo,VND-0371,azumo
+BBK Worldwide,VND-0372,bbk worldwide
+BESTMSLs,VND-0373,bestmsls
+BGR Group,VND-0374,bgr group
+BMC,VND-0375,bmc
+BMC Helix Discovery,VND-0376,bmc helix discovery
+BNSF,VND-0377,bnsf
+BT (British Telecom),VND-0378,bt (british telecom)
+Bain & Company,VND-0379,bain & company
+Bain & Company,VND-0380,bain & company
+Bakken & Baeck,VND-0381,bakken & baeck
+BambooHR,VND-0382,bamboohr
+Bartlett Tree,VND-0383,bartlett tree
+Bartlett Tree Experts,VND-0384,bartlett tree experts
+Base64.ai,VND-0385,base64.ai
+BayWa r.e.,VND-0386,baywa r.e.
+Beehive,VND-0387,beehive
+Bell and Howell,VND-0388,bell and howell
+Beltmann,VND-0389,beltmann
+Beltmann Integrated Logistics,VND-0390,beltmann integrated logistics
+Benchmark,VND-0391,benchmark
+Benchmark Electronics,VND-0392,benchmark electronics
+BentoML,VND-0393,bentoml
+Better Stack,VND-0394,better stack
+BetterCloud,VND-0395,bettercloud
+BetterUp,VND-0396,betterup
+Bidgely,VND-0397,bidgely
+BigStar Copywriting,VND-0398,bigstar copywriting
+Bioclinica,VND-0399,bioclinica
+Biopac,VND-0400,biopac
+Biotrial,VND-0401,biotrial
+BitCan,VND-0402,bitcan
+Blanchard,VND-0403,blanchard
+BluEnt,VND-0404,bluent
+Blue Ridge,VND-0405,blue ridge
+Blue Yonder,VND-0406,blue yonder
+BlueCat,VND-0407,bluecat
+BlueReg Group,VND-0408,bluereg group
+Bluelock,VND-0409,bluelock
+Bluepoof,VND-0410,bluepoof
+Boston Consulting Group,VND-0411,boston consulting group
+Boyds Consultants,VND-0412,boyds consultants
+Brady Technologies,VND-0413,brady technologies
+Branch Furniture,VND-0414,branch furniture
+Brand New Copy,VND-0415,brand new copy
+Braze,VND-0416,braze
+Bright Machines,VND-0417,bright machines
+BrightEdge,VND-0418,brightedge
+Brightcove,VND-0419,brightcove
+Bright Star Logistics,VND-0420,bright star logistics
+Broadcast Management Group,VND-0421,broadcast management group
+Brownstein Hyatt,VND-0422,brownstein hyatt
+Bugcrowd,VND-0423,bugcrowd
+Bureau Veritas,VND-0424,bureau veritas
+Burton Energy Group,VND-0425,burton energy group
+Business (Unknown),VND-0426,business (unknown)
+Byte Technology,VND-0427,byte technology
+CAMS,VND-0428,cams
+CAMS (FlexGen),VND-0429,cams (flexgen)
+CBRE (Host),VND-0430,cbre (host)
+CEB/Gartner,VND-0431,ceb/gartner
+CEVA,VND-0432,ceva
+CISAC (Rights Mgmt),VND-0433,cisac (rights mgmt)
+CISAC Societies,VND-0434,cisac societies
+CMIT Solutions,VND-0435,cmit solutions
+CRST,VND-0436,crst
+CTG,VND-0437,ctg
+CURTIS Digital,VND-0438,curtis digital
+CVS Caremark,VND-0439,cvs caremark
+CX Interglobal,VND-0440,cx interglobal
+C\&W (Cushman & Wakefield),VND-0441,c\&w (cushman & wakefield)
+Call Masters BPO,VND-0442,call masters bpo
+CalypsoAI,VND-0443,calypsoai
+Cambridge Proofreading,VND-0444,cambridge proofreading
+Candex,VND-0445,candex
+Canon Business Process,VND-0446,canon business process
+Canon Business Process Services,VND-0447,canon business process services
+Canonical,VND-0448,canonical
+Canteen,VND-0449,canteen
+Canteen (Compass Group),VND-0450,canteen (compass group)
+Canteen (Compass),VND-0451,canteen (compass)
+Capital Rx,VND-0452,capital rx
+Capstone Logistics,VND-0453,capstone logistics
+Capstone Logistics,VND-0454,capstone logistics
+CarbonBetter,VND-0455,carbonbetter
+Carlson Tool,VND-0456,carlson tool
+Carr Lane,VND-0457,carr lane
+Carrier (Automated Logic),VND-0459,carrier (automated logic)
+Casetext,VND-0460,casetext
+Castor EDC,VND-0461,castor edc
+Catalent,VND-0462,catalent
+Catalyst Rx,VND-0463,catalyst rx
+Catch,VND-0464,catch
+Catch & Release,VND-0465,catch & release
+Cedar Financial,VND-0467,cedar financial
+Celestica,VND-0468,celestica
+Celestica Inc,VND-0469,celestica inc
+Celonis,VND-0470,celonis
+Center for Creative Leadership,VND-0471,center for creative leadership
+Center for Creative Leadership,VND-0472,center for creative leadership
+Centific,VND-0473,centific
+Ceridian,VND-0474,ceridian
+Ceridian Dayforce,VND-0475,ceridian dayforce
+Certara,VND-0476,certara
+Certara Synchrogenix,VND-0477,certara synchrogenix
+Certus Pest,VND-0478,certus pest
+Chain IQ,VND-0479,chain iq
+Chainalytics,VND-0480,chainalytics
+Chalk,VND-0481,chalk
+Checkr,VND-0482,checkr
+Checkstep,VND-0483,checkstep
+Chef Software,VND-0484,chef software
+Chermayeff & Geismar & Haviv,VND-0485,chermayeff & geismar & haviv
+Cigna,VND-0486,cigna
+Cigniti,VND-0487,cigniti
+CircuitHub,VND-0488,circuithub
+Cisco Systems,VND-0489,cisco systems
+Cisco Meraki,VND-0490,cisco meraki
+Cisco Security,VND-0491,cisco security
+Cisco Webex,VND-0492,cisco webex
+CivicPlus,VND-0493,civicplus
+Clara Health (M\&B Sciences),VND-0494,clara health (m\&b sciences)
+Clarifai,VND-0495,clarifai
+Clario,VND-0496,clario
+Clarivate,VND-0497,clarivate
+Clarivate,VND-0498,clarivate
+Clay (Clay Global),VND-0499,clay (clay global)
+Cleanlab,VND-0500,cleanlab
+Cleveroad,VND-0501,cleveroad
+Clintar,VND-0502,clintar
+CloudBolt,VND-0503,cloudbolt
+CloudFactory,VND-0504,cloudfactory
+CloudHealth,VND-0505,cloudhealth
+Cloudbyz,VND-0506,cloudbyz
+Cloudzerox,VND-0507,cloudzerox
+CoStar,VND-0508,costar
+Cobalt Robotics,VND-0509,cobalt robotics
+Codeless,VND-0510,codeless
+Cogent Communications,VND-0511,cogent communications
+Cogito,VND-0512,cogito
+Cogito Tech,VND-0513,cogito tech
+Cogneesol,VND-0514,cogneesol
+Cognex,VND-0515,cognex
+Cognigy,VND-0516,cognigy
+Cohere,VND-0517,cohere
+Cohesity,VND-0518,cohesity
+Collective,VND-0519,collective
+Collibra,VND-0520,collibra
+Collins,VND-0521,collins
+ComPsych,VND-0522,compsych
+Comarch,VND-0523,comarch
+Comet,VND-0524,comet
+Comfort (HVAC),VND-0525,comfort (hvac)
+Comfort Systems USA,VND-0526,comfort systems usa
+CommLab India,VND-0527,commlab india
+Commvault,VND-0528,commvault
+Company 3,VND-0529,company 3
+Compass Group (Front‑of‑House brands),VND-0530,compass group (front‑of‑house brands)
+Compose.ly,VND-0531,compose.ly
+Conectys,VND-0532,conectys
+ConnectCare,VND-0533,connectcare
+ConnectWise Control,VND-0534,connectwise control
+Connext Global Solutions,VND-0535,connext global solutions
+ConsensusCT,VND-0536,consensusct
+Constant Content,VND-0537,constant content
+Constellation Navigator,VND-0538,constellation navigator
+Content Guru (Storm),VND-0539,content guru (storm)
+ContentWriters,VND-0540,contentwriters
+Contently,VND-0541,contently
+Contextual AI,VND-0542,contextual ai
+Continuum,VND-0543,continuum
+Control Risks,VND-0544,control risks
+Convergix Automation,VND-0545,convergix automation
+Convoy,VND-0546,convoy
+Cool,VND-0547,cool
+Copy.ai,VND-0548,copy.ai
+Corbus,VND-0549,corbus
+Core & Main,VND-0550,core & main
+Core Development,VND-0551,core development
+Cornerstone Government Affairs,VND-0552,cornerstone government affairs
+Cornerstone Research,VND-0553,cornerstone research
+Corsearch,VND-0554,corsearch
+Corvus Janitorial,VND-0555,corvus janitorial
+Courier services,VND-0556,courier services
+Covenant Logistics,VND-0557,covenant logistics
+Coyle,VND-0558,coyle
+Craters & Freighters,VND-0559,craters & freighters
+Crawford Technologies,VND-0560,crawford technologies
+Creation Tech,VND-0561,creation tech
+CreatorIQ,VND-0562,creatoriq
+Credo AI,VND-0563,credo ai
+Crisp Thinking,VND-0564,crisp thinking
+Crisp Thinking (Behavioral),VND-0565,crisp thinking (behavioral)
+CriticalRiver,VND-0566,criticalriver
+CrossCo,VND-0567,crossco
+CrossCo (formerly J.A. King),VND-0568,crossco (formerly j.a. king)
+Crucial Data Solutions,VND-0569,crucial data solutions
+Cubettech,VND-0570,cubettech
+CurbWaste,VND-0572,curbwaste
+Customs Clearance Int'l,VND-0573,customs clearance int'l
+Customs Clearance Intl,VND-0574,customs clearance intl
+CyberArk,VND-0575,cyberark
+DCI Consulting,VND-0576,dci consulting
+DEKRA,VND-0577,dekra
+DEKRA North America,VND-0578,dekra north america
+DFMA (Boothroyd),VND-0579,dfma (boothroyd)
+DHL Returns,VND-0580,dhl returns
+DHL Supply Chain,VND-0581,dhl supply chain
+DNEG,VND-0582,dneg
+DNV,VND-0583,dnv
+DSD Renewables,VND-0584,dsd renewables
+Dalet,VND-0585,dalet
+Dash,VND-0586,dash
+Dashmetrics,VND-0587,dashmetrics
+DataRobot,VND-0588,datarobot
+DataRoot Labs,VND-0589,dataroot labs
+DataToBiz,VND-0590,datatobiz
+DataVLab,VND-0591,datavlab
+Databricks,VND-0592,databricks
+Datadog,VND-0593,datadog
+Datafield,VND-0594,datafield
+Datagen,VND-0595,datagen
+Datamatics Business Solutions,VND-0596,datamatics business solutions
+Dataversity,VND-0597,dataversity
+Davey Tree,VND-0598,davey tree
+Davey Tree (DRG),VND-0599,davey tree (drg)
+Davey Tree Expert Company,VND-0600,davey tree expert company
+Day Interpreting,VND-0601,day interpreting
+DayBlink,VND-0602,dayblink
+Dechert LLP,VND-0603,dechert llp
+Deepen AI,VND-0604,deepen ai
+Dell EMC,VND-0605,dell emc
+Deloitte AI Institute,VND-0606,deloitte ai institute
+Delphix,VND-0607,delphix
+Deluxe Entertainment,VND-0608,deluxe entertainment
+Dennemeyer,VND-0609,dennemeyer
+Dept,VND-0610,dept
+Deque Systems,VND-0611,deque systems
+Descartes,VND-0612,descartes
+Designity,VND-0613,designity
+Detroit Testing Laboratory,VND-0614,detroit testing laboratory
+Deutsche Telekom,VND-0615,deutsche telekom
+DevDocs,VND-0616,devdocs
+Dimerco,VND-0617,dimerco
+DisCO,VND-0618,disco
+DISCO,VND-0619,disco
+Diversified Billing,VND-0620,diversified billing
+Domino Data Lab,VND-0621,domino data lab
+DoorDash,VND-0622,doordash
+Dragon Innovation,VND-0623,dragon innovation
+Drift,VND-0624,drift
+Droga5,VND-0625,droga5
+Dubbing Brothers,VND-0626,dubbing brothers
+Duck.Design,VND-0627,duck.design
+Duff & Phelps (Kroll),VND-0628,duff & phelps (kroll)
+Duke Reporters' Lab,VND-0629,duke reporters' lab
+Dycom Industries,VND-0630,dycom industries
+Dynamic 3PL,VND-0631,dynamic 3pl
+Dynatrace,VND-0632,dynatrace
+Dynaway,VND-0633,dynaway
+E-Complish,VND-0634,e-complish
+EDF Renewables,VND-0635,edf renewables
+EDMI (OSAKI),VND-0636,edmi (osaki)
+ELM Utility Services,VND-0637,elm utility services
+EMCOR,VND-0638,emcor
+EMS Inc,VND-0639,ems inc
+ENGIE Impact,VND-0640,engie impact
+EPAM Systems,VND-0641,epam systems
+EPC Energy,VND-0642,epc energy
+EPE Consulting,VND-0643,epe consulting
+EPG/Ehrhardt Partner Group,VND-0644,epg/ehrhardt partner group
+ERM,VND-0645,erm
+EVERSANA,VND-0646,eversana
+EXL Analytics,VND-0647,exl analytics
+EY Advisory,VND-0648,ey advisory
+EY-Parthenon,VND-0649,ey-parthenon
+Earth Class Mail,VND-0650,earth class mail
+Eaton,VND-0651,eaton
+Eaton (Brightlayer),VND-0652,eaton (brightlayer)
+Echo,VND-0653,echo
+Echo Global,VND-0654,echo global
+Ecolab,VND-0655,ecolab
+Ecolab Pest Elimination,VND-0656,ecolab pest elimination
+Ecom,VND-0657,ecom
+Ecom Logistics,VND-0658,ecom logistics
+Edelman,VND-0659,edelman
+EditShare,VND-0660,editshare
+Editage,VND-0661,editage
+Elastic,VND-0662,elastic
+Elastic Security,VND-0663,elastic security
+Electric Sheep Robotics,VND-0665,electric sheep robotics
+Element Facility Services,VND-0666,element facility services
+Element Materials,VND-0667,element materials
+Elementary,VND-0668,elementary
+Elevator,VND-0669,elevator
+Elior,VND-0670,elior
+Elior North America,VND-0671,elior north america
+Emerging: Anolytics,VND-0672,emerging: anolytics
+Emerging: Cogito Tech,VND-0673,emerging: cogito tech
+Emerging: Ollang,VND-0674,emerging: ollang
+Emerging: Papercup (RWS 2025\),VND-0675,emerging: papercup (rws 2025\)
+Emerging: StanzaGo,VND-0676,emerging: stanzago
+Emerging: Translated,VND-0677,emerging: translated
+Emerson (Ovation Green),VND-0678,emerson (ovation green)
+Emerson (Ovation),VND-0679,emerson (ovation)
+Encord,VND-0680,encord
+EnerNex,VND-0681,enernex
+Energy Systems Group,VND-0682,energy systems group
+Engie,VND-0683,engie
+ENGIE Impact,VND-0684,engie impact
+Ennov,VND-0685,ennov
+Enspi.io,VND-0686,enspi.io
+Enterprise,VND-0687,enterprise
+Enterprise Commute (Commute with Enterprise),VND-0688,enterprise commute (commute with enterprise)
+Envoy,VND-0689,envoy
+Envoy Global,VND-0690,envoy global
+Epiq,VND-0691,epiq
+Eptura,VND-0692,eptura
+EqualWeb,VND-0693,equalweb
+Equinix,VND-0694,equinix
+Esevel,VND-0695,esevel
+Estes,VND-0696,estes
+Esyasoft,VND-0697,esyasoft
+Eton Venture,VND-0698,eton venture
+EverHelp,VND-0699,everhelp
+Everest Group,VND-0700,everest group
+Evergreen Smart Power,VND-0701,evergreen smart power
+Everlaw,VND-0702,everlaw
+Everstream,VND-0703,everstream
+Everstream Analytics,VND-0704,everstream analytics
+Eviden,VND-0705,eviden
+Eviden (Atos),VND-0706,eviden (atos)
+Evidently AI,VND-0707,evidently ai
+Evidera,VND-0708,evidera
+Evisort,VND-0709,evisort
+Exela Technologies,VND-0710,exela technologies
+Expel,VND-0711,expel
+Experian Employer Services,VND-0712,experian employer services
+Expleo,VND-0713,expleo
+Express Writers,VND-0714,express writers
+EzCater,VND-0715,ezcater
+F2 Labs,VND-0716,f2 labs
+F5,VND-0717,f5
+FGS Global,VND-0718,fgs global
+FIS,VND-0719,fis
+FLIR Systems,VND-0720,flir systems
+FRCH,VND-0721,frch
+FTZ Specialists,VND-0722,ftz specialists
+Facebook (Meta) Safety Team,VND-0723,facebook (meta) safety team
+Factor,VND-0724,factor
+Factorem,VND-0725,factorem
+FairMarkit,VND-0726,fairmarkit
+Farmer Brothers,VND-0727,farmer brothers
+Farrow,VND-0728,farrow
+Fathom,VND-0730,fathom
+Feather for Business,VND-0731,feather for business
+FedData,VND-0732,feddata
+FedEx,VND-0733,fedex
+FedEx Office,VND-0734,fedex office
+Fennel,VND-0735,fennel
+Fexa,VND-0736,fexa
+Fiddler AI,VND-0737,fiddler ai
+First Transit (Transdev U.S.),VND-0738,first transit (transdev u.s.)
+Fiserv,VND-0739,fiserv
+Fisher Phillips \+ BLDS \+ SolasAI,VND-0740,fisher phillips \+ blds \+ solasai
+Five,VND-0741,five
+Five Star Food Service,VND-0742,five star food service
+Fjord,VND-0743,fjord
+Flatiron Health,VND-0744,flatiron health
+Flatworld Solutions,VND-0745,flatworld solutions
+Fleet (Enterprise Fleet Mgmt),VND-0746,fleet (enterprise fleet mgmt)
+Fleetio,VND-0747,fleetio
+Flex,VND-0748,flex
+Flex Ltd,VND-0749,flex ltd
+Flexera,VND-0750,flexera
+Flexitricity,VND-0751,flexitricity
+Flexplates,VND-0752,flexplates
+Flip AI,VND-0753,flip ai
+Flipper,VND-0754,flipper
+Fluke,VND-0755,fluke
+Focus Lab,VND-0756,focus lab
+Foiwe,VND-0757,foiwe
+Foreign Trade Zone Board,VND-0759,foreign trade zone board
+Forrest Solutions,VND-0760,forrest solutions
+Forrester,VND-0761,forrester
+Fortanix,VND-0762,fortanix
+Forthmatch,VND-0763,forthmatch
+Fortive,VND-0764,fortive
+Fortrea,VND-0765,fortrea
+Forward Air,VND-0766,forward air
+FourKites,VND-0767,fourkites
+Foxconn,VND-0768,foxconn
+Foxconn (Hon Hai),VND-0769,foxconn (hon hai)
+Foxtronics EMS,VND-0770,foxtronics ems
+Fractal Analytics,VND-0771,fractal analytics
+Fractory,VND-0772,fractory
+Fragomen,VND-0773,fragomen
+Framestore,VND-0774,framestore
+Fresh Perspective,VND-0775,fresh perspective
+Freshworks,VND-0776,freshworks
+Freyr Solutions,VND-0777,freyr solutions
+Frog Design,VND-0778,frog design
+Fuelman,VND-0779,fuelman
+Fujitsu,VND-0780,fujitsu
+Full Fact,VND-0781,full fact
+GBA Logistics,VND-0782,gba logistics
+GBMP Consulting Group,VND-0783,gbmp consulting group
+GCDN,VND-0784,gcdn
+GDC Technology,VND-0785,gdc technology
+GDS Associates,VND-0786,gds associates
+GE Vernova,VND-0787,ge vernova
+GP Strategies,VND-0788,gp strategies
+GPRS,VND-0789,gprs
+GTT Communications,VND-0790,gtt communications
+GXO,VND-0791,gxo
+GardaWorld (Crisis24),VND-0792,gardaworld (crisis24)
+Gartner,VND-0793,gartner
+Gecko Robotics,VND-0794,gecko robotics
+Genco/FedEx Supply Chain,VND-0795,genco/fedex supply chain
+Genco UPS,VND-0796,genco ups
+Generac,VND-0797,generac
+Genesys Cloud CX,VND-0798,genesys cloud cx
+Genetec,VND-0799,genetec
+Geniusee,VND-0800,geniusee
+Geocycle,VND-0801,geocycle
+Geomotiv,VND-0802,geomotiv
+Geotab,VND-0803,geotab
+GetAnnotator,VND-0804,getannotator
+Getronics,VND-0805,getronics
+Gibbs Die Casting,VND-0806,gibbs die casting
+GitLab,VND-0807,gitlab
+Global Testing Laboratories,VND-0808,global testing laboratories
+Global Utility Services,VND-0809,global utility services
+GoldFynch,VND-0810,goldfynch
+Google Cloud,VND-0811,google cloud
+Google Fact Check Explorer,VND-0812,google fact check explorer
+Gordian,VND-0813,gordian
+Gradeup,VND-0814,gradeup
+Grading Technologies,VND-0815,grading technologies
+Grainger,VND-0816,grainger
+GreenStruxure,VND-0817,greenstruxure
+Greenhouse,VND-0818,greenhouse
+Gretel.ai,VND-0819,gretel.ai
+Group,VND-0820,group
+GroupM,VND-0821,groupm
+Growing,VND-0822,growing
+Guardian Life,VND-0824,guardian life
+Guidehouse,VND-0825,guidehouse
+H.B. Maynard,VND-0826,h.b. maynard
+H2O.ai,VND-0827,h2o.ai
+HB NEXT Energy,VND-0828,hb next energy
+HBR Consulting,VND-0829,hbr consulting
+HP (Managed Print),VND-0830,hp (managed print)
+HP/HPE,VND-0831,hp/hpe
+HPE,VND-0832,hpe
+HQTS,VND-0833,hqts
+HSI,VND-0834,hsi
+HackerOne,VND-0835,hackerone
+Hackmamba,VND-0836,hackmamba
+Hallcon,VND-0837,hallcon
+Hanwha Vision,VND-0838,hanwha vision
+Harness,VND-0839,harness
+HashiCorp,VND-0840,hashicorp
+Haven Metrology,VND-0841,haven metrology
+Haworth (Integrated Services),VND-0842,haworth (integrated services)
+Hay Group,VND-0843,hay group
+Hazy,VND-0844,hazy
+Hearthside Food,VND-0845,hearthside food
+HelpSquad,VND-0846,helpsquad
+HelpSquad BPO,VND-0847,helpsquad bpo
+Henkels & McCoy,VND-0848,henkels & mccoy
+Hertz,VND-0849,hertz
+HiTech Digital,VND-0850,hitech digital
+HiddenLayer,VND-0851,hiddenlayer
+HighJump,VND-0853,highjump
+Hitachi Energy,VND-0854,hitachi energy
+Hive AI,VND-0855,hive ai
+Holman,VND-0856,holman
+Honeywell,VND-0857,honeywell
+Hoodzpah,VND-0858,hoodzpah
+Horizon Media,VND-0859,horizon media
+Houlihan Lokey,VND-0860,houlihan lokey
+HqO,VND-0861,hqo
+Hub Group,VND-0862,hub group
+Huge,VND-0863,huge
+HumanSignal,VND-0864,humansignal
+Humanloop,VND-0865,humanloop
+HungerHub,VND-0866,hungerhub
+Hungry,VND-0867,hungry
+Hyperproof,VND-0868,hyperproof
+IARM,VND-0869,iarm
+IBM AI Fairness 360,VND-0870,ibm ai fairness 360
+IC System,VND-0871,ic system
+ICF,VND-0872,icf
+ICON plc,VND-0873,icon plc
+ICR Group,VND-0874,icr group
+IDC,VND-0875,idc
+IDEO,VND-0876,ideo
+IFS,VND-0877,ifs
+IHI Terrasun,VND-0878,ihi terrasun
+INKLUSIVE,VND-0879,inklusive
+IQ BackOffice,VND-0880,iq backoffice
+IQVIA,VND-0881,iqvia
+IQVIA Laboratories,VND-0882,iqvia laboratories
+IREC,VND-0883,irec
+IS Partners,VND-0884,is partners
+ISS,VND-0885,iss
+ISS Guckenheimer,VND-0886,iss guckenheimer
+IXICO plc,VND-0887,ixico plc
+Icertis,VND-0888,icertis
+IDEO,VND-0889,ideo
+Image Core Lab (ICL),VND-0890,image core lab (icl)
+Imaginary Cloud,VND-0891,imaginary cloud
+Impark,VND-0892,impark
+Increditors,VND-0893,increditors
+Indicate Tech,VND-0894,indicate tech
+Infios (Körber Supply Chain Software),VND-0895,infios (körber supply chain software)
+Influential,VND-0896,influential
+Infoblox,VND-0897,infoblox
+Infopro Learning,VND-0898,infopro learning
+Infor,VND-0899,infor
+Informatica MDM,VND-0900,informatica mdm
+Infosec,VND-0901,infosec
+Inizio Engage,VND-0902,inizio engage
+Innosight,VND-0903,innosight
+Inoxoft,VND-0905,inoxoft
+Insight Sourcing,VND-0906,insight sourcing
+Integral Recoveries,VND-0907,integral recoveries
+Interbrand,VND-0908,interbrand
+Intercom,VND-0909,intercom
+Interstate Warehousing,VND-0910,interstate warehousing
+Intertek,VND-0911,intertek
+Intuendi,VND-0912,intuendi
+Invariant,VND-0913,invariant
+Invensis,VND-0914,invensis
+InvoiceCloud,VND-0915,invoicecloud
+Ipsos,VND-0916,ipsos
+Irdeto,VND-0917,irdeto
+Iron Mountain,VND-0918,iron mountain
+Iron Planet,VND-0919,iron planet
+Ironclad,VND-0920,ironclad
+Iterable,VND-0921,iterable
+Iterative,VND-0922,iterative
+Itron,VND-0923,itron
+Itron Inc.,VND-0924,itron inc.
+Ivanti,VND-0925,ivanti
+Ivanti UEM,VND-0926,ivanti uem
+Iyuno,VND-0927,iyuno
+Iyuno-SDI,VND-0928,iyuno-sdi
+JLL (Horizon/Jet),VND-0929,jll (horizon/jet)
+JR Automation,VND-0930,jr automation
+Jabil,VND-0931,jabil
+Jabil Inc,VND-0932,jabil inc
+Jacobs,VND-0933,jacobs
+Jellyfish,VND-0934,jellyfish
+Jeyflex,VND-0935,jeyflex
+Jitsu,VND-0936,jitsu
+Joele Frank Wilkinson,VND-0937,joele frank wilkinson
+Johnson Banks,VND-0938,johnson banks
+Johnson Controls,VND-0939,johnson controls
+Jonco Industries,VND-0940,jonco industries
+Joyride Coffee,VND-0941,joyride coffee
+Juniper,VND-0942,juniper
+Juniper Landscaping,VND-0943,juniper landscaping
+K2view,VND-0944,k2view
+KBS (Kellermeyer Bergensons Services),VND-0945,kbs (kellermeyer bergensons services)
+KBS (Kellermeyer Bergensons),VND-0946,kbs (kellermeyer bergensons)
+KDMX (Pixelogic+Unique X),VND-0947,kdmx (pixelogic+unique x)
+KIK Consumer,VND-0948,kik consumer
+KJT Group,VND-0949,kjt group
+KRC Machine Tool,VND-0950,krc machine tool
+Kaizen Institute,VND-0951,kaizen institute
+Kameleoon,VND-0952,kameleoon
+Kantar,VND-0953,kantar
+Kantar Media,VND-0954,kantar media
+Kendle Healthcare,VND-0955,kendle healthcare
+Keywords Studios,VND-0956,keywords studios
+Kimball,VND-0957,kimball
+Kinaxis,VND-0958,kinaxis
+Kintetsu,VND-0959,kintetsu
+Kion,VND-0960,kion
+Kisi,VND-0961,kisi
+Klaviyo,VND-0962,klaviyo
+KleenMark,VND-0963,kleenmark
+Kleenup,VND-0964,kleenup
+Knight-Swift,VND-0965,knight-swift
+Knightscope,VND-0966,knightscope
+KnowBe4,VND-0967,knowbe4
+KONE,VND-0968,kone
+Konica Minolta,VND-0969,konica minolta
+Koppers Utility,VND-0970,koppers utility
+Kore.ai,VND-0971,kore.ai
+Kotter,VND-0972,kotter
+Kroll,VND-0973,kroll
+Kronos,VND-0974,kronos
+Kyteway eLearning,VND-0975,kyteway elearning
+Kyvos,VND-0976,kyvos
+LAZ Parking,VND-0977,laz parking
+LILT,VND-0978,lilt
+LMG Security,VND-0979,lmg security
+LORENZ Life Sciences Group,VND-0980,lorenz life sciences group
+LXT,VND-0981,lxt
+L&T Technology,VND-0982,l&t technology
+LabCorp,VND-0983,labcorp
+LabTest Certification,VND-0984,labtest certification
+Labcorp Drug Development,VND-0985,labcorp drug development
+Labcorp/Covance,VND-0986,labcorp/covance
+Label Your Data,VND-0987,label your data
+Labelbox,VND-0988,labelbox
+Labellerr,VND-0989,labellerr
+Laboratory Testing,VND-0990,laboratory testing
+Laboratory Testing Inc,VND-0991,laboratory testing inc
+Lakera,VND-0992,lakera
+Landis+Gyr,VND-0993,landis+gyr
+Landor,VND-0994,landor
+Landor & Fitch,VND-0995,landor & fitch
+Landstar System,VND-0996,landstar system
+LangChain,VND-0997,langchain
+LangSmith,VND-0998,langsmith
+Language Bear,VND-0999,language bear
+LanguageLine Solutions,VND-1000,languageline solutions
+Lasso Security,VND-1001,lasso security
+Launch,VND-1002,launch
+Launch Fulfillment,VND-1003,launch fulfillment
+LawFlex,VND-1004,lawflex
+LawGeex,VND-1005,lawgeex
+Lazard,VND-1006,lazard
+LeadOrigin,VND-1007,leadorigin
+League,VND-1008,league
+Learning Everest,VND-1009,learning everest
+LeaseAccelerator,VND-1010,leaseaccelerator
+LeasePlan,VND-1011,leaseplan
+Lee Hecht Harrison,VND-1012,lee hecht harrison
+LeewayHertz,VND-1013,leewayhertz
+LenelS2,VND-1014,lenels2
+Lenovo,VND-1015,lenovo
+LetPub,VND-1016,letpub
+LexisNexis IP,VND-1017,lexisnexis ip
+Lighthouse,VND-1018,lighthouse
+Lightly,VND-1019,lightly
+Lightly AI,VND-1020,lightly ai
+Lineage,VND-1021,lineage
+Lionbridge,VND-1022,lionbridge
+LiqTech,VND-1023,liqtech
+Liquidity Services,VND-1024,liquidity services
+Littler Mendelson,VND-1025,littler mendelson
+Livework,VND-1026,livework
+LogicSource,VND-1027,logicsource
+Logility,VND-1028,logility
+LogistiGate,VND-1029,logistigate
+Lokalise,VND-1030,lokalise
+Loop Returns,VND-1031,loop returns
+Lumen Technologies,VND-1032,lumen technologies
+M Moser Associates,VND-1033,m moser associates
+MG2,VND-1034,mg2
+MMS Holdings,VND-1035,mms holdings
+MOSTLY AI,VND-1036,mostly ai
+MRI Software,VND-1037,mri software
+MV Transportation,VND-1038,mv transportation
+MYR Group,VND-1039,myr group
+M\&M Automatic Products,VND-1040,m\&m automatic products
+Maco PKG,VND-1041,maco pkg
+Made4net,VND-1042,made4net
+Mage,VND-1043,mage
+Magellan Health,VND-1044,magellan health
+Magellan Rx,VND-1045,magellan rx
+MainStreaming,VND-1046,mainstreaming
+Maine Pointe,VND-1047,maine pointe
+Managed Outsource,VND-1048,managed outsource
+Mandiant (Google Cloud),VND-1049,mandiant (google cloud)
+Manfreight,VND-1050,manfreight
+Manhattan Associates,VND-1051,manhattan associates
+MannyAI,VND-1052,mannyai
+Market Dojo,VND-1053,market dojo
+MasTec,VND-1054,mastec
+Massey Services,VND-1055,massey services
+Maverick Utility,VND-1056,maverick utility
+MaxUS Ops,VND-1057,maxus ops
+Maxim AI,VND-1058,maxim ai
+McKinsey & Co,VND-1059,mckinsey & co
+McKinsey & Company,VND-1060,mckinsey & company
+Med Communications,VND-1061,med communications
+MediSpend,VND-1062,medispend
+Media.Monks,VND-1063,media.monks
+Median Technologies,VND-1064,median technologies
+Medidata,VND-1065,medidata
+Medidata RTSM,VND-1066,medidata rtsm
+Medidata Solutions,VND-1067,medidata solutions
+Mednet Solutions,VND-1068,mednet solutions
+Medpace,VND-1069,medpace
+Medpace Imaging Core Lab,VND-1070,medpace imaging core lab
+Medrio,VND-1071,medrio
+MentorCruise,VND-1072,mentorcruise
+Mercalis,VND-1073,mercalis
+Mercer,VND-1074,mercer
+Meridian Medical,VND-1075,meridian medical
+Meridian Medical Devices,VND-1076,meridian medical devices
+Merkle,VND-1077,merkle
+Merlin (Digital Rights),VND-1078,merlin (digital rights)
+Meta Appeals Team,VND-1079,meta appeals team
+MetaDesign,VND-1080,metadesign
+Metro Engineering,VND-1081,metro engineering
+Metropolis,VND-1082,metropolis
+Mi-Tech,VND-1083,mi-tech
+Michels Corporation,VND-1084,michels corporation
+MicronPA,VND-1085,micronpa
+Microsoft,VND-1086,microsoft
+Microsoft Azure,VND-1087,microsoft azure
+Microsoft Azure Archive,VND-1088,microsoft azure archive
+Microsoft Azure Purview,VND-1089,microsoft azure purview
+Microsoft Azure RMS,VND-1090,microsoft azure rms
+Microsoft Configuration Manager,VND-1091,microsoft configuration manager
+Microsoft Content Moderator,VND-1092,microsoft content moderator
+Microsoft Defender,VND-1093,microsoft defender
+Microsoft Entra,VND-1094,microsoft entra
+Microsoft Entra,VND-1095,microsoft entra
+Microsoft Fairlearn,VND-1096,microsoft fairlearn
+Microsoft Power BI,VND-1097,microsoft power bi
+Microsoft Sentinel,VND-1098,microsoft sentinel
+Microsoft Teams,VND-1099,microsoft teams
+MidStates Energy,VND-1100,midstates energy
+Midwest Powerline,VND-1101,midwest powerline
+MileMeter,VND-1102,milemeter
+Milestone Systems,VND-1103,milestone systems
+MillerKnoll (Herman Miller/Knoll),VND-1104,millerknoll (herman miller/knoll)
+Milsoft,VND-1105,milsoft
+Mindcrest,VND-1106,mindcrest
+Mindgard,VND-1107,mindgard
+Minitab,VND-1108,minitab
+Mintel,VND-1109,mintel
+Mischief,VND-1110,mischief
+Mitsubishi Heavy Industries,VND-1111,mitsubishi heavy industries
+Moburst,VND-1112,moburst
+ModSquad,VND-1113,modsquad
+ModelFront,VND-1114,modelfront
+Molecule Systems,VND-1115,molecule systems
+Momentum,VND-1116,momentum
+Morae Global,VND-1117,morae global
+Morpheus Data,VND-1118,morpheus data
+Motive,VND-1119,motive
+Motive Energy,VND-1120,motive energy
+Motor City Electric,VND-1121,motor city electric
+Motorola Solutions,VND-1122,motorola solutions
+Motorola Solutions (Avigilon),VND-1123,motorola solutions (avigilon)
+Moved,VND-1124,moved
+Mucho,VND-1125,mucho
+MuleSoft,VND-1126,mulesoft
+MuniBilling,VND-1127,munibilling
+Music Bed (Rights Mgmt),VND-1128,music bed (rights mgmt)
+Music Bed Pro,VND-1129,music bed pro
+N-iX,VND-1130,n-ix
+NCC Group,VND-1131,ncc group
+NEOLOKA,VND-1132,neoloka
+NEP Group,VND-1133,nep group
+NGINX,VND-1134,nginx
+NICE CXone,VND-1135,nice cxone
+NP Digital,VND-1136,np digital
+Naak,VND-1137,naak
+NannyML,VND-1138,nannyml
+Nanoprecise,VND-1139,nanoprecise
+Nanoprecise Sci Corp,VND-1140,nanoprecise sci corp
+Navigant,VND-1141,navigant
+Navitas Life Sciences,VND-1142,navitas life sciences
+Nelson Tree,VND-1143,nelson tree
+Nelson Tree Service,VND-1144,nelson tree service
+Nemko,VND-1145,nemko
+Neotech,VND-1146,neotech
+Neptune.ai,VND-1147,neptune.ai
+Netflix Technical Infrastructure,VND-1148,netflix technical infrastructure
+Netstock,VND-1149,netstock
+Network \+ Security Tech,VND-1150,network \+ security tech
+Neutra Life Sciences,VND-1151,neutra life sciences
+New Relic,VND-1152,new relic
+NewCold,VND-1153,newcold
+Newgen,VND-1154,newgen
+Nexdigm,VND-1155,nexdigm
+Next Kraftwerke,VND-1156,next kraftwerke
+Niche,VND-1157,niche
+Nielsen (Attribution),VND-1158,nielsen (attribution)
+Nielsen/comScore,VND-1159,nielsen/comscore
+North,VND-1160,north
+North Highland,VND-1161,north highland
+Nowports,VND-1162,nowports
+Nuix,VND-1163,nuix
+OATI,VND-1164,oati
+OCS Group,VND-1165,ocs group
+OM1,VND-1166,om1
+Ocean Tomo,VND-1167,ocean tomo
+OctoML,VND-1168,octoml
+Okta,VND-1169,okta
+Olameter,VND-1170,olameter
+Omnex,VND-1171,omnex
+Omnex/PlanTech,VND-1172,omnex/plantech
+Omnicom Media Group,VND-1173,omnicom media group
+Oncodesign Services,VND-1174,oncodesign services
+One Network,VND-1175,one network
+One Network Enterprises,VND-1176,one network enterprises
+OneReach.ai,VND-1177,onereach.ai
+Ontic,VND-1178,ontic
+Ontra,VND-1179,ontra
+OpenAI (Enterprise),VND-1180,openai (enterprise)
+OpenText/RWS Rights,VND-1181,opentext/rws rights
+Opporture,VND-1182,opporture
+Optimizely,VND-1183,optimizely
+Optimus,VND-1184,optimus
+Optio Solutions,VND-1185,optio solutions
+Oracle,VND-1186,oracle
+Oracle Cloud,VND-1187,oracle cloud
+Oracle Health Sciences,VND-1188,oracle health sciences
+Oracle Utilities,VND-1189,oracle utilities
+Orange (Orange Business),VND-1190,orange (orange business)
+Origin Mgmt,VND-1191,origin mgmt
+Originality.ai,VND-1192,originality.ai
+Orion Talent,VND-1193,orion talent
+Orkin,VND-1194,orkin
+Orkin (Rollins),VND-1195,orkin (rollins)
+Orq.ai,VND-1196,orq.ai
+Osmose,VND-1197,osmose
+Otis Worldwide,VND-1198,otis worldwide
+Outerbounds,VND-1199,outerbounds
+P.F. Collins,VND-1200,p.f. collins
+PA Media (with Journal FactCheck),VND-1201,pa media (with journal factcheck)
+PCI Energy Solutions,VND-1202,pci energy solutions
+PEKO Precision,VND-1203,peko precision
+PLS Logistics,VND-1204,pls logistics
+PPD (Thermo Fisher),VND-1205,ppd (thermo fisher)
+PRG (Project Resources),VND-1206,prg (project resources)
+Pacemakers (Licensing),VND-1207,pacemakers (licensing)
+PagerDuty,VND-1208,pagerduty
+PaperTrue,VND-1209,papertrue
+Paragon Medical,VND-1210,paragon medical
+Parallel Domain,VND-1211,parallel domain
+Parcel,VND-1212,parcel
+Parexel,VND-1213,parexel
+Parking,VND-1214,parking
+Parrot Analytics,VND-1215,parrot analytics
+Parsons,VND-1216,parsons
+PassiveLogic,VND-1217,passivelogic
+Patronus AI,VND-1218,patronus ai
+Pave Consulting,VND-1219,pave consulting
+Pearlfisher,VND-1220,pearlfisher
+Pegatron,VND-1221,pegatron
+Penji,VND-1222,penji
+Penske,VND-1223,penske
+Penske Ref,VND-1224,penske ref
+Pentagram,VND-1225,pentagram
+PeopleScout,VND-1226,peoplescout
+Perceptive eClinical,VND-1227,perceptive eclinical
+Performer,VND-1228,performer
+Performing Rights Society,VND-1229,performing rights society
+Persefoni,VND-1230,persefoni
+PharmaLex,VND-1231,pharmalex
+Pharmaron,VND-1232,pharmaron
+Phlexglobal,VND-1233,phlexglobal
+Phrase,VND-1234,phrase
+Pierpoint,VND-1235,pierpoint
+Pike Corporation,VND-1236,pike corporation
+Pinecone,VND-1237,pinecone
+Pinkerton,VND-1238,pinkerton
+Pitney Bowes,VND-1239,pitney bowes
+Pivotal CRO,VND-1240,pivotal cro
+Pixelogic,VND-1241,pixelogic
+PlanSource,VND-1242,plansource
+Planon,VND-1243,planon
+Platform Science,VND-1244,platform science
+Plexus,VND-1245,plexus
+Plexus Corp,VND-1246,plexus corp
+Plowz & Mowz,VND-1247,plowz & mowz
+PostHog,VND-1248,posthog
+PowerFleet,VND-1249,powerfleet
+PowerManager,VND-1250,powermanager
+Precisely,VND-1251,precisely
+Precision For Medicine,VND-1252,precision for medicine
+Prefect,VND-1253,prefect
+Premier Automation,VND-1254,premier automation
+Premier Research,VND-1255,premier research
+Prime Focus,VND-1256,prime focus
+PrimeVigilance (Ergomed),VND-1257,primevigilance (ergomed)
+Prismetric,VND-1258,prismetric
+Pro Pharma,VND-1259,pro pharma
+Pro QC,VND-1260,pro qc
+Pro QC International,VND-1261,pro qc international
+ProEng,VND-1262,proeng
+ProPharma,VND-1263,propharma
+Productivity Inc,VND-1264,productivity inc
+Prolec (Waukesha),VND-1265,prolec (waukesha)
+Prolific,VND-1266,prolific
+Prolifics,VND-1267,prolifics
+Prompt Security,VND-1268,prompt security
+PromptArmor,VND-1269,promptarmor
+Proof-Reading-Service.com,VND-1270,proof-reading-service.com
+Proofed,VND-1271,proofed
+Proofpoint,VND-1272,proofpoint
+ProofreadingPal,VND-1273,proofreadingpal
+ProofreadingServices.com,VND-1274,proofreadingservices.com
+Propio Language Services,VND-1275,propio language services
+Prosci,VND-1276,prosci
+Prosegur,VND-1277,prosegur
+Protect AI,VND-1278,protect ai
+Protolabs,VND-1279,protolabs
+Protos Security,VND-1280,protos security
+Proxyclick / Eptura Visitor,VND-1281,proxyclick / eptura visitor
+Publicis Media,VND-1282,publicis media
+Publicis Sapient,VND-1283,publicis sapient
+Puls,VND-1284,puls
+Puppet,VND-1285,puppet
+PwC Responsible AI,VND-1286,pwc responsible ai
+Pyramid Analytics,VND-1287,pyramid analytics
+QIMA,VND-1288,qima
+Qnovals,VND-1289,qnovals
+Qualitest,VND-1290,qualitest
+Quality Support Group,VND-1291,quality support group
+Quality-One,VND-1292,quality-one
+QualityKiosk,VND-1293,qualitykiosk
+QuantRisk,VND-1294,quantrisk
+Quanta Services,VND-1295,quanta services
+Quanta Technology,VND-1296,quanta technology
+Quantum Corporation,VND-1297,quantum corporation
+Quartica MARS,VND-1298,quartica mars
+Qube Cinema,VND-1299,qube cinema
+Quest Diagnostics,VND-1300,quest diagnostics
+Quiet Platforms,VND-1301,quiet platforms
+Quoreka,VND-1302,quoreka
+R2 Certified,VND-1303,r2 certified
+RDC,VND-1304,rdc
+RELEX,VND-1305,relex
+RES Group,VND-1306,res group
+RESA Power,VND-1307,resa power
+RIPE Media,VND-1308,ripe media
+RS Integrated Supply,VND-1309,rs integrated supply
+RWS,VND-1310,rws
+RWS Holdings,VND-1311,rws holdings
+Rabt Global,VND-1312,rabt global
+Radford,VND-1313,radford
+Radius Global Solutions,VND-1314,radius global solutions
+Rainforest QA,VND-1315,rainforest qa
+Ramotion,VND-1316,ramotion
+Randstad Sourceright,VND-1317,randstad sourceright
+RapidSOS,VND-1318,rapidsos
+Rare Patient Voice,VND-1319,rare patient voice
+ReStore,VND-1320,restore
+Real Chemistry,VND-1321,real chemistry
+RealPage,VND-1322,realpage
+Red Antler,VND-1323,red antler
+Red Banyan,VND-1324,red banyan
+Red Hat,VND-1325,red hat
+Red Points,VND-1326,red points
+Red Stag,VND-1327,red stag
+Red Stag Fulfillment,VND-1328,red stag fulfillment
+Redaptive,VND-1329,redaptive
+Redemption,VND-1330,redemption
+Redgate,VND-1331,redgate
+Reducto AI,VND-1332,reducto ai
+Reef Technology,VND-1333,reef technology
+Relativity,VND-1334,relativity
+ReliaSoft (Prenscia),VND-1335,reliasoft (prenscia)
+Relocation,VND-1336,relocation
+Rentokil Initial,VND-1337,rentokil initial
+Repairable Services,VND-1338,repairable services
+Republic Services,VND-1339,republic services
+ResQ,VND-1340,resq
+Reuters Fact Check,VND-1341,reuters fact check
+Rev,VND-1342,rev
+Reveal,VND-1343,reveal
+Reverse Logistics Mag Top 16,VND-1344,reverse logistics mag top 16
+ReverseLogix,VND-1345,reverselogix
+Revolution Group,VND-1346,revolution group
+Ricardo,VND-1347,ricardo
+Ricoh,VND-1348,ricoh
+Riggers Inc,VND-1349,riggers inc
+RightsFlow,VND-1350,rightsflow
+Rimkus,VND-1351,rimkus
+RingCentral,VND-1352,ringcentral
+RingCentral,VND-1353,ringcentral
+RiskMetrics,VND-1354,riskmetrics
+RitePack,VND-1355,ritepack
+Rival Tech,VND-1356,rival tech
+RoadRunner Recycling,VND-1357,roadrunner recycling
+Roadway,VND-1358,roadway
+Robin,VND-1359,robin
+Robotiq,VND-1360,robotiq
+Robust Intelligence,VND-1361,robust intelligence
+Rockwell Auto,VND-1362,rockwell auto
+Rockwell Automation,VND-1363,rockwell automation
+Rootstock,VND-1364,rootstock
+Rosendin Electric,VND-1365,rosendin electric
+Roto-Rooter,VND-1366,roto-rooter
+Royal Cup,VND-1367,royal cup
+Royal Cup Coffee & Tea,VND-1368,royal cup coffee & tea
+Rubicon,VND-1369,rubicon
+Ruder Finn,VND-1370,ruder finn
+Ryder,VND-1371,ryder
+Ryobi,VND-1372,ryobi
+S4 Studios,VND-1373,s4 studios
+SAP,VND-1374,sap
+SAP Cloud,VND-1375,sap cloud
+SAP IBP,VND-1376,sap ibp
+SAS,VND-1377,sas
+SCS Global,VND-1378,scs global
+SD Myers,VND-1379,sd myers
+SDI,VND-1380,sdi
+SEL,VND-1381,sel
+SEL (Schweitzer),VND-1382,sel (schweitzer)
+SGS,VND-1383,sgs
+SGS Life Sciences,VND-1384,sgs life sciences
+SKIM,VND-1385,skim
+SMO-Pharmina,VND-1386,smo-pharmina
+SP+ Corporation,VND-1387,sp+ corporation
+STI Electronics,VND-1388,sti electronics
+STR Trade,VND-1389,str trade
+SUSE,VND-1390,suse
+Saber Point Logistics,VND-1391,saber point logistics
+Saia Inc,VND-1392,saia inc
+SailPoint,VND-1393,sailpoint
+SailPoint,VND-1394,sailpoint
+Salesforce,VND-1395,salesforce
+SaltStack,VND-1396,saltstack
+Saltbox,VND-1397,saltbox
+Sama,VND-1398,sama
+Same as ST-SC-003-01-01,VND-1399,same as st-sc-003-01-01
+SameDay,VND-1400,sameday
+Sameday,VND-1401,sameday
+Samsara,VND-1402,samsara
+Sanmina,VND-1403,sanmina
+Sanmina Corporation,VND-1404,sanmina corporation
+Scale AI,VND-1405,scale ai
+Scalr,VND-1406,scalr
+Schellman,VND-1407,schellman
+Schindler,VND-1408,schindler
+Schneider Electric,VND-1409,schneider electric
+Schneider Electric,VND-1410,schneider electric
+Scoop (now through Workday/others),VND-1411,scoop (now through workday/others)
+Scribendi,VND-1412,scribendi
+Scythe Robotics,VND-1413,scythe robotics
+Second Sight Systems,VND-1414,second sight systems
+Secretariat,VND-1415,secretariat
+Security,VND-1416,security
+Sedgwick,VND-1417,sedgwick
+Segments.ai,VND-1418,segments.ai
+Seldon,VND-1419,seldon
+Sendle (B2B),VND-1420,sendle (b2b)
+Senn-Delaney,VND-1421,senn-delaney
+Sense (with L+G),VND-1422,sense (with l+g)
+Sensormatic,VND-1423,sensormatic
+Sensus (Xylem),VND-1424,sensus (xylem)
+Sepasoft,VND-1425,sepasoft
+ServiceNow,VND-1426,servicenow
+ServicePower,VND-1427,servicepower
+Services,VND-1428,services
+Services,VND-1429,services
+Shaip,VND-1430,shaip
+Sharebite,VND-1431,sharebite
+Sharon Merrill,VND-1432,sharon merrill
+ShipBob,VND-1433,shipbob
+ShipMonk,VND-1434,shipmonk
+ShipTop,VND-1435,shiptop
+Shipfusion,VND-1436,shipfusion
+Shipit,VND-1437,shipit
+Shipium,VND-1438,shipium
+Siege Media,VND-1439,siege media
+Siegel+Gale,VND-1440,siegel+gale
+Siemens,VND-1441,siemens
+Siemens Energy,VND-1442,siemens energy
+Siemens Smart Infrastructure,VND-1443,siemens smart infrastructure
+Siena Dev,VND-1444,siena dev
+Sierra Circuits,VND-1445,sierra circuits
+Sigmoid,VND-1446,sigmoid
+Signal,VND-1447,signal
+Simor Consulting,VND-1448,simor consulting
+Sirion,VND-1449,sirion
+Sitrick and Company,VND-1450,sitrick and company
+Skedda,VND-1451,skedda
+Skyline Robotics,VND-1452,skyline robotics
+Skyword,VND-1453,skyword
+Smartling,VND-1454,smartling
+SmithBucklin,VND-1455,smithbucklin
+SnoHub,VND-1456,snohub
+Snorkel AI,VND-1457,snorkel ai
+Snyk,VND-1458,snyk
+Softeon,VND-1459,softeon
+Softlabs Group,VND-1460,softlabs group
+SolarWinds,VND-1461,solarwinds
+Somatic,VND-1462,somatic
+Sony (MAM),VND-1463,sony (mam)
+Sony Group (MAM),VND-1464,sony group (mam)
+Sony/BMG Rights Solutions,VND-1465,sony/bmg rights solutions
+Soterius,VND-1466,soterius
+SoundExchange,VND-1467,soundexchange
+Southwest Recovery,VND-1468,southwest recovery
+Spanner,VND-1469,spanner
+Sparkfund,VND-1470,sparkfund
+Spectrum Labs,VND-1471,spectrum labs
+Sperber Landscape,VND-1472,sperber landscape
+Sperber Landscape Companies,VND-1473,sperber landscape companies
+Sphera,VND-1474,sphera
+Splunk,VND-1475,splunk
+Spot AI,VND-1476,spot ai
+SpotDraft,VND-1477,spotdraft
+Spring Health,VND-1478,spring health
+Stable,VND-1479,stable
+Stacked,VND-1480,stacked
+Stacked Commerce,VND-1481,stacked commerce
+Staffing 360,VND-1482,staffing 360
+StanzaGo,VND-1483,stanzago
+Star,VND-1484,star
+Stateside,VND-1485,stateside
+Statsig,VND-1486,statsig
+Steam Logistics,VND-1487,steam logistics
+Steelcase (Services),VND-1488,steelcase (services)
+Stepes,VND-1489,stepes
+Sterling Check,VND-1490,sterling check
+StoneTurn,VND-1491,stoneturn
+Strain Electric,VND-1492,strain electric
+Strategy&,VND-1493,strategy&
+Stratosphere Quality,VND-1494,stratosphere quality
+Streamline EMS,VND-1495,streamline ems
+Stripe,VND-1496,stripe
+Studio Dumbar,VND-1497,studio dumbar
+Studio Koto,VND-1498,studio koto
+StudioRed,VND-1499,studiored
+Subscription Box Pros,VND-1500,subscription box pros
+Suddath,VND-1501,suddath
+Suez (Veolia),VND-1502,suez (veolia)
+Summit HSIH,VND-1503,summit hsih
+SunTec.AI,VND-1504,suntec.ai
+Sunstates Security,VND-1505,sunstates security
+Suntronic Inc,VND-1506,suntronic inc
+SuperAnnotate,VND-1507,superannotate
+SuperbAI,VND-1508,superbai
+Superlegal,VND-1509,superlegal
+Surge AI,VND-1510,surge ai
+Swagger/OpenAPI Community,VND-1511,swagger/openapi community
+SweetRush,VND-1512,sweetrush
+Swiss Post,VND-1513,swiss post
+Swiss Post Solutions,VND-1514,swiss post solutions
+SyBridge Tech,VND-1515,sybridge tech
+Synapse,VND-1516,synapse
+Syndigo,VND-1517,syndigo
+Syneos Health,VND-1518,syneos health
+Syneos Health Communications,VND-1519,syneos health communications
+Syneos Health/PRA,VND-1520,syneos health/pra
+Synthesis AI,VND-1521,synthesis ai
+Synthetaic,VND-1522,synthetaic
+Syntho,VND-1523,syntho
+System Scale,VND-1524,system scale
+Systems,VND-1525,systems
+TCS (Tata),VND-1526,tcs (tata)
+TELUS International,VND-1527,telus international
+TFS HealthScience,VND-1528,tfs healthscience
+TMRW,VND-1529,tmrw
+TMW,VND-1530,tmw
+Teleperformance (TP),VND-1531,teleperformance (tp)
+TRC Companies,VND-1532,trc companies
+TRICERA Energy,VND-1533,tricera energy
+TTM Technologies,VND-1534,ttm technologies
+TVU Networks,VND-1535,tvu networks
+Take4D,VND-1536,take4d
+Taktiq,VND-1537,taktiq
+Talkdesk,VND-1538,talkdesk
+Talkspace,VND-1539,talkspace
+Tanium,VND-1540,tanium
+Tata Communications,VND-1541,tata communications
+Tata Tech,VND-1542,tata tech
+Tata Technologies,VND-1543,tata technologies
+TeamViewer,VND-1544,teamviewer
+TechData,VND-1545,techdata
+TechForward,VND-1546,techforward
+TechScribe,VND-1547,techscribe
+Technicolor,VND-1548,technicolor
+Technicolor (Dailies),VND-1549,technicolor (dailies)
+Technologies,VND-1550,technologies
+Technology,VND-1551,technology
+Technosoft,VND-1552,technosoft
+Tecton,VND-1553,tecton
+Tedial Media,VND-1554,tedial media
+Tektronix,VND-1555,tektronix
+Tencent Cloud,VND-1556,tencent cloud
+Tendo Communications,VND-1557,tendo communications
+Terminix,VND-1558,terminix
+Ternary,VND-1559,ternary
+Tesla (Energy),VND-1560,tesla (energy)
+TestingXperts,VND-1561,testingxperts
+The Door,VND-1562,the door
+The Grounds Guys (Neighborly),VND-1563,the grounds guys (neighborly)
+The Medical Affairs Company,VND-1564,the medical affairs company
+The Mill,VND-1565,the mill
+The Productivity Team,VND-1566,the productivity team
+Themis,VND-1567,themis
+This Place,VND-1568,this place
+Tiger Analytics,VND-1569,tiger analytics
+Tinuiti,VND-1570,tinuiti
+Titan,VND-1571,titan
+Tive,VND-1572,tive
+Together AI,VND-1573,together ai
+Tonic.ai,VND-1574,tonic.ai
+TorchStone Global,VND-1575,torchstone global
+Tradecraft,VND-1576,tradecraft
+Tradecraft Coffee & Tea,VND-1577,tradecraft coffee & tea
+Trane,VND-1578,trane
+TransPak,VND-1579,transpak
+TransPerfect,VND-1580,transperfect
+TranscribeMe,VND-1581,transcribeme
+Transfix,VND-1582,transfix
+Transprove,VND-1583,transprove
+TravSonic,VND-1584,travsonic
+Tredence,VND-1585,tredence
+Trialbee,VND-1586,trialbee
+Trinity Logistics,VND-1587,trinity logistics
+TripleTone Audio Post,VND-1588,tripletone audio post
+TruGrid Energy,VND-1589,trugrid energy
+Truveta,VND-1590,truveta
+Turing,VND-1591,turing
+Turner & Townsend,VND-1592,turner & townsend
+Turner Duckworth,VND-1593,turner duckworth
+Two Hat,VND-1594,two hat
+Typeface,VND-1595,typeface
+TÜV SÜD,VND-1596,tüv süd
+UBC,VND-1597,ubc
+UL Solutions,VND-1598,ul solutions
+UP Intermodal,VND-1599,up intermodal
+UPS,VND-1600,ups
+US Lawns,VND-1601,us lawns
+US Tape & Label,VND-1602,us tape & label
+USA,VND-1603,usa
+USA Cold Storage,VND-1604,usa cold storage
+USCF,VND-1605,uscf
+USIC,VND-1606,usic
+Ubiik,VND-1607,ubiik
+UiPath,VND-1608,uipath
+Unbiased Services,VND-1609,unbiased services
+UniUni,VND-1610,uniuni
+Unicorn Integrated Facility Management,VND-1611,unicorn integrated facility management
+Union.ai,VND-1612,union.ai
+Unispace,VND-1613,unispace
+UnitedHealthcare,VND-1614,unitedhealthcare
+Unitlab AI,VND-1615,unitlab ai
+Universal Truckload,VND-1616,universal truckload
+Universum,VND-1617,universum
+Unstructured.io,VND-1618,unstructured.io
+Unum,VND-1619,unum
+Updater,VND-1620,updater
+Uplift Content,VND-1621,uplift content
+Utilsmart,VND-1622,utilsmart
+V2Soft,VND-1623,v2soft
+V7 Labs,VND-1624,v7 labs
+VFA,VND-1625,vfa
+VIMANA (govimana.com),VND-1626,vimana (govimana.com)
+VMware Workspace ONE,VND-1627,vmware workspace one
+VR Industries,VND-1628,vr industries
+VSI Group,VND-1629,vsi group
+VSN,VND-1630,vsn
+VTS,VND-1631,vts
+VWO,VND-1632,vwo
+VaLogic,VND-1633,valogic
+Various O\&G,VND-1634,various o\&g
+Various Specialized,VND-1635,various specialized
+Vaughn Industries,VND-1636,vaughn industries
+VaynerMedia,VND-1637,vaynermedia
+Vcheck Global,VND-1638,vcheck global
+Vectara,VND-1639,vectara
+Veeam,VND-1640,veeam
+Veeva RTSM,VND-1641,veeva rtsm
+Veeva Systems,VND-1642,veeva systems
+Velocity,VND-1643,velocity
+Velocity Clinical Research,VND-1644,velocity clinical research
+Vensure,VND-1645,vensure
+Venture Corp,VND-1646,venture corp
+Venture Corporation,VND-1647,venture corporation
+Veolia,VND-1648,veolia
+Verbit,VND-1649,verbit
+Verblio,VND-1650,verblio
+Verimatrix,VND-1651,verimatrix
+Veristat,VND-1652,veristat
+Veritas,VND-1653,veritas
+Verizon Connect,VND-1654,verizon connect
+Verizon Fleet,VND-1655,verizon fleet
+Verizon RISK,VND-1656,verizon risk
+Verkada,VND-1657,verkada
+Vertiv,VND-1658,vertiv
+Vertiv (ERS),VND-1659,vertiv (ers)
+Vervali,VND-1660,vervali
+Via,VND-1661,via
+Viasion Technology,VND-1662,viasion technology
+Viedoc Technologies,VND-1663,viedoc technologies
+Viral Nation,VND-1664,viral nation
+Virtusa,VND-1665,virtusa
+Visionary,VND-1666,visionary
+Visual Lease,VND-1667,visual lease
+Voelker & Associates,VND-1668,voelker & associates
+VoltLink,VND-1669,voltlink
+Voltus,VND-1670,voltus
+Vorne,VND-1671,vorne
+Voya Specialty Benefits,VND-1672,voya specialty benefits
+Vroom,VND-1673,vroom
+Vserve Ebusiness Solutions,VND-1674,vserve ebusiness solutions
+W2O Group (Now Real Chemistry),VND-1675,w2o group (now real chemistry)
+WCO,VND-1676,wco
+Wade Trim,VND-1677,wade trim
+WageWorks,VND-1678,wageworks
+Warranty Services Mgmt,VND-1679,warranty services mgmt
+Waste Connections,VND-1680,waste connections
+Waste Management,VND-1681,waste management
+Waste Management (WM),VND-1682,waste management (wm)
+Watershed,VND-1683,watershed
+Waveup,VND-1684,waveup
+Waygate (Baker),VND-1685,waygate (baker)
+WeDriveU,VND-1686,wedriveu
+Weaviate,VND-1687,weaviate
+WebHelp (Concentrix),VND-1688,webhelp (concentrix)
+WebPurify,VND-1689,webpurify
+Weber Shandwick,VND-1690,weber shandwick
+Webhelp (Concentrix),VND-1691,webhelp (concentrix)
+Weglot,VND-1692,weglot
+Weights & Biases,VND-1693,weights & biases
+Welo Data,VND-1694,welo data
+Welocalize,VND-1695,welocalize
+Wesco,VND-1696,wesco
+Weta Digital,VND-1697,weta digital
+Whalar,VND-1698,whalar
+Wheels,VND-1699,wheels
+Wheels Inc,VND-1700,wheels inc
+WhyLabs,VND-1701,whylabs
+Width.ai,VND-1702,width.ai
+Wieden+Kennedy,VND-1703,wieden+kennedy
+Willis Towers Watson,VND-1704,willis towers watson
+Wisepl,VND-1705,wisepl
+Wistron Corporation,VND-1706,wistron corporation
+Wiz,VND-1707,wiz
+Wolff Olins,VND-1708,wolff olins
+Wordvice,VND-1709,wordvice
+Work & Co,VND-1710,work & co
+World Kinect,VND-1711,world kinect
+Wright Tree,VND-1712,wright tree
+Wright Tree Service,VND-1713,wright tree service
+Write for Business,VND-1714,write for business
+WriterArmy,VND-1715,writerarmy
+Writesonic,VND-1716,writesonic
+Wyle,VND-1717,wyle
+Xenoss,VND-1718,xenoss
+Xerox,VND-1719,xerox
+Xometry,VND-1720,xometry
+YCP Solidiance,VND-1721,ycp solidiance
+YData,VND-1722,ydata
+YPrime IRT,VND-1723,yprime irt
+Yardi,VND-1724,yardi
+Yellowstone Landscape,VND-1725,yellowstone landscape
+ZOO Digital,VND-1729,zoo digital
+Zapro.ai,VND-1730,zapro.ai
+Zelta (Merative/IBM),VND-1731,zelta (merative/ibm)
+Zendesk,VND-1732,zendesk
+Zenith Global,VND-1733,zenith global
+Zenpack,VND-1734,zenpack
+Zerto,VND-1735,zerto
+Zeus Learning,VND-1736,zeus learning
+Zonar,VND-1737,zonar
+Zycus,VND-1738,zycus
+aPriori,VND-1739,apriori
+accessiBe,VND-1740,accessibe
+boost.ai,VND-1741,boost.ai
+e-Stewards,VND-1742,e-stewards
+e2Companies,VND-1743,e2companies
+e2open,VND-1744,e2open
+eRecovery,VND-1745,erecovery
+enveyo,VND-1746,enveyo
+founded),VND-1747,founded)
+frog,VND-1748,frog
+ghSMART (Vistage),VND-1749,ghsmart (vistage)
+iMerit,VND-1750,imerit
+o9 Solutions,VND-1751,o9 solutions
+project44,VND-1752,project44
+sonnen,VND-1753,sonnen

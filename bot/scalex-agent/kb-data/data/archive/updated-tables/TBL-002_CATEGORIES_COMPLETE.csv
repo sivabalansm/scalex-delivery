@@ -1,0 +1,121 @@
+Category_Code,Tower_Code,Category_Name,Description,APQC_Category_Ref,FB_Category_Ref,Falcon_Category_Ref,Sort_Order,Validated_By_Assessment
+CAT-AI-001,AI,Data Annotation & Labeling,"Image annotation, segmentation, classification for ML training",,,,0,FALSE
+CAT-AI-002,AI,GenAI & RLHF Services,"Response ranking, SFT data creation, DPO generation",,,,0,FALSE
+CAT-AI-003,AI,Data Engineering,"ETL pipelines, data warehousing, pipeline maintenance",,,,0,FALSE
+CAT-AI-004,AI,AI Testing & Safety,"A/B testing, red teaming, LLM security assessment",,,,0,FALSE
+CAT-AI-005,AI,MLOps & Monitoring,"Model performance monitoring, alerting, drift detection",,,,0,FALSE
+CAT-AI-006,AI,Domain-Specific AI Data,"Medical, autonomous vehicle, financial AI annotation",,,,0,FALSE
+CAT-CL-001,CL,Clinical Project Management,"Study startup, site feasibility, project management",,,,0,FALSE
+CAT-CL-002,CL,Regulatory Affairs,"Regulatory submissions, strategy, IND/CTA preparation",,,,0,FALSE
+CAT-CL-003,CL,Clinical Monitoring,"Central monitoring, on-site monitoring, site visits",,,,0,FALSE
+CAT-CL-004,CL,Clinical Data Management,"eCRF design, database management, medical coding",,,,0,FALSE
+CAT-CL-005,CL,Biostatistics,"Statistical analysis, programming, interim analysis",,,,0,FALSE
+CAT-CL-006,CL,Medical Writing,"Protocol development, investigator brochures, ICFs",,,,0,FALSE
+CAT-CL-007,CL,Pharmacovigilance,"ICSR processing, medical review, safety databases",,,,0,FALSE
+CAT-CL-008,CL,Medical Affairs,"Medical information, MSL outsourcing, med comms",,,,0,FALSE
+CAT-CO-001,CO,Voice Support,"Tier 1/2 voice support, inquiry response, inbound calls",,,,0,FALSE
+CAT-CO-002,CO,Sales Support,"Order management, lead generation, appointment setting",,,,0,FALSE
+CAT-CO-003,CO,Technical Support,"Tier 1/2/3 technical support, troubleshooting",,,,0,FALSE
+CAT-CO-004,CO,Customer Success,"Customer onboarding, proactive CSM, churn prevention",,,,0,FALSE
+CAT-CO-005,CO,Back Office Operations,"Order processing, data entry, document processing",,,,0,FALSE
+CAT-CO-006,CO,Collections,"Early/mid/late stage collections, debt recovery",,,,0,FALSE
+CAT-CO-007,CO,Digital Support,"Live chat, email response, SMS support",,,,0,FALSE
+CAT-CO-008,CO,Social Media Support,"Social customer service, monitoring, community mgmt",,,,0,FALSE
+CAT-COP-001,COP,Content Creation,"Blog writing, SEO content, technical writing",,,,0,FALSE
+CAT-COP-002,COP,Content Moderation,"UGC review, image/video moderation, trust & safety",,,,0,FALSE
+CAT-COP-003,COP,Localization & Translation,"Human translation, MTPE, software localization",,,,0,FALSE
+CAT-COP-004,COP,Content Lifecycle Management,"KB maintenance, content migration, refresh cycles",,,,0,FALSE
+CAT-COP-005,COP,Content Quality Assurance,"Linguistic QA, copy editing, proofreading",,,,0,FALSE
+CAT-EN-001,EN,Meter Operations,"AMI deployment, meter data collection/management",,,,0,FALSE
+CAT-EN-002,EN,Grid Operations,"Control center ops, SCADA management, monitoring",,,,0,FALSE
+CAT-EN-003,EN,Utility Customer Operations,"Bill calculation, payment processing, collections",,,,0,FALSE
+CAT-EN-004,EN,Field Operations,"Emergency restoration, transmission/distribution maint",,,,0,FALSE
+CAT-EN-005,EN,Asset Management,"Vegetation mgmt, pole inspection, transformer maint",,,,0,FALSE
+CAT-EN-006,EN,Energy Trading Operations,"Energy scheduling, market settlements, transmission",,,,0,FALSE
+CAT-EN-007,EN,Regulatory Compliance,"NERC O&P, NERC CIP, environmental compliance",,,,0,FALSE
+CAT-EN-008,EN,Demand Response,"Demand response mgmt, load curtailment, direct control",,,,0,FALSE
+CAT-FA-001,FA,Accounts Payable,"Invoice processing, payments, vendor master data",,,,0,FALSE
+CAT-FA-002,FA,Accounts Receivable,"Customer invoicing, cash application, collections",,,,0,FALSE
+CAT-FA-003,FA,General Ledger,"Journal entries, account/bank reconciliation",,,,0,FALSE
+CAT-FA-004,FA,Financial Reporting,"Month-end close, financial statements, consolidation",,,,0,FALSE
+CAT-FA-005,FA,Treasury,"Cash positioning, forecasting, treasury reconciliation",,,,0,FALSE
+CAT-FA-006,FA,Tax Services,"Corporate tax, tax provision, sales & use tax",,,,0,FALSE
+CAT-FA-007,FA,Procurement Operations,"Requisitions, PO management, supplier onboarding",,,,0,FALSE
+CAT-FA-008,FA,FP&A,"Budget development, forecasting, financial modeling",,,,0,FALSE
+CAT-FA-009,FA,Management Reporting,"Budgeting support, forecasting services, reporting",,,,0,FALSE
+CAT-FA-010,FA,Audit & Compliance,"SEC filings, XBRL tagging, statutory audit support",,,,0,FALSE
+CAT-FR-001,FR,Building Operations,"Janitorial, reception, pest control",,,,0,FALSE
+CAT-FR-002,FR,Property Management,"Lease administration, property accounting, CAM",,,,0,FALSE
+CAT-FR-003,FR,Building Systems,"HVAC, electrical, plumbing maintenance",,,,0,FALSE
+CAT-FR-004,FR,Physical Security,"Uniformed officers, access control, surveillance",,,,0,FALSE
+CAT-FR-005,FR,Food Services,"Cafe management, vending, micro-markets",,,,0,FALSE
+CAT-FR-006,FR,Mail & Shipping,"Mailroom operations, shipping, digital mailroom",,,,0,FALSE
+CAT-FR-007,FR,Space Management,"Space planning, move management, meeting rooms",,,,0,FALSE
+CAT-FR-008,FR,Sustainability,"Sustainability reporting, recycling management",,,,0,FALSE
+CAT-FR-009,FR,Workplace Strategy,"Workplace strategy, space planning services",,,,0,FALSE
+CAT-FR-010,FR,Energy Management,"Utility procurement, energy consulting, BAS",,,,0,FALSE
+CAT-FR-011,FR,Grounds & Exterior,"Landscaping, snow/ice removal, exterior pest control",,,,0,FALSE
+CAT-FR-012,FR,Transportation Services,"Parking operations, shuttle services, fleet mgmt",,,,0,FALSE
+CAT-HR-001,HR,Medical & Health Claims,"Claims adjudication, TPA administration, formulary",,,,0,TRUE
+CAT-HR-002,HR,HR Policy & Compliance,"Policy admin, change management, compliance auditing",,,,0,TRUE
+CAT-HR-003,HR,Workforce Management,"Scheduling, labor forecasting, contingent workforce",,,,0,TRUE
+CAT-HR-004,HR,Leave & Disability,"Life/disability claims, LOA admin, unemployment",,,,0,TRUE
+CAT-HR-005,HR,Health & Wellbeing,"EAP, wellness programs, mental health services",,,,0,TRUE
+CAT-HR-006,HR,Talent Acquisition,"Full-cycle recruitment, sourcing, screening",,,,0,TRUE
+CAT-HR-007,HR,Benefits Administration,"Open enrollment, eligibility, COBRA admin",,,,0,TRUE
+CAT-HR-008,HR,Learning & Development,"LMS admin, training content, compliance training",,,,0,TRUE
+CAT-HR-009,HR,Payroll & Compensation,"Payroll processing, tax filing, garnishments",,,,0,TRUE
+CAT-HR-010,HR,Miscellaneous HR Services,Other HR payment and admin services,,,,0,TRUE
+CAT-IT-001,IT,Application Development,"Custom/mobile app development, API integration",,,,0,FALSE
+CAT-IT-002,IT,Infrastructure Management,"Server admin, storage, virtualization",,,,0,FALSE
+CAT-IT-003,IT,End-User Services,"Incident mgmt, service requests, password resets",,,,0,FALSE
+CAT-IT-004,IT,Cloud Services,"Cloud infrastructure, migration, cost optimization",,,,0,FALSE
+CAT-IT-005,IT,Cybersecurity,"SOC, incident response, vulnerability management",,,,0,FALSE
+CAT-IT-006,IT,Data & Analytics,"Data engineering, BI services, data science/ML",,,,0,FALSE
+CAT-IT-007,IT,IT Consulting & Advisory,"IT strategy, enterprise architecture, program mgmt",,,,0,FALSE
+CAT-IT-008,IT,Network & Telecommunications,"Voice services, data connectivity, unified comms",,,,0,FALSE
+CAT-ME-001,ME,Production Services,"Dailies processing, data wrangling, transcoding",,,,0,FALSE
+CAT-ME-002,ME,Post-Production,"Offline editorial, color grading, online conform",,,,0,FALSE
+CAT-ME-003,ME,Distribution & Delivery,"DCP mastering, KDM management, OTT delivery",,,,0,FALSE
+CAT-ME-004,ME,Rights Management,"Rights tracking, royalty calculation, clearance",,,,0,FALSE
+CAT-ME-005,ME,Subtitling & Captioning,"Subtitle creation/translation, SDH, closed captions",,,,0,FALSE
+CAT-ME-006,ME,Quality Control,"Automated/manual QC, audio QC",,,,0,FALSE
+CAT-ME-007,ME,Media Asset Management,"MAM implementation, ingest services, metadata",,,,0,FALSE
+CAT-ME-008,ME,VFX & Animation,"3D modeling, character animation, motion capture",,,,0,FALSE
+CAT-MO-001,MO,Contract Manufacturing,"Turnkey manufacturing, build-to-order, PCB assembly",,,,0,FALSE
+CAT-MO-002,MO,Quality Control,Incoming/in-process/final inspection,,,,0,FALSE
+CAT-MO-003,MO,Equipment Maintenance,"Preventive, predictive, breakdown maintenance",,,,0,FALSE
+CAT-MO-004,MO,Process Engineering,"Process development, DFM analysis, time studies",,,,0,FALSE
+CAT-MO-005,MO,Tooling,"Injection molds, die casting, fixture manufacturing",,,,0,FALSE
+CAT-MO-006,MO,Assembly Services,"Mechanical/electronic sub-assembly, final assembly",,,,0,FALSE
+CAT-MO-007,MO,Testing Services,"Functional, environmental, non-destructive testing",,,,0,FALSE
+CAT-MO-008,MO,Packaging,"Primary/secondary packaging, contract filling",,,,0,FALSE
+CAT-PS-001,PS,Legal Process Outsourcing,"Document review, eDiscovery, legal research",,,,0,FALSE
+CAT-PS-002,PS,Media & Advertising,"Media planning/buying, digital advertising",,,,0,FALSE
+CAT-PS-003,PS,Strategy Consulting,"Corporate strategy, growth strategy, market entry",,,,0,FALSE
+CAT-PS-004,PS,Operations Consulting,"Operating model design, process optimization",,,,0,FALSE
+CAT-PS-005,PS,Engineering Services,"Product design engineering, mechanical/electrical",,,,0,FALSE
+CAT-PS-006,PS,Design Services,"UX/UI design, service design, brand identity",,,,0,FALSE
+CAT-PS-007,PS,Market Research,"Consumer research, brand tracking, product testing",,,,0,FALSE
+CAT-PS-008,PS,Communications,"Media relations, crisis comms, internal comms",,,,0,FALSE
+CAT-PS-009,PS,Research & Intelligence,"Syndicated/custom research, competitive intel",,,,0,FALSE
+CAT-PS-010,PS,Executive Coaching,"C-suite coaching, leadership development, team effectiveness",,,,0,FALSE
+CAT-PS-011,PS,Government Affairs,"Federal lobbying, state/local affairs, regulatory strategy",,,,0,FALSE
+CAT-PS-012,PS,Creative Services,"Brand strategy, packaging design, industrial design",,,,0,FALSE
+CAT-PS-013,PS,Sustainability Consulting,"ESG strategy, carbon accounting, climate risk",,,,0,FALSE
+CAT-SC-001,SC,Strategic Sourcing,"Strategic sourcing, category management, spend analysis",,,,0,FALSE
+CAT-SC-002,SC,Parcel & Last Mile,"PO processing, express/overnight, last-mile delivery",,,,0,FALSE
+CAT-SC-003,SC,Freight & Transportation,"Freight forwarding, LTL/FTL shipping",,,,0,FALSE
+CAT-SC-004,SC,Warehousing,"Pick/pack, receiving/put-away, pallet storage",,,,0,FALSE
+CAT-SC-005,SC,Transportation Management,"TMS operations, freight audit, load planning",,,,0,FALSE
+CAT-SC-006,SC,Inventory Management,"VMI services, demand forecasting, inventory planning",,,,0,FALSE
+CAT-SC-007,SC,Trade Compliance,"Customs brokerage, HS classification, FTA management",,,,0,FALSE
+CAT-SC-008,SC,Reverse Logistics,"Returns processing, refurbishment, RMA management",,,,0,FALSE
+CAT-SC-009,SC,Fulfillment Services,"Fulfillment, kitting/assembly, contract packaging",,,,0,FALSE
+CAT-SC-010,SC,Fleet Management,"Fleet leasing, fleet maintenance, telematics",,,,0,FALSE
+CAT-SC-011,SC,Asset Recovery,"Returns processing, refurbishment, asset recovery",,,,0,FALSE
+CAT-SC-012,SC,SC Technology Services,"TMS/WMS managed services, visibility platforms",,,,0,FALSE
+CAT-IV-001,IV,Healthcare BPO,"Healthcare-specific outsourcing, RCM, payer ops",,,,0,FALSE
+CAT-IV-002,IV,Insurance BPO,"Insurance policy admin, claims, underwriting",,,,0,FALSE
+CAT-IV-003,IV,Financial Services BPO,"Banking ops, capital markets, fund admin",,,,0,FALSE
+CAT-IT-009,IT,Enterprise Software & Platforms,"Enterprise application management, SaaS platform administration, ERP/CRM system support, and software lifecycle management",,,,0,FALSE

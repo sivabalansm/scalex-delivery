@@ -1,0 +1,89 @@
+Crosswalk_ID,External_System,External_Code,External_Name,Maxx_Level,Maxx_Code,Maxx_Name,Mapping_Confidence,Mapping_Notes,Created_By,Created_Date
+XW-001,NIELSEN,HUMAN RESOURCES,Human Resources (Nielsen L2),TOWER,HR,Human Resources,HIGH,Validated in Nielsen HR assessment,ASSESSMENT,2026-02-09
+XW-002,NIELSEN,Human Resources,Human Resources (Nielsen L2 mixed case),TOWER,HR,Human Resources,HIGH,Same as XW-001 — case variant,ASSESSMENT,2026-02-09
+XW-003,NIELSEN,TECHNOLOGY,Technology (Nielsen L2),TOWER,IT,Information Technology,HIGH,Nielsen Technology maps to Maxx IT tower,ASSESSMENT,2026-02-09
+XW-004,NIELSEN,Technology,Technology (Nielsen L2 mixed case),TOWER,IT,Information Technology,HIGH,Same as XW-003 — case variant,ASSESSMENT,2026-02-09
+XW-005,NIELSEN,FACILITIES,Facilities (Nielsen L2),TOWER,FM,Facilities Management,HIGH,Direct tower mapping,ASSESSMENT,2026-02-09
+XW-006,NIELSEN,Facilities,Facilities (Nielsen L2 mixed case),TOWER,FM,Facilities Management,HIGH,Same as XW-005 — case variant,ASSESSMENT,2026-02-09
+XW-007,NIELSEN,PROFESSIONAL SERVICES,Professional Services (Nielsen L2),TOWER,PS,Professional Services,HIGH,Direct tower mapping,ASSESSMENT,2026-02-09
+XW-008,NIELSEN,Professional Services,Professional Services (Nielsen L2 mixed case),TOWER,PS,Professional Services,HIGH,Same as XW-007 — case variant,ASSESSMENT,2026-02-09
+XW-009,NIELSEN,MARKETING,Marketing (Nielsen L2),TOWER,MK,Marketing,MEDIUM,Nielsen Marketing → Maxx Marketing tower,ASSESSMENT,2026-02-09
+XW-010,NIELSEN,TRANSPORTATION & LOGISTICS,Transportation & Logistics (Nielsen L2),TOWER,SC,Supply Chain & Logistics,MEDIUM,Nielsen T&L → Maxx Supply Chain tower,ASSESSMENT,2026-02-09
+XW-011,NIELSEN,Transportation & Logistics,Transportation & Logistics (Nielsen L2 mixed case),TOWER,SC,Supply Chain & Logistics,MEDIUM,Same as XW-010 — case variant,ASSESSMENT,2026-02-09
+XW-012,NIELSEN,TRAVEL & ENTERTAINMENT,Travel & Entertainment (Nielsen L2),TOWER,CO,Corporate Operations,LOW,T&E is typically indirect — maps to corporate ops,ASSESSMENT,2026-02-09
+XW-013,NIELSEN,PRINTING,Printing (Nielsen L2),TOWER,CO,Corporate Operations,LOW,Printing services → corporate operations,ASSESSMENT,2026-02-09
+XW-014,NIELSEN,Printing,Printing (Nielsen L2 mixed case),TOWER,CO,Corporate Operations,LOW,Same as XW-013 — case variant,ASSESSMENT,2026-02-09
+XW-015,NIELSEN,MANUFACTURING,Manufacturing (Nielsen L2),TOWER,MO,Manufacturing & Operations,HIGH,Direct tower mapping,ASSESSMENT,2026-02-09
+XW-016,NIELSEN,BUSINESS INFORMATION,Business Information (Nielsen L2),TOWER,CO,Corporate Operations,LOW,Subscriptions and data → corporate ops,ASSESSMENT,2026-02-09
+XW-017,NIELSEN,Business Information,Business Information (Nielsen L2 mixed case),TOWER,CO,Corporate Operations,LOW,Same as XW-016 — case variant,ASSESSMENT,2026-02-09
+XW-018,NIELSEN,DATA ACQUISITION,Data Acquisition (Nielsen L2),TOWER,CO,Corporate Operations,LOW,Nielsen-specific — data panel operations,ASSESSMENT,2026-02-09
+XW-019,NIELSEN,Data Acquisition,Data Acquisition (Nielsen L2 mixed case),TOWER,CO,Corporate Operations,LOW,Same as XW-018 — case variant,ASSESSMENT,2026-02-09
+XW-020,NIELSEN,EMPLOYEES,Employees (Nielsen L2 — non-sourceable),TOWER,NS,Not Sourceable,HIGH,Payroll and internal headcount — not outsourced,ASSESSMENT,2026-02-09
+XW-021,NIELSEN,GOVERNMENT PAYMENTS,Government Taxes & Fees (Nielsen L2),TOWER,NS,Not Sourceable,HIGH,Tax and government payments — not sourceable,ASSESSMENT,2026-02-09
+XW-022,NIELSEN,INTERCOMPANY,Intercompany (Nielsen L2),TOWER,NS,Not Sourceable,HIGH,Intercompany transfers — not sourceable,ASSESSMENT,2026-02-09
+XW-023,NIELSEN,NON SOURCEABLE,Non Sourceable (Nielsen L2),TOWER,NS,Not Sourceable,HIGH,Explicitly non-sourceable,ASSESSMENT,2026-02-09
+XW-024,NIELSEN,NON SOURCEABLE FACILITIES,Non Sourceable Facilities (Nielsen L2),TOWER,NS,Not Sourceable,MEDIUM,Real estate/lease — typically not in scope,ASSESSMENT,2026-02-09
+XW-025,NIELSEN,PROFESSIONAL SERVICES NON SOURCEABLE,Prof Services Non Sourceable (Nielsen L2),TOWER,NS,Not Sourceable,MEDIUM,Investment services — typically not in scope,ASSESSMENT,2026-02-09
+XW-026,NIELSEN,DATA ACQUISITION NON SOURCEABLE,Data Acq Non Sourceable (Nielsen L2),TOWER,NS,Not Sourceable,HIGH,Royalties and coop — not sourceable,ASSESSMENT,2026-02-09
+XW-027,NIELSEN,TRADE ASSOCIATIONS,Trade Associations (Nielsen L2),TOWER,NS,Not Sourceable,HIGH,Association memberships — not sourceable,ASSESSMENT,2026-02-09
+XW-028,APQC,1.0,Develop Vision and Strategy,TOWER,PS,Professional Services,HIGH,Primary. Strategy consulting; also touches ENG for product strategy,ROUND2,2026-02-25
+XW-029,APQC,2.0,Develop and Manage Products and Services,TOWER,ENG,Engineering & Product Development,HIGH,Primary. Product dev & design; R&D services,ROUND2,2026-02-25
+XW-030,APQC,3.0,Market and Sell Products and Services,TOWER,MK,Marketing & Growth Services,HIGH,"Primary. Marketing ops, campaigns, sales enablement",ROUND2,2026-02-25
+XW-031,APQC,3.0,Market and Sell Products and Services,TOWER,CO,Customer Operations,MEDIUM,Secondary. Sales operations (CAT-CO-007) maps here,ROUND2,2026-02-25
+XW-032,APQC,4.0,Deliver Products and Services,TOWER,SC,Supply Chain,HIGH,"Primary. Logistics, fulfillment, procurement ops",ROUND2,2026-02-25
+XW-033,APQC,4.0,Deliver Products and Services,TOWER,MO,Manufacturing Operations,MEDIUM,"Secondary. Contract manufacturing, QC, assembly",ROUND2,2026-02-25
+XW-034,APQC,5.0,Manage Customer Service,TOWER,CO,Customer Operations,HIGH,"Primary. Contact center, CX, technical support",ROUND2,2026-02-25
+XW-035,APQC,6.0,Develop and Manage Human Capital,TOWER,HR,Human Resources,HIGH,"Primary. Direct 1:1 — payroll, benefits, talent acquisition, workforce admin",ROUND2,2026-02-25
+XW-036,APQC,7.0,Manage Information Technology,TOWER,IT,Information Technology,HIGH,"Primary. Direct 1:1 — infra, apps, cybersecurity, ITSM",ROUND2,2026-02-25
+XW-037,APQC,7.0,Manage Information Technology,TOWER,AI,AI & Data Services,MEDIUM,Secondary. AI/ML ops carved out from broader IT in Maxx,ROUND2,2026-02-25
+XW-038,APQC,8.0,Manage Financial Resources,TOWER,FA,Finance & Accounting,HIGH,"Primary. Direct 1:1 — AP, AR, FP&A, treasury, tax",ROUND2,2026-02-25
+XW-039,APQC,9.0,"Acquire, Construct, and Manage Assets",TOWER,FR,Facilities & Real Estate,HIGH,"Primary. Facilities mgmt, property, maintenance, construction",ROUND2,2026-02-25
+XW-040,APQC,10.0,"Manage Enterprise Risk, Compliance & Sustainability",TOWER,RC,Risk & Compliance,HIGH,"Primary. Audit, regulatory, data privacy, ESG",ROUND2,2026-02-25
+XW-041,APQC,11.0,Manage External Relationships,TOWER,PS,Professional Services,HIGH,"Primary. Legal, advisory, government relations",ROUND2,2026-02-25
+XW-042,APQC,12.0,Develop and Manage Business Capabilities,TOWER,PS,Professional Services,HIGH,"Primary. Change mgmt, org design, process improvement",ROUND2,2026-02-25
+XW-043,APQC,N/A,No direct APQC L1 equivalent,TOWER,CL,Clinical/Life Sciences,LOW,Unmapped. Industry-vertical; APQC doesn't carve out life sciences at L1,ROUND2,2026-02-25
+XW-044,APQC,N/A,No direct APQC L1 equivalent,TOWER,COP,Content Operations,LOW,Unmapped. Maxx-specific tower; content moderation/T&S not in APQC,ROUND2,2026-02-25
+XW-045,APQC,N/A,No direct APQC L1 equivalent,TOWER,ME,Media & Entertainment,LOW,Unmapped. Industry-vertical; no APQC L1 equivalent,ROUND2,2026-02-25
+XW-046,APQC,N/A,No direct APQC L1 equivalent,TOWER,EN,Energy & Utilities,LOW,Unmapped. Industry-vertical; no APQC L1 equivalent,ROUND2,2026-02-25
+XW-047,APQC,N/A,No direct APQC L1 equivalent,TOWER,IV,Industry Verticals,LOW,Unmapped. Catch-all industry BPO; no APQC L1,ROUND2,2026-02-25
+XW-048,APQC,6.1,Plan & Align HR Strategy,CATEGORY,CAT-HR-002,HR Advisory,HIGH,,ROUND2,2026-02-25
+XW-049,APQC,6.2,"Recruit, Source & Select Employees",CATEGORY,CAT-HR-003,Talent Acquisition,HIGH,,ROUND2,2026-02-25
+XW-050,APQC,6.3,Develop & Counsel Employees,CATEGORY,CAT-HR-002,HR Advisory,HIGH,"Training, coaching, career dev",ROUND2,2026-02-25
+XW-051,APQC,6.4,Manage Employee Relations,CATEGORY,CAT-HR-004,Workforce Administration,HIGH,,ROUND2,2026-02-25
+XW-052,APQC,6.5,Reward & Retain Employees,CATEGORY,CAT-HR-004,Workforce Administration,HIGH,Comp & benefits admin,ROUND2,2026-02-25
+XW-053,APQC,6.6,Redeploy & Retire Employees,CATEGORY,CAT-HR-004,Workforce Administration,HIGH,"Separation, retirement",ROUND2,2026-02-25
+XW-054,APQC,6.7,Manage Employee Information & Analytics,CATEGORY,CAT-HR-004,Workforce Administration,HIGH,"HRIS, workforce data",ROUND2,2026-02-25
+XW-055,APQC,6.8,Manage Contingent Labor,CATEGORY,CAT-HR-001,Contingent Workforce,HIGH,,ROUND2,2026-02-25
+XW-056,APQC,8.1,Manage Treasury Operations,CATEGORY,CAT-FA-012,Treasury,HIGH,,ROUND2,2026-02-25
+XW-057,APQC,8.2,Manage Budgets & Cost,CATEGORY,CAT-FA-010,Reporting & FP&A,HIGH,,ROUND2,2026-02-25
+XW-058,APQC,8.3,Perform Revenue Accounting,CATEGORY,CAT-FA-002,Accounts Receivable,HIGH,,ROUND2,2026-02-25
+XW-059,APQC,8.4,Manage Fixed-Asset Accounting,CATEGORY,CAT-FA-006,General Accounting,HIGH,,ROUND2,2026-02-25
+XW-060,APQC,8.5,Process Payroll,CATEGORY,CAT-HR-004,Workforce Administration,HIGH,Cross-tower: payroll often HR in Maxx,ROUND2,2026-02-25
+XW-061,APQC,8.6,Process AP & Expense Reimbursements,CATEGORY,CAT-FA-001,Accounts Payable,HIGH,,ROUND2,2026-02-25
+XW-062,APQC,8.7,Manage General Accounting,CATEGORY,CAT-FA-006,General Accounting,HIGH,,ROUND2,2026-02-25
+XW-063,APQC,8.8,Manage Tax Compliance,CATEGORY,CAT-FA-011,Tax Services,HIGH,,ROUND2,2026-02-25
+XW-064,APQC,8.9,Manage Internal Controls,CATEGORY,CAT-RC-007,Internal Audit & Controls,HIGH,Cross-tower: controls → RC in Maxx,ROUND2,2026-02-25
+XW-065,APQC,7.1,Manage IT Strategy,CATEGORY,CAT-IT-003,IT Asset & Financial Operations,HIGH,IT governance & strategy,ROUND2,2026-02-25
+XW-066,APQC,7.2,Develop IT Service Strategy,CATEGORY,CAT-IT-004,IT Service Management & End-User Support,HIGH,,ROUND2,2026-02-25
+XW-067,APQC,7.3,Manage IT Resilience,CATEGORY,CAT-IT-001,Cybersecurity Operations,HIGH,"Security, DR, resilience",ROUND2,2026-02-25
+XW-068,APQC,7.4,Manage IT Operations,CATEGORY,CAT-IT-005,Infrastructure & Cloud Operations,HIGH,,ROUND2,2026-02-25
+XW-069,APQC,7.5,Manage IT Customer Relationship,CATEGORY,CAT-IT-004,IT Service Management & End-User Support,HIGH,"Service desk, end-user",ROUND2,2026-02-25
+XW-070,APQC,5.1,Develop Customer Care Strategy,CATEGORY,CAT-CO-002,CX Analytics & Quality,HIGH,,ROUND2,2026-02-25
+XW-071,APQC,5.2,Manage Customer Service Operations,CATEGORY,CAT-CO-004,Contact Center Operations,HIGH,,ROUND2,2026-02-25
+XW-072,APQC,5.3,Measure & Evaluate Customer Service,CATEGORY,CAT-CO-002,CX Analytics & Quality,HIGH,,ROUND2,2026-02-25
+XW-073,APQC,4.1,Plan Supply Chain,CATEGORY,CAT-SC-015,Supply Chain Planning & Analytics,HIGH,,ROUND2,2026-02-25
+XW-074,APQC,4.2,Procure Materials & Services,CATEGORY,CAT-SC-011,Order Management & Fulfillment,HIGH,Also touches FA-009 Procurement Ops,ROUND2,2026-02-25
+XW-075,APQC,4.3,Produce/Manufacture Products,CATEGORY,CAT-SC-009,Manufacturing Operations Support,HIGH,Cross-tower to MO,ROUND2,2026-02-25
+XW-076,APQC,4.4,Manage Logistics & Warehousing,CATEGORY,CAT-SC-008,Logistics Services,HIGH,,ROUND2,2026-02-25
+XW-077,APQC,10.1,Manage Enterprise Risk,CATEGORY,CAT-RC-010,Third-Party & Enterprise Risk,HIGH,,ROUND2,2026-02-25
+XW-078,APQC,10.2,Manage Compliance,CATEGORY,CAT-RC-009,Regulatory Compliance,HIGH,,ROUND2,2026-02-25
+XW-079,APQC,10.3,Manage Remediation,CATEGORY,CAT-RC-004,Ethics & Compliance Operations,HIGH,,ROUND2,2026-02-25
+XW-080,APQC,10.4,Manage Business Resilience,CATEGORY,CAT-RC-001,Corporate Governance,HIGH,,ROUND2,2026-02-25
+XW-081,APQC,10.5,Manage Environmental Health & Safety,CATEGORY,CAT-FR-002,Environmental Health & Safety,HIGH,Cross-tower: EH&S → FR in Maxx,ROUND2,2026-02-25
+XW-082,APQC,9.1,Plan & Acquire Assets,CATEGORY,CAT-FR-001,Construction & Projects,HIGH,,ROUND2,2026-02-25
+XW-083,APQC,9.2,Operate & Maintain Assets,CATEGORY,CAT-FR-007,Maintenance Services,HIGH,,ROUND2,2026-02-25
+XW-084,APQC,9.3,Dispose of Assets,CATEGORY,CAT-FR-008,Property Management,HIGH,,ROUND2,2026-02-25
+XW-085,APQC,3.1,Develop Marketing Strategy,CATEGORY,CAT-MK-005,Marketing Operations,HIGH,,ROUND2,2026-02-25
+XW-086,APQC,3.2,Develop & Manage Advertising,CATEGORY,CAT-MK-007,Media & Performance Marketing,HIGH,,ROUND2,2026-02-25
+XW-087,APQC,3.4,Manage Sales Channels,CATEGORY,CAT-CO-007,Sales Operations,HIGH,Cross-tower: sales ops → CO,ROUND2,2026-02-25
+XW-088,APQC,3.5,Manage Sales Force,CATEGORY,CAT-CO-007,Sales Operations,HIGH,,ROUND2,2026-02-25

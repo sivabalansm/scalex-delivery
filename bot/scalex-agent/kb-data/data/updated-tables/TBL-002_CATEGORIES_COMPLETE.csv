@@ -1,0 +1,95 @@
+Category_Code,Tower_Code,Category_Name,Description,APQC_Category_Ref,FB_Category_Ref,Falcon_Category_Ref,Sort_Order,Validated_By_Assessment
+CAT-COP-001,COP,Localization & Translation,,,,,0,FALSE
+CAT-COP-002,COP,Publishing Operations,,,,,0,FALSE
+CAT-COP-003,COP,Trust & Safety Operations,,,,,0,FALSE
+CAT-COP-004,COP,UGC Moderation Services,,,,,0,FALSE
+CAT-CO-001,CO,Back Office Customer Operations,,,,,0,FALSE
+CAT-CO-002,CO,CX Analytics & Quality,,,,,0,FALSE
+CAT-CO-003,CO,CX Workforce Management,,,,,0,FALSE
+CAT-CO-004,CO,Contact Center Operations,,,,,0,FALSE
+CAT-CO-005,CO,Customer Success,,,,,0,FALSE
+CAT-CO-006,CO,Revenue & Order Operations,,,,,0,FALSE
+CAT-CO-007,CO,Sales Operations,,,,,0,FALSE
+CAT-CO-008,CO,Technical Support,,,,,0,FALSE
+CAT-AI-001,AI,AI Security & Governance,,,,,0,FALSE
+CAT-AI-002,AI,Data Annotation & Collection,,,,,0,FALSE
+CAT-AI-003,AI,MLOps & Deployment,,,,,0,FALSE
+CAT-AI-004,AI,Model Training & Alignment,,,,,0,FALSE
+CAT-ENG-001,ENG,Cloud & DevOps Engineering,,,,,0,FALSE
+CAT-ENG-002,ENG,Hardware & Embedded Engineering,,,,,0,FALSE
+CAT-ENG-003,ENG,Product Design & Research,,,,,0,FALSE
+CAT-ENG-004,ENG,Product Management Operations,,,,,0,FALSE
+CAT-ENG-005,ENG,Quality Engineering & Testing,,,,,0,FALSE
+CAT-ENG-006,ENG,Software Development Services,,,,,0,FALSE
+CAT-ENG-007,ENG,Technical Documentation,,,,,0,FALSE
+CAT-FR-001,FR,Construction & Projects,,,,,0,FALSE
+CAT-FR-002,FR,Environmental Health & Safety,,,,,0,FALSE
+CAT-FR-003,FR,Environmental Services,,,,,0,FALSE
+CAT-FR-004,FR,Fleet & Transportation,,,,,0,FALSE
+CAT-FR-005,FR,Food & Catering Services,,,,,0,FALSE
+CAT-FR-006,FR,Integrated Facilities Management,,,,,0,FALSE
+CAT-FR-007,FR,Maintenance Services,,,,,0,FALSE
+CAT-FR-008,FR,Property Management,,,,,0,FALSE
+CAT-FR-009,FR,Security Services,,,,,0,FALSE
+CAT-FR-010,FR,Workplace Services,,,,,0,FALSE
+CAT-FA-001,FA,Accounts Payable,,,,,0,FALSE
+CAT-FA-002,FA,Accounts Receivable,,,,,0,FALSE
+CAT-FA-003,FA,Close & Consolidation,,,,,0,FALSE
+CAT-FA-004,FA,Corporate Travel,,,,,0,FALSE
+CAT-FA-005,FA,Expense Management,,,,,0,FALSE
+CAT-FA-006,FA,General Accounting,,,,,0,FALSE
+CAT-FA-007,FA,Intercompany,,,,,0,FALSE
+CAT-FA-008,FA,Memberships & Dues,,,,,0,FALSE
+CAT-FA-009,FA,Procurement Operations,,,,,0,FALSE
+CAT-FA-010,FA,Reporting & FP&A,,,,,0,FALSE
+CAT-FA-011,FA,Tax Services,,,,,0,FALSE
+CAT-FA-012,FA,Treasury,,,,,0,FALSE
+CAT-HR-001,HR,Contingent Workforce,,,,,0,FALSE
+CAT-HR-002,HR,HR Advisory,,,,,0,FALSE
+CAT-HR-003,HR,Talent Acquisition,,,,,0,FALSE
+CAT-HR-004,HR,Workforce Administration,,,,,0,FALSE
+CAT-IT-001,IT,Cybersecurity Operations,,,,,0,FALSE
+CAT-IT-002,IT,Enterprise Application Management,,,,,0,FALSE
+CAT-IT-003,IT,IT Asset & Financial Operations,,,,,0,FALSE
+CAT-IT-004,IT,IT Service Management & End-User Support,,,,,0,FALSE
+CAT-IT-005,IT,Infrastructure & Cloud Operations,,,,,0,FALSE
+CAT-IT-006,IT,Observability & Platform Operations,,,,,0,FALSE
+CAT-MK-001,MK,Brand & Market Intelligence,,,,,0,FALSE
+CAT-MK-002,MK,Content Marketing & SEO,,,,,0,FALSE
+CAT-MK-003,MK,Creative Production,,,,,0,FALSE
+CAT-MK-004,MK,Events & Field Marketing,,,,,0,FALSE
+CAT-MK-005,MK,Marketing Operations,,,,,0,FALSE
+CAT-MK-006,MK,Marketing Technology & Analytics,,,,,0,FALSE
+CAT-MK-007,MK,Media & Performance Marketing,,,,,0,FALSE
+CAT-MK-008,MK,PR & Communications,,,,,0,FALSE
+CAT-MK-009,MK,Partner & Channel Marketing,,,,,0,FALSE
+CAT-MK-010,MK,Social Media & Community,,,,,0,FALSE
+CAT-RC-001,RC,Corporate Governance,,,,,0,FALSE
+CAT-RC-002,RC,Data Privacy & Protection,,,,,0,FALSE
+CAT-RC-003,RC,ESG & Sustainability,,,,,0,FALSE
+CAT-RC-004,RC,Ethics & Compliance Operations,,,,,0,FALSE
+CAT-RC-005,RC,Financial Advisory,,,,,0,FALSE
+CAT-RC-006,RC,Financial Crime & Investigations,,,,,0,FALSE
+CAT-RC-007,RC,Internal Audit & Controls,,,,,0,FALSE
+CAT-RC-008,RC,Legal Operations,,,,,0,FALSE
+CAT-RC-009,RC,Regulatory Compliance,,,,,0,FALSE
+CAT-RC-010,RC,Third-Party & Enterprise Risk,,,,,0,FALSE
+CAT-SC-001,SC,Banking & Financial Services,,,,,0,FALSE
+CAT-SC-002,SC,Contract Manufacturing,,,,,0,FALSE
+CAT-SC-003,SC,Customs & Trade,,,,,0,FALSE
+CAT-SC-004,SC,Energy & Utilities,,,,,0,FALSE
+CAT-SC-005,SC,Engineering Support,,,,,0,FALSE
+CAT-SC-006,SC,Healthcare & Life Sciences,,,,,0,FALSE
+CAT-SC-007,SC,Insurance,,,,,0,FALSE
+CAT-SC-008,SC,Logistics Services,,,,,0,FALSE
+CAT-SC-009,SC,Manufacturing Operations Support,,,,,0,FALSE
+CAT-SC-010,SC,Media & Entertainment,,,,,0,FALSE
+CAT-SC-011,SC,Order Management & Fulfillment,,,,,0,FALSE
+CAT-SC-012,SC,Packaging & Labeling,,,,,0,FALSE
+CAT-SC-013,SC,Public Sector,,,,,0,FALSE
+CAT-SC-014,SC,Quality & Inspection,,,,,0,FALSE
+CAT-SC-015,SC,Supply Chain Planning & Analytics,,,,,0,FALSE
+CAT-SC-016,SC,Telecom Operations,,,,,0,FALSE
+CAT-SC-017,SC,Transportation Management,,,,,0,FALSE
+CAT-SC-018,SC,Travel & Hospitality Operations,,,,,0,FALSE
+CAT-SC-019,SC,Warehousing,,,,,0,FALSE

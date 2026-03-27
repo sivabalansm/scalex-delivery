@@ -1,0 +1,1742 @@
+Vendor_Name,Vendor_ID,Search_Key,Alt_Names,Parent_Vendor_ID,Is_Active
+Accenture,VND-0001,accenture,,,TRUE
+ADP,VND-0002,adp,,,TRUE
+TCS,VND-0003,tcs,,,TRUE
+Capgemini,VND-0004,capgemini,,,TRUE
+IBM,VND-0005,ibm,,,TRUE
+Conduent,VND-0006,conduent,,,TRUE
+Strada,VND-0007,strada,,,TRUE
+Wipro,VND-0008,wipro,,,TRUE
+Cognizant,VND-0009,cognizant,,,TRUE
+Infosys,VND-0010,infosys,,,TRUE
+Paychex,VND-0011,paychex,,,TRUE
+UKG,VND-0012,ukg,,,TRUE
+Workday,VND-0013,workday,,,TRUE
+SAP SuccessFactors,VND-0014,sap successfactors,,,TRUE
+Oracle HCM,VND-0015,oracle hcm,,,TRUE
+Dayforce,VND-0016,dayforce,,,TRUE
+Deel,VND-0017,deel,,,TRUE
+Remote,VND-0018,remote,,,TRUE
+Papaya Global,VND-0019,papaya global,,,TRUE
+Randstad,VND-0020,randstad,,,TRUE
+Cielo,VND-0021,cielo,,,TRUE
+Korn Ferry,VND-0022,korn ferry,,,TRUE
+Allegis Group,VND-0023,allegis group,,,TRUE
+ManpowerGroup,VND-0024,manpowergroup,,,TRUE
+Adecco Group,VND-0025,adecco group,,,TRUE
+Kelly Services,VND-0026,kelly services,,,TRUE
+Hays,VND-0027,hays,,,TRUE
+Robert Half,VND-0028,robert half,,,TRUE
+Beeline,VND-0029,beeline,,,TRUE
+Magnit,VND-0030,magnit,,,TRUE
+Insight Global,VND-0031,insight global,,,TRUE
+Russell Reynolds,VND-0032,russell reynolds,,,TRUE
+Heidrick & Struggles,VND-0033,heidrick & struggles,,,TRUE
+Spencer Stuart,VND-0034,spencer stuart,,,TRUE
+Egon Zehnder,VND-0035,egon zehnder,,,TRUE
+Teleperformance,VND-0036,teleperformance,,,TRUE
+Concentrix,VND-0037,concentrix,,,TRUE
+Foundever,VND-0038,foundever,,,TRUE
+TTEC,VND-0039,ttec,,,TRUE
+Alorica,VND-0040,alorica,,,TRUE
+Genpact,VND-0041,genpact,,,TRUE
+WNS,VND-0042,wns,,,TRUE
+TaskUs,VND-0043,taskus,,,TRUE
+NICE,VND-0044,nice,,,TRUE
+Genesys,VND-0045,genesys,,,TRUE
+Five9,VND-0046,five9,,,TRUE
+HCLTech,VND-0047,hcltech,,,TRUE
+NTT DATA,VND-0048,ntt data,,,TRUE
+DXC Technology,VND-0049,dxc technology,,,TRUE
+Kyndryl,VND-0050,kyndryl,,,TRUE
+EPAM,VND-0051,epam,,,TRUE
+Globant,VND-0052,globant,,,TRUE
+Persistent Systems,VND-0053,persistent systems,,,TRUE
+LTIMindtree,VND-0054,ltimindtree,,,TRUE
+Tech Mahindra,VND-0055,tech mahindra,,,TRUE
+Mphasis,VND-0056,mphasis,,,TRUE
+Ensono,VND-0057,ensono,,,TRUE
+Rackspace,VND-0058,rackspace,,,TRUE
+Deloitte,VND-0059,deloitte,,,TRUE
+PwC,VND-0060,pwc,,,TRUE
+EY,VND-0061,ey,,,TRUE
+KPMG,VND-0062,kpmg,,,TRUE
+CrowdStrike,VND-0063,crowdstrike,,,TRUE
+Palo Alto Networks,VND-0064,palo alto networks,,,TRUE
+Securitas,VND-0065,securitas,,,TRUE
+Trustwave,VND-0066,trustwave,,,TRUE
+Optiv,VND-0067,optiv,,,TRUE
+Coalfire,VND-0068,coalfire,,,TRUE
+HighRadius,VND-0069,highradius,,,TRUE
+BlackLine,VND-0070,blackline,,,TRUE
+Coupa,VND-0071,coupa,,,TRUE
+Basware,VND-0072,basware,,,TRUE
+EXL,VND-0073,exl,,,TRUE
+Sutherland,VND-0074,sutherland,,,TRUE
+GEP,VND-0075,gep,,,TRUE
+SAP Ariba,VND-0076,sap ariba,,,TRUE
+Ivalua,VND-0077,ivalua,,,TRUE
+JAGGAER,VND-0078,jaggaer,,,TRUE
+Proxima,VND-0079,proxima,,,TRUE
+Efficio,VND-0080,efficio,,,TRUE
+CBRE,VND-0081,cbre,,,TRUE
+JLL,VND-0082,jll,,,TRUE
+Cushman & Wakefield,VND-0083,cushman & wakefield,,,TRUE
+Colliers,VND-0084,colliers,,,TRUE
+ISS A/S,VND-0085,iss a/s,,,TRUE
+ABM Industries,VND-0086,abm industries,,,TRUE
+Allied Universal,VND-0087,allied universal,,,TRUE
+Compass Group,VND-0088,compass group,,,TRUE
+Sodexo,VND-0089,sodexo,,,TRUE
+Aramark,VND-0090,aramark,,,TRUE
+DHL,VND-0091,dhl,,,TRUE
+DSV,VND-0092,dsv,,,TRUE
+Kuehne+Nagel,VND-0093,kuehne+nagel,,,TRUE
+CEVA Logistics,VND-0094,ceva logistics,,,TRUE
+GXO Logistics,VND-0095,gxo logistics,,,TRUE
+XPO,VND-0096,xpo,,,TRUE
+C.H. Robinson,VND-0097,c.h. robinson,,,TRUE
+GEODIS,VND-0098,geodis,,,TRUE
+Maersk,VND-0099,maersk,,,TRUE
+FedEx Logistics,VND-0100,fedex logistics,,,TRUE
+UPS Supply Chain Solutions,VND-0101,ups supply chain solutions,,,TRUE
+McKinsey,VND-0102,mckinsey,,,TRUE
+BCG,VND-0103,bcg,,,TRUE
+Bain,VND-0104,bain,,,TRUE
+Oliver Wyman,VND-0105,oliver wyman,,,TRUE
+Kearney,VND-0106,kearney,,,TRUE
+Roland Berger,VND-0107,roland berger,,,TRUE
+Simon-Kucher,VND-0108,simon-kucher,,,TRUE
+L.E.K. Consulting,VND-0109,l.e.k. consulting,,,TRUE
+Alvarez & Marsal,VND-0110,alvarez & marsal,,,TRUE
+FTI Consulting,VND-0111,fti consulting,,,TRUE
+Huron Consulting,VND-0112,huron consulting,,,TRUE
+Consilio,VND-0113,consilio,,,TRUE
+UnitedLex,VND-0114,unitedlex,,,TRUE
+QuisLex,VND-0115,quislex,,,TRUE
+Integreon,VND-0116,integreon,,,TRUE
+Elevate,VND-0117,elevate,,,TRUE
+Ensemble Health Partners,VND-0118,ensemble health partners,,,TRUE
+R1 RCM,VND-0119,r1 rcm,,,TRUE
+Optum,VND-0120,optum,,,TRUE
+Conifer Health Solutions,VND-0121,conifer health solutions,,,TRUE
+AGS Health,VND-0122,ags health,,,TRUE
+Omega Healthcare,VND-0123,omega healthcare,,,TRUE
+Broadridge,VND-0124,broadridge,,,TRUE
+SS&C Technologies,VND-0125,ss&c technologies,,,TRUE
+DXC Insurance,VND-0126,dxc insurance,,,TRUE
+Hexaware,VND-0127,hexaware,,,TRUE
+SD Worx,VND-0128,sd worx,,,TRUE
+TMF Group,VND-0129,tmf group,,,TRUE
+CloudPay,VND-0130,cloudpay,,,TRUE
+Neeyamo,VND-0131,neeyamo,,,TRUE
+Ramco Systems,VND-0132,ramco systems,,,TRUE
+isolved,VND-0133,isolved,,,TRUE
+Paycom,VND-0134,paycom,,,TRUE
+Paylocity,VND-0135,paylocity,,,TRUE
+Zellis,VND-0136,zellis,,,TRUE
+Benefitfocus,VND-0137,benefitfocus,,,TRUE
+Businessolver,VND-0138,businessolver,,,TRUE
+Alight,VND-0139,alight,,,TRUE
+Velocity Global,VND-0140,velocity global,,,TRUE
+Multiplier,VND-0141,multiplier,,,TRUE
+Oyster HR,VND-0142,oyster hr,,,TRUE
+Safeguard Global,VND-0143,safeguard global,,,TRUE
+ADP TotalSource,VND-0144,adp totalsource,,,TRUE
+Insperity,VND-0145,insperity,,,TRUE
+TriNet,VND-0146,trinet,,,TRUE
+Justworks,VND-0147,justworks,,,TRUE
+Rippling,VND-0148,rippling,,,TRUE
+Cornerstone OnDemand,VND-0149,cornerstone ondemand,,,TRUE
+Skillsoft,VND-0150,skillsoft,,,TRUE
+Pontoon Solutions,VND-0151,pontoon solutions,,,TRUE
+Guidant Global,VND-0152,guidant global,,,TRUE
+SimplifyVMS,VND-0153,simplifyvms,,,TRUE
+SAP Fieldglass,VND-0154,sap fieldglass,,,TRUE
+Coupa Contingent Workforce,VND-0155,coupa contingent workforce,,,TRUE
+TEKsystems,VND-0156,teksystems,,,TRUE
+Aerotek,VND-0157,aerotek,,,TRUE
+Innova Solutions,VND-0158,innova solutions,,,TRUE
+ASGN,VND-0159,asgn,,,TRUE
+Kforce,VND-0160,kforce,,,TRUE
+Employbridge,VND-0161,employbridge,,,TRUE
+TrueBlue,VND-0162,trueblue,,,TRUE
+Hudson RPO,VND-0163,hudson rpo,,,TRUE
+Aya Healthcare,VND-0164,aya healthcare,,,TRUE
+Cross Country Healthcare,VND-0165,cross country healthcare,,,TRUE
+AMN Healthcare,VND-0166,amn healthcare,,,TRUE
+Thoughtworks,VND-0167,thoughtworks,,,TRUE
+Endava,VND-0168,endava,,,TRUE
+Softserve,VND-0169,softserve,,,TRUE
+Zensar Technologies,VND-0170,zensar technologies,,,TRUE
+Cyient,VND-0171,cyient,,,TRUE
+Birlasoft,VND-0172,birlasoft,,,TRUE
+Coforge,VND-0173,coforge,,,TRUE
+Unisys,VND-0174,unisys,,,TRUE
+SentinelOne,VND-0175,sentinelone,,,TRUE
+Zscaler,VND-0176,zscaler,,,TRUE
+Fortinet,VND-0177,fortinet,,,TRUE
+Mandiant,VND-0178,mandiant,,,TRUE
+Rapid7,VND-0179,rapid7,,,TRUE
+Qualys,VND-0180,qualys,,,TRUE
+Tenable,VND-0181,tenable,,,TRUE
+Arctic Wolf,VND-0182,arctic wolf,,,TRUE
+Sophos,VND-0183,sophos,,,TRUE
+Secureworks,VND-0184,secureworks,,,TRUE
+LevelBlue,VND-0185,levelblue,,,TRUE
+Auxis,VND-0186,auxis,,,TRUE
+Datamatics,VND-0187,datamatics,,,TRUE
+Personiv,VND-0188,personiv,,,TRUE
+eClerx,VND-0189,eclerx,,,TRUE
+Oracle Procurement Cloud,VND-0190,oracle procurement cloud,,,TRUE
+Corcentric,VND-0191,corcentric,,,TRUE
+Xchanging,VND-0192,xchanging,,,TRUE
+WNS Procurement,VND-0193,wns procurement,,,TRUE
+IBM Procurement,VND-0194,ibm procurement,,,TRUE
+Infosys BPM,VND-0195,infosys bpm,,,TRUE
+Nippon Express,VND-0196,nippon express,,,TRUE
+DB Schenker,VND-0197,db schenker,,,TRUE
+Sinotrans,VND-0198,sinotrans,,,TRUE
+Expeditors,VND-0199,expeditors,,,TRUE
+Flexport,VND-0200,flexport,,,TRUE
+RXO,VND-0201,rxo,,,TRUE
+TQL,VND-0202,tql,,,TRUE
+Echo Global Logistics,VND-0203,echo global logistics,,,TRUE
+J.B. Hunt,VND-0204,j.b. hunt,,,TRUE
+Amazon Logistics,VND-0205,amazon logistics,,,TRUE
+LaserShip/OnTrac,VND-0206,lasership/ontrac,,,TRUE
+Uber Freight,VND-0207,uber freight,,,TRUE
+GardaWorld,VND-0208,gardaworld,,,TRUE
+Savills,VND-0209,savills,,,TRUE
+Newmark,VND-0210,newmark,,,TRUE
+BrightView,VND-0211,brightview,,,TRUE
+C&W Services,VND-0212,c&w services,,,TRUE
+Planned Companies,VND-0213,planned companies,,,TRUE
+West Monroe,VND-0214,west monroe,,,TRUE
+Booz Allen Hamilton,VND-0215,booz allen hamilton,,,TRUE
+Slalom,VND-0216,slalom,,,TRUE
+Protiviti,VND-0217,protiviti,,,TRUE
+BDO USA,VND-0218,bdo usa,,,TRUE
+Grant Thornton,VND-0219,grant thornton,,,TRUE
+RSM US,VND-0220,rsm us,,,TRUE
+CliftonLarsonAllen,VND-0221,cliftonlarsonallen,,,TRUE
+10Clouds,VND-0222,10clouds,,,TRUE
+365 Retail Markets,VND-0223,365 retail markets,,,TRUE
+4change consulting,VND-0224,4change consulting,,,TRUE
+75F,VND-0225,75f,,,TRUE
+8x8,VND-0226,8x8,,,TRUE
+A2Z EMS,VND-0227,a2z ems,,,TRUE
+AB Tasty,VND-0228,ab tasty,,,TRUE
+ABB,VND-0229,abb,,,TRUE
+ABB/Hitachi Energy,VND-0230,abb/hitachi energy,,,TRUE
+ABF Freight,VND-0231,abf freight,,,TRUE
+ABM,VND-0232,abm,,,TRUE
+ACDi,VND-0233,acdi,,,TRUE
+ADP SmartCompliance,VND-0234,adp smartcompliance,,,TRUE
+AECOM,VND-0235,aecom,,,TRUE
+AGM Container Controls,VND-0236,agm container controls,,,TRUE
+AIT,VND-0237,ait,,,TRUE
+AIT Worldwide,VND-0238,ait worldwide,,,TRUE
+AIVEDA,VND-0239,aiveda,,,TRUE
+AMT Medical,VND-0240,amt medical,,,TRUE
+APi,VND-0241,api,,,TRUE
+ASTM International,VND-0242,astm international,,,TRUE
+AT&T Business,VND-0243,at&t business,,,TRUE
+AWS,VND-0244,aws,,,TRUE
+AWS Backup,VND-0245,aws backup,,,TRUE
+AWS DMS,VND-0246,aws dms,,,TRUE
+AWS Elemental,VND-0247,aws elemental,,,TRUE
+AWS Rekognition,VND-0248,aws rekognition,,,TRUE
+Accent (Accent Food Services),VND-0249,accent (accent food services),,,TRUE
+Accent Food Services,VND-0250,accent food services,,,TRUE
+Accenture Security,VND-0251,accenture security,,,TRUE
+Accenture Song,VND-0252,accenture song,,,TRUE
+Accessibility.Works,VND-0253,accessibility.works,,,TRUE
+Acción Performance,VND-0254,acción performance,,,TRUE
+Acclaro,VND-0255,acclaro,,,TRUE
+Aclara (Hubbell),VND-0256,aclara (hubbell),,,TRUE
+Acolad,VND-0257,acolad,,,TRUE
+ActionPak,VND-0258,actionpak,,,TRUE
+ActiveFence,VND-0259,activefence,,,TRUE
+Acumen Legal,VND-0260,acumen legal,,,TRUE
+Acxiom,VND-0261,acxiom,,,TRUE
+Addepto,VND-0262,addepto,,,TRUE
+Adobe AEM Assets,VND-0263,adobe aem assets,,,TRUE
+Adobe Analytics,VND-0264,adobe analytics,,,TRUE
+Adobe Content Cloud,VND-0265,adobe content cloud,,,TRUE
+Advanced Tech Svcs,VND-0266,advanced tech svcs,,,TRUE
+Advanced Technologies,VND-0267,advanced technologies,,,TRUE
+Aetion,VND-0268,aetion,,,TRUE
+Alamon Inc.,VND-0269,alamon inc.,,,TRUE
+Alation,VND-0270,alation,,,TRUE
+Alcast,VND-0271,alcast,,,TRUE
+Aldridge Electric,VND-0272,aldridge electric,,,TRUE
+AlertMedia,VND-0273,alertmedia,,,TRUE
+Alexander Mann,VND-0274,alexander mann,,,TRUE
+Alight Solutions,VND-0275,alight solutions,,,TRUE
+Alinea,VND-0276,alinea,,,TRUE
+Alinea Customs,VND-0277,alinea customs,,,TRUE
+AlixPartners,VND-0278,alixpartners,,,TRUE
+All Packaging Solutions,VND-0279,all packaging solutions,,,TRUE
+Allegis Group,VND-0280,allegis group,,,TRUE
+AllenComm,VND-0281,allencomm,,,TRUE
+Allied Universal (Executive Protection),VND-0282,allied universal (executive protection),,,TRUE
+Allucent,VND-0283,allucent,,,TRUE
+Alpega,VND-0284,alpega,,,TRUE
+Alpha Omega Translations,VND-0285,alpha omega translations,,,TRUE
+AlphaSense,VND-0286,alphasense,,,TRUE
+Alt Legal,VND-0287,alt legal,,,TRUE
+Altair,VND-0288,altair,,,TRUE
+Altasciences,VND-0289,altasciences,,,TRUE
+Amazon CloudWatch,VND-0290,amazon cloudwatch,,,TRUE
+Amazon Prime Video Tech,VND-0291,amazon prime video tech,,,TRUE
+Amazon S3 Glacier,VND-0292,amazon s3 glacier,,,TRUE
+Amelia,VND-0293,amelia,,,TRUE
+Ameresco,VND-0294,ameresco,,,TRUE
+America (Assumed ABM),VND-0295,america (assumed abm),,,TRUE
+Americold,VND-0296,americold,,,TRUE
+Aminad,VND-0297,aminad,,,TRUE
+Amphora,VND-0298,amphora,,,TRUE
+Amplity,VND-0299,amplity,,,TRUE
+Anaplan,VND-0300,anaplan,,,TRUE
+Andovar,VND-0301,andovar,,,TRUE
+Animal Logic,VND-0302,animal logic,,,TRUE
+Ankura,VND-0303,ankura,,,TRUE
+Annotell,VND-0304,annotell,,,TRUE
+Anolytics,VND-0305,anolytics,,,TRUE
+Ansible,VND-0306,ansible,,,TRUE
+Answernet,VND-0307,answernet,,,TRUE
+Ansys,VND-0308,ansys,,,TRUE
+Anthem,VND-0309,anthem,,,TRUE
+Antidote,VND-0310,antidote,,,TRUE
+AnyDesk,VND-0311,anydesk,,,TRUE
+Apex Companies,VND-0312,apex companies,,,TRUE
+Apex Group,VND-0313,apex group,,,TRUE
+Apexon,VND-0314,apexon,,,TRUE
+AppLovin (Mobile Focus),VND-0315,applovin (mobile focus),,,TRUE
+AppRecode,VND-0316,apprecode,,,TRUE
+Appen,VND-0317,appen,,,TRUE
+Applause,VND-0318,applause,,,TRUE
+Applied Tech Svcs,VND-0319,applied tech svcs,,,TRUE
+Applied Technical Services,VND-0320,applied technical services,,,TRUE
+Aptagon Technologies,VND-0321,aptagon technologies,,,TRUE
+Aptive Environmental,VND-0322,aptive environmental,,,TRUE
+Aquanima,VND-0323,aquanima,,,TRUE
+Aramark Refreshments,VND-0324,aramark refreshments,,,TRUE
+ArcBest,VND-0325,arcbest,,,TRUE
+Archive360,VND-0326,archive360,,,TRUE
+Ardoq,VND-0327,ardoq,,,TRUE
+Argilla,VND-0328,argilla,,,TRUE
+ArisGlobal,VND-0329,arisglobal,,,TRUE
+Arista Networks,VND-0330,arista networks,,,TRUE
+Arize AI,VND-0331,arize ai,,,TRUE
+Arriello,VND-0332,arriello,,,TRUE
+Arrive,VND-0333,arrive,,,TRUE
+Arrive Logistics,VND-0334,arrive logistics,,,TRUE
+Arrow Medical,VND-0335,arrow medical,,,TRUE
+Arthur,VND-0336,arthur,,,TRUE
+Aruba (HPE),VND-0337,aruba (hpe),,,TRUE
+Aryaka,VND-0338,aryaka,,,TRUE
+Ask Sage,VND-0339,ask sage,,,TRUE
+AskDataEntry,VND-0340,askdataentry,,,TRUE
+Aspire Scientific,VND-0341,aspire scientific,,,TRUE
+Asplundh,VND-0342,asplundh,,,TRUE
+Assa Abloy,VND-0343,assa abloy,,,TRUE
+Assa Abloy (HID),VND-0344,assa abloy (hid),,,TRUE
+AssetWorks,VND-0345,assetworks,,,TRUE
+Astronomer,VND-0346,astronomer,,,TRUE
+Atlan,VND-0347,atlan,,,TRUE
+Atlas Industrial,VND-0348,atlas industrial,,,TRUE
+Atlassian,VND-0349,atlassian,,,TRUE
+Atsuro Global,VND-0350,atsuro global,,,TRUE
+Atwell,VND-0351,atwell,,,TRUE
+AuditBoard,VND-0352,auditboard,,,TRUE
+Augury,VND-0353,augury,,,TRUE
+AutoCruitment,VND-0354,autocruitment,,,TRUE
+Automation Anywhere,VND-0355,automation anywhere,,,TRUE
+Automation Solutions of America,VND-0356,automation solutions of america,,,TRUE
+Auxochromofours,VND-0357,auxochromofours,,,TRUE
+Avaya,VND-0358,avaya,,,TRUE
+Avercast,VND-0359,avercast,,,TRUE
+Averna,VND-0360,averna,,,TRUE
+Avid (MediaCentral),VND-0361,avid (mediacentral),,,TRUE
+Avis Budget Group,VND-0362,avis budget group,,,TRUE
+Avison Young,VND-0363,avison young,,,TRUE
+Awesense,VND-0364,awesense,,,TRUE
+Axiom,VND-0365,axiom,,,TRUE
+Axis Communications,VND-0366,axis communications,,,TRUE
+Axle Logistics,VND-0367,axle logistics,,,TRUE
+AxleHire,VND-0368,axlehire,,,TRUE
+AxleHire/Jitsu,VND-0369,axlehire/jitsu,,,TRUE
+Aya Data,VND-0370,aya data,,,TRUE
+Azumo,VND-0371,azumo,,,TRUE
+BBK Worldwide,VND-0372,bbk worldwide,,,TRUE
+BESTMSLs,VND-0373,bestmsls,,,TRUE
+BGR Group,VND-0374,bgr group,,,TRUE
+BMC,VND-0375,bmc,,,TRUE
+BMC Helix Discovery,VND-0376,bmc helix discovery,,,TRUE
+BNSF,VND-0377,bnsf,,,TRUE
+BT (British Telecom),VND-0378,bt (british telecom),,,TRUE
+Bain & Company,VND-0379,bain & company,,,TRUE
+Bain & Company,VND-0380,bain & company,,,TRUE
+Bakken & Baeck,VND-0381,bakken & baeck,,,TRUE
+BambooHR,VND-0382,bamboohr,,,TRUE
+Bartlett Tree,VND-0383,bartlett tree,,,TRUE
+Bartlett Tree Experts,VND-0384,bartlett tree experts,,,TRUE
+Base64.ai,VND-0385,base64.ai,,,TRUE
+BayWa r.e.,VND-0386,baywa r.e.,,,TRUE
+Beehive,VND-0387,beehive,,,TRUE
+Bell and Howell,VND-0388,bell and howell,,,TRUE
+Beltmann,VND-0389,beltmann,,,TRUE
+Beltmann Integrated Logistics,VND-0390,beltmann integrated logistics,,,TRUE
+Benchmark,VND-0391,benchmark,,,TRUE
+Benchmark Electronics,VND-0392,benchmark electronics,,,TRUE
+BentoML,VND-0393,bentoml,,,TRUE
+Better Stack,VND-0394,better stack,,,TRUE
+BetterCloud,VND-0395,bettercloud,,,TRUE
+BetterUp,VND-0396,betterup,,,TRUE
+Bidgely,VND-0397,bidgely,,,TRUE
+BigStar Copywriting,VND-0398,bigstar copywriting,,,TRUE
+Bioclinica,VND-0399,bioclinica,,,TRUE
+Biopac,VND-0400,biopac,,,TRUE
+Biotrial,VND-0401,biotrial,,,TRUE
+BitCan,VND-0402,bitcan,,,TRUE
+Blanchard,VND-0403,blanchard,,,TRUE
+BluEnt,VND-0404,bluent,,,TRUE
+Blue Ridge,VND-0405,blue ridge,,,TRUE
+Blue Yonder,VND-0406,blue yonder,,,TRUE
+BlueCat,VND-0407,bluecat,,,TRUE
+BlueReg Group,VND-0408,bluereg group,,,TRUE
+Bluelock,VND-0409,bluelock,,,TRUE
+Bluepoof,VND-0410,bluepoof,,,TRUE
+Boston Consulting Group,VND-0411,boston consulting group,,,TRUE
+Boyds Consultants,VND-0412,boyds consultants,,,TRUE
+Brady Technologies,VND-0413,brady technologies,,,TRUE
+Branch Furniture,VND-0414,branch furniture,,,TRUE
+Brand New Copy,VND-0415,brand new copy,,,TRUE
+Braze,VND-0416,braze,,,TRUE
+Bright Machines,VND-0417,bright machines,,,TRUE
+BrightEdge,VND-0418,brightedge,,,TRUE
+Brightcove,VND-0419,brightcove,,,TRUE
+Bright Star Logistics,VND-0420,bright star logistics,,,TRUE
+Broadcast Management Group,VND-0421,broadcast management group,,,TRUE
+Brownstein Hyatt,VND-0422,brownstein hyatt,,,TRUE
+Bugcrowd,VND-0423,bugcrowd,,,TRUE
+Bureau Veritas,VND-0424,bureau veritas,,,TRUE
+Burton Energy Group,VND-0425,burton energy group,,,TRUE
+Business (Unknown),VND-0426,business (unknown),,,TRUE
+Byte Technology,VND-0427,byte technology,,,TRUE
+CAMS,VND-0428,cams,,,TRUE
+CAMS (FlexGen),VND-0429,cams (flexgen),,,TRUE
+CBRE (Host),VND-0430,cbre (host),,,TRUE
+CEB/Gartner,VND-0431,ceb/gartner,,,TRUE
+CEVA,VND-0432,ceva,,,TRUE
+CISAC (Rights Mgmt),VND-0433,cisac (rights mgmt),,,TRUE
+CISAC Societies,VND-0434,cisac societies,,,TRUE
+CMIT Solutions,VND-0435,cmit solutions,,,TRUE
+CRST,VND-0436,crst,,,TRUE
+CTG,VND-0437,ctg,,,TRUE
+CURTIS Digital,VND-0438,curtis digital,,,TRUE
+CVS Caremark,VND-0439,cvs caremark,,,TRUE
+CX Interglobal,VND-0440,cx interglobal,,,TRUE
+C\&W (Cushman & Wakefield),VND-0441,c\&w (cushman & wakefield),,,TRUE
+Call Masters BPO,VND-0442,call masters bpo,,,TRUE
+CalypsoAI,VND-0443,calypsoai,,,TRUE
+Cambridge Proofreading,VND-0444,cambridge proofreading,,,TRUE
+Candex,VND-0445,candex,,,TRUE
+Canon Business Process,VND-0446,canon business process,,,TRUE
+Canon Business Process Services,VND-0447,canon business process services,,,TRUE
+Canonical,VND-0448,canonical,,,TRUE
+Canteen,VND-0449,canteen,,,TRUE
+Canteen (Compass Group),VND-0450,canteen (compass group),,,TRUE
+Canteen (Compass),VND-0451,canteen (compass),,,TRUE
+Capital Rx,VND-0452,capital rx,,,TRUE
+Capstone Logistics,VND-0453,capstone logistics,,,TRUE
+Capstone Logistics,VND-0454,capstone logistics,,,TRUE
+CarbonBetter,VND-0455,carbonbetter,,,TRUE
+Carlson Tool,VND-0456,carlson tool,,,TRUE
+Carr Lane,VND-0457,carr lane,,,TRUE
+Carrier (Automated Logic),VND-0459,carrier (automated logic),,,TRUE
+Casetext,VND-0460,casetext,,,TRUE
+Castor EDC,VND-0461,castor edc,,,TRUE
+Catalent,VND-0462,catalent,,,TRUE
+Catalyst Rx,VND-0463,catalyst rx,,,TRUE
+Catch,VND-0464,catch,,,TRUE
+Catch & Release,VND-0465,catch & release,,,TRUE
+Cedar Financial,VND-0467,cedar financial,,,TRUE
+Celestica,VND-0468,celestica,,,TRUE
+Celestica Inc,VND-0469,celestica inc,,,TRUE
+Celonis,VND-0470,celonis,,,TRUE
+Center for Creative Leadership,VND-0471,center for creative leadership,,,TRUE
+Center for Creative Leadership,VND-0472,center for creative leadership,,,TRUE
+Centific,VND-0473,centific,,,TRUE
+Ceridian,VND-0474,ceridian,,,TRUE
+Ceridian Dayforce,VND-0475,ceridian dayforce,,,TRUE
+Certara,VND-0476,certara,,,TRUE
+Certara Synchrogenix,VND-0477,certara synchrogenix,,,TRUE
+Certus Pest,VND-0478,certus pest,,,TRUE
+Chain IQ,VND-0479,chain iq,,,TRUE
+Chainalytics,VND-0480,chainalytics,,,TRUE
+Chalk,VND-0481,chalk,,,TRUE
+Checkr,VND-0482,checkr,,,TRUE
+Checkstep,VND-0483,checkstep,,,TRUE
+Chef Software,VND-0484,chef software,,,TRUE
+Chermayeff & Geismar & Haviv,VND-0485,chermayeff & geismar & haviv,,,TRUE
+Cigna,VND-0486,cigna,,,TRUE
+Cigniti,VND-0487,cigniti,,,TRUE
+CircuitHub,VND-0488,circuithub,,,TRUE
+Cisco Systems,VND-0489,cisco systems,,,TRUE
+Cisco Meraki,VND-0490,cisco meraki,,,TRUE
+Cisco Security,VND-0491,cisco security,,,TRUE
+Cisco Webex,VND-0492,cisco webex,,,TRUE
+CivicPlus,VND-0493,civicplus,,,TRUE
+Clara Health (M\&B Sciences),VND-0494,clara health (m\&b sciences),,,TRUE
+Clarifai,VND-0495,clarifai,,,TRUE
+Clario,VND-0496,clario,,,TRUE
+Clarivate,VND-0497,clarivate,,,TRUE
+Clarivate,VND-0498,clarivate,,,TRUE
+Clay (Clay Global),VND-0499,clay (clay global),,,TRUE
+Cleanlab,VND-0500,cleanlab,,,TRUE
+Cleveroad,VND-0501,cleveroad,,,TRUE
+Clintar,VND-0502,clintar,,,TRUE
+CloudBolt,VND-0503,cloudbolt,,,TRUE
+CloudFactory,VND-0504,cloudfactory,,,TRUE
+CloudHealth,VND-0505,cloudhealth,,,TRUE
+Cloudbyz,VND-0506,cloudbyz,,,TRUE
+Cloudzerox,VND-0507,cloudzerox,,,TRUE
+CoStar,VND-0508,costar,,,TRUE
+Cobalt Robotics,VND-0509,cobalt robotics,,,TRUE
+Codeless,VND-0510,codeless,,,TRUE
+Cogent Communications,VND-0511,cogent communications,,,TRUE
+Cogito,VND-0512,cogito,,,TRUE
+Cogito Tech,VND-0513,cogito tech,,,TRUE
+Cogneesol,VND-0514,cogneesol,,,TRUE
+Cognex,VND-0515,cognex,,,TRUE
+Cognigy,VND-0516,cognigy,,,TRUE
+Cohere,VND-0517,cohere,,,TRUE
+Cohesity,VND-0518,cohesity,,,TRUE
+Collective,VND-0519,collective,,,TRUE
+Collibra,VND-0520,collibra,,,TRUE
+Collins,VND-0521,collins,,,TRUE
+ComPsych,VND-0522,compsych,,,TRUE
+Comarch,VND-0523,comarch,,,TRUE
+Comet,VND-0524,comet,,,TRUE
+Comfort (HVAC),VND-0525,comfort (hvac),,,TRUE
+Comfort Systems USA,VND-0526,comfort systems usa,,,TRUE
+CommLab India,VND-0527,commlab india,,,TRUE
+Commvault,VND-0528,commvault,,,TRUE
+Company 3,VND-0529,company 3,,,TRUE
+Compass Group (Front‑of‑House brands),VND-0530,compass group (front‑of‑house brands),,,TRUE
+Compose.ly,VND-0531,compose.ly,,,TRUE
+Conectys,VND-0532,conectys,,,TRUE
+ConnectCare,VND-0533,connectcare,,,TRUE
+ConnectWise Control,VND-0534,connectwise control,,,TRUE
+Connext Global Solutions,VND-0535,connext global solutions,,,TRUE
+ConsensusCT,VND-0536,consensusct,,,TRUE
+Constant Content,VND-0537,constant content,,,TRUE
+Constellation Navigator,VND-0538,constellation navigator,,,TRUE
+Content Guru (Storm),VND-0539,content guru (storm),,,TRUE
+ContentWriters,VND-0540,contentwriters,,,TRUE
+Contently,VND-0541,contently,,,TRUE
+Contextual AI,VND-0542,contextual ai,,,TRUE
+Continuum,VND-0543,continuum,,,TRUE
+Control Risks,VND-0544,control risks,,,TRUE
+Convergix Automation,VND-0545,convergix automation,,,TRUE
+Convoy,VND-0546,convoy,,,TRUE
+Cool,VND-0547,cool,,,TRUE
+Copy.ai,VND-0548,copy.ai,,,TRUE
+Corbus,VND-0549,corbus,,,TRUE
+Core & Main,VND-0550,core & main,,,TRUE
+Core Development,VND-0551,core development,,,TRUE
+Cornerstone Government Affairs,VND-0552,cornerstone government affairs,,,TRUE
+Cornerstone Research,VND-0553,cornerstone research,,,TRUE
+Corsearch,VND-0554,corsearch,,,TRUE
+Corvus Janitorial,VND-0555,corvus janitorial,,,TRUE
+Courier services,VND-0556,courier services,,,TRUE
+Covenant Logistics,VND-0557,covenant logistics,,,TRUE
+Coyle,VND-0558,coyle,,,TRUE
+Craters & Freighters,VND-0559,craters & freighters,,,TRUE
+Crawford Technologies,VND-0560,crawford technologies,,,TRUE
+Creation Tech,VND-0561,creation tech,,,TRUE
+CreatorIQ,VND-0562,creatoriq,,,TRUE
+Credo AI,VND-0563,credo ai,,,TRUE
+Crisp Thinking,VND-0564,crisp thinking,,,TRUE
+Crisp Thinking (Behavioral),VND-0565,crisp thinking (behavioral),,,TRUE
+CriticalRiver,VND-0566,criticalriver,,,TRUE
+CrossCo,VND-0567,crossco,,,TRUE
+CrossCo (formerly J.A. King),VND-0568,crossco (formerly j.a. king),,,TRUE
+Crucial Data Solutions,VND-0569,crucial data solutions,,,TRUE
+Cubettech,VND-0570,cubettech,,,TRUE
+CurbWaste,VND-0572,curbwaste,,,TRUE
+Customs Clearance Int'l,VND-0573,customs clearance int'l,,,TRUE
+Customs Clearance Intl,VND-0574,customs clearance intl,,,TRUE
+CyberArk,VND-0575,cyberark,,,TRUE
+DCI Consulting,VND-0576,dci consulting,,,TRUE
+DEKRA,VND-0577,dekra,,,TRUE
+DEKRA North America,VND-0578,dekra north america,,,TRUE
+DFMA (Boothroyd),VND-0579,dfma (boothroyd),,,TRUE
+DHL Returns,VND-0580,dhl returns,,,TRUE
+DHL Supply Chain,VND-0581,dhl supply chain,,,TRUE
+DNEG,VND-0582,dneg,,,TRUE
+DNV,VND-0583,dnv,,,TRUE
+DSD Renewables,VND-0584,dsd renewables,,,TRUE
+Dalet,VND-0585,dalet,,,TRUE
+Dash,VND-0586,dash,,,TRUE
+Dashmetrics,VND-0587,dashmetrics,,,TRUE
+DataRobot,VND-0588,datarobot,,,TRUE
+DataRoot Labs,VND-0589,dataroot labs,,,TRUE
+DataToBiz,VND-0590,datatobiz,,,TRUE
+DataVLab,VND-0591,datavlab,,,TRUE
+Databricks,VND-0592,databricks,,,TRUE
+Datadog,VND-0593,datadog,,,TRUE
+Datafield,VND-0594,datafield,,,TRUE
+Datagen,VND-0595,datagen,,,TRUE
+Datamatics Business Solutions,VND-0596,datamatics business solutions,,,TRUE
+Dataversity,VND-0597,dataversity,,,TRUE
+Davey Tree,VND-0598,davey tree,,,TRUE
+Davey Tree (DRG),VND-0599,davey tree (drg),,,TRUE
+Davey Tree Expert Company,VND-0600,davey tree expert company,,,TRUE
+Day Interpreting,VND-0601,day interpreting,,,TRUE
+DayBlink,VND-0602,dayblink,,,TRUE
+Dechert LLP,VND-0603,dechert llp,,,TRUE
+Deepen AI,VND-0604,deepen ai,,,TRUE
+Dell EMC,VND-0605,dell emc,,,TRUE
+Deloitte AI Institute,VND-0606,deloitte ai institute,,,TRUE
+Delphix,VND-0607,delphix,,,TRUE
+Deluxe Entertainment,VND-0608,deluxe entertainment,,,TRUE
+Dennemeyer,VND-0609,dennemeyer,,,TRUE
+Dept,VND-0610,dept,,,TRUE
+Deque Systems,VND-0611,deque systems,,,TRUE
+Descartes,VND-0612,descartes,,,TRUE
+Designity,VND-0613,designity,,,TRUE
+Detroit Testing Laboratory,VND-0614,detroit testing laboratory,,,TRUE
+Deutsche Telekom,VND-0615,deutsche telekom,,,TRUE
+DevDocs,VND-0616,devdocs,,,TRUE
+Dimerco,VND-0617,dimerco,,,TRUE
+DisCO,VND-0618,disco,,,TRUE
+DISCO,VND-0619,disco,,,TRUE
+Diversified Billing,VND-0620,diversified billing,,,TRUE
+Domino Data Lab,VND-0621,domino data lab,,,TRUE
+DoorDash,VND-0622,doordash,,,TRUE
+Dragon Innovation,VND-0623,dragon innovation,,,TRUE
+Drift,VND-0624,drift,,,TRUE
+Droga5,VND-0625,droga5,,,TRUE
+Dubbing Brothers,VND-0626,dubbing brothers,,,TRUE
+Duck.Design,VND-0627,duck.design,,,TRUE
+Duff & Phelps (Kroll),VND-0628,duff & phelps (kroll),,,TRUE
+Duke Reporters' Lab,VND-0629,duke reporters' lab,,,TRUE
+Dycom Industries,VND-0630,dycom industries,,,TRUE
+Dynamic 3PL,VND-0631,dynamic 3pl,,,TRUE
+Dynatrace,VND-0632,dynatrace,,,TRUE
+Dynaway,VND-0633,dynaway,,,TRUE
+E-Complish,VND-0634,e-complish,,,TRUE
+EDF Renewables,VND-0635,edf renewables,,,TRUE
+EDMI (OSAKI),VND-0636,edmi (osaki),,,TRUE
+ELM Utility Services,VND-0637,elm utility services,,,TRUE
+EMCOR,VND-0638,emcor,,,TRUE
+EMS Inc,VND-0639,ems inc,,,TRUE
+ENGIE Impact,VND-0640,engie impact,,,TRUE
+EPAM Systems,VND-0641,epam systems,,,TRUE
+EPC Energy,VND-0642,epc energy,,,TRUE
+EPE Consulting,VND-0643,epe consulting,,,TRUE
+EPG/Ehrhardt Partner Group,VND-0644,epg/ehrhardt partner group,,,TRUE
+ERM,VND-0645,erm,,,TRUE
+EVERSANA,VND-0646,eversana,,,TRUE
+EXL Analytics,VND-0647,exl analytics,,,TRUE
+EY Advisory,VND-0648,ey advisory,,,TRUE
+EY-Parthenon,VND-0649,ey-parthenon,,,TRUE
+Earth Class Mail,VND-0650,earth class mail,,,TRUE
+Eaton,VND-0651,eaton,,,TRUE
+Eaton (Brightlayer),VND-0652,eaton (brightlayer),,,TRUE
+Echo,VND-0653,echo,,,TRUE
+Echo Global,VND-0654,echo global,,,TRUE
+Ecolab,VND-0655,ecolab,,,TRUE
+Ecolab Pest Elimination,VND-0656,ecolab pest elimination,,,TRUE
+Ecom,VND-0657,ecom,,,TRUE
+Ecom Logistics,VND-0658,ecom logistics,,,TRUE
+Edelman,VND-0659,edelman,,,TRUE
+EditShare,VND-0660,editshare,,,TRUE
+Editage,VND-0661,editage,,,TRUE
+Elastic,VND-0662,elastic,,,TRUE
+Elastic Security,VND-0663,elastic security,,,TRUE
+Electric Sheep Robotics,VND-0665,electric sheep robotics,,,TRUE
+Element Facility Services,VND-0666,element facility services,,,TRUE
+Element Materials,VND-0667,element materials,,,TRUE
+Elementary,VND-0668,elementary,,,TRUE
+Elevator,VND-0669,elevator,,,TRUE
+Elior,VND-0670,elior,,,TRUE
+Elior North America,VND-0671,elior north america,,,TRUE
+Emerging: Anolytics,VND-0672,emerging: anolytics,,,TRUE
+Emerging: Cogito Tech,VND-0673,emerging: cogito tech,,,TRUE
+Emerging: Ollang,VND-0674,emerging: ollang,,,TRUE
+Emerging: Papercup (RWS 2025\),VND-0675,emerging: papercup (rws 2025\),,,TRUE
+Emerging: StanzaGo,VND-0676,emerging: stanzago,,,TRUE
+Emerging: Translated,VND-0677,emerging: translated,,,TRUE
+Emerson (Ovation Green),VND-0678,emerson (ovation green),,,TRUE
+Emerson (Ovation),VND-0679,emerson (ovation),,,TRUE
+Encord,VND-0680,encord,,,TRUE
+EnerNex,VND-0681,enernex,,,TRUE
+Energy Systems Group,VND-0682,energy systems group,,,TRUE
+Engie,VND-0683,engie,,,TRUE
+ENGIE Impact,VND-0684,engie impact,,,TRUE
+Ennov,VND-0685,ennov,,,TRUE
+Enspi.io,VND-0686,enspi.io,,,TRUE
+Enterprise,VND-0687,enterprise,,,TRUE
+Enterprise Commute (Commute with Enterprise),VND-0688,enterprise commute (commute with enterprise),,,TRUE
+Envoy,VND-0689,envoy,,,TRUE
+Envoy Global,VND-0690,envoy global,,,TRUE
+Epiq,VND-0691,epiq,,,TRUE
+Eptura,VND-0692,eptura,,,TRUE
+EqualWeb,VND-0693,equalweb,,,TRUE
+Equinix,VND-0694,equinix,,,TRUE
+Esevel,VND-0695,esevel,,,TRUE
+Estes,VND-0696,estes,,,TRUE
+Esyasoft,VND-0697,esyasoft,,,TRUE
+Eton Venture,VND-0698,eton venture,,,TRUE
+EverHelp,VND-0699,everhelp,,,TRUE
+Everest Group,VND-0700,everest group,,,TRUE
+Evergreen Smart Power,VND-0701,evergreen smart power,,,TRUE
+Everlaw,VND-0702,everlaw,,,TRUE
+Everstream,VND-0703,everstream,,,TRUE
+Everstream Analytics,VND-0704,everstream analytics,,,TRUE
+Eviden,VND-0705,eviden,,,TRUE
+Eviden (Atos),VND-0706,eviden (atos),,,TRUE
+Evidently AI,VND-0707,evidently ai,,,TRUE
+Evidera,VND-0708,evidera,,,TRUE
+Evisort,VND-0709,evisort,,,TRUE
+Exela Technologies,VND-0710,exela technologies,,,TRUE
+Expel,VND-0711,expel,,,TRUE
+Experian Employer Services,VND-0712,experian employer services,,,TRUE
+Expleo,VND-0713,expleo,,,TRUE
+Express Writers,VND-0714,express writers,,,TRUE
+EzCater,VND-0715,ezcater,,,TRUE
+F2 Labs,VND-0716,f2 labs,,,TRUE
+F5,VND-0717,f5,,,TRUE
+FGS Global,VND-0718,fgs global,,,TRUE
+FIS,VND-0719,fis,,,TRUE
+FLIR Systems,VND-0720,flir systems,,,TRUE
+FRCH,VND-0721,frch,,,TRUE
+FTZ Specialists,VND-0722,ftz specialists,,,TRUE
+Facebook (Meta) Safety Team,VND-0723,facebook (meta) safety team,,,TRUE
+Factor,VND-0724,factor,,,TRUE
+Factorem,VND-0725,factorem,,,TRUE
+FairMarkit,VND-0726,fairmarkit,,,TRUE
+Farmer Brothers,VND-0727,farmer brothers,,,TRUE
+Farrow,VND-0728,farrow,,,TRUE
+Fathom,VND-0730,fathom,,,TRUE
+Feather for Business,VND-0731,feather for business,,,TRUE
+FedData,VND-0732,feddata,,,TRUE
+FedEx,VND-0733,fedex,,,TRUE
+FedEx Office,VND-0734,fedex office,,,TRUE
+Fennel,VND-0735,fennel,,,TRUE
+Fexa,VND-0736,fexa,,,TRUE
+Fiddler AI,VND-0737,fiddler ai,,,TRUE
+First Transit (Transdev U.S.),VND-0738,first transit (transdev u.s.),,,TRUE
+Fiserv,VND-0739,fiserv,,,TRUE
+Fisher Phillips \+ BLDS \+ SolasAI,VND-0740,fisher phillips \+ blds \+ solasai,,,TRUE
+Five,VND-0741,five,,,TRUE
+Five Star Food Service,VND-0742,five star food service,,,TRUE
+Fjord,VND-0743,fjord,,,TRUE
+Flatiron Health,VND-0744,flatiron health,,,TRUE
+Flatworld Solutions,VND-0745,flatworld solutions,,,TRUE
+Fleet (Enterprise Fleet Mgmt),VND-0746,fleet (enterprise fleet mgmt),,,TRUE
+Fleetio,VND-0747,fleetio,,,TRUE
+Flex,VND-0748,flex,,,TRUE
+Flex Ltd,VND-0749,flex ltd,,,TRUE
+Flexera,VND-0750,flexera,,,TRUE
+Flexitricity,VND-0751,flexitricity,,,TRUE
+Flexplates,VND-0752,flexplates,,,TRUE
+Flip AI,VND-0753,flip ai,,,TRUE
+Flipper,VND-0754,flipper,,,TRUE
+Fluke,VND-0755,fluke,,,TRUE
+Focus Lab,VND-0756,focus lab,,,TRUE
+Foiwe,VND-0757,foiwe,,,TRUE
+Foreign Trade Zone Board,VND-0759,foreign trade zone board,,,TRUE
+Forrest Solutions,VND-0760,forrest solutions,,,TRUE
+Forrester,VND-0761,forrester,,,TRUE
+Fortanix,VND-0762,fortanix,,,TRUE
+Forthmatch,VND-0763,forthmatch,,,TRUE
+Fortive,VND-0764,fortive,,,TRUE
+Fortrea,VND-0765,fortrea,,,TRUE
+Forward Air,VND-0766,forward air,,,TRUE
+FourKites,VND-0767,fourkites,,,TRUE
+Foxconn,VND-0768,foxconn,,,TRUE
+Foxconn (Hon Hai),VND-0769,foxconn (hon hai),,,TRUE
+Foxtronics EMS,VND-0770,foxtronics ems,,,TRUE
+Fractal Analytics,VND-0771,fractal analytics,,,TRUE
+Fractory,VND-0772,fractory,,,TRUE
+Fragomen,VND-0773,fragomen,,,TRUE
+Framestore,VND-0774,framestore,,,TRUE
+Fresh Perspective,VND-0775,fresh perspective,,,TRUE
+Freshworks,VND-0776,freshworks,,,TRUE
+Freyr Solutions,VND-0777,freyr solutions,,,TRUE
+Frog Design,VND-0778,frog design,,,TRUE
+Fuelman,VND-0779,fuelman,,,TRUE
+Fujitsu,VND-0780,fujitsu,,,TRUE
+Full Fact,VND-0781,full fact,,,TRUE
+GBA Logistics,VND-0782,gba logistics,,,TRUE
+GBMP Consulting Group,VND-0783,gbmp consulting group,,,TRUE
+GCDN,VND-0784,gcdn,,,TRUE
+GDC Technology,VND-0785,gdc technology,,,TRUE
+GDS Associates,VND-0786,gds associates,,,TRUE
+GE Vernova,VND-0787,ge vernova,,,TRUE
+GP Strategies,VND-0788,gp strategies,,,TRUE
+GPRS,VND-0789,gprs,,,TRUE
+GTT Communications,VND-0790,gtt communications,,,TRUE
+GXO,VND-0791,gxo,,,TRUE
+GardaWorld (Crisis24),VND-0792,gardaworld (crisis24),,,TRUE
+Gartner,VND-0793,gartner,,,TRUE
+Gecko Robotics,VND-0794,gecko robotics,,,TRUE
+Genco/FedEx Supply Chain,VND-0795,genco/fedex supply chain,,,TRUE
+Genco UPS,VND-0796,genco ups,,,TRUE
+Generac,VND-0797,generac,,,TRUE
+Genesys Cloud CX,VND-0798,genesys cloud cx,,,TRUE
+Genetec,VND-0799,genetec,,,TRUE
+Geniusee,VND-0800,geniusee,,,TRUE
+Geocycle,VND-0801,geocycle,,,TRUE
+Geomotiv,VND-0802,geomotiv,,,TRUE
+Geotab,VND-0803,geotab,,,TRUE
+GetAnnotator,VND-0804,getannotator,,,TRUE
+Getronics,VND-0805,getronics,,,TRUE
+Gibbs Die Casting,VND-0806,gibbs die casting,,,TRUE
+GitLab,VND-0807,gitlab,,,TRUE
+Global Testing Laboratories,VND-0808,global testing laboratories,,,TRUE
+Global Utility Services,VND-0809,global utility services,,,TRUE
+GoldFynch,VND-0810,goldfynch,,,TRUE
+Google Cloud,VND-0811,google cloud,,,TRUE
+Google Fact Check Explorer,VND-0812,google fact check explorer,,,TRUE
+Gordian,VND-0813,gordian,,,TRUE
+Gradeup,VND-0814,gradeup,,,TRUE
+Grading Technologies,VND-0815,grading technologies,,,TRUE
+Grainger,VND-0816,grainger,,,TRUE
+GreenStruxure,VND-0817,greenstruxure,,,TRUE
+Greenhouse,VND-0818,greenhouse,,,TRUE
+Gretel.ai,VND-0819,gretel.ai,,,TRUE
+Group,VND-0820,group,,,TRUE
+GroupM,VND-0821,groupm,,,TRUE
+Growing,VND-0822,growing,,,TRUE
+Guardian Life,VND-0824,guardian life,,,TRUE
+Guidehouse,VND-0825,guidehouse,,,TRUE
+H.B. Maynard,VND-0826,h.b. maynard,,,TRUE
+H2O.ai,VND-0827,h2o.ai,,,TRUE
+HB NEXT Energy,VND-0828,hb next energy,,,TRUE
+HBR Consulting,VND-0829,hbr consulting,,,TRUE
+HP (Managed Print),VND-0830,hp (managed print),,,TRUE
+HP/HPE,VND-0831,hp/hpe,,,TRUE
+HPE,VND-0832,hpe,,,TRUE
+HQTS,VND-0833,hqts,,,TRUE
+HSI,VND-0834,hsi,,,TRUE
+HackerOne,VND-0835,hackerone,,,TRUE
+Hackmamba,VND-0836,hackmamba,,,TRUE
+Hallcon,VND-0837,hallcon,,,TRUE
+Hanwha Vision,VND-0838,hanwha vision,,,TRUE
+Harness,VND-0839,harness,,,TRUE
+HashiCorp,VND-0840,hashicorp,,,TRUE
+Haven Metrology,VND-0841,haven metrology,,,TRUE
+Haworth (Integrated Services),VND-0842,haworth (integrated services),,,TRUE
+Hay Group,VND-0843,hay group,,,TRUE
+Hazy,VND-0844,hazy,,,TRUE
+Hearthside Food,VND-0845,hearthside food,,,TRUE
+HelpSquad,VND-0846,helpsquad,,,TRUE
+HelpSquad BPO,VND-0847,helpsquad bpo,,,TRUE
+Henkels & McCoy,VND-0848,henkels & mccoy,,,TRUE
+Hertz,VND-0849,hertz,,,TRUE
+HiTech Digital,VND-0850,hitech digital,,,TRUE
+HiddenLayer,VND-0851,hiddenlayer,,,TRUE
+HighJump,VND-0853,highjump,,,TRUE
+Hitachi Energy,VND-0854,hitachi energy,,,TRUE
+Hive AI,VND-0855,hive ai,,,TRUE
+Holman,VND-0856,holman,,,TRUE
+Honeywell,VND-0857,honeywell,,,TRUE
+Hoodzpah,VND-0858,hoodzpah,,,TRUE
+Horizon Media,VND-0859,horizon media,,,TRUE
+Houlihan Lokey,VND-0860,houlihan lokey,,,TRUE
+HqO,VND-0861,hqo,,,TRUE
+Hub Group,VND-0862,hub group,,,TRUE
+Huge,VND-0863,huge,,,TRUE
+HumanSignal,VND-0864,humansignal,,,TRUE
+Humanloop,VND-0865,humanloop,,,TRUE
+HungerHub,VND-0866,hungerhub,,,TRUE
+Hungry,VND-0867,hungry,,,TRUE
+Hyperproof,VND-0868,hyperproof,,,TRUE
+IARM,VND-0869,iarm,,,TRUE
+IBM AI Fairness 360,VND-0870,ibm ai fairness 360,,,TRUE
+IC System,VND-0871,ic system,,,TRUE
+ICF,VND-0872,icf,,,TRUE
+ICON plc,VND-0873,icon plc,,,TRUE
+ICR Group,VND-0874,icr group,,,TRUE
+IDC,VND-0875,idc,,,TRUE
+IDEO,VND-0876,ideo,,,TRUE
+IFS,VND-0877,ifs,,,TRUE
+IHI Terrasun,VND-0878,ihi terrasun,,,TRUE
+INKLUSIVE,VND-0879,inklusive,,,TRUE
+IQ BackOffice,VND-0880,iq backoffice,,,TRUE
+IQVIA,VND-0881,iqvia,,,TRUE
+IQVIA Laboratories,VND-0882,iqvia laboratories,,,TRUE
+IREC,VND-0883,irec,,,TRUE
+IS Partners,VND-0884,is partners,,,TRUE
+ISS,VND-0885,iss,,,TRUE
+ISS Guckenheimer,VND-0886,iss guckenheimer,,,TRUE
+IXICO plc,VND-0887,ixico plc,,,TRUE
+Icertis,VND-0888,icertis,,,TRUE
+IDEO,VND-0889,ideo,,,TRUE
+Image Core Lab (ICL),VND-0890,image core lab (icl),,,TRUE
+Imaginary Cloud,VND-0891,imaginary cloud,,,TRUE
+Impark,VND-0892,impark,,,TRUE
+Increditors,VND-0893,increditors,,,TRUE
+Indicate Tech,VND-0894,indicate tech,,,TRUE
+Infios (Körber Supply Chain Software),VND-0895,infios (körber supply chain software),,,TRUE
+Influential,VND-0896,influential,,,TRUE
+Infoblox,VND-0897,infoblox,,,TRUE
+Infopro Learning,VND-0898,infopro learning,,,TRUE
+Infor,VND-0899,infor,,,TRUE
+Informatica MDM,VND-0900,informatica mdm,,,TRUE
+Infosec,VND-0901,infosec,,,TRUE
+Inizio Engage,VND-0902,inizio engage,,,TRUE
+Innosight,VND-0903,innosight,,,TRUE
+Inoxoft,VND-0905,inoxoft,,,TRUE
+Insight Sourcing,VND-0906,insight sourcing,,,TRUE
+Integral Recoveries,VND-0907,integral recoveries,,,TRUE
+Interbrand,VND-0908,interbrand,,,TRUE
+Intercom,VND-0909,intercom,,,TRUE
+Interstate Warehousing,VND-0910,interstate warehousing,,,TRUE
+Intertek,VND-0911,intertek,,,TRUE
+Intuendi,VND-0912,intuendi,,,TRUE
+Invariant,VND-0913,invariant,,,TRUE
+Invensis,VND-0914,invensis,,,TRUE
+InvoiceCloud,VND-0915,invoicecloud,,,TRUE
+Ipsos,VND-0916,ipsos,,,TRUE
+Irdeto,VND-0917,irdeto,,,TRUE
+Iron Mountain,VND-0918,iron mountain,,,TRUE
+Iron Planet,VND-0919,iron planet,,,TRUE
+Ironclad,VND-0920,ironclad,,,TRUE
+Iterable,VND-0921,iterable,,,TRUE
+Iterative,VND-0922,iterative,,,TRUE
+Itron,VND-0923,itron,,,TRUE
+Itron Inc.,VND-0924,itron inc.,,,TRUE
+Ivanti,VND-0925,ivanti,,,TRUE
+Ivanti UEM,VND-0926,ivanti uem,,,TRUE
+Iyuno,VND-0927,iyuno,,,TRUE
+Iyuno-SDI,VND-0928,iyuno-sdi,,,TRUE
+JLL (Horizon/Jet),VND-0929,jll (horizon/jet),,,TRUE
+JR Automation,VND-0930,jr automation,,,TRUE
+Jabil,VND-0931,jabil,,,TRUE
+Jabil Inc,VND-0932,jabil inc,,,TRUE
+Jacobs,VND-0933,jacobs,,,TRUE
+Jellyfish,VND-0934,jellyfish,,,TRUE
+Jeyflex,VND-0935,jeyflex,,,TRUE
+Jitsu,VND-0936,jitsu,,,TRUE
+Joele Frank Wilkinson,VND-0937,joele frank wilkinson,,,TRUE
+Johnson Banks,VND-0938,johnson banks,,,TRUE
+Johnson Controls,VND-0939,johnson controls,,,TRUE
+Jonco Industries,VND-0940,jonco industries,,,TRUE
+Joyride Coffee,VND-0941,joyride coffee,,,TRUE
+Juniper,VND-0942,juniper,,,TRUE
+Juniper Landscaping,VND-0943,juniper landscaping,,,TRUE
+K2view,VND-0944,k2view,,,TRUE
+KBS (Kellermeyer Bergensons Services),VND-0945,kbs (kellermeyer bergensons services),,,TRUE
+KBS (Kellermeyer Bergensons),VND-0946,kbs (kellermeyer bergensons),,,TRUE
+KDMX (Pixelogic+Unique X),VND-0947,kdmx (pixelogic+unique x),,,TRUE
+KIK Consumer,VND-0948,kik consumer,,,TRUE
+KJT Group,VND-0949,kjt group,,,TRUE
+KRC Machine Tool,VND-0950,krc machine tool,,,TRUE
+Kaizen Institute,VND-0951,kaizen institute,,,TRUE
+Kameleoon,VND-0952,kameleoon,,,TRUE
+Kantar,VND-0953,kantar,,,TRUE
+Kantar Media,VND-0954,kantar media,,,TRUE
+Kendle Healthcare,VND-0955,kendle healthcare,,,TRUE
+Keywords Studios,VND-0956,keywords studios,,,TRUE
+Kimball,VND-0957,kimball,,,TRUE
+Kinaxis,VND-0958,kinaxis,,,TRUE
+Kintetsu,VND-0959,kintetsu,,,TRUE
+Kion,VND-0960,kion,,,TRUE
+Kisi,VND-0961,kisi,,,TRUE
+Klaviyo,VND-0962,klaviyo,,,TRUE
+KleenMark,VND-0963,kleenmark,,,TRUE
+Kleenup,VND-0964,kleenup,,,TRUE
+Knight-Swift,VND-0965,knight-swift,,,TRUE
+Knightscope,VND-0966,knightscope,,,TRUE
+KnowBe4,VND-0967,knowbe4,,,TRUE
+KONE,VND-0968,kone,,,TRUE
+Konica Minolta,VND-0969,konica minolta,,,TRUE
+Koppers Utility,VND-0970,koppers utility,,,TRUE
+Kore.ai,VND-0971,kore.ai,,,TRUE
+Kotter,VND-0972,kotter,,,TRUE
+Kroll,VND-0973,kroll,,,TRUE
+Kronos,VND-0974,kronos,,,TRUE
+Kyteway eLearning,VND-0975,kyteway elearning,,,TRUE
+Kyvos,VND-0976,kyvos,,,TRUE
+LAZ Parking,VND-0977,laz parking,,,TRUE
+LILT,VND-0978,lilt,,,TRUE
+LMG Security,VND-0979,lmg security,,,TRUE
+LORENZ Life Sciences Group,VND-0980,lorenz life sciences group,,,TRUE
+LXT,VND-0981,lxt,,,TRUE
+L&T Technology,VND-0982,l&t technology,,,TRUE
+LabCorp,VND-0983,labcorp,,,TRUE
+LabTest Certification,VND-0984,labtest certification,,,TRUE
+Labcorp Drug Development,VND-0985,labcorp drug development,,,TRUE
+Labcorp/Covance,VND-0986,labcorp/covance,,,TRUE
+Label Your Data,VND-0987,label your data,,,TRUE
+Labelbox,VND-0988,labelbox,,,TRUE
+Labellerr,VND-0989,labellerr,,,TRUE
+Laboratory Testing,VND-0990,laboratory testing,,,TRUE
+Laboratory Testing Inc,VND-0991,laboratory testing inc,,,TRUE
+Lakera,VND-0992,lakera,,,TRUE
+Landis+Gyr,VND-0993,landis+gyr,,,TRUE
+Landor,VND-0994,landor,,,TRUE
+Landor & Fitch,VND-0995,landor & fitch,,,TRUE
+Landstar System,VND-0996,landstar system,,,TRUE
+LangChain,VND-0997,langchain,,,TRUE
+LangSmith,VND-0998,langsmith,,,TRUE
+Language Bear,VND-0999,language bear,,,TRUE
+LanguageLine Solutions,VND-1000,languageline solutions,,,TRUE
+Lasso Security,VND-1001,lasso security,,,TRUE
+Launch,VND-1002,launch,,,TRUE
+Launch Fulfillment,VND-1003,launch fulfillment,,,TRUE
+LawFlex,VND-1004,lawflex,,,TRUE
+LawGeex,VND-1005,lawgeex,,,TRUE
+Lazard,VND-1006,lazard,,,TRUE
+LeadOrigin,VND-1007,leadorigin,,,TRUE
+League,VND-1008,league,,,TRUE
+Learning Everest,VND-1009,learning everest,,,TRUE
+LeaseAccelerator,VND-1010,leaseaccelerator,,,TRUE
+LeasePlan,VND-1011,leaseplan,,,TRUE
+Lee Hecht Harrison,VND-1012,lee hecht harrison,,,TRUE
+LeewayHertz,VND-1013,leewayhertz,,,TRUE
+LenelS2,VND-1014,lenels2,,,TRUE
+Lenovo,VND-1015,lenovo,,,TRUE
+LetPub,VND-1016,letpub,,,TRUE
+LexisNexis IP,VND-1017,lexisnexis ip,,,TRUE
+Lighthouse,VND-1018,lighthouse,,,TRUE
+Lightly,VND-1019,lightly,,,TRUE
+Lightly AI,VND-1020,lightly ai,,,TRUE
+Lineage,VND-1021,lineage,,,TRUE
+Lionbridge,VND-1022,lionbridge,,,TRUE
+LiqTech,VND-1023,liqtech,,,TRUE
+Liquidity Services,VND-1024,liquidity services,,,TRUE
+Littler Mendelson,VND-1025,littler mendelson,,,TRUE
+Livework,VND-1026,livework,,,TRUE
+LogicSource,VND-1027,logicsource,,,TRUE
+Logility,VND-1028,logility,,,TRUE
+LogistiGate,VND-1029,logistigate,,,TRUE
+Lokalise,VND-1030,lokalise,,,TRUE
+Loop Returns,VND-1031,loop returns,,,TRUE
+Lumen Technologies,VND-1032,lumen technologies,,,TRUE
+M Moser Associates,VND-1033,m moser associates,,,TRUE
+MG2,VND-1034,mg2,,,TRUE
+MMS Holdings,VND-1035,mms holdings,,,TRUE
+MOSTLY AI,VND-1036,mostly ai,,,TRUE
+MRI Software,VND-1037,mri software,,,TRUE
+MV Transportation,VND-1038,mv transportation,,,TRUE
+MYR Group,VND-1039,myr group,,,TRUE
+M\&M Automatic Products,VND-1040,m\&m automatic products,,,TRUE
+Maco PKG,VND-1041,maco pkg,,,TRUE
+Made4net,VND-1042,made4net,,,TRUE
+Mage,VND-1043,mage,,,TRUE
+Magellan Health,VND-1044,magellan health,,,TRUE
+Magellan Rx,VND-1045,magellan rx,,,TRUE
+MainStreaming,VND-1046,mainstreaming,,,TRUE
+Maine Pointe,VND-1047,maine pointe,,,TRUE
+Managed Outsource,VND-1048,managed outsource,,,TRUE
+Mandiant (Google Cloud),VND-1049,mandiant (google cloud),,,TRUE
+Manfreight,VND-1050,manfreight,,,TRUE
+Manhattan Associates,VND-1051,manhattan associates,,,TRUE
+MannyAI,VND-1052,mannyai,,,TRUE
+Market Dojo,VND-1053,market dojo,,,TRUE
+MasTec,VND-1054,mastec,,,TRUE
+Massey Services,VND-1055,massey services,,,TRUE
+Maverick Utility,VND-1056,maverick utility,,,TRUE
+MaxUS Ops,VND-1057,maxus ops,,,TRUE
+Maxim AI,VND-1058,maxim ai,,,TRUE
+McKinsey & Co,VND-1059,mckinsey & co,,,TRUE
+McKinsey & Company,VND-1060,mckinsey & company,,,TRUE
+Med Communications,VND-1061,med communications,,,TRUE
+MediSpend,VND-1062,medispend,,,TRUE
+Media.Monks,VND-1063,media.monks,,,TRUE
+Median Technologies,VND-1064,median technologies,,,TRUE
+Medidata,VND-1065,medidata,,,TRUE
+Medidata RTSM,VND-1066,medidata rtsm,,,TRUE
+Medidata Solutions,VND-1067,medidata solutions,,,TRUE
+Mednet Solutions,VND-1068,mednet solutions,,,TRUE
+Medpace,VND-1069,medpace,,,TRUE
+Medpace Imaging Core Lab,VND-1070,medpace imaging core lab,,,TRUE
+Medrio,VND-1071,medrio,,,TRUE
+MentorCruise,VND-1072,mentorcruise,,,TRUE
+Mercalis,VND-1073,mercalis,,,TRUE
+Mercer,VND-1074,mercer,,,TRUE
+Meridian Medical,VND-1075,meridian medical,,,TRUE
+Meridian Medical Devices,VND-1076,meridian medical devices,,,TRUE
+Merkle,VND-1077,merkle,,,TRUE
+Merlin (Digital Rights),VND-1078,merlin (digital rights),,,TRUE
+Meta Appeals Team,VND-1079,meta appeals team,,,TRUE
+MetaDesign,VND-1080,metadesign,,,TRUE
+Metro Engineering,VND-1081,metro engineering,,,TRUE
+Metropolis,VND-1082,metropolis,,,TRUE
+Mi-Tech,VND-1083,mi-tech,,,TRUE
+Michels Corporation,VND-1084,michels corporation,,,TRUE
+MicronPA,VND-1085,micronpa,,,TRUE
+Microsoft,VND-1086,microsoft,,,TRUE
+Microsoft Azure,VND-1087,microsoft azure,,,TRUE
+Microsoft Azure Archive,VND-1088,microsoft azure archive,,,TRUE
+Microsoft Azure Purview,VND-1089,microsoft azure purview,,,TRUE
+Microsoft Azure RMS,VND-1090,microsoft azure rms,,,TRUE
+Microsoft Configuration Manager,VND-1091,microsoft configuration manager,,,TRUE
+Microsoft Content Moderator,VND-1092,microsoft content moderator,,,TRUE
+Microsoft Defender,VND-1093,microsoft defender,,,TRUE
+Microsoft Entra,VND-1094,microsoft entra,,,TRUE
+Microsoft Entra,VND-1095,microsoft entra,,,TRUE
+Microsoft Fairlearn,VND-1096,microsoft fairlearn,,,TRUE
+Microsoft Power BI,VND-1097,microsoft power bi,,,TRUE
+Microsoft Sentinel,VND-1098,microsoft sentinel,,,TRUE
+Microsoft Teams,VND-1099,microsoft teams,,,TRUE
+MidStates Energy,VND-1100,midstates energy,,,TRUE
+Midwest Powerline,VND-1101,midwest powerline,,,TRUE
+MileMeter,VND-1102,milemeter,,,TRUE
+Milestone Systems,VND-1103,milestone systems,,,TRUE
+MillerKnoll (Herman Miller/Knoll),VND-1104,millerknoll (herman miller/knoll),,,TRUE
+Milsoft,VND-1105,milsoft,,,TRUE
+Mindcrest,VND-1106,mindcrest,,,TRUE
+Mindgard,VND-1107,mindgard,,,TRUE
+Minitab,VND-1108,minitab,,,TRUE
+Mintel,VND-1109,mintel,,,TRUE
+Mischief,VND-1110,mischief,,,TRUE
+Mitsubishi Heavy Industries,VND-1111,mitsubishi heavy industries,,,TRUE
+Moburst,VND-1112,moburst,,,TRUE
+ModSquad,VND-1113,modsquad,,,TRUE
+ModelFront,VND-1114,modelfront,,,TRUE
+Molecule Systems,VND-1115,molecule systems,,,TRUE
+Momentum,VND-1116,momentum,,,TRUE
+Morae Global,VND-1117,morae global,,,TRUE
+Morpheus Data,VND-1118,morpheus data,,,TRUE
+Motive,VND-1119,motive,,,TRUE
+Motive Energy,VND-1120,motive energy,,,TRUE
+Motor City Electric,VND-1121,motor city electric,,,TRUE
+Motorola Solutions,VND-1122,motorola solutions,,,TRUE
+Motorola Solutions (Avigilon),VND-1123,motorola solutions (avigilon),,,TRUE
+Moved,VND-1124,moved,,,TRUE
+Mucho,VND-1125,mucho,,,TRUE
+MuleSoft,VND-1126,mulesoft,,,TRUE
+MuniBilling,VND-1127,munibilling,,,TRUE
+Music Bed (Rights Mgmt),VND-1128,music bed (rights mgmt),,,TRUE
+Music Bed Pro,VND-1129,music bed pro,,,TRUE
+N-iX,VND-1130,n-ix,,,TRUE
+NCC Group,VND-1131,ncc group,,,TRUE
+NEOLOKA,VND-1132,neoloka,,,TRUE
+NEP Group,VND-1133,nep group,,,TRUE
+NGINX,VND-1134,nginx,,,TRUE
+NICE CXone,VND-1135,nice cxone,,,TRUE
+NP Digital,VND-1136,np digital,,,TRUE
+Naak,VND-1137,naak,,,TRUE
+NannyML,VND-1138,nannyml,,,TRUE
+Nanoprecise,VND-1139,nanoprecise,,,TRUE
+Nanoprecise Sci Corp,VND-1140,nanoprecise sci corp,,,TRUE
+Navigant,VND-1141,navigant,,,TRUE
+Navitas Life Sciences,VND-1142,navitas life sciences,,,TRUE
+Nelson Tree,VND-1143,nelson tree,,,TRUE
+Nelson Tree Service,VND-1144,nelson tree service,,,TRUE
+Nemko,VND-1145,nemko,,,TRUE
+Neotech,VND-1146,neotech,,,TRUE
+Neptune.ai,VND-1147,neptune.ai,,,TRUE
+Netflix Technical Infrastructure,VND-1148,netflix technical infrastructure,,,TRUE
+Netstock,VND-1149,netstock,,,TRUE
+Network \+ Security Tech,VND-1150,network \+ security tech,,,TRUE
+Neutra Life Sciences,VND-1151,neutra life sciences,,,TRUE
+New Relic,VND-1152,new relic,,,TRUE
+NewCold,VND-1153,newcold,,,TRUE
+Newgen,VND-1154,newgen,,,TRUE
+Nexdigm,VND-1155,nexdigm,,,TRUE
+Next Kraftwerke,VND-1156,next kraftwerke,,,TRUE
+Niche,VND-1157,niche,,,TRUE
+Nielsen (Attribution),VND-1158,nielsen (attribution),,,TRUE
+Nielsen/comScore,VND-1159,nielsen/comscore,,,TRUE
+North,VND-1160,north,,,TRUE
+North Highland,VND-1161,north highland,,,TRUE
+Nowports,VND-1162,nowports,,,TRUE
+Nuix,VND-1163,nuix,,,TRUE
+OATI,VND-1164,oati,,,TRUE
+OCS Group,VND-1165,ocs group,,,TRUE
+OM1,VND-1166,om1,,,TRUE
+Ocean Tomo,VND-1167,ocean tomo,,,TRUE
+OctoML,VND-1168,octoml,,,TRUE
+Okta,VND-1169,okta,,,TRUE
+Olameter,VND-1170,olameter,,,TRUE
+Omnex,VND-1171,omnex,,,TRUE
+Omnex/PlanTech,VND-1172,omnex/plantech,,,TRUE
+Omnicom Media Group,VND-1173,omnicom media group,,,TRUE
+Oncodesign Services,VND-1174,oncodesign services,,,TRUE
+One Network,VND-1175,one network,,,TRUE
+One Network Enterprises,VND-1176,one network enterprises,,,TRUE
+OneReach.ai,VND-1177,onereach.ai,,,TRUE
+Ontic,VND-1178,ontic,,,TRUE
+Ontra,VND-1179,ontra,,,TRUE
+OpenAI (Enterprise),VND-1180,openai (enterprise),,,TRUE
+OpenText/RWS Rights,VND-1181,opentext/rws rights,,,TRUE
+Opporture,VND-1182,opporture,,,TRUE
+Optimizely,VND-1183,optimizely,,,TRUE
+Optimus,VND-1184,optimus,,,TRUE
+Optio Solutions,VND-1185,optio solutions,,,TRUE
+Oracle,VND-1186,oracle,,,TRUE
+Oracle Cloud,VND-1187,oracle cloud,,,TRUE
+Oracle Health Sciences,VND-1188,oracle health sciences,,,TRUE
+Oracle Utilities,VND-1189,oracle utilities,,,TRUE
+Orange (Orange Business),VND-1190,orange (orange business),,,TRUE
+Origin Mgmt,VND-1191,origin mgmt,,,TRUE
+Originality.ai,VND-1192,originality.ai,,,TRUE
+Orion Talent,VND-1193,orion talent,,,TRUE
+Orkin,VND-1194,orkin,,,TRUE
+Orkin (Rollins),VND-1195,orkin (rollins),,,TRUE
+Orq.ai,VND-1196,orq.ai,,,TRUE
+Osmose,VND-1197,osmose,,,TRUE
+Otis Worldwide,VND-1198,otis worldwide,,,TRUE
+Outerbounds,VND-1199,outerbounds,,,TRUE
+P.F. Collins,VND-1200,p.f. collins,,,TRUE
+PA Media (with Journal FactCheck),VND-1201,pa media (with journal factcheck),,,TRUE
+PCI Energy Solutions,VND-1202,pci energy solutions,,,TRUE
+PEKO Precision,VND-1203,peko precision,,,TRUE
+PLS Logistics,VND-1204,pls logistics,,,TRUE
+PPD (Thermo Fisher),VND-1205,ppd (thermo fisher),,,TRUE
+PRG (Project Resources),VND-1206,prg (project resources),,,TRUE
+Pacemakers (Licensing),VND-1207,pacemakers (licensing),,,TRUE
+PagerDuty,VND-1208,pagerduty,,,TRUE
+PaperTrue,VND-1209,papertrue,,,TRUE
+Paragon Medical,VND-1210,paragon medical,,,TRUE
+Parallel Domain,VND-1211,parallel domain,,,TRUE
+Parcel,VND-1212,parcel,,,TRUE
+Parexel,VND-1213,parexel,,,TRUE
+Parking,VND-1214,parking,,,TRUE
+Parrot Analytics,VND-1215,parrot analytics,,,TRUE
+Parsons,VND-1216,parsons,,,TRUE
+PassiveLogic,VND-1217,passivelogic,,,TRUE
+Patronus AI,VND-1218,patronus ai,,,TRUE
+Pave Consulting,VND-1219,pave consulting,,,TRUE
+Pearlfisher,VND-1220,pearlfisher,,,TRUE
+Pegatron,VND-1221,pegatron,,,TRUE
+Penji,VND-1222,penji,,,TRUE
+Penske,VND-1223,penske,,,TRUE
+Penske Ref,VND-1224,penske ref,,,TRUE
+Pentagram,VND-1225,pentagram,,,TRUE
+PeopleScout,VND-1226,peoplescout,,,TRUE
+Perceptive eClinical,VND-1227,perceptive eclinical,,,TRUE
+Performer,VND-1228,performer,,,TRUE
+Performing Rights Society,VND-1229,performing rights society,,,TRUE
+Persefoni,VND-1230,persefoni,,,TRUE
+PharmaLex,VND-1231,pharmalex,,,TRUE
+Pharmaron,VND-1232,pharmaron,,,TRUE
+Phlexglobal,VND-1233,phlexglobal,,,TRUE
+Phrase,VND-1234,phrase,,,TRUE
+Pierpoint,VND-1235,pierpoint,,,TRUE
+Pike Corporation,VND-1236,pike corporation,,,TRUE
+Pinecone,VND-1237,pinecone,,,TRUE
+Pinkerton,VND-1238,pinkerton,,,TRUE
+Pitney Bowes,VND-1239,pitney bowes,,,TRUE
+Pivotal CRO,VND-1240,pivotal cro,,,TRUE
+Pixelogic,VND-1241,pixelogic,,,TRUE
+PlanSource,VND-1242,plansource,,,TRUE
+Planon,VND-1243,planon,,,TRUE
+Platform Science,VND-1244,platform science,,,TRUE
+Plexus,VND-1245,plexus,,,TRUE
+Plexus Corp,VND-1246,plexus corp,,,TRUE
+Plowz & Mowz,VND-1247,plowz & mowz,,,TRUE
+PostHog,VND-1248,posthog,,,TRUE
+PowerFleet,VND-1249,powerfleet,,,TRUE
+PowerManager,VND-1250,powermanager,,,TRUE
+Precisely,VND-1251,precisely,,,TRUE
+Precision For Medicine,VND-1252,precision for medicine,,,TRUE
+Prefect,VND-1253,prefect,,,TRUE
+Premier Automation,VND-1254,premier automation,,,TRUE
+Premier Research,VND-1255,premier research,,,TRUE
+Prime Focus,VND-1256,prime focus,,,TRUE
+PrimeVigilance (Ergomed),VND-1257,primevigilance (ergomed),,,TRUE
+Prismetric,VND-1258,prismetric,,,TRUE
+Pro Pharma,VND-1259,pro pharma,,,TRUE
+Pro QC,VND-1260,pro qc,,,TRUE
+Pro QC International,VND-1261,pro qc international,,,TRUE
+ProEng,VND-1262,proeng,,,TRUE
+ProPharma,VND-1263,propharma,,,TRUE
+Productivity Inc,VND-1264,productivity inc,,,TRUE
+Prolec (Waukesha),VND-1265,prolec (waukesha),,,TRUE
+Prolific,VND-1266,prolific,,,TRUE
+Prolifics,VND-1267,prolifics,,,TRUE
+Prompt Security,VND-1268,prompt security,,,TRUE
+PromptArmor,VND-1269,promptarmor,,,TRUE
+Proof-Reading-Service.com,VND-1270,proof-reading-service.com,,,TRUE
+Proofed,VND-1271,proofed,,,TRUE
+Proofpoint,VND-1272,proofpoint,,,TRUE
+ProofreadingPal,VND-1273,proofreadingpal,,,TRUE
+ProofreadingServices.com,VND-1274,proofreadingservices.com,,,TRUE
+Propio Language Services,VND-1275,propio language services,,,TRUE
+Prosci,VND-1276,prosci,,,TRUE
+Prosegur,VND-1277,prosegur,,,TRUE
+Protect AI,VND-1278,protect ai,,,TRUE
+Protolabs,VND-1279,protolabs,,,TRUE
+Protos Security,VND-1280,protos security,,,TRUE
+Proxyclick / Eptura Visitor,VND-1281,proxyclick / eptura visitor,,,TRUE
+Publicis Media,VND-1282,publicis media,,,TRUE
+Publicis Sapient,VND-1283,publicis sapient,,,TRUE
+Puls,VND-1284,puls,,,TRUE
+Puppet,VND-1285,puppet,,,TRUE
+PwC Responsible AI,VND-1286,pwc responsible ai,,,TRUE
+Pyramid Analytics,VND-1287,pyramid analytics,,,TRUE
+QIMA,VND-1288,qima,,,TRUE
+Qnovals,VND-1289,qnovals,,,TRUE
+Qualitest,VND-1290,qualitest,,,TRUE
+Quality Support Group,VND-1291,quality support group,,,TRUE
+Quality-One,VND-1292,quality-one,,,TRUE
+QualityKiosk,VND-1293,qualitykiosk,,,TRUE
+QuantRisk,VND-1294,quantrisk,,,TRUE
+Quanta Services,VND-1295,quanta services,,,TRUE
+Quanta Technology,VND-1296,quanta technology,,,TRUE
+Quantum Corporation,VND-1297,quantum corporation,,,TRUE
+Quartica MARS,VND-1298,quartica mars,,,TRUE
+Qube Cinema,VND-1299,qube cinema,,,TRUE
+Quest Diagnostics,VND-1300,quest diagnostics,,,TRUE
+Quiet Platforms,VND-1301,quiet platforms,,,TRUE
+Quoreka,VND-1302,quoreka,,,TRUE
+R2 Certified,VND-1303,r2 certified,,,TRUE
+RDC,VND-1304,rdc,,,TRUE
+RELEX,VND-1305,relex,,,TRUE
+RES Group,VND-1306,res group,,,TRUE
+RESA Power,VND-1307,resa power,,,TRUE
+RIPE Media,VND-1308,ripe media,,,TRUE
+RS Integrated Supply,VND-1309,rs integrated supply,,,TRUE
+RWS,VND-1310,rws,,,TRUE
+RWS Holdings,VND-1311,rws holdings,,,TRUE
+Rabt Global,VND-1312,rabt global,,,TRUE
+Radford,VND-1313,radford,,,TRUE
+Radius Global Solutions,VND-1314,radius global solutions,,,TRUE
+Rainforest QA,VND-1315,rainforest qa,,,TRUE
+Ramotion,VND-1316,ramotion,,,TRUE
+Randstad Sourceright,VND-1317,randstad sourceright,,,TRUE
+RapidSOS,VND-1318,rapidsos,,,TRUE
+Rare Patient Voice,VND-1319,rare patient voice,,,TRUE
+ReStore,VND-1320,restore,,,TRUE
+Real Chemistry,VND-1321,real chemistry,,,TRUE
+RealPage,VND-1322,realpage,,,TRUE
+Red Antler,VND-1323,red antler,,,TRUE
+Red Banyan,VND-1324,red banyan,,,TRUE
+Red Hat,VND-1325,red hat,,,TRUE
+Red Points,VND-1326,red points,,,TRUE
+Red Stag,VND-1327,red stag,,,TRUE
+Red Stag Fulfillment,VND-1328,red stag fulfillment,,,TRUE
+Redaptive,VND-1329,redaptive,,,TRUE
+Redemption,VND-1330,redemption,,,TRUE
+Redgate,VND-1331,redgate,,,TRUE
+Reducto AI,VND-1332,reducto ai,,,TRUE
+Reef Technology,VND-1333,reef technology,,,TRUE
+Relativity,VND-1334,relativity,,,TRUE
+ReliaSoft (Prenscia),VND-1335,reliasoft (prenscia),,,TRUE
+Relocation,VND-1336,relocation,,,TRUE
+Rentokil Initial,VND-1337,rentokil initial,,,TRUE
+Repairable Services,VND-1338,repairable services,,,TRUE
+Republic Services,VND-1339,republic services,,,TRUE
+ResQ,VND-1340,resq,,,TRUE
+Reuters Fact Check,VND-1341,reuters fact check,,,TRUE
+Rev,VND-1342,rev,,,TRUE
+Reveal,VND-1343,reveal,,,TRUE
+Reverse Logistics Mag Top 16,VND-1344,reverse logistics mag top 16,,,TRUE
+ReverseLogix,VND-1345,reverselogix,,,TRUE
+Revolution Group,VND-1346,revolution group,,,TRUE
+Ricardo,VND-1347,ricardo,,,TRUE
+Ricoh,VND-1348,ricoh,,,TRUE
+Riggers Inc,VND-1349,riggers inc,,,TRUE
+RightsFlow,VND-1350,rightsflow,,,TRUE
+Rimkus,VND-1351,rimkus,,,TRUE
+RingCentral,VND-1352,ringcentral,,,TRUE
+RingCentral,VND-1353,ringcentral,,,TRUE
+RiskMetrics,VND-1354,riskmetrics,,,TRUE
+RitePack,VND-1355,ritepack,,,TRUE
+Rival Tech,VND-1356,rival tech,,,TRUE
+RoadRunner Recycling,VND-1357,roadrunner recycling,,,TRUE
+Roadway,VND-1358,roadway,,,TRUE
+Robin,VND-1359,robin,,,TRUE
+Robotiq,VND-1360,robotiq,,,TRUE
+Robust Intelligence,VND-1361,robust intelligence,,,TRUE
+Rockwell Auto,VND-1362,rockwell auto,,,TRUE
+Rockwell Automation,VND-1363,rockwell automation,,,TRUE
+Rootstock,VND-1364,rootstock,,,TRUE
+Rosendin Electric,VND-1365,rosendin electric,,,TRUE
+Roto-Rooter,VND-1366,roto-rooter,,,TRUE
+Royal Cup,VND-1367,royal cup,,,TRUE
+Royal Cup Coffee & Tea,VND-1368,royal cup coffee & tea,,,TRUE
+Rubicon,VND-1369,rubicon,,,TRUE
+Ruder Finn,VND-1370,ruder finn,,,TRUE
+Ryder,VND-1371,ryder,,,TRUE
+Ryobi,VND-1372,ryobi,,,TRUE
+S4 Studios,VND-1373,s4 studios,,,TRUE
+SAP,VND-1374,sap,,,TRUE
+SAP Cloud,VND-1375,sap cloud,,,TRUE
+SAP IBP,VND-1376,sap ibp,,,TRUE
+SAS,VND-1377,sas,,,TRUE
+SCS Global,VND-1378,scs global,,,TRUE
+SD Myers,VND-1379,sd myers,,,TRUE
+SDI,VND-1380,sdi,,,TRUE
+SEL,VND-1381,sel,,,TRUE
+SEL (Schweitzer),VND-1382,sel (schweitzer),,,TRUE
+SGS,VND-1383,sgs,,,TRUE
+SGS Life Sciences,VND-1384,sgs life sciences,,,TRUE
+SKIM,VND-1385,skim,,,TRUE
+SMO-Pharmina,VND-1386,smo-pharmina,,,TRUE
+SP+ Corporation,VND-1387,sp+ corporation,,,TRUE
+STI Electronics,VND-1388,sti electronics,,,TRUE
+STR Trade,VND-1389,str trade,,,TRUE
+SUSE,VND-1390,suse,,,TRUE
+Saber Point Logistics,VND-1391,saber point logistics,,,TRUE
+Saia Inc,VND-1392,saia inc,,,TRUE
+SailPoint,VND-1393,sailpoint,,,TRUE
+SailPoint,VND-1394,sailpoint,,,TRUE
+Salesforce,VND-1395,salesforce,,,TRUE
+SaltStack,VND-1396,saltstack,,,TRUE
+Saltbox,VND-1397,saltbox,,,TRUE
+Sama,VND-1398,sama,,,TRUE
+Same as ST-SC-003-01-01,VND-1399,same as st-sc-003-01-01,,,TRUE
+SameDay,VND-1400,sameday,,,TRUE
+Sameday,VND-1401,sameday,,,TRUE
+Samsara,VND-1402,samsara,,,TRUE
+Sanmina,VND-1403,sanmina,,,TRUE
+Sanmina Corporation,VND-1404,sanmina corporation,,,TRUE
+Scale AI,VND-1405,scale ai,,,TRUE
+Scalr,VND-1406,scalr,,,TRUE
+Schellman,VND-1407,schellman,,,TRUE
+Schindler,VND-1408,schindler,,,TRUE
+Schneider Electric,VND-1409,schneider electric,,,TRUE
+Schneider Electric,VND-1410,schneider electric,,,TRUE
+Scoop (now through Workday/others),VND-1411,scoop (now through workday/others),,,TRUE
+Scribendi,VND-1412,scribendi,,,TRUE
+Scythe Robotics,VND-1413,scythe robotics,,,TRUE
+Second Sight Systems,VND-1414,second sight systems,,,TRUE
+Secretariat,VND-1415,secretariat,,,TRUE
+Security,VND-1416,security,,,TRUE
+Sedgwick,VND-1417,sedgwick,,,TRUE
+Segments.ai,VND-1418,segments.ai,,,TRUE
+Seldon,VND-1419,seldon,,,TRUE
+Sendle (B2B),VND-1420,sendle (b2b),,,TRUE
+Senn-Delaney,VND-1421,senn-delaney,,,TRUE
+Sense (with L+G),VND-1422,sense (with l+g),,,TRUE
+Sensormatic,VND-1423,sensormatic,,,TRUE
+Sensus (Xylem),VND-1424,sensus (xylem),,,TRUE
+Sepasoft,VND-1425,sepasoft,,,TRUE
+ServiceNow,VND-1426,servicenow,,,TRUE
+ServicePower,VND-1427,servicepower,,,TRUE
+Services,VND-1428,services,,,TRUE
+Services,VND-1429,services,,,TRUE
+Shaip,VND-1430,shaip,,,TRUE
+Sharebite,VND-1431,sharebite,,,TRUE
+Sharon Merrill,VND-1432,sharon merrill,,,TRUE
+ShipBob,VND-1433,shipbob,,,TRUE
+ShipMonk,VND-1434,shipmonk,,,TRUE
+ShipTop,VND-1435,shiptop,,,TRUE
+Shipfusion,VND-1436,shipfusion,,,TRUE
+Shipit,VND-1437,shipit,,,TRUE
+Shipium,VND-1438,shipium,,,TRUE
+Siege Media,VND-1439,siege media,,,TRUE
+Siegel+Gale,VND-1440,siegel+gale,,,TRUE
+Siemens,VND-1441,siemens,,,TRUE
+Siemens Energy,VND-1442,siemens energy,,,TRUE
+Siemens Smart Infrastructure,VND-1443,siemens smart infrastructure,,,TRUE
+Siena Dev,VND-1444,siena dev,,,TRUE
+Sierra Circuits,VND-1445,sierra circuits,,,TRUE
+Sigmoid,VND-1446,sigmoid,,,TRUE
+Signal,VND-1447,signal,,,TRUE
+Simor Consulting,VND-1448,simor consulting,,,TRUE
+Sirion,VND-1449,sirion,,,TRUE
+Sitrick and Company,VND-1450,sitrick and company,,,TRUE
+Skedda,VND-1451,skedda,,,TRUE
+Skyline Robotics,VND-1452,skyline robotics,,,TRUE
+Skyword,VND-1453,skyword,,,TRUE
+Smartling,VND-1454,smartling,,,TRUE
+SmithBucklin,VND-1455,smithbucklin,,,TRUE
+SnoHub,VND-1456,snohub,,,TRUE
+Snorkel AI,VND-1457,snorkel ai,,,TRUE
+Snyk,VND-1458,snyk,,,TRUE
+Softeon,VND-1459,softeon,,,TRUE
+Softlabs Group,VND-1460,softlabs group,,,TRUE
+SolarWinds,VND-1461,solarwinds,,,TRUE
+Somatic,VND-1462,somatic,,,TRUE
+Sony (MAM),VND-1463,sony (mam),,,TRUE
+Sony Group (MAM),VND-1464,sony group (mam),,,TRUE
+Sony/BMG Rights Solutions,VND-1465,sony/bmg rights solutions,,,TRUE
+Soterius,VND-1466,soterius,,,TRUE
+SoundExchange,VND-1467,soundexchange,,,TRUE
+Southwest Recovery,VND-1468,southwest recovery,,,TRUE
+Spanner,VND-1469,spanner,,,TRUE
+Sparkfund,VND-1470,sparkfund,,,TRUE
+Spectrum Labs,VND-1471,spectrum labs,,,TRUE
+Sperber Landscape,VND-1472,sperber landscape,,,TRUE
+Sperber Landscape Companies,VND-1473,sperber landscape companies,,,TRUE
+Sphera,VND-1474,sphera,,,TRUE
+Splunk,VND-1475,splunk,,,TRUE
+Spot AI,VND-1476,spot ai,,,TRUE
+SpotDraft,VND-1477,spotdraft,,,TRUE
+Spring Health,VND-1478,spring health,,,TRUE
+Stable,VND-1479,stable,,,TRUE
+Stacked,VND-1480,stacked,,,TRUE
+Stacked Commerce,VND-1481,stacked commerce,,,TRUE
+Staffing 360,VND-1482,staffing 360,,,TRUE
+StanzaGo,VND-1483,stanzago,,,TRUE
+Star,VND-1484,star,,,TRUE
+Stateside,VND-1485,stateside,,,TRUE
+Statsig,VND-1486,statsig,,,TRUE
+Steam Logistics,VND-1487,steam logistics,,,TRUE
+Steelcase (Services),VND-1488,steelcase (services),,,TRUE
+Stepes,VND-1489,stepes,,,TRUE
+Sterling Check,VND-1490,sterling check,,,TRUE
+StoneTurn,VND-1491,stoneturn,,,TRUE
+Strain Electric,VND-1492,strain electric,,,TRUE
+Strategy&,VND-1493,strategy&,,,TRUE
+Stratosphere Quality,VND-1494,stratosphere quality,,,TRUE
+Streamline EMS,VND-1495,streamline ems,,,TRUE
+Stripe,VND-1496,stripe,,,TRUE
+Studio Dumbar,VND-1497,studio dumbar,,,TRUE
+Studio Koto,VND-1498,studio koto,,,TRUE
+StudioRed,VND-1499,studiored,,,TRUE
+Subscription Box Pros,VND-1500,subscription box pros,,,TRUE
+Suddath,VND-1501,suddath,,,TRUE
+Suez (Veolia),VND-1502,suez (veolia),,,TRUE
+Summit HSIH,VND-1503,summit hsih,,,TRUE
+SunTec.AI,VND-1504,suntec.ai,,,TRUE
+Sunstates Security,VND-1505,sunstates security,,,TRUE
+Suntronic Inc,VND-1506,suntronic inc,,,TRUE
+SuperAnnotate,VND-1507,superannotate,,,TRUE
+SuperbAI,VND-1508,superbai,,,TRUE
+Superlegal,VND-1509,superlegal,,,TRUE
+Surge AI,VND-1510,surge ai,,,TRUE
+Swagger/OpenAPI Community,VND-1511,swagger/openapi community,,,TRUE
+SweetRush,VND-1512,sweetrush,,,TRUE
+Swiss Post,VND-1513,swiss post,,,TRUE
+Swiss Post Solutions,VND-1514,swiss post solutions,,,TRUE
+SyBridge Tech,VND-1515,sybridge tech,,,TRUE
+Synapse,VND-1516,synapse,,,TRUE
+Syndigo,VND-1517,syndigo,,,TRUE
+Syneos Health,VND-1518,syneos health,,,TRUE
+Syneos Health Communications,VND-1519,syneos health communications,,,TRUE
+Syneos Health/PRA,VND-1520,syneos health/pra,,,TRUE
+Synthesis AI,VND-1521,synthesis ai,,,TRUE
+Synthetaic,VND-1522,synthetaic,,,TRUE
+Syntho,VND-1523,syntho,,,TRUE
+System Scale,VND-1524,system scale,,,TRUE
+Systems,VND-1525,systems,,,TRUE
+TCS (Tata),VND-1526,tcs (tata),,,TRUE
+TELUS International,VND-1527,telus international,,,TRUE
+TFS HealthScience,VND-1528,tfs healthscience,,,TRUE
+TMRW,VND-1529,tmrw,,,TRUE
+TMW,VND-1530,tmw,,,TRUE
+Teleperformance (TP),VND-1531,teleperformance (tp),,,TRUE
+TRC Companies,VND-1532,trc companies,,,TRUE
+TRICERA Energy,VND-1533,tricera energy,,,TRUE
+TTM Technologies,VND-1534,ttm technologies,,,TRUE
+TVU Networks,VND-1535,tvu networks,,,TRUE
+Take4D,VND-1536,take4d,,,TRUE
+Taktiq,VND-1537,taktiq,,,TRUE
+Talkdesk,VND-1538,talkdesk,,,TRUE
+Talkspace,VND-1539,talkspace,,,TRUE
+Tanium,VND-1540,tanium,,,TRUE
+Tata Communications,VND-1541,tata communications,,,TRUE
+Tata Tech,VND-1542,tata tech,,,TRUE
+Tata Technologies,VND-1543,tata technologies,,,TRUE
+TeamViewer,VND-1544,teamviewer,,,TRUE
+TechData,VND-1545,techdata,,,TRUE
+TechForward,VND-1546,techforward,,,TRUE
+TechScribe,VND-1547,techscribe,,,TRUE
+Technicolor,VND-1548,technicolor,,,TRUE
+Technicolor (Dailies),VND-1549,technicolor (dailies),,,TRUE
+Technologies,VND-1550,technologies,,,TRUE
+Technology,VND-1551,technology,,,TRUE
+Technosoft,VND-1552,technosoft,,,TRUE
+Tecton,VND-1553,tecton,,,TRUE
+Tedial Media,VND-1554,tedial media,,,TRUE
+Tektronix,VND-1555,tektronix,,,TRUE
+Tencent Cloud,VND-1556,tencent cloud,,,TRUE
+Tendo Communications,VND-1557,tendo communications,,,TRUE
+Terminix,VND-1558,terminix,,,TRUE
+Ternary,VND-1559,ternary,,,TRUE
+Tesla (Energy),VND-1560,tesla (energy),,,TRUE
+TestingXperts,VND-1561,testingxperts,,,TRUE
+The Door,VND-1562,the door,,,TRUE
+The Grounds Guys (Neighborly),VND-1563,the grounds guys (neighborly),,,TRUE
+The Medical Affairs Company,VND-1564,the medical affairs company,,,TRUE
+The Mill,VND-1565,the mill,,,TRUE
+The Productivity Team,VND-1566,the productivity team,,,TRUE
+Themis,VND-1567,themis,,,TRUE
+This Place,VND-1568,this place,,,TRUE
+Tiger Analytics,VND-1569,tiger analytics,,,TRUE
+Tinuiti,VND-1570,tinuiti,,,TRUE
+Titan,VND-1571,titan,,,TRUE
+Tive,VND-1572,tive,,,TRUE
+Together AI,VND-1573,together ai,,,TRUE
+Tonic.ai,VND-1574,tonic.ai,,,TRUE
+TorchStone Global,VND-1575,torchstone global,,,TRUE
+Tradecraft,VND-1576,tradecraft,,,TRUE
+Tradecraft Coffee & Tea,VND-1577,tradecraft coffee & tea,,,TRUE
+Trane,VND-1578,trane,,,TRUE
+TransPak,VND-1579,transpak,,,TRUE
+TransPerfect,VND-1580,transperfect,,,TRUE
+TranscribeMe,VND-1581,transcribeme,,,TRUE
+Transfix,VND-1582,transfix,,,TRUE
+Transprove,VND-1583,transprove,,,TRUE
+TravSonic,VND-1584,travsonic,,,TRUE
+Tredence,VND-1585,tredence,,,TRUE
+Trialbee,VND-1586,trialbee,,,TRUE
+Trinity Logistics,VND-1587,trinity logistics,,,TRUE
+TripleTone Audio Post,VND-1588,tripletone audio post,,,TRUE
+TruGrid Energy,VND-1589,trugrid energy,,,TRUE
+Truveta,VND-1590,truveta,,,TRUE
+Turing,VND-1591,turing,,,TRUE
+Turner & Townsend,VND-1592,turner & townsend,,,TRUE
+Turner Duckworth,VND-1593,turner duckworth,,,TRUE
+Two Hat,VND-1594,two hat,,,TRUE
+Typeface,VND-1595,typeface,,,TRUE
+TÜV SÜD,VND-1596,tüv süd,,,TRUE
+UBC,VND-1597,ubc,,,TRUE
+UL Solutions,VND-1598,ul solutions,,,TRUE
+UP Intermodal,VND-1599,up intermodal,,,TRUE
+UPS,VND-1600,ups,,,TRUE
+US Lawns,VND-1601,us lawns,,,TRUE
+US Tape & Label,VND-1602,us tape & label,,,TRUE
+USA,VND-1603,usa,,,TRUE
+USA Cold Storage,VND-1604,usa cold storage,,,TRUE
+USCF,VND-1605,uscf,,,TRUE
+USIC,VND-1606,usic,,,TRUE
+Ubiik,VND-1607,ubiik,,,TRUE
+UiPath,VND-1608,uipath,,,TRUE
+Unbiased Services,VND-1609,unbiased services,,,TRUE
+UniUni,VND-1610,uniuni,,,TRUE
+Unicorn Integrated Facility Management,VND-1611,unicorn integrated facility management,,,TRUE
+Union.ai,VND-1612,union.ai,,,TRUE
+Unispace,VND-1613,unispace,,,TRUE
+UnitedHealthcare,VND-1614,unitedhealthcare,,,TRUE
+Unitlab AI,VND-1615,unitlab ai,,,TRUE
+Universal Truckload,VND-1616,universal truckload,,,TRUE
+Universum,VND-1617,universum,,,TRUE
+Unstructured.io,VND-1618,unstructured.io,,,TRUE
+Unum,VND-1619,unum,,,TRUE
+Updater,VND-1620,updater,,,TRUE
+Uplift Content,VND-1621,uplift content,,,TRUE
+Utilsmart,VND-1622,utilsmart,,,TRUE
+V2Soft,VND-1623,v2soft,,,TRUE
+V7 Labs,VND-1624,v7 labs,,,TRUE
+VFA,VND-1625,vfa,,,TRUE
+VIMANA (govimana.com),VND-1626,vimana (govimana.com),,,TRUE
+VMware Workspace ONE,VND-1627,vmware workspace one,,,TRUE
+VR Industries,VND-1628,vr industries,,,TRUE
+VSI Group,VND-1629,vsi group,,,TRUE
+VSN,VND-1630,vsn,,,TRUE
+VTS,VND-1631,vts,,,TRUE
+VWO,VND-1632,vwo,,,TRUE
+VaLogic,VND-1633,valogic,,,TRUE
+Various O\&G,VND-1634,various o\&g,,,TRUE
+Various Specialized,VND-1635,various specialized,,,TRUE
+Vaughn Industries,VND-1636,vaughn industries,,,TRUE
+VaynerMedia,VND-1637,vaynermedia,,,TRUE
+Vcheck Global,VND-1638,vcheck global,,,TRUE
+Vectara,VND-1639,vectara,,,TRUE
+Veeam,VND-1640,veeam,,,TRUE
+Veeva RTSM,VND-1641,veeva rtsm,,,TRUE
+Veeva Systems,VND-1642,veeva systems,,,TRUE
+Velocity,VND-1643,velocity,,,TRUE
+Velocity Clinical Research,VND-1644,velocity clinical research,,,TRUE
+Vensure,VND-1645,vensure,,,TRUE
+Venture Corp,VND-1646,venture corp,,,TRUE
+Venture Corporation,VND-1647,venture corporation,,,TRUE
+Veolia,VND-1648,veolia,,,TRUE
+Verbit,VND-1649,verbit,,,TRUE
+Verblio,VND-1650,verblio,,,TRUE
+Verimatrix,VND-1651,verimatrix,,,TRUE
+Veristat,VND-1652,veristat,,,TRUE
+Veritas,VND-1653,veritas,,,TRUE
+Verizon Connect,VND-1654,verizon connect,,,TRUE
+Verizon Fleet,VND-1655,verizon fleet,,,TRUE
+Verizon RISK,VND-1656,verizon risk,,,TRUE
+Verkada,VND-1657,verkada,,,TRUE
+Vertiv,VND-1658,vertiv,,,TRUE
+Vertiv (ERS),VND-1659,vertiv (ers),,,TRUE
+Vervali,VND-1660,vervali,,,TRUE
+Via,VND-1661,via,,,TRUE
+Viasion Technology,VND-1662,viasion technology,,,TRUE
+Viedoc Technologies,VND-1663,viedoc technologies,,,TRUE
+Viral Nation,VND-1664,viral nation,,,TRUE
+Virtusa,VND-1665,virtusa,,,TRUE
+Visionary,VND-1666,visionary,,,TRUE
+Visual Lease,VND-1667,visual lease,,,TRUE
+Voelker & Associates,VND-1668,voelker & associates,,,TRUE
+VoltLink,VND-1669,voltlink,,,TRUE
+Voltus,VND-1670,voltus,,,TRUE
+Vorne,VND-1671,vorne,,,TRUE
+Voya Specialty Benefits,VND-1672,voya specialty benefits,,,TRUE
+Vroom,VND-1673,vroom,,,TRUE
+Vserve Ebusiness Solutions,VND-1674,vserve ebusiness solutions,,,TRUE
+W2O Group (Now Real Chemistry),VND-1675,w2o group (now real chemistry),,,TRUE
+WCO,VND-1676,wco,,,TRUE
+Wade Trim,VND-1677,wade trim,,,TRUE
+WageWorks,VND-1678,wageworks,,,TRUE
+Warranty Services Mgmt,VND-1679,warranty services mgmt,,,TRUE
+Waste Connections,VND-1680,waste connections,,,TRUE
+Waste Management,VND-1681,waste management,,,TRUE
+Waste Management (WM),VND-1682,waste management (wm),,,TRUE
+Watershed,VND-1683,watershed,,,TRUE
+Waveup,VND-1684,waveup,,,TRUE
+Waygate (Baker),VND-1685,waygate (baker),,,TRUE
+WeDriveU,VND-1686,wedriveu,,,TRUE
+Weaviate,VND-1687,weaviate,,,TRUE
+WebHelp (Concentrix),VND-1688,webhelp (concentrix),,,TRUE
+WebPurify,VND-1689,webpurify,,,TRUE
+Weber Shandwick,VND-1690,weber shandwick,,,TRUE
+Webhelp (Concentrix),VND-1691,webhelp (concentrix),,,TRUE
+Weglot,VND-1692,weglot,,,TRUE
+Weights & Biases,VND-1693,weights & biases,,,TRUE
+Welo Data,VND-1694,welo data,,,TRUE
+Welocalize,VND-1695,welocalize,,,TRUE
+Wesco,VND-1696,wesco,,,TRUE
+Weta Digital,VND-1697,weta digital,,,TRUE
+Whalar,VND-1698,whalar,,,TRUE
+Wheels,VND-1699,wheels,,,TRUE
+Wheels Inc,VND-1700,wheels inc,,,TRUE
+WhyLabs,VND-1701,whylabs,,,TRUE
+Width.ai,VND-1702,width.ai,,,TRUE
+Wieden+Kennedy,VND-1703,wieden+kennedy,,,TRUE
+Willis Towers Watson,VND-1704,willis towers watson,,,TRUE
+Wisepl,VND-1705,wisepl,,,TRUE
+Wistron Corporation,VND-1706,wistron corporation,,,TRUE
+Wiz,VND-1707,wiz,,,TRUE
+Wolff Olins,VND-1708,wolff olins,,,TRUE
+Wordvice,VND-1709,wordvice,,,TRUE
+Work & Co,VND-1710,work & co,,,TRUE
+World Kinect,VND-1711,world kinect,,,TRUE
+Wright Tree,VND-1712,wright tree,,,TRUE
+Wright Tree Service,VND-1713,wright tree service,,,TRUE
+Write for Business,VND-1714,write for business,,,TRUE
+WriterArmy,VND-1715,writerarmy,,,TRUE
+Writesonic,VND-1716,writesonic,,,TRUE
+Wyle,VND-1717,wyle,,,TRUE
+Xenoss,VND-1718,xenoss,,,TRUE
+Xerox,VND-1719,xerox,,,TRUE
+Xometry,VND-1720,xometry,,,TRUE
+YCP Solidiance,VND-1721,ycp solidiance,,,TRUE
+YData,VND-1722,ydata,,,TRUE
+YPrime IRT,VND-1723,yprime irt,,,TRUE
+Yardi,VND-1724,yardi,,,TRUE
+Yellowstone Landscape,VND-1725,yellowstone landscape,,,TRUE
+ZOO Digital,VND-1729,zoo digital,,,TRUE
+Zapro.ai,VND-1730,zapro.ai,,,TRUE
+Zelta (Merative/IBM),VND-1731,zelta (merative/ibm),,,TRUE
+Zendesk,VND-1732,zendesk,,,TRUE
+Zenith Global,VND-1733,zenith global,,,TRUE
+Zenpack,VND-1734,zenpack,,,TRUE
+Zerto,VND-1735,zerto,,,TRUE
+Zeus Learning,VND-1736,zeus learning,,,TRUE
+Zonar,VND-1737,zonar,,,TRUE
+Zycus,VND-1738,zycus,,,TRUE
+aPriori,VND-1739,apriori,,,TRUE
+accessiBe,VND-1740,accessibe,,,TRUE
+boost.ai,VND-1741,boost.ai,,,TRUE
+e-Stewards,VND-1742,e-stewards,,,TRUE
+e2Companies,VND-1743,e2companies,,,TRUE
+e2open,VND-1744,e2open,,,TRUE
+eRecovery,VND-1745,erecovery,,,TRUE
+enveyo,VND-1746,enveyo,,,TRUE
+founded),VND-1747,founded),,,TRUE
+frog,VND-1748,frog,,,TRUE
+ghSMART (Vistage),VND-1749,ghsmart (vistage),,,TRUE
+iMerit,VND-1750,imerit,,,TRUE
+o9 Solutions,VND-1751,o9 solutions,,,TRUE
+project44,VND-1752,project44,,,TRUE
+sonnen,VND-1753,sonnen,,,TRUE

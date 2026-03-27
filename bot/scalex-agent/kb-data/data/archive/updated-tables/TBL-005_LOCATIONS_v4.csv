@@ -1,0 +1,399 @@
+Location_Code,Country,City,Region,Currency_Code,USD_FX_Rate,Cost_Index,US_Reference_Index,Timezone,Labor_Market_Tier,Notes,BPO_Market_Maturity,Benefit_Burden_Pct,Index_Source,Index_Confidence,Last_Calibrated,High_Inflation_Flag,Change_Notes
+US-AUS,United States,Austin,,USD,1.0,350,25.6,America/Chicago,1,"Tech hub, growing BPO presence",1,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+US-PHX,United States,Phoenix,,USD,1.0,329,24.0,America/Phoenix,1,Lower cost US market,1,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+US-TPA,United States,Tampa,,USD,1.0,314,22.9,America/New_York,1,Finance/tech services hub,1,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+US-SLC,United States,Salt Lake City,,USD,1.0,321,23.4,America/Denver,1,Growing tech presence,1,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+US-OMA,United States,Omaha,,USD,1.0,293,21.4,America/Chicago,2,Contact center hub,1,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+US-DAL,United States,Dallas,,USD,1.0,336,24.5,America/Chicago,1,"Major metro, finance/tech",1,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+US-ATL,United States,Atlanta,,USD,1.0,321,23.4,America/New_York,1,Major corporate HQ hub,1,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+US-DEN,United States,Denver,,USD,1.0,329,24.0,America/Denver,1,Growing tech market,1,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+US-CHI,United States,Chicago,,USD,1.0,343,25.0,America/Chicago,1,Midwest financial hub,1,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+US-MIA,United States,Miami,,USD,1.0,314,22.9,America/New_York,1,"LATAM gateway, bilingual",1,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+CA-TOR,Canada,Toronto,,CAD,0.72,304,22.2,America/Toronto,1,Major financial center,3,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+CA-MTL,Canada,Montreal,,CAD,0.72,279,20.4,America/Montreal,1,Bilingual market (FR/EN),3,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+CA-VAN,Canada,Vancouver,,CAD,0.72,293,21.4,America/Vancouver,1,Tech/gaming hub,1,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+CA-CAL,Canada,Calgary,,CAD,0.72,268,19.6,America/Edmonton,2,Energy sector expertise,1,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+MX-MEX,Mexico,Mexico City,LATAM,MXN,0.053,171,12.5,America/Mexico_City,2,Largest nearshore hub,3,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+MX-MTY,Mexico,Monterrey,LATAM,MXN,0.053,186,13.6,America/Monterrey,2,Industrial/tech hub,1,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+MX-GDL,Mexico,Guadalajara,LATAM,MXN,0.053,161,11.8,America/Mexico_City,2,Tech/IT services,3,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+MX-TIJ,Mexico,Tijuana,LATAM,MXN,0.053,150,10.9,America/Tijuana,2,"Border city, manufacturing",1,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+MX-QRO,Mexico,Queretaro,LATAM,MXN,0.053,157,11.5,America/Mexico_City,2,Growing tech hub,1,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+BR-SAO,Brazil,Sao Paulo,LATAM,BRL,0.183,196,14.3,America/Sao_Paulo,2,Largest LATAM economy,2,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+BR-RIO,Brazil,Rio de Janeiro,LATAM,BRL,0.183,186,13.6,America/Sao_Paulo,2,Secondary hub,2,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+CO-BOG,Colombia,Bogota,LATAM,COP,0.000248,150,10.9,America/Bogota,2,Top nearshore destination,2,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+CO-MDE,Colombia,Medellin,LATAM,COP,0.000248,136,9.9,America/Bogota,2,Innovation hub,2,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+AR-BUE,Argentina,Buenos Aires,LATAM,ARS,0.00076,125,9.1,America/Argentina/Buenos_Aires,2,"High skills, currency volatility",2,,,MEDIUM,2026-02-09,True,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+CR-SJO,Costa Rica,San Jose,Central_America,CRC,0.002,196,14.3,America/Costa_Rica,2,"Premium nearshore, high English",1,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+GT-GUA,Guatemala,Guatemala City,Central_America,GTQ,0.131,136,9.9,America/Guatemala,3,Emerging BPO market,1,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+PE-LIM,Peru,Lima,LATAM,PEN,0.287,143,10.4,America/Lima,3,Growing contact center market,1,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+SV-SAL,El Salvador,San Salvador,Central_America,USD,1.0,129,9.4,America/El_Salvador,3,"USD economy, emerging market",1,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+NI-MGA,Nicaragua,Managua,Central_America,NIO,0.027,114,8.3,America/Managua,3,Lowest cost LATAM,1,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+GY-GEO,Guyana,Georgetown,LATAM,GYD,0.0048,125,9.1,America/Guyana,3,"English-speaking, emerging",1,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+SR-PBO,Suriname,Paramaribo,LATAM,SRD,0.026,136,9.9,America/Paramaribo,3,Dutch-speaking,1,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+CL-SCL,Chile,Santiago,LATAM,CLP,0.001,171,12.5,America/Santiago,2,"Stable economy, high skills",1,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+EC-UIO,Ecuador,Quito,LATAM,USD,1.0,125,9.1,America/Guayaquil,3,USD economy,1,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+PA-PTY,Panama,Panama City,Central_America,USD,1.0,186,13.6,America/Panama,2,"Financial hub, USD",1,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+DO-SDQ,Dominican Republic,Santo Domingo,Caribbean,DOP,0.016,125,9.1,America/Santo_Domingo,3,Emerging nearshore,1,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+HN-TGU,Honduras,Tegucigalpa,Central_America,HNL,0.04,107,7.8,America/Tegucigalpa,3,Low cost Central America,1,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+GB-LON,United Kingdom,London,EMEA,GBP,1.34,375,27.4,Europe/London,1,"Premium market, financial services",4,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+GB-MAN,United Kingdom,Manchester,EMEA,GBP,1.34,286,20.9,Europe/London,1,Lower cost UK alternative,4,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+IE-DUB,Ireland,Dublin,EMEA,EUR,1.16,339,24.7,Europe/Dublin,1,"Tech hub, multilingual",5,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+ES-BCN,Spain,Barcelona,EMEA,EUR,1.16,243,17.7,Europe/Madrid,2,Multilingual hub,3,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+PT-LIS,Portugal,Lisbon,EMEA,EUR,1.16,207,15.1,Europe/Lisbon,2,Growing tech/BPO hub,1,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+GR-ATH,Greece,Athens,EMEA,EUR,1.16,196,14.3,Europe/Athens,2,Multilingual capabilities,1,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+IL-TLV,Israel,Tel Aviv,EMEA,ILS,0.293,314,22.9,Asia/Jerusalem,1,Tech/cyber specialty,1,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+TR-IST,Turkey,Istanbul,EMEA,TRY,0.024,136,9.9,Europe/Istanbul,2,"Large talent pool, currency risk",1,,,MEDIUM,2026-02-09,True,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+SA-RIY,Saudi Arabia,Riyadh,EMEA,SAR,0.266,257,18.8,Asia/Riyadh,2,Growing tech investment,1,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+TN-TUN,Tunisia,Tunis,EMEA,TND,0.346,114,8.3,Africa/Tunis,3,Francophone BPO hub,1,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+PL-WAW,Poland,Warsaw,EMEA,PLN,0.273,171,12.5,Europe/Warsaw,2,Major SSC hub,4,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+PL-KRK,Poland,Krakow,EMEA,PLN,0.273,161,11.8,Europe/Warsaw,2,Tech/IT services hub,4,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+PL-WRO,Poland,Wroclaw,EMEA,PLN,0.273,150,10.9,Europe/Warsaw,2,Growing SSC market,1,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+RO-BUC,Romania,Bucharest,EMEA,RON,0.23,136,9.9,Europe/Bucharest,2,Growing tech hub,3,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+RO-CLJ,Romania,Cluj-Napoca,EMEA,RON,0.23,125,9.1,Europe/Bucharest,2,Tech hub,1,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+BG-SOF,Bulgaria,Sofia,EMEA,BGN,0.593,125,9.1,Europe/Sofia,2,Cost-effective CEE,1,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+CZ-PRG,Czech Republic,Prague,EMEA,CZK,0.047,186,13.6,Europe/Prague,2,Premium CEE market,4,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+HU-BUD,Hungary,Budapest,EMEA,HUF,0.0029,150,10.9,Europe/Budapest,2,SSC hub,4,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+AL-TIA,Albania,Tirana,EMEA,ALL,0.012,100,7.3,Europe/Tirane,3,Emerging low-cost,1,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+UA-KYV,Ukraine,Kyiv,EMEA,UAH,0.024,79,5.8,Europe/Kiev,2,Strong IT talent (conflict risk),1,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+RS-BEG,Serbia,Belgrade,EMEA,RSD,0.009,114,8.3,Europe/Belgrade,2,Emerging IT/SSC hub,1,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+SK-BTS,Slovakia,Bratislava,EMEA,EUR,1.16,161,11.8,Europe/Bratislava,2,Central Europe SSC,1,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+LT-VNO,Lithuania,Vilnius,EMEA,EUR,1.16,150,10.9,Europe/Vilnius,2,Baltic fintech hub,1,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+LV-RIX,Latvia,Riga,EMEA,EUR,1.16,143,10.4,Europe/Riga,2,Baltic SSC market,1,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+EE-TLL,Estonia,Tallinn,EMEA,EUR,1.16,171,12.5,Europe/Tallinn,2,Digital-first economy,1,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+HR-ZAG,Croatia,Zagreb,EMEA,EUR,1.16,150,10.9,Europe/Zagreb,2,New Eurozone member,1,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+ZA-CPT,South Africa,Cape Town,EMEA,ZAR,0.056,136,9.9,Africa/Johannesburg,2,Premium Africa BPO,1,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+ZA-JNB,South Africa,Johannesburg,EMEA,ZAR,0.056,129,9.4,Africa/Johannesburg,2,Largest SA city,2,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+EG-CAI,Egypt,Cairo,EMEA,EGP,0.021,89,6.5,Africa/Cairo,2,Arabic/English hub,1,,,MEDIUM,2026-02-09,True,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+MA-CAS,Morocco,Casablanca,EMEA,MAD,0.111,114,8.3,Africa/Casablanca,2,Francophone hub,1,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+KE-NBO,Kenya,Nairobi,EMEA,KES,0.0077,100,7.3,Africa/Nairobi,3,East Africa hub,1,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+GH-ACC,Ghana,Accra,EMEA,GHS,0.091,107,7.8,Africa/Accra,3,English-speaking West Africa,1,,,MEDIUM,2026-02-09,True,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+BJ-COT,Benin,Cotonou,EMEA,XOF,0.0018,89,6.5,Africa/Porto-Novo,3,Francophone West Africa,1,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+RW-KGL,Rwanda,Kigali,EMEA,RWF,0.00072,89,6.5,Africa/Kigali,3,Emerging Africa tech hub,1,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+IN-BLR,India,Bangalore,APAC,INR,0.0115,100,7.3,Asia/Kolkata,2,IT/Tech capital,4,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+IN-HYD,India,Hyderabad,APAC,INR,0.0115,93,6.8,Asia/Kolkata,2,Growing tech hub,4,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+IN-CHE,India,Chennai,APAC,INR,0.0115,89,6.5,Asia/Kolkata,2,BPO/IT services,4,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+IN-PUN,India,Pune,APAC,INR,0.0115,89,6.5,Asia/Kolkata,2,IT/automotive hub,4,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+IN-MUM,India,Mumbai,APAC,INR,0.0115,107,7.8,Asia/Kolkata,2,Financial services,4,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+IN-DEL,India,Delhi NCR,APAC,INR,0.0115,100,7.3,Asia/Kolkata,2,Gurgaon/Noida BPO belt,1,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+IN-KOL,India,Kolkata,APAC,INR,0.0115,79,5.8,Asia/Kolkata,2,Lower cost India tier 2,1,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+IN-AHM,India,Ahmedabad,APAC,INR,0.0115,82,6.0,Asia/Kolkata,2,Emerging India tier 2,1,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+PH-MNL,Philippines,Manila,APAC,PHP,0.0175,114,8.3,Asia/Manila,2,Global CX/BPO capital,3,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+PH-CEB,Philippines,Cebu,APAC,PHP,0.0175,100,7.3,Asia/Manila,2,Lower cost PH alternative,3,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+PH-CLK,Philippines,Clark,APAC,PHP,0.0175,93,6.8,Asia/Manila,2,Special economic zone,1,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+PH-DAV,Philippines,Davao,APAC,PHP,0.0175,86,6.3,Asia/Manila,3,Mindanao BPO hub,1,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+PH-ILO,Philippines,Iloilo,APAC,PHP,0.0175,79,5.8,Asia/Manila,3,Emerging Visayas hub,1,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+MY-KUL,Malaysia,Kuala Lumpur,APAC,MYR,0.237,150,10.9,Asia/Kuala_Lumpur,2,Multilingual SSC hub,3,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+VN-SGN,Vietnam,Ho Chi Minh City,APAC,VND,3.8e-05,89,6.5,Asia/Ho_Chi_Minh,2,Fastest growing APAC BPO,1,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+VN-HAN,Vietnam,Hanoi,APAC,VND,3.8e-05,79,5.8,Asia/Ho_Chi_Minh,2,Lower cost alternative,1,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+TH-BKK,Thailand,Bangkok,APAC,THB,0.029,125,9.1,Asia/Bangkok,2,Regional hub,2,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+ID-JKT,Indonesia,Jakarta,APAC,IDR,6.3e-05,100,7.3,Asia/Jakarta,2,Largest SE Asia population,1,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+SG-SIN,Singapore,Singapore,APAC,SGD,0.776,339,24.7,Asia/Singapore,1,Premium APAC hub,4,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+TW-TPE,Taiwan,Taipei,APAC,TWD,0.033,196,14.3,Asia/Taipei,2,Tech manufacturing hub,1,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+CN-DLC,China,Dalian,APAC,CNY,0.139,125,9.1,Asia/Shanghai,2,Japanese-language BPO,1,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+CN-SHA,China,Shanghai,APAC,CNY,0.139,186,13.6,Asia/Shanghai,2,Premium China market,1,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+JP-TYO,Japan,Tokyo,APAC,JPY,0.0067,393,28.7,Asia/Tokyo,1,Premium market,1,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+KR-SEL,South Korea,Seoul,APAC,KRW,0.00071,279,20.4,Asia/Seoul,1,Tech hub,1,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+AU-SYD,Australia,Sydney,APAC,AUD,0.643,364,26.6,Australia/Sydney,1,Premium APAC market,1,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+AU-MEL,Australia,Melbourne,APAC,AUD,0.643,350,25.6,Australia/Melbourne,1,Secondary Australian hub,1,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+BD-DAC,Bangladesh,Dhaka,APAC,BDT,0.0083,64,4.7,Asia/Dhaka,3,"Very low cost, emerging IT",1,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+LK-CMB,Sri Lanka,Colombo,APAC,LKR,0.003,79,5.8,Asia/Colombo,3,"High English, recovering economy",1,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+PK-KHI,Pakistan,Karachi,APAC,PKR,0.0036,71,5.2,Asia/Karachi,3,"Low cost, large talent pool",1,,,MEDIUM,2026-02-09,True,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+NP-KTM,Nepal,Kathmandu,APAC,NPR,0.0074,64,4.7,Asia/Kathmandu,3,Emerging low-cost market,1,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+GLOBAL,Global,Global,Global,USD,1.0,357,26.1,UTC,Global,Location-agnostic global benchmark rates,3,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+IN-TRV,India,Thiruvananthapuram,South_Asia,INR,83.0,96,7.0,UTC+5:30,Tier1,60000-70000; IT development; product engineering; BPO; data analytics,7,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+IN-COK,India,Kochi,South_Asia,INR,83.0,79,5.8,UTC+5:30,Tier2,15000-20000; Voice and non-voice BPO; data entry; customer service; back office,6,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+IN-CJB,India,Coimbatore,South_Asia,INR,83.0,96,7.0,UTC+5:30,Tier2,35000-45000; IT services; embedded and IoT; industrial automation; BPO,6,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+IN-JAI,India,Jaipur,South_Asia,INR,83.0,89,6.5,UTC+5:30,Tier2,28000-35000; Call center; finance and accounting BPO; data processing; IT services; analytics,6,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+IN-IXC,India,Chandigarh/Mohali,South_Asia,INR,83.0,96,7.0,UTC+5:30,Tier2,15000-22000; Call center; technical helpdesk; back office; field investigations,6,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+IN-VTZ,India,Visakhapatnam,South_Asia,INR,83.0,75,5.5,UTC+5:30,Tier3,8000-15000; Voice customer experience; customer support; data processing; back office,5,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+IN-BBI,India,Bhubaneswar,South_Asia,INR,83.0,89,6.5,UTC+5:30,Tier2,20000-28000; IT development; software engineering; BPO; analytics,6,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+IN-LKO,India,Lucknow,South_Asia,INR,83.0,86,6.3,UTC+5:30,Tier2,18000-30000; Customer support; data entry; finance and accounting; IT services,6,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+IN-NAG,India,Nagpur,South_Asia,INR,83.0,96,7.0,UTC+5:30,Tier3,12000-22000; Software development; call center; data entry; back office,5,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+IN-IDR,India,Indore,South_Asia,INR,83.0,89,6.5,UTC+5:30,Tier2,18000-28000; Customer service BPO; technical support; software development; data processing,6,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+IN-MYQ,India,Mysore,South_Asia,INR,0.012,100,7.3,UTC+5:30,Tier3,14000-20000; IT training; software engineering; BPO operations,5,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+IN-IXE,India,Mangalore,South_Asia,INR,83.0,93,6.8,UTC+5:30,Tier3,1700-2500; Mortgage processing; financial services BPO; property data analytics; research,5,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+IN-BDQ,India,Vadodara,South_Asia,INR,83.0,96,7.0,UTC+5:30,Tier2,15000-25000; Engineering R&D; IT services; software development; BPO,6,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+IN-AMD,India,Ahmedabad secondary areas,South_Asia,INR,83.0,96,7.0,UTC+5:30,Tier2,25000-45000; IT services; BPO; call center; healthcare BPO; back office,6,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+IN-CCU,India,Kolkata secondary,South_Asia,INR,83.0,96,7.0,UTC+5:30,Tier2,35000-55000; Finance and procurement; logistics BPO; customer service; IT development; data processing,6,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+PH-DVO,Philippines,Davao,Southeast_Asia,PHP,56.0,125,9.1,UTC+8,Tier1,85000 (2024)[web:3][web:6]; Customer service; technical support; sales; collections; back-office; content moderation[web:82],7,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+PH-BCB,Philippines,Bacolod,Southeast_Asia,PHP,56.0,125,9.1,UTC+8,Tier3,~40% of city workforce in BPO[web:99]; Customer service; technical support; IT-enabled services; finance & accounting; back-office; softwar,5,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+PH-BAG,Philippines,Baguio,Southeast_Asia,PHP,56.0,125,9.1,UTC+8,Tier3,BPO is top services job generator[web:97][web:107]; Data entry; customer support; voice/non-voice operations[web:5][web:11][web:103],5,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+PH-SRR,Philippines,Santa Rosa (Laguna),Southeast_Asia,PHP,56.0,125,9.1,UTC+8,Tier3,Growing BPO hub (no published headcount)[web:110]; Customer service; back-office support[web:110][web:33],5,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+PH-LIP,Philippines,Lipa (Batangas),Southeast_Asia,PHP,56.0,125,9.1,UTC+8,Tier3,Multiple sites; no consolidated figure[web:63][web:69]; Customer service (voice & chat); healthcare support; technical support; back-office[web:63][web:66],5,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+PH-DGT,Philippines,Dumaguete,Southeast_Asia,PHP,56.0,125,9.1,UTC+8,Tier3,Multiple major vendors; no published total employment[web:44][web:139]; Customer support; technical assistance; digital solutions; content technology; back-office; healthca,5,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+PH-CDO,Philippines,Cagayan de Oro,Southeast_Asia,PHP,56.0,125,9.1,UTC+8,Tier3,Growing BPO presence; multiple sites (no consolidated figure)[web:43][web:46][web:144]; Customer service; technical support; back-office[web:46][web:52],5,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+PH-GES,Philippines,General Santos,Southeast_Asia,PHP,56.0,125,9.1,UTC+8,Tier3,Emerging BPO market; limited data[web:45][web:57]; Customer service; sales; appointment setting[web:45][web:51][web:54],5,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+PH-NAG,Philippines,Naga (Camarines Sur),Southeast_Asia,PHP,56.0,125,9.1,UTC+8,Tier2,Target 28000 ICT-related jobs by 2028[web:127]; Inbound/outbound call center; telemarketing; appointment setting; lead generation; B2B/B2C support[w,6,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+PH-CRK,Philippines,Pampanga/Clark Area,Southeast_Asia,PHP,56.0,125,9.1,UTC+8,Tier1,Part of 70000+ new countryside IT-BPM jobs in 2022; major cluster in Central Luzon[web:121][web:25]; Customer experience; technical support; sales; back-office; AI/analytics; content moderation[web:25,7,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+GT-QUE,Guatemala,Quetzaltenango,Central_America,GTQ,7.8,214,15.6,UTC-6,Tier3,nan; Bilingual voice; customer service; back office,5,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+CR-HER,Costa Rica,Heredia,Central_America,CRC,510.0,250,18.2,UTC-6,Tier3,nan; Customer support; technical support; IT services; back office,5,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+CR-ALJ,Costa Rica,Alajuela,Central_America,CRC,510.0,250,18.2,UTC-6,Tier3,nan; Customer support; back office; shared services,5,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+JM-KIN,Jamaica,Kingston,Caribbean,JMD,155.0,125,9.1,UTC-5,Tier2,~35000; Customer service; tech support; F&A; claims; design; software dev; research; transcription; animatio,6,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+SV-SSA,El Salvador,San Salvador,Central_America,USD,1.0,179,13.1,UTC-6,Tier2,>30000; Customer service; tech support; sales; lead gen; back office; chat/email,6,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+SV-STC,El Salvador,Santa Tecla,Central_America,USD,1.0,179,13.1,UTC-6,Tier3,nan; Customer service; sales; back office,5,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+HN-SPS,Honduras,San Pedro Sula,Central_America,HNL,25.0,125,9.1,UTC-6,Tier2,20000-30000; Customer support; tech support; sales; collections; back office,6,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+DO-STI,Dominican Republic,Santiago de los Caballeros,Caribbean,DOP,58.0,89,6.5,UTC-4,Tier3,nan; Customer service; sales; back office,5,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+TT-POS,Trinidad & Tobago,Port of Spain metro (Barataria/Chaguanas/Wallerfield),Caribbean,TTD,6.8,179,13.1,UTC-4,Tier3,~3000-4000; Customer service; tech support; healthcare; legal; F&A; back office,5,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+PL-GDN,Poland,Gdansk/Tricity,Eastern_Europe,PLN,4.0,107,7.8,UTC+1,Tier2,40500; IT; CX; F&A; R&D,6,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+PL-KTW,Poland,Katowice/GZM,Eastern_Europe,PLN,4.0,111,8.1,UTC+1,Tier2,33400; IT; SSC/GBS; BPO; R&D,6,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+PL-LOD,Poland,Lodz,Eastern_Europe,PLN,4.0,104,7.6,UTC+1,Tier2,29600; F&A; IT; Procurement; HR; Data & Analytics,6,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+PL-POZ,Poland,Poznan,Eastern_Europe,PLN,4.0,107,7.8,UTC+1,Tier2,28200; F&A; IT; Procurement; HR; CX,6,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+PL-BDG,Poland,Bydgoszcz,Eastern_Europe,PLN,4.0,93,6.8,UTC+1,Tier3,11900; Logistics & Supply Chain; Manufacturing Support; GBS; IT,5,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+PL-SZZ,Poland,Szczecin,Eastern_Europe,PLN,4.0,93,6.8,UTC+1,Tier3,8200; SSC/BPO; IT; CX,5,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+PL-LUZ,Poland,Lublin,Eastern_Europe,PLN,4.0,89,6.5,UTC+1,Tier3,9800; F&A; Banking & Insurance; IT; CX,5,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+PL-RZE,Poland,Rzeszow,Eastern_Europe,PLN,4.0,89,6.5,UTC+1,Tier3,6300; F&A; HR; Procurement; IT,5,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+RO-IAS,Romania,Iași,Eastern_Europe,RON,4.6,93,6.8,UTC+2,Tier3,12000-15000 (est.); Software dev & R&D; IT outsourcing; F&A SSC; customer support; telemarketing; DB & infra support,5,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+RO-TIM,Romania,Timișoara,Eastern_Europe,RON,4.6,96,7.0,UTC+2,Tier2,"18000-22000 (est.); Engineering & manufacturing support; IT dev; SSC (F&A, procurement, HR); customer & technical suppor",6,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+RO-BV,Romania,Brașov,Eastern_Europe,RON,4.6,93,6.8,UTC+2,Tier3,"10000-12000 (est.); BPO (F&A, HR, customer service); IT services; SSC; call centers; content & digital services",5,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+BG-PDV,Bulgaria,Plovdiv,Eastern_Europe,BGN,1.8,71,5.2,UTC+2,Tier3,8000 (2020); proj. 13000; IT outsourcing & software dev; BPO; customer operations; tech support; back-office,5,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+LT-KUN,Lithuania,Kaunas,Baltics,EUR,1.0,107,7.8,UTC+2,Tier3,8 SSCs (employment n/a); Shared services; BPO; IT & financial services support,5,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+MA-RBA,Morocco,Rabat,Africa,MAD,10.0,179,13.1,UTC+1,Tier2,"20000; French BPO, CX",6,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+MA-TNG,Morocco,Tangier,Africa,MAD,10.0,179,13.1,UTC+1,Tier2,"15000; French BPO, CX",6,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+MA-FES,Morocco,Fes,Africa,MAD,10.0,179,13.1,UTC+1,Tier3,"10000; French BPO, CX",5,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+MA-MEK,Morocco,Meknes,Africa,MAD,10.0,179,13.1,UTC+1,Tier3,"10000; French BPO, CX",5,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+MA-MOH,Morocco,Mohammedia,Africa,MAD,10.0,179,13.1,UTC+1,Tier3,"5000; French BPO, CX",5,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+EG-HRG,Egypt,Hurghada,Africa,EGP,31.0,161,11.8,UTC+2,Tier3,"5000; CX, tourism support",5,,,MEDIUM,2026-02-09,True,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+EG-ALX,Egypt,Alexandria,Africa,EGP,31.0,161,11.8,UTC+2,Tier3,"10000; CX, back office",5,,,MEDIUM,2026-02-09,True,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+ZA-DBN,South Africa,Durban,Africa,ZAR,18.0,150,10.9,UTC+2,Tier2,"40000; CX, collections",6,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+ZA-PLZ,South Africa,Port Elizabeth,Africa,ZAR,18.0,150,10.9,UTC+2,Tier2,15000; CX,6,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+KE-MBA,Kenya,Mombasa,Africa,KES,153.0,107,7.8,UTC+3,Tier3,"3000; CX, back office",5,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+NG-LOS,Nigeria,Lagos,Africa,NGN,1550.0,125,9.1,UTC+1,Tier2,"25000; CX, fintech support, tech support",6,,,MEDIUM,2026-02-09,True,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+NG-ABV,Nigeria,Abuja,Africa,NGN,1550.0,125,9.1,UTC+1,Tier3,"5000; CX, tech support",5,,,MEDIUM,2026-02-09,True,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+MU-EBE,Mauritius,Ebene,Africa,MUR,45.0,161,11.8,UTC+4,Tier2,"20000; FAO, IT support, CX, multilingual support",6,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+MU-PLU,Mauritius,Port Louis,Africa,MUR,45.0,161,11.8,UTC+4,Tier3,"12000; CX, back office",5,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+MG-TNR,Madagascar,Antananarivo,Africa,MGA,4500.0,96,7.0,UTC+3,Tier3,"12000; French BPO, CX, data entry, back office",5,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+SN-DKR,Senegal,Dakar,Africa,XOF,600.0,125,9.1,UTC+0,Tier2,"15000; CX, IT outsourcing, data processing",6,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+ET-ADD,Ethiopia,Addis Ababa,Africa,ETB,57.0,107,7.8,UTC+3,Tier3,"12000; IT support, CX, data entry",5,,,MEDIUM,2026-02-09,True,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+ET-BHD,Ethiopia,Bahir Dar,Africa,ETB,57.0,107,7.8,UTC+3,Tier3,"2000; IT support, data services",5,,,MEDIUM,2026-02-09,True,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+VN-DAD,Vietnam,Da Nang,Southeast_Asia,VND,24500.0,89,6.5,UTC+7,Tier2,"15-25K; Software dev, game dev, QA testing",6,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+MY-CYB,Malaysia,Cyberjaya,Southeast_Asia,MYR,4.4,150,10.9,UTC+8,Tier1,30-50K; HSBC IBM DHL TCS shared services,7,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+MY-PEN,Malaysia,Penang,Southeast_Asia,MYR,4.4,143,10.4,UTC+8,Tier2,"15-25K; IT, electronics, shared services",6,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+MY-JHB,Malaysia,Johor Bahru,Southeast_Asia,MYR,4.4,125,9.1,UTC+8,Tier2,"10-20K; SSC, F&A, data centers",6,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+ID-BDO,Indonesia,Bandung,Southeast_Asia,IDR,15800.0,96,7.0,UTC+7,Tier3,"5-10K; IT, creative services",5,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+ID-SUB,Indonesia,Surabaya,Southeast_Asia,IDR,15800.0,96,7.0,UTC+7,Tier3,"5-10K; Customer service, IT",5,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+ID-SMG,Indonesia,Semarang,Southeast_Asia,IDR,15800.0,89,6.5,UTC+7,Tier3,5-10K; Transcosmos contact center,5,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+TH-CNX,Thailand,Chiang Mai,Southeast_Asia,THB,35.0,121,8.8,UTC+7,Tier3,"3-8K; IT, digital services",5,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+CN-SZX,China,Shenzhen,APAC,CNY,7.2,186,13.6,UTC+8,Tier1,40-70K; Huawei Tencent tech hub,7,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+CN-CTU,China,Chengdu,APAC,CNY,7.2,136,9.9,UTC+8,Tier2,30-50K; Accenture Wipro IBM IT outsourcing,6,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+CN-HGH,China,Hangzhou,APAC,CNY,7.2,171,12.5,UTC+8,Tier1,40-60K; Alibaba ecosystem fintech,7,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+CO-CLO,Colombia,Cali,LATAM,COP,4000.0,161,11.8,UTC-5,Tier2,15K+; Foundever Teleperformance voice CX,6,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+CO-BAQ,Colombia,Barranquilla,LATAM,COP,4000.0,161,11.8,UTC-5,Tier2,8-10K; Auxis hub bilingual,6,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+CO-BGA,Colombia,Bucaramanga,LATAM,COP,4000.0,143,10.4,UTC-5,Tier3,3-5K; CustomerServ partners,5,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+CO-CTG,Colombia,Cartagena,LATAM,COP,4000.0,161,11.8,UTC-5,Tier3,2-4K; Tourism hospitality BPO,5,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+CO-PEI,Colombia,Pereira,LATAM,COP,4000.0,143,10.4,UTC-5,Tier3,2-3K; Voice CX back office,5,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+BR-CWB,Brazil,Curitiba,LATAM,BRL,5.0,125,9.1,UTC-3,Tier2,20K+; TIVIT Atento IT/Voice,6,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+BR-POA,Brazil,Porto Alegre,LATAM,BRL,5.0,125,9.1,UTC-3,Tier2,10K+; IT software nearshore,6,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+BR-BHZ,Brazil,Belo Horizonte,LATAM,BRL,5.0,125,9.1,UTC-3,Tier2,15K+; Alfa Contact IT/Voice,6,,,MEDIUM,2026-02-09,False,"Rebased from GLOBAL=100 to IN-BLR=100 per RB1x D5, Feb 2026"
+AR-CÓR,Argentina,Córdoba,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+AR-MEN,Argentina,Mendoza,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+AR-ROS,Argentina,Rosario,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+AR-TAN,Argentina,Tandil,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+AU-ALE,Australia,Alexandria (NSW),,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+BR-BEL,Brazil,Belo Horizonte,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+BR-BLU,Brazil,Blumenau,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+BR-BRA,Brazil,Brasília,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+BR-CUR,Brazil,Curitiba,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+BR-HOR,Brazil,Hortolândia,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+BR-ILH,Brazil,Ilhéus,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+BR-LON,Brazil,Londrina,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+BR-SAL,Brazil,Salvador,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+BR-SÃO,Brazil,São Paulo,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+BR-UBE,Brazil,Uberlândia,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+CA-MIS,Canada,Mississauga,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+CA-MON,Canada,Moncton,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+CA-ONT,Canada,Ontario,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+CN-CHE,China,Chengdu,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+CN-FOS,China,Foshan,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+CN-KUN,China,Kunshan,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+CN-SHE,China,Shenzhen,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+CN-SUZ,China,Suzhou,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+CO-BAR,Colombia,Barranquilla,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+CO-CAL,Colombia,Cali (The Arena),,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+CO-MED,Colombia,Medellín,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+CR-SAN,Costa Rica,Santa Ana (San José),,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+DE-BER,Germany,Berlin,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+DE-BRA,Germany,Braunschweig,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+DE-FRA,Germany,Frankfurt,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+DE-HAM,Germany,Hamburg,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+DE-MUN,Germany,Munich,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+DE-NEU,Germany,Neurath,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+EG-LUX,Egypt,Luxor,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+EG-MUL,Egypt,"Multiple cities (New Cairo, Giza, Alexandria, Tanta, El Sadat)",,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+EG-NEW,Egypt,New Cairo,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+ES-MAD,Spain,Madrid,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+ES-MÁL,Spain,Málaga,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+GB-BRA,United Kingdom,Bracknell,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+GB-REA,United Kingdom,Reading,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+IE-COR,Ireland,Cork,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+IE-KIL,Ireland,Kilkenny,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+IN-BAN,India,Bangalore (Bhartiya City),,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+IN-BHO,India,Bhopal,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+IN-GGN,India,Gurugram,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+IN-MAD,India,Madurai,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+IN-MUL,India,"Multiple cities (Gurgaon, Indore, Jaipur, Bangalore, Mumbai, Delhi)",,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+IN-NAS,India,Nashik,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+IN-NOI,India,Noida (UP),,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+IN-PAT,India,Patna,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+IN-SAL,India,Salem,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+IN-TRI,India,Trichy,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+IN-VIJ,India,Vijayawada,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+IN-VIS,India,Visakhapatnam (Vizag),,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+IN-WAR,India,Warangal,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+JM-MAN,Jamaica,Mandeville,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+JM-MON,Jamaica,Montego Bay,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+JM-WES,Jamaica,Westmoreland (Llandilo),,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+JP-YOK,Japan,Yokohama,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+MX-JUA,Mexico,Juarez,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+MX-LEÓ,Mexico,León,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+MX-LOS,Mexico,Los Cabos,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+MX-MÉR,Mexico,Mérida,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+MX-PUE,Mexico,Puebla,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+MX-QUE,Mexico,Querétaro (Guadalajara metro / Tlaquepaque),,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+MX-RIV,Mexico,Riviera Maya,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+MX-TEK,Mexico,Tekax,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+MX-TOR,Mexico,Torreon,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+MX-VAL,Mexico,Valladolid,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+NL-AMS,Netherlands,Amsterdam,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+NL-UNS,Netherlands,Unspecified city,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+PA-PAN,Panama,Panama City (est.),,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+PH-ALA,Philippines,Alabang (Muntinlupa),,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+PH-ANG,Philippines,Angeles (Clark),,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+PH-BAT,Philippines,Batangas (Lizzy’s Lagoon),,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+PH-BON,Philippines,Bonifacio Global City (Taguig),,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+PH-CLA,Philippines,Clark (Angeles),,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+PH-DAS,Philippines,Dasmariñas,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+PH-FAI,Philippines,Fairview (Quezon City),,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+PH-FRO,Philippines,Frontera Verde / Pasig,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+PH-IMU,Philippines,Imus (Lizzy’s Nook),,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+PH-LEG,Philippines,Legazpi,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+PH-MAK,Philippines,Makati,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+PH-MAN,Philippines,Mandaluyong & other cities,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+PH-MET,Philippines,Metro Manila,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+PH-MEY,Philippines,Meycauayan,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+PH-MUL,Philippines,"Multiple cities (Alabang, Bacolod, Cebu, Davao, Iloilo, Makati, Manila, Naga, etc.)",,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+PH-MUN,Philippines,Muntinlupa (Alabang),,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+PH-ORT,Philippines,Ortigas (Phoenix / PHX),,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+PH-PAS,Philippines,Pasig City,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+PH-QUE,Philippines,"Quezon City (Eton Centris, Cubao Cyberpark)",,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+PH-SAN,Philippines,San Fernando (La Union),,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+PH-TAG,Philippines,Taguig (LizardBear Lair),,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+PH-TAL,Philippines,Talisay,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+PH-TAR,Philippines,Tarlac City,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+PL-BIA,Poland,Białystok,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+PL-BIE,Poland,Bielsko Biała,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+PL-GDA,Poland,Gdańsk,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+PL-GDY,Poland,Gdynia,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+PL-GLI,Poland,Gliwice,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+PL-KIE,Poland,Kielce,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+PL-KRA,Poland,Kraków,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+PL-OPO,Poland,Opole,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+RO-BRA,Romania,Brasov,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+RO-PIT,Romania,Pitești,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+RO-SUC,Romania,Suceava,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+RO-TÂR,Romania,Târgu Mureș,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+US-ALP,United States,Alpharetta (GA),,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+US-AUG,United States,Augusta (GA),,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+US-BAT,United States,Baton Rouge,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+US-BEL,United States,Bellevue (WA),,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+US-BOS,United States,Boston,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+US-CAR,United States,Cary,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+US-CHE,United States,Chesapeake (VA),,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+US-CIN,United States,Cincinnati (Milford),,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+US-CLI,United States,Clifton (NJ),,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+US-COL,United States,Columbus,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+US-CON,United States,Conway,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+US-DAN,United States,Danville (IL),,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+US-DEL,United States,Deland,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+US-DET,United States,Detroit,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+US-EAS,United States,East Hanover (NJ),,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+US-EDI,United States,Edison,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+US-FOL,United States,"Folsom, California",,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+US-FOR,United States,Fort Smith,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+US-FOU,United States,Fountain Valley (CA),,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+US-FRI,United States,Frisco,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+US-GAR,United States,Gardena (CA),,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+US-GRE,United States,"Greenville, South Carolina",,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+US-HAR,United States,Hartford,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+US-HOU,United States,Houston,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+US-IND,United States,Indianapolis,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+US-KNO,United States,Knoxville / Nashville / Morristown,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+US-LAN,United States,Langhorne,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+US-LAS,United States,Las Vegas,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+US-LEH,United States,Lehi (UT),,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+US-LOS,United States,Los Angeles,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+US-LOW,United States,Lowell (MA),,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+US-MER,United States,Meridian (ID),,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+US-MIN,United States,Minot,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+US-MIS,United States,Missoula,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+US-MON,United States,Montgomery,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+US-NAS,United States,Nashville,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+US-NEW,United States,New Braunfels,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+US-NOR,United States,"North Charleston, South Carolina",,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+US-NYC,United States,New York,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+US-ORE,United States,Orem,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+US-PIT,United States,Pittsburgh,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+US-PLA,United States,Plano,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+US-PRO,United States,Providence,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+US-RAL,United States,Raleigh,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+US-RED,United States,Redmond,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+US-RIC,United States,Richardson,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+US-ROC,United States,Rocket Center,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+US-ROS,United States,Roseland (NJ),,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+US-SAL,United States,Salt Lake City area,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+US-SAN,United States,Santa Clara,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+US-SCH,United States,Schaumburg (IL),,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+US-SEA,United States,Seattle (WA),,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+US-SFO,United States,San Francisco,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+US-SHE,United States,Sherwood,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+US-SPR,United States,Springfield (IL),,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+US-ST.,United States,St. Louis,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+US-SUM,United States,Sumter,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+US-TEA,United States,Teaneck,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+US-TOR,United States,Torrance (CA),,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+US-UNS,United States,"Unspecified cities, SC/OH/TX",,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+US-WEB,United States,Webster (NY),,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+US-WES,United States,Weston (FL),,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+US-WIL,United States,Wilkes-Barre (PA),,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+US-WIS,United States,Wise,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+XX-,Unknown,,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+XX-ASU,Paraguay,Asunción (est.),,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+XX-BAR,Trinidad & Tobago,Barataria,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+XX-BRE,Belarus,Brest,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+XX-BRN,Czech Republic,Brno,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+XX-BUR,Bulgaria,Burgas,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+XX-CIU,Paraguay,Ciudad del Este,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+XX-COP,Denmark,Copenhagen,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+XX-DUB,United Arab Emirates,Dubai,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+XX-EBE,Mauritius,Ebene (Cyber City),,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+XX-GLA,United Kingdom (Scotland),Glasgow,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+XX-GOM,Belarus,Gomel,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+XX-GRO,Belarus,Grodno,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+XX-KHA,Ukraine,Kharkiv,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+XX-LIL,France,Lille,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+XX-LIM,Peru,Lima (est.),,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+XX-LVI,Ukraine,Lviv (regional),,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+XX-MIL,Italy,Milan,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+XX-MIN,Belarus,Minsk,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+XX-MOG,Belarus,Mogilev,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+XX-MON,Uruguay,Montevideo,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+XX-NET,Israel,Netanya,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+XX-ODE,Ukraine,Odesa,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+XX-OLO,Czech Republic,Olomouc,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+XX-OSI,Croatia,Osijek,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+XX-OTH,Ukraine,Other regional cities (UA),,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+XX-PAR,France,Paris,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+XX-POI,France,Poitiers,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+XX-POR,Portugal,Porto,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+XX-PRA,Czech Republic,Prague (Czech Republic)*,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+XX-QUI,Ecuador,Quito (est.),,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+XX-SAR,Bosnia & Herzegovina,Sarajevo,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+XX-SKO,North Macedonia,Skopje,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+XX-STO,Sweden,Stockholm,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+XX-THE,Greece,Thessaloniki (Olympus House),,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+XX-TOU,France,Toulouse,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+XX-TUR,Italy,Turin,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+XX-VAR,Bulgaria,Varna,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+XX-VIT,Belarus,Vitebsk,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+XX-WAL,Trinidad & Tobago,Wallerfield,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+XX-ZUG,Switzerland,Zug,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.
+ZA-GEO,South Africa,George,,USD,1.0,100,,,,Added for TBL-009 referential integrity (Gemini/GPT review).,,,,,2026-02-11,False,Placeholder Cost_Index; calibrate when needed.

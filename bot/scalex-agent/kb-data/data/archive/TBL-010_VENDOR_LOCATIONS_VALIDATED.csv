@@ -1,0 +1,645 @@
+VendorLocation_ID,Vendor_ID,Vendor_Name,Location_Code,City,Country,Site_Type,Headcount_Range,Services_Offered,Source,Last_Verified
+VL-0001,VND-0001,Accenture,IN-BLR,Bengaluru,India,Delivery_Center,10000+,"IT, BPO, AI, Cloud, Creative/Experience ​",Perplexity Research Jan 2025,2025-01
+VL-0002,VND-0001,Accenture,IN-MUM,Mumbai,India,Delivery_Center,10000+,"IT, BPO, AI, Cloud, Creative/Experience ​",Perplexity Research Jan 2025,2025-01
+VL-0003,VND-0001,Accenture,IN-HYD,Hyderabad,India,Delivery_Center,10000+,"IT, BPO, AI, Cloud ​",Perplexity Research Jan 2025,2025-01
+VL-0004,VND-0001,Accenture,IN-PUN,Pune,India,Delivery_Center,10000+,"IT, BPO, AI, Cloud ​",Perplexity Research Jan 2025,2025-01
+VL-0005,VND-0001,Accenture,IN-GGN,Gurugram,India,Delivery_Center,1000-5000,"IT, BPO, AI ​",Perplexity Research Jan 2025,2025-01
+VL-0006,VND-0001,Accenture,IN-CHE,Chennai,India,Delivery_Center,5000-10000,"IT, BPO, AI ​",Perplexity Research Jan 2025,2025-01
+VL-0007,VND-0001,Accenture,IN-DEL,Noida,India,Delivery_Center,1000-5000,"IT, BPO, AI ​",Perplexity Research Jan 2025,2025-01
+VL-0008,VND-0001,Accenture,IN-JAI,Jaipur,India,Delivery_Center,500-1000,"IT, BPO ​",Perplexity Research Jan 2025,2025-01
+VL-0009,VND-0001,Accenture,IN-IDR,Indore,India,Delivery_Center,500-1000,"IT, BPO ​",Perplexity Research Jan 2025,2025-01
+VL-0010,VND-0001,Accenture,IN-CJB,Coimbatore,India,Delivery_Center,500-1000,"IT, BPO ​",Perplexity Research Jan 2025,2025-01
+VL-0011,VND-0001,Accenture,MX-MEX,Mexico City,Mexico,Delivery_Center,1000-5000,"IT, Systems Integration, BPO ​",Perplexity Research Jan 2025,2025-01
+VL-0012,VND-0001,Accenture,MX-MTY,Monterrey,Mexico,Delivery_Center,1000-5000,"IT, Systems Integration, BPO ​",Perplexity Research Jan 2025,2025-01
+VL-0013,VND-0001,Accenture,MX-QUE,Querétaro (Guadalajara metro / Tlaquepaque),Mexico,Delivery_Center,1000-5000,"IT, Digital, BPO ​",Perplexity Research Jan 2025,2025-01
+VL-0014,VND-0001,Accenture,MX-MÉR,Mérida,Mexico,Delivery_Center,500-1000,"IT, App Dev, Data Analytics, BPO ​",Perplexity Research Jan 2025,2025-01
+VL-0015,VND-0001,Accenture,MX-TEK,Tekax,Mexico,Delivery_Center,<500,"IT, App Dev, Data Analytics, BPO ​",Perplexity Research Jan 2025,2025-01
+VL-0016,VND-0001,Accenture,MX-VAL,Valladolid,Mexico,Delivery_Center,<500,"IT, App Dev, Data Analytics, BPO ​",Perplexity Research Jan 2025,2025-01
+VL-0017,VND-0001,Accenture,PH-MNL,Manila,Philippines,Delivery_Center,5000-10000,"BPO, Intelligent Operations, IT ​",Perplexity Research Jan 2025,2025-01
+VL-0018,VND-0001,Accenture,PH-CEB,Cebu,Philippines,Delivery_Center,1000-5000,"BPO, IT ​",Perplexity Research Jan 2025,2025-01
+VL-0019,VND-0001,Accenture,PH-ILO,Ilocos Norte,Philippines,Delivery_Center,500-1000,"BPO, Operations ​",Perplexity Research Jan 2025,2025-01
+VL-0020,VND-0001,Accenture,PL-WAW,Warsaw,Poland,Delivery_Center,1000-5000,"IT, F&A, BPO ​",Perplexity Research Jan 2025,2025-01
+VL-0021,VND-0001,Accenture,PL-KRK,Krakow,Poland,Delivery_Center,1000-5000,"IT, F&A, BPO ​",Perplexity Research Jan 2025,2025-01
+VL-0022,VND-0001,Accenture,RO-BUC,Bucharest,Romania,Delivery_Center,1000-5000,"IT, BPO ​",Perplexity Research Jan 2025,2025-01
+VL-0023,VND-0001,Accenture,IE-DUB,Dublin,Ireland,Delivery_Center,1000-5000,"IT, Corporate, Shared Services ​",Perplexity Research Jan 2025,2025-01
+VL-0024,VND-0001,Accenture,US-ST.,St. Louis,United States,Delivery_Center,500-1000,"Federal IT, Cloud, Cybersecurity ​",Perplexity Research Jan 2025,2025-01
+VL-0025,VND-0001,Accenture,US-SFO,San Francisco,United States,Delivery_Center,500-1000,"Innovation, Digital, Strategy ​",Perplexity Research Jan 2025,2025-01
+VL-0026,VND-0001,Accenture,US-CHI,Chicago,United States,Delivery_Center,500-1000,"IT, Consulting ​",Perplexity Research Jan 2025,2025-01
+VL-0027,VND-0001,Accenture,US-DET,Detroit,United States,Delivery_Center,500-1000,"IT, Industry Consulting ​",Perplexity Research Jan 2025,2025-01
+VL-0028,VND-0001,Accenture,US-ATL,Atlanta,United States,Delivery_Center,500-1000,"IT, Cloud, Consulting ​",Perplexity Research Jan 2025,2025-01
+VL-0029,VND-0001,Accenture,US-COL,Columbus,United States,Delivery_Center,500-1000,"IT, Operations ​",Perplexity Research Jan 2025,2025-01
+VL-0030,VND-0003,TCS,IN-MUM,Mumbai,India,Delivery_Center,10000+,"IT, BPO, Consulting ​",Perplexity Research Jan 2025,2025-01
+VL-0031,VND-0003,TCS,IN-CHE,Chennai (Siruseri),India,Delivery_Center,10000+,"IT, Engineering, BPS ​",Perplexity Research Jan 2025,2025-01
+VL-0032,VND-0003,TCS,IN-BLR,Bengaluru,India,Delivery_Center,10000+,"IT, Cloud, Consulting ​",Perplexity Research Jan 2025,2025-01
+VL-0033,VND-0003,TCS,IN-PUN,Pune,India,Delivery_Center,10000+,"IT, BPO ​",Perplexity Research Jan 2025,2025-01
+VL-0034,VND-0003,TCS,IN-BBI,Bhubaneswar,India,Delivery_Center,1000-5000,"IT, BPS ​",Perplexity Research Jan 2025,2025-01
+VL-0035,VND-0003,TCS,XX-PAR,Paris,France,Delivery_Center,500-1000,"IT, Consulting ​",Perplexity Research Jan 2025,2025-01
+VL-0036,VND-0003,TCS,XX-TOU,Toulouse,France,Delivery_Center,500-1000,"AI, Aerospace, Engineering Services ​",Perplexity Research Jan 2025,2025-01
+VL-0037,VND-0003,TCS,XX-LIL,Lille,France,Delivery_Center,500-1000,"IT, Consulting ​",Perplexity Research Jan 2025,2025-01
+VL-0038,VND-0003,TCS,XX-POI,Poitiers,France,Delivery_Center,<500,"IT, Support ​",Perplexity Research Jan 2025,2025-01
+VL-0039,VND-0003,TCS,BR-LON,Londrina,Brazil,Delivery_Center,1000-5000,"Business Transformation, AI, Cognitive Operations, IT Services ​",Perplexity Research Jan 2025,2025-01
+VL-0040,VND-0003,TCS,BR-SÃO,São Paulo,Brazil,Delivery_Center,1000-5000,"IT, BPS ​",Perplexity Research Jan 2025,2025-01
+VL-0041,VND-0003,TCS,BR-RIO,Rio de Janeiro,Brazil,Delivery_Center,500-1000,"IT, Support ​",Perplexity Research Jan 2025,2025-01
+VL-0042,VND-0003,TCS,MX-MEX,Mexico City,Mexico,Delivery_Center,1000-5000,"AI-enhanced Operations, IT, BPO ​",Perplexity Research Jan 2025,2025-01
+VL-0043,VND-0003,TCS,MX-GDL,Guadalajara,Mexico,Delivery_Center,1000-5000,"IT, Nearshore Delivery ​",Perplexity Research Jan 2025,2025-01
+VL-0044,VND-0003,TCS,MX-MTY,Monterrey,Mexico,Delivery_Center,500-1000,"IT, Nearshore Delivery ​",Perplexity Research Jan 2025,2025-01
+VL-0045,VND-0003,TCS,GT-GUA,Guatemala City,Guatemala,Delivery_Center,500-1000,"IT, BPO ​",Perplexity Research Jan 2025,2025-01
+VL-0046,VND-0003,TCS,PH-MNL,Manila,Philippines,Delivery_Center,1000-5000,"BPO, IT Services ​",Perplexity Research Jan 2025,2025-01
+VL-0047,VND-0003,TCS,PH-BON,Bonifacio Global City (Taguig),Philippines,Delivery_Center,1000-5000,"BPO, IT ​",Perplexity Research Jan 2025,2025-01
+VL-0048,VND-0003,TCS,US-CIN,Cincinnati (Milford),United States,Delivery_Center,500-1000,"IT Services, Consulting ​",Perplexity Research Jan 2025,2025-01
+VL-0049,VND-0003,TCS,US-EDI,Edison,United States,Delivery_Center,500-1000,"IT Services, Consulting ​",Perplexity Research Jan 2025,2025-01
+VL-0050,VND-0003,TCS,US-SAN,Santa Clara,United States,Delivery_Center,500-1000,"IT, Digital ​",Perplexity Research Jan 2025,2025-01
+VL-0051,VND-0004,Infosys,IN-MYQ,Mysore,India,Delivery_Center,10000+,"Training, IT Delivery, R&D ​",Perplexity Research Jan 2025,2025-01
+VL-0052,VND-0004,Infosys,IN-BLR,Bengaluru,India,Delivery_Center,10000+,"IT, Consulting, AI ​",Perplexity Research Jan 2025,2025-01
+VL-0053,VND-0004,Infosys,IN-PUN,Pune,India,Delivery_Center,10000+,"IT, BPO ​",Perplexity Research Jan 2025,2025-01
+VL-0054,VND-0004,Infosys,IN-HYD,Hyderabad,India,Delivery_Center,10000+,"IT, Cloud ​",Perplexity Research Jan 2025,2025-01
+VL-0055,VND-0004,Infosys,IN-IXE,Mangalore,India,Delivery_Center,1000-5000,"IT, Support ​",Perplexity Research Jan 2025,2025-01
+VL-0056,VND-0004,Infosys,IN-TRV,Thiruvananthapuram,India,Delivery_Center,1000-5000,"IT, BPO ​",Perplexity Research Jan 2025,2025-01
+VL-0057,VND-0004,Infosys,US-IND,Indianapolis,United States,Delivery_Center,1000-5000,"Digital, Design, IT, AI ​",Perplexity Research Jan 2025,2025-01
+VL-0058,VND-0004,Infosys,US-RAL,Raleigh,United States,Delivery_Center,500-1000,"Digital, Innovation, IT ​",Perplexity Research Jan 2025,2025-01
+VL-0059,VND-0004,Infosys,US-HAR,Hartford,United States,Delivery_Center,500-1000,"Insurance IT, Digital ​",Perplexity Research Jan 2025,2025-01
+VL-0060,VND-0004,Infosys,US-RIC,Richardson,United States,Delivery_Center,500-1000,"Digital, Cloud, Cybersecurity ​",Perplexity Research Jan 2025,2025-01
+VL-0061,VND-0004,Infosys,US-PHX,Phoenix,United States,Delivery_Center,500-1000,"Digital, Cloud ​",Perplexity Research Jan 2025,2025-01
+VL-0062,VND-0004,Infosys,US-PRO,Providence,United States,Delivery_Center,500-1000,"Digital, Design ​",Perplexity Research Jan 2025,2025-01
+VL-0063,VND-0004,Infosys,MX-MTY,Monterrey,Mexico,Delivery_Center,500-1000,"Nearshore IT, BPO ​",Perplexity Research Jan 2025,2025-01
+VL-0064,VND-0004,Infosys,MX-MEX,Mexico City,Mexico,Delivery_Center,500-1000,Nearshore IT ​,Perplexity Research Jan 2025,2025-01
+VL-0065,VND-0004,Infosys,CA-CAL,Calgary,Canada,Delivery_Center,500-1000,"Energy IT, Cloud ​",Perplexity Research Jan 2025,2025-01
+VL-0066,VND-0004,Infosys,CA-TOR,Toronto,Canada,Delivery_Center,500-1000,"IT, Consulting ​",Perplexity Research Jan 2025,2025-01
+VL-0067,VND-0004,Infosys,PL-LOD,Lodz,Poland,Delivery_Center,1000-5000,"BPO, F&A, Master Data Management ​",Perplexity Research Jan 2025,2025-01
+VL-0068,VND-0004,Infosys,XX-BRN,Brno,Czech Republic,Delivery_Center,500-1000,"BPO, IT Support ​",Perplexity Research Jan 2025,2025-01
+VL-0069,VND-0005,Wipro,IN-BLR,Bengaluru,India,Delivery_Center,10000+,"IT, Cloud, Engineering ​",Perplexity Research Jan 2025,2025-01
+VL-0070,VND-0005,Wipro,IN-HYD,Hyderabad (Manikonda),India,Delivery_Center,5000-10000,"IT, Cloud, AI ​",Perplexity Research Jan 2025,2025-01
+VL-0071,VND-0005,Wipro,IN-PUN,Pune,India,Delivery_Center,5000-10000,"IT, BPO ​",Perplexity Research Jan 2025,2025-01
+VL-0072,VND-0005,Wipro,IN-CHE,Chennai,India,Delivery_Center,5000-10000,"IT, BPO ​",Perplexity Research Jan 2025,2025-01
+VL-0073,VND-0005,Wipro,MX-GDL,Guadalajara,Mexico,Delivery_Center,1000-5000,"Nearshore IT, Applications, Engineering ​",Perplexity Research Jan 2025,2025-01
+VL-0074,VND-0005,Wipro,MX-MEX,Mexico City,Mexico,Delivery_Center,500-1000,Nearshore IT ​,Perplexity Research Jan 2025,2025-01
+VL-0075,VND-0005,Wipro,MX-MTY,Monterrey,Mexico,Delivery_Center,500-1000,Nearshore IT ​,Perplexity Research Jan 2025,2025-01
+VL-0076,VND-0005,Wipro,US-DAL,Dallas (Plano),United States,Delivery_Center,500-1000,"IT, Cloud, Consulting ​",Perplexity Research Jan 2025,2025-01
+VL-0077,VND-0005,Wipro,US-ATL,Atlanta,United States,Delivery_Center,500-1000,"IT, Consulting ​",Perplexity Research Jan 2025,2025-01
+VL-0078,VND-0005,Wipro,US-SHE,Sherwood,United States,Delivery_Center,500-1000,"Customer Service, IT Support ​",Perplexity Research Jan 2025,2025-01
+VL-0079,VND-0005,Wipro,US-IND,Indianapolis,United States,Delivery_Center,500-1000,"IT, BPO ​",Perplexity Research Jan 2025,2025-01
+VL-0080,VND-0005,Wipro,RO-BUC,Bucharest,Romania,Delivery_Center,500-1000,"IT, Engineering, BPO ​",Perplexity Research Jan 2025,2025-01
+VL-0081,VND-0005,Wipro,DE-NEU,Neurath,Germany,Delivery_Center,<500,"Engineering, Automotive ​",Perplexity Research Jan 2025,2025-01
+VL-0082,VND-0005,Wipro,GB-REA,Reading,United Kingdom,Delivery_Center,500-1000,"IT, Consulting ​",Perplexity Research Jan 2025,2025-01
+VL-0083,VND-0005,Wipro,BR-SÃO,São Paulo,Brazil,Delivery_Center,500-1000,"IT, BPO ​",Perplexity Research Jan 2025,2025-01
+VL-0084,VND-0005,Wipro,BR-CUR,Curitiba,Brazil,Delivery_Center,500-1000,"IT, Engineering ​",Perplexity Research Jan 2025,2025-01
+VL-0085,VND-0006,Cognizant,IN-CHE,Chennai,India,Delivery_Center,10000+,"IT, Digital, Financial Services Ops ​",Perplexity Research Jan 2025,2025-01
+VL-0086,VND-0006,Cognizant,IN-HYD,Hyderabad,India,Delivery_Center,10000+,"IT, Digital ​",Perplexity Research Jan 2025,2025-01
+VL-0087,VND-0006,Cognizant,IN-BLR,Bengaluru,India,Delivery_Center,10000+,"IT, Digital ​",Perplexity Research Jan 2025,2025-01
+VL-0088,VND-0006,Cognizant,IN-PUN,Pune,India,Delivery_Center,10000+,"IT, Digital ​",Perplexity Research Jan 2025,2025-01
+VL-0089,VND-0006,Cognizant,IN-KOL,Kolkata,India,Delivery_Center,5000-10000,"IT, BPO ​",Perplexity Research Jan 2025,2025-01
+VL-0090,VND-0006,Cognizant,IN-BBI,Bhubaneswar,India,Delivery_Center,500-1000,"IT, Digital Ops ​",Perplexity Research Jan 2025,2025-01
+VL-0091,VND-0006,Cognizant,IN-IDR,Indore,India,Delivery_Center,500-1000,"IT, Digital Ops ​",Perplexity Research Jan 2025,2025-01
+VL-0092,VND-0006,Cognizant,IN-CJB,Coimbatore,India,Delivery_Center,500-1000,"IT, Support ​",Perplexity Research Jan 2025,2025-01
+VL-0093,VND-0006,Cognizant,IN-COK,Kochi,India,Delivery_Center,500-1000,"IT, Support ​",Perplexity Research Jan 2025,2025-01
+VL-0094,VND-0006,Cognizant,US-TEA,Teaneck,United States,Delivery_Center,1000-5000,"Corporate, IT, Consulting ​",Perplexity Research Jan 2025,2025-01
+VL-0095,VND-0006,Cognizant,US-MIN,Minot,United States,Delivery_Center,500-1000,Business Process Services ​,Perplexity Research Jan 2025,2025-01
+VL-0096,VND-0006,Cognizant,US-MIS,Missoula,United States,Delivery_Center,500-1000,Business Process Services ​,Perplexity Research Jan 2025,2025-01
+VL-0097,VND-0006,Cognizant,US-PLA,Plano,United States,Delivery_Center,500-1000,"IT, Consulting ​",Perplexity Research Jan 2025,2025-01
+VL-0098,VND-0006,Cognizant,GB-LON,London,United Kingdom,Delivery_Center,500-1000,"AI, Consulting, Fintech ​",Perplexity Research Jan 2025,2025-01
+VL-0099,VND-0006,Cognizant,LT-VNO,Vilnius,Lithuania,Delivery_Center,500-1000,"IT, Shared Services ​",Perplexity Research Jan 2025,2025-01
+VL-0100,VND-0006,Cognizant,HU-BUD,Budapest,Hungary,Delivery_Center,500-1000,"IT, Shared Services",Perplexity Research Jan 2025,2025-01
+VL-0101,VND-0062,Teleperformance,JM-MON,Montego Bay,Jamaica,Delivery_Center,1000-5000,"Voice and non-voice customer care, technical support, sales for North American and Caribbean clients​.",Perplexity Research Jan 2025,2025-01
+VL-0102,VND-0062,Teleperformance,JM-WES,Westmoreland (Llandilo),Jamaica,Delivery_Center,500-1000,New contact center providing digital customer service and BPO support across the Caribbean region​.,Perplexity Research Jan 2025,2025-01
+VL-0103,VND-0062,Teleperformance,IN-MUL,"Multiple cities (Gurgaon, Indore, Jaipur, Bangalore, Mumbai, Delhi)",India,Delivery_Center,10000+,"Digital CX services, back-office, transformation solutions, voice and non-voice customer support for global clients​.",Perplexity Research Jan 2025,2025-01
+VL-0104,VND-0062,Teleperformance,EG-MUL,"Multiple cities (New Cairo, Giza, Alexandria, Tanta, El Sadat)",Egypt,Delivery_Center,5000-10000,"Multilingual voice CX, back-office processing, technical support for EMEA clients​.",Perplexity Research Jan 2025,2025-01
+VL-0105,VND-0062,Teleperformance,PH-MAN,Mandaluyong & other cities,Philippines,Delivery_Center,10000+,"Large-scale voice CX, technical support, back-office and digital integrated business services for global brands​.",Perplexity Research Jan 2025,2025-01
+VL-0106,VND-0062,Teleperformance,US-SLC,Salt Lake City,United States,Delivery_Center,500-1000,Onshore contact center services including customer care and technical support​.,Perplexity Research Jan 2025,2025-01
+VL-0107,VND-0061,Concentrix,CO-MED,Medellín,Colombia,Delivery_Center,1000-5000,"Bilingual customer service and technical support for international and local clients (Macy’s, Etraveli) at a “mega contact center” employing 2,000+ agents​.",Perplexity Research Jan 2025,2025-01
+VL-0108,VND-0061,Concentrix,CO-BOG,Bogotá,Colombia,Delivery_Center,500-1000,Customer engagement and support operations serving regional and global clients​.,Perplexity Research Jan 2025,2025-01
+VL-0109,VND-0061,Concentrix,IN-MUL,"Multiple cities (Bangalore, Chennai, Gurgaon, Hyderabad, Kolkata, Mumbai, Pune, etc.)",India,Delivery_Center,10000+,"Large-scale CX delivery including voice, chat, back-office, and digital transformation services​.",Perplexity Research Jan 2025,2025-01
+VL-0110,VND-0061,Concentrix,PH-MUL,"Multiple cities (Alabang, Bacolod, Cebu, Davao, Iloilo, Makati, Manila, Naga, etc.)",Philippines,Delivery_Center,10000+,"High-volume voice CX, technical support, and back-office services for global enterprises​.",Perplexity Research Jan 2025,2025-01
+VL-0111,VND-0061,Concentrix,XX-POR,Porto,Portugal,Delivery_Center,1000-5000,"Multilingual customer support and back-office services in a ~1,200-seat facility​.",Perplexity Research Jan 2025,2025-01
+VL-0112,VND-0061,Concentrix,GR-ATH,Athens,Greece,Delivery_Center,1000-5000,"Multilingual European customer service and technical support in a 1,200+ workstation site​.",Perplexity Research Jan 2025,2025-01
+VL-0113,VND-0063,TTEC,PH-MAN,Manila Bay,Philippines,Delivery_Center,1000-5000,"Large multi-tenant CX center (~3,000 seats) for inbound customer care, sales, and technical support​.",Perplexity Research Jan 2025,2025-01
+VL-0114,VND-0063,TTEC,PH-MUL,"Multiple sites in Metro Manila & Visayas (Pasay, Cainta, Mandaluyong, Bacolod, Dumaguete, Iloilo, Pampanga, Laguna, Batangas)",Philippines,Delivery_Center,5000-10000,"Voice CX, sales, collections, and back-office operations for global clients​.",Perplexity Research Jan 2025,2025-01
+VL-0115,VND-0063,TTEC,IN-MUM,Mumbai,India,Delivery_Center,500-1000,Voice CX and digital support services for global clients from Nesco IT Park​.,Perplexity Research Jan 2025,2025-01
+VL-0116,VND-0063,TTEC,IN-AHM,Ahmedabad,India,Delivery_Center,<500,Customer service and back-office processing​.,Perplexity Research Jan 2025,2025-01
+VL-0117,VND-0063,TTEC,IN-HYD,Hyderabad,India,Delivery_Center,500-1000,"Voice CX, technical support, and back-office operations​.",Perplexity Research Jan 2025,2025-01
+VL-0118,VND-0063,TTEC,IN-IXC,Mohali,India,Delivery_Center,<500,Contact center services supporting North American and European clients​.,Perplexity Research Jan 2025,2025-01
+VL-0119,VND-0063,TTEC,CO-BAR,Barranquilla,Colombia,Delivery_Center,500-1000,Nearshore customer care and technical support for US clients​.,Perplexity Research Jan 2025,2025-01
+VL-0120,VND-0063,TTEC,CO-BOG,Bogotá,Colombia,Delivery_Center,500-1000,Customer experience and back-office services from two urban sites​.,Perplexity Research Jan 2025,2025-01
+VL-0121,VND-0063,TTEC,ZA-CPT,Cape Town,South Africa,Delivery_Center,500-1000,"New global CX hub delivering customer care, technical support, and industry-specific services for EMEA clients​.",Perplexity Research Jan 2025,2025-01
+VL-0122,VND-0064,Alorica,IN-BAN,Bangalore (Bhartiya City),India,Delivery_Center,<500,CX delivery center (~350 seats) for customer care and back-office services across multiple verticals​.,Perplexity Research Jan 2025,2025-01
+VL-0123,VND-0064,Alorica,IN-BAN,Bangalore (Manyata Tech Park),India,Delivery_Center,<500,~450-seat site for voice CX and support operations​.,Perplexity Research Jan 2025,2025-01
+VL-0124,VND-0064,Alorica,IN-IXC,Mohali,India,Delivery_Center,<500,~400-seat center focused on CX and back-office services​.,Perplexity Research Jan 2025,2025-01
+VL-0125,VND-0064,Alorica,CO-CLO,Cali,Colombia,Delivery_Center,500-1000,Nearshore CX outsourcing site supporting English and Spanish customer care​.,Perplexity Research Jan 2025,2025-01
+VL-0126,VND-0064,Alorica,XX-CIU,Ciudad del Este,Paraguay,Delivery_Center,<500,New CX site delivering voice and back-office support for regional clients​.,Perplexity Research Jan 2025,2025-01
+VL-0127,VND-0064,Alorica,PH-MAK,Makati,Philippines,Delivery_Center,500-1000,Voice CX and back-office operations from Alphaland Southgate Tower​.,Perplexity Research Jan 2025,2025-01
+VL-0128,VND-0064,Alorica,PH-CEB,Cebu City,Philippines,Delivery_Center,500-1000,Customer care and technical support from Asiatown IT Park​.,Perplexity Research Jan 2025,2025-01
+VL-0129,VND-0064,Alorica,PH-ALA,Alabang (Muntinlupa),Philippines,Delivery_Center,500-1000,Voice CX and back-office services for US clients​.,Perplexity Research Jan 2025,2025-01
+VL-0130,VND-0064,Alorica,PH-ANG,Angeles (Clark),Philippines,Delivery_Center,500-1000,Regional CX support and back-office services​.,Perplexity Research Jan 2025,2025-01
+VL-0131,VND-0064,Alorica,PH-QUE,"Quezon City (Eton Centris, Cubao Cyberpark)",Philippines,Delivery_Center,500-1000,High-volume voice CX and back-office operations​.,Perplexity Research Jan 2025,2025-01
+VL-0132,VND-0066,TaskUs,PH-QUE,Quezon City (Chateau Ridiculous),Philippines,Delivery_Center,1000-5000,"1,630-seat BPO site focused on digital CX, back-office support, and trust & safety operations​.",Perplexity Research Jan 2025,2025-01
+VL-0133,VND-0066,TaskUs,PH-ORT,Ortigas (Phoenix / PHX),Philippines,Delivery_Center,1000-5000,"~1,200-seat site for omnichannel CX and back-office work​.",Perplexity Research Jan 2025,2025-01
+VL-0134,VND-0066,TaskUs,PH-TAG,Taguig (LizardBear Lair),Philippines,Delivery_Center,500-1000,Digital CX and back-office services for tech and digital-native clients​.,Perplexity Research Jan 2025,2025-01
+VL-0135,VND-0066,TaskUs,PH-IMU,Imus (Lizzy’s Nook),Philippines,Delivery_Center,500-1000,Voice CX and back-office support; one of the earliest TaskUs locations​.,Perplexity Research Jan 2025,2025-01
+VL-0136,VND-0066,TaskUs,PH-BAT,Batangas (Lizzy’s Lagoon),Philippines,Delivery_Center,<500,Regional CX and back-office operations​.,Perplexity Research Jan 2025,2025-01
+VL-0137,VND-0066,TaskUs,PH-ANG,Angeles City (House TeamWork),Philippines,Delivery_Center,500-1000,Customer service and support for global brands​.,Perplexity Research Jan 2025,2025-01
+VL-0138,VND-0066,TaskUs,PH-MEY,Meycauayan,Philippines,Delivery_Center,<500,Voice CX and support services for regional markets​.,Perplexity Research Jan 2025,2025-01
+VL-0139,VND-0066,TaskUs,PH-SAN,San Fernando (La Union),Philippines,Delivery_Center,<500,Regional CX site supporting voice and back-office functions​.,Perplexity Research Jan 2025,2025-01
+VL-0140,VND-0066,TaskUs,US-NEW,New Braunfels,United States,Delivery_Center,1000-5000,"Two centers with ~2,200 teammates delivering digital CX, trust & safety, and back-office services​.",Perplexity Research Jan 2025,2025-01
+VL-0141,VND-0066,TaskUs,IN-IDR,Indore,India,Delivery_Center,500-1000,"Digital operations, AI training, and content moderation services​.",Perplexity Research Jan 2025,2025-01
+VL-0142,VND-0066,TaskUs,IN-GGN,Gurugram,India,Delivery_Center,500-1000,CX and digital operations for global tech and internet clients​.,Perplexity Research Jan 2025,2025-01
+VL-0143,VND-0066,TaskUs,IN-IXC,Mohali,India,Delivery_Center,500-1000,CX and back-office operations in Northern India​.,Perplexity Research Jan 2025,2025-01
+VL-0144,VND-0066,TaskUs,CO-CAL,Cali (The Arena),Colombia,Delivery_Center,500-1000,"Digital CX, content security, and AI operations for global clients​.",Perplexity Research Jan 2025,2025-01
+VL-0145,VND-0066,TaskUs,XX-THE,Thessaloniki (Olympus House),Greece,Delivery_Center,500-1000,Multilingual CX and content moderation for European markets​.,Perplexity Research Jan 2025,2025-01
+VL-0146,VND-0065,Foundever,PH-MUL,"Multiple cities (Cebu, Tarlac, Palawan, Baguio, Metro Manila, Puerto Princesa)",Philippines,Delivery_Center,10000+,"Large-scale voice CX, technical support, collections, and back-office services (40,000+ associates, 19 sites)​.",Perplexity Research Jan 2025,2025-01
+VL-0147,VND-0065,Foundever,IN-GGN,Gurugram,India,Delivery_Center,500-1000,"Voice CX, back-office support, and multilingual services for global clients​.",Perplexity Research Jan 2025,2025-01
+VL-0148,VND-0065,Foundever,IN-HYD,Hyderabad,India,Delivery_Center,500-1000,CX delivery from Cyber Pearl and other sites for EMEA and NA clients​.,Perplexity Research Jan 2025,2025-01
+VL-0149,VND-0065,Foundever,IN-MUM,Mumbai,India,Delivery_Center,500-1000,Multilingual CX and back-office operations​.,Perplexity Research Jan 2025,2025-01
+VL-0150,VND-0065,Foundever,IN-CHE,Chennai,India,Delivery_Center,500-1000,Voice CX and back-office operations for global clients​.,Perplexity Research Jan 2025,2025-01
+VL-0151,VND-0065,Foundever,EG-CAI,Cairo (City Stars Towers & other sites),Egypt,Delivery_Center,500-1000,"Multilingual CX for European, North American, and Middle Eastern clients​.",Perplexity Research Jan 2025,2025-01
+VL-0152,VND-0065,Foundever,EG-LUX,Luxor,Egypt,Delivery_Center,500-1000,New multilingual hub supporting CX for Europe and the Middle East​.,Perplexity Research Jan 2025,2025-01
+VL-0153,VND-0065,Foundever,MY-KUL,Kuala Lumpur,Malaysia,Delivery_Center,<500,Multilingual hub delivering hybrid CX services for Southeast Asia and global clients​.,Perplexity Research Jan 2025,2025-01
+VL-0154,VND-0065,Foundever,ES-MÁL,Málaga,Spain,Delivery_Center,500-1000,European CX innovation hub focused on multilingual customer service​.,Perplexity Research Jan 2025,2025-01
+VL-0155,VND-0065,Foundever,US-MON,Montgomery,United States,Delivery_Center,500-1000,Onshore customer service and technical support operations​.,Perplexity Research Jan 2025,2025-01
+VL-0156,VND-0065,Foundever,US-FOR,Fort Smith,United States,Delivery_Center,500-1000,Voice CX and back-office operations​.,Perplexity Research Jan 2025,2025-01
+VL-0157,VND-0065,Foundever,US-DEL,Deland,United States,Delivery_Center,500-1000,Customer service and support center​.,Perplexity Research Jan 2025,2025-01
+VL-0158,VND-0065,Foundever,US-LAS,Las Vegas,United States,Delivery_Center,500-1000,CX operations for US and global clients​.,Perplexity Research Jan 2025,2025-01
+VL-0159,VND-0065,Foundever,US-LAN,Langhorne,United States,Delivery_Center,500-1000,Contact center supporting US clients​.,Perplexity Research Jan 2025,2025-01
+VL-0160,VND-0065,Foundever,US-SUM,Sumter,United States,Delivery_Center,500-1000,Voice CX for domestic and nearshore markets​.,Perplexity Research Jan 2025,2025-01
+VL-0161,VND-0065,Foundever,US-KNO,Knoxville / Nashville / Morristown,United States,Delivery_Center,500-1000,Regional CX and technical support centers in Tennessee​.,Perplexity Research Jan 2025,2025-01
+VL-0162,VND-0065,Foundever,US-DAL,Dallas,United States,Delivery_Center,500-1000,Onshore CX delivery for strategic accounts​.,Perplexity Research Jan 2025,2025-01
+VL-0163,VND-0065,Foundever,US-ORE,Orem,United States,Delivery_Center,500-1000,Customer service and technical support hub​.,Perplexity Research Jan 2025,2025-01
+VL-0164,VND-0065,Foundever,US-WIS,Wise,United States,Delivery_Center,500-1000,Voice CX and back-office services​.,Perplexity Research Jan 2025,2025-01
+VL-0166,VND-0055,Genpact,IN-BAN,Bangalore (Bengaluru),India,Delivery_Center,1000-5000,"F&A, analytics, digital operations, data-tech-AI​",Perplexity Research Jan 2025,2025-01
+VL-0167,VND-0055,Genpact,IN-GGN,Gurgaon (Gurugram),India,Delivery_Center,1000-5000,"F&A, consulting, analytics, digital operations​",Perplexity Research Jan 2025,2025-01
+VL-0168,VND-0055,Genpact,IN-DEL,Delhi/NCR (incl. Delhi),India,Delivery_Center,1000-5000,"F&A, customer service, shared services​",Perplexity Research Jan 2025,2025-01
+VL-0169,VND-0055,Genpact,IN-HYD,Hyderabad,India,Delivery_Center,1000-5000,"Digital operations, tech services, F&A​",Perplexity Research Jan 2025,2025-01
+VL-0170,VND-0055,Genpact,IN-DEL,Noida,India,Delivery_Center,500-1000,"F&A, capital markets, back office​",Perplexity Research Jan 2025,2025-01
+VL-0171,VND-0055,Genpact,IN-JAI,Jaipur,India,Delivery_Center,500-1000,"F&A operations, customer service​",Perplexity Research Jan 2025,2025-01
+VL-0172,VND-0055,Genpact,IN-KOL,Kolkata,India,Delivery_Center,500-1000,F&A operations​,Perplexity Research Jan 2025,2025-01
+VL-0173,VND-0055,Genpact,IN-MUM,Mumbai,India,Delivery_Center,<500,Healthcare and life sciences consulting​,Perplexity Research Jan 2025,2025-01
+VL-0174,VND-0055,Genpact,IN-CHE,Chennai,India,Delivery_Center,500-1000,"F&A, analytics, digital operations​",Perplexity Research Jan 2025,2025-01
+VL-0175,VND-0055,Genpact,IN-PUN,Pune,India,Delivery_Center,<500,"F&A, back office​",Perplexity Research Jan 2025,2025-01
+VL-0176,VND-0055,Genpact,IN-MAD,Madurai,India,Delivery_Center,<500,"Customer service, back office​",Perplexity Research Jan 2025,2025-01
+VL-0177,VND-0055,Genpact,IN-WAR,Warangal,India,Delivery_Center,<500,Incubation/IT support center​,Perplexity Research Jan 2025,2025-01
+VL-0178,VND-0055,Genpact,CN-DLC,Dalian,China,Delivery_Center,500-1000,"F&A, multilingual operations​",Perplexity Research Jan 2025,2025-01
+VL-0179,VND-0055,Genpact,CN-FOS,Foshan,China,Delivery_Center,<500,Back-office operations​,Perplexity Research Jan 2025,2025-01
+VL-0180,VND-0055,Genpact,CN-KUN,Kunshan,China,Delivery_Center,<500,"Shared services, back office​",Perplexity Research Jan 2025,2025-01
+VL-0181,VND-0055,Genpact,PH-MAN,Manila (Metro Manila),Philippines,Delivery_Center,1000-5000,"Customer experience, F&A operations​",Perplexity Research Jan 2025,2025-01
+VL-0182,VND-0055,Genpact,PH-BAT,Bataan,Philippines,Delivery_Center,<500,"Customer service, back office​",Perplexity Research Jan 2025,2025-01
+VL-0183,VND-0055,Genpact,MY-KUL,Kuala Lumpur,Malaysia,Delivery_Center,<500,"F&A, regional support​",Perplexity Research Jan 2025,2025-01
+VL-0184,VND-0055,Genpact,JP-TYO,Tokyo,Japan,Delivery_Center,<500,"Consulting, analytics​",Perplexity Research Jan 2025,2025-01
+VL-0185,VND-0055,Genpact,JP-YOK,Yokohama,Japan,Delivery_Center,<500,Operations support​,Perplexity Research Jan 2025,2025-01
+VL-0186,VND-0055,Genpact,SG-SIN,Singapore,Singapore,Delivery_Center,<500,"Consulting, analytics, regional HQ support​",Perplexity Research Jan 2025,2025-01
+VL-0187,VND-0055,Genpact,AU-MEL,Melbourne,Australia,Delivery_Center,<500,"F&A, consulting​",Perplexity Research Jan 2025,2025-01
+VL-0188,VND-0055,Genpact,AU-SYD,Sydney,Australia,Delivery_Center,<500,"F&A, analytics​",Perplexity Research Jan 2025,2025-01
+VL-0189,VND-0055,Genpact,ZA-JNB,Johannesburg,South Africa,Delivery_Center,<500,"Customer service, back office​",Perplexity Research Jan 2025,2025-01
+VL-0190,VND-0055,Genpact,US-ATL,Atlanta,United States,Delivery_Center,<500,"F&A, shared services​",Perplexity Research Jan 2025,2025-01
+VL-0191,VND-0055,Genpact,US-DAN,Danville (IL),United States,Delivery_Center,<500,F&A multitenant delivery​,Perplexity Research Jan 2025,2025-01
+VL-0192,VND-0055,Genpact,US-NYC,New York,United States,Delivery_Center,<500,"Consulting, HQ functions​",Perplexity Research Jan 2025,2025-01
+VL-0193,VND-0055,Genpact,US-RIC,Richardson (TX),United States,Delivery_Center,<500,"Operations, tech support​",Perplexity Research Jan 2025,2025-01
+VL-0194,VND-0055,Genpact,US-WIL,Wilkes-Barre (PA),United States,Delivery_Center,<500,"Shared services, back office​",Perplexity Research Jan 2025,2025-01
+VL-0195,VND-0055,Genpact,MX-JUA,Juarez,Mexico,Delivery_Center,500-1000,"F&A, customer service​",Perplexity Research Jan 2025,2025-01
+VL-0196,VND-0055,Genpact,MX-GDL,Guadalajara,Mexico,Delivery_Center,500-1000,"F&A, back office​",Perplexity Research Jan 2025,2025-01
+VL-0197,VND-0055,Genpact,MX-MTY,Monterrey,Mexico,Delivery_Center,<500,"Customer service, IT support​",Perplexity Research Jan 2025,2025-01
+VL-0198,VND-0055,Genpact,GT-GUA,Guatemala City,Guatemala,Delivery_Center,<500,"Contact center, back office​",Perplexity Research Jan 2025,2025-01
+VL-0199,VND-0055,Genpact,CR-HER,Heredia,Costa Rica,Delivery_Center,<500,"Nearshore F&A, customer service​",Perplexity Research Jan 2025,2025-01
+VL-0200,VND-0055,Genpact,CO-BOG,Bogotá,Colombia,Delivery_Center,<500,Nearshore CX and F&A​,Perplexity Research Jan 2025,2025-01
+VL-0201,VND-0055,Genpact,BR-BEL,Belo Horizonte,Brazil,Delivery_Center,<500,"F&A, shared services​",Perplexity Research Jan 2025,2025-01
+VL-0202,VND-0055,Genpact,BR-UBE,Uberlândia,Brazil,Delivery_Center,<500,Back office operations​,Perplexity Research Jan 2025,2025-01
+VL-0203,VND-0055,Genpact,CA-TOR,Toronto,Canada,Delivery_Center,<500,"F&A, analytics​",Perplexity Research Jan 2025,2025-01
+VL-0204,VND-0055,Genpact,PL-KTW,Katowice,Poland,Delivery_Center,500-1000,"F&A, multilingual customer service​",Perplexity Research Jan 2025,2025-01
+VL-0205,VND-0055,Genpact,PL-KRA,Kraków,Poland,Delivery_Center,500-1000,"F&A, analytics, shared services​",Perplexity Research Jan 2025,2025-01
+VL-0206,VND-0055,Genpact,PL-LUZ,Lublin,Poland,Delivery_Center,<500,"Back office, multilingual services​",Perplexity Research Jan 2025,2025-01
+VL-0207,VND-0055,Genpact,PL-BIE,Bielsko Biała,Poland,Delivery_Center,<500,F&A support​,Perplexity Research Jan 2025,2025-01
+VL-0208,VND-0055,Genpact,PL-WRO,Wroclaw,Poland,Delivery_Center,<500,Shared services​,Perplexity Research Jan 2025,2025-01
+VL-0209,VND-0055,Genpact,RO-BUC,Bucharest,Romania,Delivery_Center,500-1000,"F&A, digital operations​",Perplexity Research Jan 2025,2025-01
+VL-0210,VND-0055,Genpact,RO-CLJ,Cluj-Napoca,Romania,Delivery_Center,500-1000,"F&A, analytics​",Perplexity Research Jan 2025,2025-01
+VL-0211,VND-0055,Genpact,RO-IAS,Iași,Romania,Delivery_Center,500-1000,"New delivery & collaboration hub; F&A, digital ops​",Perplexity Research Jan 2025,2025-01
+VL-0212,VND-0055,Genpact,BG-SOF,Sofia,Bulgaria,Delivery_Center,<500,Nearshore multilingual operations​,Perplexity Research Jan 2025,2025-01
+VL-0213,VND-0055,Genpact,HU-BUD,Budapest,Hungary,Delivery_Center,<500,"F&A, regional support​",Perplexity Research Jan 2025,2025-01
+VL-0214,VND-0055,Genpact,EG-CAI,Cairo,Egypt,Delivery_Center,<500,"Customer service, back office​",Perplexity Research Jan 2025,2025-01
+VL-0215,VND-0055,Genpact,XX-NET,Netanya,Israel,Delivery_Center,<500,Digital/analytics solutions​,Perplexity Research Jan 2025,2025-01
+VL-0216,VND-0055,Genpact,TR-IST,Istanbul,Turkey,Delivery_Center,<500,Regional shared services​,Perplexity Research Jan 2025,2025-01
+VL-0217,VND-0056,WNS,IN-HYD,Hyderabad,India,Delivery_Center,1000-5000,"Digital ops for shipping, healthcare, banking, insurance, high-tech​",Perplexity Research Jan 2025,2025-01
+VL-0218,VND-0056,WNS,IN-MUM,Mumbai/Thane,India,Delivery_Center,1000-5000,"F&A, analytics, HQ functions​",Perplexity Research Jan 2025,2025-01
+VL-0219,VND-0056,WNS,IN-PUN,Pune,India,Delivery_Center,1000-5000,"F&A, procurement analytics (Denali), BPM​",Perplexity Research Jan 2025,2025-01
+VL-0220,VND-0056,WNS,IN-CHE,Chennai,India,Delivery_Center,500-1000,"F&A, analytics, tech-led BPO​",Perplexity Research Jan 2025,2025-01
+VL-0221,VND-0056,WNS,IN-BAN,Bangalore (Bengaluru),India,Delivery_Center,500-1000,"Digital, analytics, CX​",Perplexity Research Jan 2025,2025-01
+VL-0222,VND-0056,WNS,IN-GGN,Gurgaon (Gurugram),India,Delivery_Center,500-1000,"F&A, research & analytics​",Perplexity Research Jan 2025,2025-01
+VL-0223,VND-0056,WNS,IN-DEL,Noida,India,Delivery_Center,500-1000,"F&A, back office​",Perplexity Research Jan 2025,2025-01
+VL-0224,VND-0056,WNS,IN-IDR,Indore,India,Delivery_Center,<500,Voice/BPO operations​,Perplexity Research Jan 2025,2025-01
+VL-0225,VND-0056,WNS,IN-NAS,Nashik,India,Delivery_Center,<500,Regional BPO delivery​,Perplexity Research Jan 2025,2025-01
+VL-0226,VND-0056,WNS,IN-VIS,Visakhapatnam (Vizag),India,Delivery_Center,<500,CX and back-office services​,Perplexity Research Jan 2025,2025-01
+VL-0227,VND-0056,WNS,PH-QUE,Quezon City,Philippines,Delivery_Center,1000-5000,"CX, F&A, back office​",Perplexity Research Jan 2025,2025-01
+VL-0228,VND-0056,WNS,PH-MUN,Muntinlupa (Alabang),Philippines,Delivery_Center,1000-5000,"CX, F&A, order management​",Perplexity Research Jan 2025,2025-01
+VL-0229,VND-0056,WNS,PH-PAS,Pasig City,Philippines,Delivery_Center,500-1000,CX/contact center​,Perplexity Research Jan 2025,2025-01
+VL-0230,VND-0056,WNS,PH-ILO,Iloilo City,Philippines,Delivery_Center,500-1000,CX and back-office processing​,Perplexity Research Jan 2025,2025-01
+VL-0231,VND-0056,WNS,CR-SAN,Santa Ana (San José),Costa Rica,Delivery_Center,<500,Nearshore F&A and CX​,Perplexity Research Jan 2025,2025-01
+VL-0232,VND-0056,WNS,PL-GDY,Gdynia,Poland,Delivery_Center,<500,"Procurement, F&A, multilingual support​",Perplexity Research Jan 2025,2025-01
+VL-0233,VND-0056,WNS,PL-KIE,Kielce,Poland,Delivery_Center,<500,"Procurement analytics, shared services​",Perplexity Research Jan 2025,2025-01
+VL-0234,VND-0056,WNS,PL-KTW,Katowice,Poland,Delivery_Center,<500,F&A and BPM​,Perplexity Research Jan 2025,2025-01
+VL-0235,VND-0056,WNS,PL-WAW,Warsaw,Poland,Delivery_Center,<500,Procurement/consulting (OptiBuy)​,Perplexity Research Jan 2025,2025-01
+VL-0236,VND-0056,WNS,US-NYC,New York,United States,Delivery_Center,<500,"Onshore CX and consulting, HQ​",Perplexity Research Jan 2025,2025-01
+VL-0237,VND-0056,WNS,US-PIT,Pittsburgh,United States,Delivery_Center,<500,Procurement (Denali) services​,Perplexity Research Jan 2025,2025-01
+VL-0238,VND-0056,WNS,US-COL,Columbia (SC),United States,Delivery_Center,<500,CX/call center​,Perplexity Research Jan 2025,2025-01
+VL-0239,VND-0056,WNS,US-HOU,Houston,United States,Delivery_Center,<500,CX and industry-specific BPO​,Perplexity Research Jan 2025,2025-01
+VL-0240,VND-0057,EXL,IN-BAN,Bangalore (Bengaluru),India,Delivery_Center,500-1000,"Insurance analytics, healthcare ops, digital​",Perplexity Research Jan 2025,2025-01
+VL-0241,VND-0057,EXL,IN-GGN,Gurgaon,India,Delivery_Center,1000-5000,"F&A, insurance ops, BFSI BPO​",Perplexity Research Jan 2025,2025-01
+VL-0242,VND-0057,EXL,IN-DEL,Noida,India,Delivery_Center,1000-5000,"F&A, analytics, IT support​",Perplexity Research Jan 2025,2025-01
+VL-0243,VND-0057,EXL,IN-PUN,Pune,India,Delivery_Center,500-1000,"Insurance operations, analytics, F&A​",Perplexity Research Jan 2025,2025-01
+VL-0244,VND-0057,EXL,IN-CHE,Chennai,India,Delivery_Center,500-1000,"Analytics, back office​",Perplexity Research Jan 2025,2025-01
+VL-0245,VND-0057,EXL,IN-COK,Kochi,India,Delivery_Center,500-1000,"Healthcare operations, F&A​",Perplexity Research Jan 2025,2025-01
+VL-0246,VND-0057,EXL,IN-HYD,Hyderabad,India,Delivery_Center,500-1000,Insurance & healthcare analytics​,Perplexity Research Jan 2025,2025-01
+VL-0247,VND-0057,EXL,IN-JAI,Jaipur,India,Delivery_Center,<500,F&A operations​,Perplexity Research Jan 2025,2025-01
+VL-0248,VND-0057,EXL,IN-AHM,Ahmedabad,India,Delivery_Center,<500,"Back office, support​",Perplexity Research Jan 2025,2025-01
+VL-0249,VND-0057,EXL,PH-PAS,Pasay (Metro Manila),Philippines,Delivery_Center,1000-5000,"Healthcare BPO, insurance ops, CX​",Perplexity Research Jan 2025,2025-01
+VL-0250,VND-0057,EXL,PH-CEB,Cebu,Philippines,Delivery_Center,500-1000,"Healthcare ops, CX​",Perplexity Research Jan 2025,2025-01
+VL-0251,VND-0057,EXL,PH-ILO,Iloilo,Philippines,Delivery_Center,<500,Voice and back office​,Perplexity Research Jan 2025,2025-01
+VL-0252,VND-0057,EXL,BG-SOF,Sofia,Bulgaria,Delivery_Center,<500,"F&A, multilingual support​",Perplexity Research Jan 2025,2025-01
+VL-0253,VND-0057,EXL,RO-CLJ,Cluj-Napoca,Romania,Delivery_Center,<500,"F&A, analytics​",Perplexity Research Jan 2025,2025-01
+VL-0254,VND-0057,EXL,CZ-PRG,Prague,Czech Republic,Delivery_Center,<500,"F&A, multilingual support​",Perplexity Research Jan 2025,2025-01
+VL-0255,VND-0057,EXL,XX-OLO,Olomouc,Czech Republic,Delivery_Center,<500,"Back office, multilingual CX​",Perplexity Research Jan 2025,2025-01
+VL-0256,VND-0057,EXL,US-NYC,New York,United States,Delivery_Center,<500,"Analytics, consulting, HQ​",Perplexity Research Jan 2025,2025-01
+VL-0257,VND-0057,EXL,US-SLC,Salt Lake City,United States,Delivery_Center,<500,Analytics and ops delivery​,Perplexity Research Jan 2025,2025-01
+VL-0258,VND-0057,EXL,US-DAL,Dallas,United States,Delivery_Center,<500,Insurance/BFSI operations​,Perplexity Research Jan 2025,2025-01
+VL-0259,VND-0057,EXL,US-IND,Indianapolis,United States,Delivery_Center,<500,Onshore BPO​,Perplexity Research Jan 2025,2025-01
+VL-0260,VND-0057,EXL,US-HAR,Hartford,United States,Delivery_Center,<500,Insurance operations​,Perplexity Research Jan 2025,2025-01
+VL-0261,VND-0057,EXL,US-PIT,Pittsburgh,United States,Delivery_Center,<500,"Analytics, ops​",Perplexity Research Jan 2025,2025-01
+VL-0262,VND-0057,EXL,CO-BOG,Bogotá,Colombia,Delivery_Center,500-1000,"Nearshore CX, F&A, IT support​",Perplexity Research Jan 2025,2025-01
+VL-0263,VND-0057,EXL,CA-ONT,Ontario,Canada,Delivery_Center,<500,Analytics and support​,Perplexity Research Jan 2025,2025-01
+VL-0264,VND-0057,EXL,ZA-CPT,Cape Town,South Africa,Delivery_Center,500-1000,"CX, F&A nearshore for UK/EU​",Perplexity Research Jan 2025,2025-01
+VL-0265,VND-0057,EXL,ZA-GEO,George,South Africa,Delivery_Center,<500,CX and back office​,Perplexity Research Jan 2025,2025-01
+VL-0266,VND-0057,EXL,AU-SYD,Sydney,Australia,Delivery_Center,<500,"Insurance analytics, consulting​",Perplexity Research Jan 2025,2025-01
+VL-0267,VND-0058,Conduent,PH-LIP,Lipa-Malvar (Batangas),Philippines,Delivery_Center,500-1000,"BPO services, CX/BPS for commercial clients​",Perplexity Research Jan 2025,2025-01
+VL-0268,VND-0058,Conduent,PH-PAS,Pasay (Metro Manila),Philippines,Delivery_Center,<500,"HR services, F&A operations​",Perplexity Research Jan 2025,2025-01
+VL-0269,VND-0058,Conduent,IN-BAN,Bangalore (Bengaluru),India,Delivery_Center,500-1000,"F&A, HR services, tech ops​",Perplexity Research Jan 2025,2025-01
+VL-0270,VND-0058,Conduent,IN-COK,Kochi,India,Delivery_Center,500-1000,"F&A, transaction processing​",Perplexity Research Jan 2025,2025-01
+VL-0271,VND-0058,Conduent,IN-DEL,Noida,India,Delivery_Center,500-1000,"HR services, F&A, tech support​",Perplexity Research Jan 2025,2025-01
+VL-0272,VND-0058,Conduent,IN-GGN,Gurgaon,India,Delivery_Center,500-1000,"HR services, F&A​",Perplexity Research Jan 2025,2025-01
+VL-0273,VND-0058,Conduent,IN-IDR,Indore,India,Delivery_Center,<500,Transaction processing/BPO​,Perplexity Research Jan 2025,2025-01
+VL-0274,VND-0058,Conduent,IN-VTZ,Visakhapatnam,India,Delivery_Center,<500,"F&A, back office​",Perplexity Research Jan 2025,2025-01
+VL-0275,VND-0058,Conduent,US-SAL,Salt Lake City area,United States,Delivery_Center,500-1000,"Command center, tech-enabled BPS​",Perplexity Research Jan 2025,2025-01
+VL-0276,VND-0058,Conduent,MX-MTY,Monterrey,Mexico,Delivery_Center,500-1000,"Nearshore HR, F&A, CX​",Perplexity Research Jan 2025,2025-01
+VL-0277,VND-0058,Conduent,MX-GDL,Guadalajara,Mexico,Delivery_Center,500-1000,CX and back office​,Perplexity Research Jan 2025,2025-01
+VL-0278,VND-0058,Conduent,MX-LEÓ,León,Mexico,Delivery_Center,<500,CX/BPO​,Perplexity Research Jan 2025,2025-01
+VL-0279,VND-0058,Conduent,MX-LOS,Los Cabos,Mexico,Delivery_Center,<500,CX services​,Perplexity Research Jan 2025,2025-01
+VL-0280,VND-0058,Conduent,MX-MEX,Mexico City,Mexico,Delivery_Center,500-1000,"Shared services, CX​",Perplexity Research Jan 2025,2025-01
+VL-0281,VND-0058,Conduent,MX-PUE,Puebla,Mexico,Delivery_Center,<500,BPO operations​,Perplexity Research Jan 2025,2025-01
+VL-0282,VND-0058,Conduent,MX-QUE,Querétaro,Mexico,Delivery_Center,<500,BPO operations​,Perplexity Research Jan 2025,2025-01
+VL-0283,VND-0058,Conduent,MX-RIV,Riviera Maya,Mexico,Delivery_Center,<500,CX​,Perplexity Research Jan 2025,2025-01
+VL-0284,VND-0058,Conduent,MX-TOR,Torreon,Mexico,Delivery_Center,<500,CX/BPO​,Perplexity Research Jan 2025,2025-01
+VL-0285,VND-0058,Conduent,JM-MON,Montego Bay,Jamaica,Delivery_Center,500-1000,"CX, HR services, call center​",Perplexity Research Jan 2025,2025-01
+VL-0286,VND-0074,Sutherland,IN-CHE,Chennai,India,Delivery_Center,5000-10000,"CX, F&A, insurance ops, back/middle office​",Perplexity Research Jan 2025,2025-01
+VL-0287,VND-0074,Sutherland,IN-BAN,Bangalore (Bengaluru),India,Delivery_Center,1000-5000,"Analytics, digital engineering, CX​",Perplexity Research Jan 2025,2025-01
+VL-0288,VND-0074,Sutherland,IN-MUM,Mumbai/Navi Mumbai,India,Delivery_Center,1000-5000,"F&A, analytics, data services​",Perplexity Research Jan 2025,2025-01
+VL-0289,VND-0074,Sutherland,IN-HYD,Hyderabad,India,Delivery_Center,1000-5000,"Tech services, CX​",Perplexity Research Jan 2025,2025-01
+VL-0290,VND-0074,Sutherland,IN-COK,Kochi,India,Delivery_Center,500-1000,"CX, back-office BPO​",Perplexity Research Jan 2025,2025-01
+VL-0291,VND-0074,Sutherland,IN-PUN,Pune,India,Delivery_Center,500-1000,"CX, back office​",Perplexity Research Jan 2025,2025-01
+VL-0292,VND-0074,Sutherland,IN-KOL,Kolkata,India,Delivery_Center,500-1000,CX/BPO​,Perplexity Research Jan 2025,2025-01
+VL-0293,VND-0074,Sutherland,IN-BHO,Bhopal,India,Delivery_Center,<500,"CX, back office​",Perplexity Research Jan 2025,2025-01
+VL-0294,VND-0074,Sutherland,PH-TAG,Taguig (BGC),Philippines,Delivery_Center,1000-5000,"CX/contact center, digital CX​",Perplexity Research Jan 2025,2025-01
+VL-0295,VND-0074,Sutherland,PH-TAR,Tarlac City,Philippines,Delivery_Center,500-1000,CX/contact center​,Perplexity Research Jan 2025,2025-01
+VL-0296,VND-0074,Sutherland,PH-DAV,Davao City,Philippines,Delivery_Center,500-1000,"CX, back office​",Perplexity Research Jan 2025,2025-01
+VL-0297,VND-0074,Sutherland,PH-LEG,Legazpi,Philippines,Delivery_Center,<500,Regional CX​,Perplexity Research Jan 2025,2025-01
+VL-0298,VND-0074,Sutherland,CO-BOG,Bogotá,Colombia,Delivery_Center,500-1000,"CX, F&A, nearshore ops​",Perplexity Research Jan 2025,2025-01
+VL-0299,VND-0074,Sutherland,CO-BAR,Barranquilla,Colombia,Delivery_Center,<500,"CX, back office​",Perplexity Research Jan 2025,2025-01
+VL-0300,VND-0074,Sutherland,JM-KIN,Kingston,Jamaica,Delivery_Center,500-1000,"Voice CX, complex interactions​",Perplexity Research Jan 2025,2025-01
+VL-0301,VND-0074,Sutherland,JM-MAN,Mandeville,Jamaica,Delivery_Center,<500,CX center​,Perplexity Research Jan 2025,2025-01
+VL-0302,VND-0074,Sutherland,EG-NEW,New Cairo,Egypt,Delivery_Center,500-1000,"CX, airline support, English voice​",Perplexity Research Jan 2025,2025-01
+VL-0303,VND-0074,Sutherland,EG-ALX,Alexandria,Egypt,Delivery_Center,<500,CX/BPO​,Perplexity Research Jan 2025,2025-01
+VL-0304,VND-0074,Sutherland,BG-SOF,Sofia,Bulgaria,Delivery_Center,500-1000,"F&A, multilingual CX​",Perplexity Research Jan 2025,2025-01
+VL-0305,VND-0074,Sutherland,XX-BUR,Burgas,Bulgaria,Delivery_Center,<500,CX​,Perplexity Research Jan 2025,2025-01
+VL-0306,VND-0074,Sutherland,XX-VAR,Varna,Bulgaria,Delivery_Center,<500,CX​,Perplexity Research Jan 2025,2025-01
+VL-0307,VND-0074,Sutherland,CN-SUZ,Suzhou,China,Delivery_Center,500-1000,"CX, tech support​",Perplexity Research Jan 2025,2025-01
+VL-0308,VND-0074,Sutherland,CN-DLC,Dalian,China,Delivery_Center,<500,CX/BPO​,Perplexity Research Jan 2025,2025-01
+VL-0309,VND-0074,Sutherland,CN-CHE,Chengdu,China,Delivery_Center,<500,"CX, tech ops​",Perplexity Research Jan 2025,2025-01
+VL-0310,VND-0074,Sutherland,CN-SHA,Shanghai,China,Delivery_Center,<500,"CX, digital ops​",Perplexity Research Jan 2025,2025-01
+VL-0311,VND-0074,Sutherland,US-CLI,Clifton (NJ),United States,Delivery_Center,<500,"CX, digital ops​",Perplexity Research Jan 2025,2025-01
+VL-0312,VND-0074,Sutherland,US-SAN,San Francisco (CA),United States,Delivery_Center,<500,"Digital CX, consulting​",Perplexity Research Jan 2025,2025-01
+VL-0313,VND-0074,Sutherland,US-SPR,Springfield (IL),United States,Delivery_Center,<500,CX center​,Perplexity Research Jan 2025,2025-01
+VL-0314,VND-0074,Sutherland,US-TOR,Torrance (CA),United States,Delivery_Center,<500,CX center​,Perplexity Research Jan 2025,2025-01
+VL-0315,VND-0074,Sutherland,US-CHE,Chesapeake (VA),United States,Delivery_Center,<500,CX and back office​,Perplexity Research Jan 2025,2025-01
+VL-0316,VND-0074,Sutherland,MX-MTY,Monterrey,Mexico,Delivery_Center,500-1000,"Nearshore CX, F&A​",Perplexity Research Jan 2025,2025-01
+VL-0317,VND-0074,Sutherland,MX-MEX,Mexico City,Mexico,Delivery_Center,500-1000,CX/BPO​,Perplexity Research Jan 2025,2025-01
+VL-0318,VND-0074,Sutherland,GB-LON,London,United Kingdom,Delivery_Center,<500,"CX, consulting, analytics​",Perplexity Research Jan 2025,2025-01
+VL-0319,VND-0074,Sutherland,XX-DUB,Dubai,United Arab Emirates,Delivery_Center,<500,"CX, multilingual Middle East support​",Perplexity Research Jan 2025,2025-01
+VL-0320,VND-0074,Sutherland,MY-KUL,Kuala Lumpur,Malaysia,Delivery_Center,<500,"CX, digital ops​",Perplexity Research Jan 2025,2025-01
+VL-0321,VND-0121,If,XX-,,,Delivery_Center,,,Perplexity Research Jan 2025,2025-01
+VL-0322,VND-0008,IBM,IN-BLR,Bangalore,India,Delivery_Center,10000+,"Application development, cloud, AI, R&D, BPO​",Perplexity Research Jan 2025,2025-01
+VL-0323,VND-0008,IBM,IN-HYD,Hyderabad,India,Delivery_Center,10000+,"Application development, cloud, AI, R&D, BPO​",Perplexity Research Jan 2025,2025-01
+VL-0324,VND-0008,IBM,IN-DEL,Gurgaon/Noida (NCR),India,Delivery_Center,10000+,"Application development, cloud, AI, R&D, BPO​",Perplexity Research Jan 2025,2025-01
+VL-0325,VND-0008,IBM,IN-CHE,Chennai,India,Delivery_Center,10000+,"Application development, cloud, AI, R&D, BPO​",Perplexity Research Jan 2025,2025-01
+VL-0326,VND-0008,IBM,IN-PUN,Pune,India,Delivery_Center,10000+,"Application development, cloud, AI, R&D, BPO​",Perplexity Research Jan 2025,2025-01
+VL-0327,VND-0008,IBM,IN-KOL,Kolkata,India,Delivery_Center,5000-10000,"Application development, cloud, AI, BPO​",Perplexity Research Jan 2025,2025-01
+VL-0328,VND-0008,IBM,PH-MNL,Manila,Philippines,Delivery_Center,1000-5000,"Customer support, BPO, finance, IT helpdesk​",Perplexity Research Jan 2025,2025-01
+VL-0329,VND-0008,IBM,PH-CEB,Cebu City,Philippines,Delivery_Center,500-1000,"Digital transformation, business process services, hybrid cloud, application management​",Perplexity Research Jan 2025,2025-01
+VL-0330,VND-0008,IBM,CN-DLC,Dalian,China,Delivery_Center,1000-5000,"Multilingual IT support, regional IT services​",Perplexity Research Jan 2025,2025-01
+VL-0331,VND-0008,IBM,CN-SHA,Shanghai,China,Delivery_Center,1000-5000,"IT services, consulting, cloud​",Perplexity Research Jan 2025,2025-01
+VL-0332,VND-0008,IBM,CN-SHE,Shenzhen,China,Delivery_Center,500-1000,"Application services, support for regional clients​",Perplexity Research Jan 2025,2025-01
+VL-0333,VND-0008,IBM,PL-WRO,Wroclaw,Poland,Delivery_Center,1000-5000,"Cyber security, IT infrastructure, finance shared services​",Perplexity Research Jan 2025,2025-01
+VL-0334,VND-0008,IBM,PL-KRK,Krakow,Poland,Delivery_Center,500-1000,"IT services, shared services, multilingual support​",Perplexity Research Jan 2025,2025-01
+VL-0335,VND-0008,IBM,PL-KTW,Katowice,Poland,Delivery_Center,500-1000,IT infrastructure and support services​,Perplexity Research Jan 2025,2025-01
+VL-0336,VND-0008,IBM,RO-BUC,Bucharest,Romania,Delivery_Center,500-1000,"IT services, multilingual support​",Perplexity Research Jan 2025,2025-01
+VL-0337,VND-0008,IBM,RO-BRA,Brasov,Romania,Delivery_Center,<500,"IT support, service desk​",Perplexity Research Jan 2025,2025-01
+VL-0338,VND-0008,IBM,EG-CAI,Cairo,Egypt,Delivery_Center,500-1000,"Multilingual BPO, IT services for Middle East and Europe​",Perplexity Research Jan 2025,2025-01
+VL-0339,VND-0008,IBM,US-BAT,Baton Rouge,United States,Delivery_Center,500-1000,"Onshore application development, support services​",Perplexity Research Jan 2025,2025-01
+VL-0340,VND-0008,IBM,US-COL,Columbia,United States,Delivery_Center,500-1000,"Onshore IT delivery, applications and infrastructure​",Perplexity Research Jan 2025,2025-01
+VL-0341,VND-0008,IBM,US-MON,Monroe,United States,Delivery_Center,<500,Onshore IT and BPO services​,Perplexity Research Jan 2025,2025-01
+VL-0342,VND-0008,IBM,US-ROC,Rocket Center,United States,Delivery_Center,500-1000,"Government services, security operations​",Perplexity Research Jan 2025,2025-01
+VL-0343,VND-0008,IBM,MX-GDL,Guadalajara,Mexico,Delivery_Center,500-1000,"Nearshore IT services, app modernization​",Perplexity Research Jan 2025,2025-01
+VL-0344,VND-0008,IBM,MX-MEX,Mexico City,Mexico,Delivery_Center,500-1000,Nearshore IT and consulting services​,Perplexity Research Jan 2025,2025-01
+VL-0345,VND-0008,IBM,BR-HOR,Hortolândia,Brazil,Delivery_Center,1000-5000,"Regional IT support, finance shared services​",Perplexity Research Jan 2025,2025-01
+VL-0346,VND-0008,IBM,BR-SÃO,São Paulo,Brazil,Delivery_Center,1000-5000,"IT consulting, shared services​",Perplexity Research Jan 2025,2025-01
+VL-0347,VND-0007,Capgemini,IN-MUM,Mumbai,India,Delivery_Center,10000+,"Core IT delivery, cloud, consulting​",Perplexity Research Jan 2025,2025-01
+VL-0348,VND-0007,Capgemini,IN-PUN,Pune,India,Delivery_Center,10000+,"Core IT delivery, application services​",Perplexity Research Jan 2025,2025-01
+VL-0349,VND-0007,Capgemini,IN-BLR,Bangalore,India,Delivery_Center,10000+,"IT services, engineering, cloud​",Perplexity Research Jan 2025,2025-01
+VL-0350,VND-0007,Capgemini,IN-HYD,Hyderabad,India,Delivery_Center,10000+,"IT services, application development​",Perplexity Research Jan 2025,2025-01
+VL-0351,VND-0007,Capgemini,IN-CHE,Chennai,India,Delivery_Center,10000+,"IT outsourcing, cloud, infrastructure​",Perplexity Research Jan 2025,2025-01
+VL-0352,VND-0007,Capgemini,IN-DEL,Noida,India,Delivery_Center,5000-10000,"IT delivery, shared services​",Perplexity Research Jan 2025,2025-01
+VL-0353,VND-0007,Capgemini,IN-SAL,Salem,India,Delivery_Center,500-1000,"Application services, support​",Perplexity Research Jan 2025,2025-01
+VL-0354,VND-0007,Capgemini,IN-TRI,Trichy,India,Delivery_Center,500-1000,"Application services, support​",Perplexity Research Jan 2025,2025-01
+VL-0355,VND-0007,Capgemini,PL-KRK,Krakow,Poland,Delivery_Center,5000-10000,"Finance & accounting BPO, IT services​",Perplexity Research Jan 2025,2025-01
+VL-0356,VND-0007,Capgemini,PL-KTW,Katowice,Poland,Delivery_Center,5000-10000,"Shared services, BPO, multilingual support​",Perplexity Research Jan 2025,2025-01
+VL-0357,VND-0007,Capgemini,PL-WRO,Wroclaw,Poland,Delivery_Center,5000-10000,"Application services, business services​",Perplexity Research Jan 2025,2025-01
+VL-0358,VND-0007,Capgemini,PL-POZ,Poznan,Poland,Delivery_Center,1000-5000,"IT services, shared services​",Perplexity Research Jan 2025,2025-01
+VL-0359,VND-0007,Capgemini,PL-OPO,Opole,Poland,Delivery_Center,500-1000,Business services center​,Perplexity Research Jan 2025,2025-01
+VL-0360,VND-0007,Capgemini,PL-LUZ,Lublin,Poland,Delivery_Center,500-1000,"Shared services, back-office support​",Perplexity Research Jan 2025,2025-01
+VL-0361,VND-0007,Capgemini,MA-CAS,Casablanca,Morocco,Delivery_Center,1000-5000,"Nearshore IT, BPO for France​",Perplexity Research Jan 2025,2025-01
+VL-0362,VND-0007,Capgemini,MA-RBA,Rabat,Morocco,Delivery_Center,500-1000,"IT support, helpdesk​",Perplexity Research Jan 2025,2025-01
+VL-0363,VND-0007,Capgemini,EG-CAI,Cairo,Egypt,Delivery_Center,1000-5000,"Multilingual service desk, BPO​",Perplexity Research Jan 2025,2025-01
+VL-0364,VND-0007,Capgemini,GT-GUA,Guatemala City,Guatemala,Delivery_Center,1000-5000,"BPO, English/Spanish customer service​",Perplexity Research Jan 2025,2025-01
+VL-0365,VND-0007,Capgemini,BR-SÃO,São Paulo,Brazil,Delivery_Center,1000-5000,"IT services, financial services IT​",Perplexity Research Jan 2025,2025-01
+VL-0366,VND-0007,Capgemini,BR-SAL,Salvador,Brazil,Delivery_Center,500-1000,IT and BPO services​,Perplexity Research Jan 2025,2025-01
+VL-0367,VND-0007,Capgemini,BR-BLU,Blumenau,Brazil,Delivery_Center,<500,"IT delivery, support​",Perplexity Research Jan 2025,2025-01
+VL-0368,VND-0007,Capgemini,US-NAS,Nashville,United States,Delivery_Center,500-1000,"Digital transformation, agile delivery​",Perplexity Research Jan 2025,2025-01
+VL-0369,VND-0007,Capgemini,US-COL,Columbia,United States,Delivery_Center,500-1000,"Onshore delivery center (ADM, testing, support)​",Perplexity Research Jan 2025,2025-01
+VL-0370,VND-0007,Capgemini,VN-SGN,Ho Chi Minh City,Vietnam,Delivery_Center,500-1000,"Application maintenance, testing services​",Perplexity Research Jan 2025,2025-01
+VL-0371,VND-0007,Capgemini,VN-HAN,Hanoi,Vietnam,Delivery_Center,500-1000,Application development and testing​,Perplexity Research Jan 2025,2025-01
+VL-0372,VND-0049,DXC Technology,IN-BLR,Bangalore,India,Delivery_Center,5000-10000,"Infrastructure services, app modernization, BPO​",Perplexity Research Jan 2025,2025-01
+VL-0373,VND-0049,DXC Technology,IN-CHE,Chennai,India,Delivery_Center,5000-10000,Infrastructure and application services​,Perplexity Research Jan 2025,2025-01
+VL-0374,VND-0049,DXC Technology,IN-HYD,Hyderabad,India,Delivery_Center,1000-5000,"Application development, support​",Perplexity Research Jan 2025,2025-01
+VL-0375,VND-0049,DXC Technology,IN-DEL,Noida,India,Delivery_Center,1000-5000,"IT outsourcing, infrastructure services​",Perplexity Research Jan 2025,2025-01
+VL-0376,VND-0049,DXC Technology,IN-PUN,Pune,India,Delivery_Center,1000-5000,"Application services, support​",Perplexity Research Jan 2025,2025-01
+VL-0377,VND-0049,DXC Technology,IN-IDR,Indore,India,Delivery_Center,500-1000,"Application development, support​",Perplexity Research Jan 2025,2025-01
+VL-0378,VND-0049,DXC Technology,PH-MNL,Manila,Philippines,Delivery_Center,5000-10000,"Contact center, BPO, insurance and health services​",Perplexity Research Jan 2025,2025-01
+VL-0379,VND-0049,DXC Technology,PH-CEB,Cebu,Philippines,Delivery_Center,1000-5000,BPO and customer support​,Perplexity Research Jan 2025,2025-01
+VL-0380,VND-0049,DXC Technology,VN-SGN,Ho Chi Minh City,Vietnam,Delivery_Center,1000-5000,"Application development, testing, modernization​",Perplexity Research Jan 2025,2025-01
+VL-0381,VND-0049,DXC Technology,BG-SOF,Sofia,Bulgaria,Delivery_Center,1000-5000,"Remote infrastructure management, analytics​",Perplexity Research Jan 2025,2025-01
+VL-0382,VND-0049,DXC Technology,XX-VAR,Varna,Bulgaria,Delivery_Center,500-1000,"Infrastructure support, service desk​",Perplexity Research Jan 2025,2025-01
+VL-0383,VND-0049,DXC Technology,PL-WAW,Warsaw,Poland,Delivery_Center,500-1000,"Application services, cloud services​",Perplexity Research Jan 2025,2025-01
+VL-0384,VND-0049,DXC Technology,PL-WRO,Wroclaw,Poland,Delivery_Center,500-1000,Enterprise application support​,Perplexity Research Jan 2025,2025-01
+VL-0385,VND-0049,DXC Technology,LT-VNO,Vilnius,Lithuania,Delivery_Center,500-1000,"Nordic region support, mainframe services​",Perplexity Research Jan 2025,2025-01
+VL-0386,VND-0049,DXC Technology,CR-SAN,San José,Costa Rica,Delivery_Center,500-1000,"Nearshore call center, bilingual support​",Perplexity Research Jan 2025,2025-01
+VL-0387,VND-0049,DXC Technology,US-NEW,New Orleans,United States,Delivery_Center,500-1000,Public sector IT services​,Perplexity Research Jan 2025,2025-01
+VL-0388,VND-0049,DXC Technology,US-CON,Conway,United States,Delivery_Center,500-1000,IT delivery center (apps & infra)​,Perplexity Research Jan 2025,2025-01
+VL-0389,VND-0049,DXC Technology,US-PLA,Plano,United States,Delivery_Center,500-1000,"Enterprise services, delivery hub​",Perplexity Research Jan 2025,2025-01
+VL-0390,VND-0047,HCL Technologies,IN-DEL,Noida,India,Delivery_Center,10000+,"Infrastructure management, engineering R&D, software services​",Perplexity Research Jan 2025,2025-01
+VL-0391,VND-0047,HCL Technologies,IN-CHE,Chennai,India,Delivery_Center,10000+,"IT services, infrastructure, engineering​",Perplexity Research Jan 2025,2025-01
+VL-0392,VND-0047,HCL Technologies,IN-BLR,Bangalore,India,Delivery_Center,10000+,"Engineering R&D, application services​",Perplexity Research Jan 2025,2025-01
+VL-0393,VND-0047,HCL Technologies,IN-MAD,Madurai,India,Delivery_Center,1000-5000,"IT delivery, engineering services​",Perplexity Research Jan 2025,2025-01
+VL-0394,VND-0047,HCL Technologies,IN-LKO,Lucknow,India,Delivery_Center,1000-5000,"IT services, BPO​",Perplexity Research Jan 2025,2025-01
+VL-0395,VND-0047,HCL Technologies,IN-NAG,Nagpur,India,Delivery_Center,1000-5000,"IT delivery, support​",Perplexity Research Jan 2025,2025-01
+VL-0396,VND-0047,HCL Technologies,IN-VIJ,Vijayawada,India,Delivery_Center,500-1000,"Application support, infrastructure​",Perplexity Research Jan 2025,2025-01
+VL-0397,VND-0047,HCL Technologies,IN-PAT,Patna,India,Delivery_Center,500-1000,Global delivery center for IT and BPO​,Perplexity Research Jan 2025,2025-01
+VL-0398,VND-0047,HCL Technologies,LK-CMB,Colombo,Sri Lanka,Delivery_Center,1000-5000,"Application development, infrastructure support​",Perplexity Research Jan 2025,2025-01
+VL-0399,VND-0047,HCL Technologies,VN-HAN,Hanoi,Vietnam,Delivery_Center,500-1000,"Engineering services, software product development​",Perplexity Research Jan 2025,2025-01
+VL-0400,VND-0047,HCL Technologies,VN-SGN,Ho Chi Minh City,Vietnam,Delivery_Center,500-1000,Engineering and digital services​,Perplexity Research Jan 2025,2025-01
+VL-0401,VND-0047,HCL Technologies,PL-KRK,Krakow,Poland,Delivery_Center,500-1000,"BPO, global service desk​",Perplexity Research Jan 2025,2025-01
+VL-0402,VND-0047,HCL Technologies,PL-WAW,Warsaw,Poland,Delivery_Center,500-1000,"IT services, support​",Perplexity Research Jan 2025,2025-01
+VL-0403,VND-0047,HCL Technologies,PL-WRO,Wroclaw,Poland,Delivery_Center,<500,Infrastructure services​,Perplexity Research Jan 2025,2025-01
+VL-0404,VND-0047,HCL Technologies,RO-BUC,Bucharest,Romania,Delivery_Center,500-1000,Nearshore engineering and development​,Perplexity Research Jan 2025,2025-01
+VL-0405,VND-0047,HCL Technologies,RO-IAS,Iasi,Romania,Delivery_Center,<500,Application support and testing​,Perplexity Research Jan 2025,2025-01
+VL-0406,VND-0047,HCL Technologies,LT-VNO,Vilnius,Lithuania,Delivery_Center,<500,Infrastructure services (CIS)​,Perplexity Research Jan 2025,2025-01
+VL-0407,VND-0047,HCL Technologies,MX-GDL,Guadalajara,Mexico,Delivery_Center,1000-5000,Nearshore engineering and embedded systems​,Perplexity Research Jan 2025,2025-01
+VL-0408,VND-0047,HCL Technologies,MX-MEX,Mexico City,Mexico,Delivery_Center,500-1000,Nearshore IT services​,Perplexity Research Jan 2025,2025-01
+VL-0409,VND-0047,HCL Technologies,CA-TOR,Toronto,Canada,Delivery_Center,500-1000,"Banking IT services, consulting​",Perplexity Research Jan 2025,2025-01
+VL-0410,VND-0047,HCL Technologies,CA-MIS,Mississauga,Canada,Delivery_Center,500-1000,"IT services, support center​",Perplexity Research Jan 2025,2025-01
+VL-0411,VND-0047,HCL Technologies,CA-MON,Moncton,Canada,Delivery_Center,<500,Bilingual support services​,Perplexity Research Jan 2025,2025-01
+VL-0412,VND-0047,HCL Technologies,CA-VAN,Vancouver,Canada,Delivery_Center,<500,"IT services, consulting​",Perplexity Research Jan 2025,2025-01
+VL-0413,VND-0047,HCL Technologies,US-CAR,Cary,United States,Delivery_Center,1000-5000,"Co-innovation lab, delivery center​",Perplexity Research Jan 2025,2025-01
+VL-0414,VND-0047,HCL Technologies,US-FRI,Frisco,United States,Delivery_Center,500-1000,"Client proximity center, IT services​",Perplexity Research Jan 2025,2025-01
+VL-0415,VND-0047,HCL Technologies,US-RED,Redmond,United States,Delivery_Center,<500,Co-innovation with technology partners​,Perplexity Research Jan 2025,2025-01
+VL-0416,VND-0048,Tech Mahindra,IN-PUN,Pune,India,Delivery_Center,10000+,"Telecom engineering, IT services, BPO​",Perplexity Research Jan 2025,2025-01
+VL-0417,VND-0048,Tech Mahindra,IN-HYD,Hyderabad,India,Delivery_Center,10000+,"Telecom IT, application services, BPO​",Perplexity Research Jan 2025,2025-01
+VL-0418,VND-0048,Tech Mahindra,IN-BLR,Bangalore,India,Delivery_Center,5000-10000,"IT services, digital transformation​",Perplexity Research Jan 2025,2025-01
+VL-0419,VND-0048,Tech Mahindra,IN-CHE,Chennai,India,Delivery_Center,5000-10000,IT and BPO services​,Perplexity Research Jan 2025,2025-01
+VL-0420,VND-0048,Tech Mahindra,IN-IXC,Chandigarh,India,Delivery_Center,1000-5000,"Telecom BPO, IT support​",Perplexity Research Jan 2025,2025-01
+VL-0421,VND-0048,Tech Mahindra,IN-VTZ,Visakhapatnam,India,Delivery_Center,1000-5000,"IT delivery, BPO​",Perplexity Research Jan 2025,2025-01
+VL-0422,VND-0048,Tech Mahindra,IN-NAG,Nagpur,India,Delivery_Center,1000-5000,"Telecom services, BPO​",Perplexity Research Jan 2025,2025-01
+VL-0423,VND-0048,Tech Mahindra,IN-BBI,Bhubaneswar,India,Delivery_Center,500-1000,"IT support, development​",Perplexity Research Jan 2025,2025-01
+VL-0424,VND-0048,Tech Mahindra,PH-MNL,Manila,Philippines,Delivery_Center,5000-10000,"Customer experience, telecom BPO​",Perplexity Research Jan 2025,2025-01
+VL-0425,VND-0048,Tech Mahindra,PH-CEB,Cebu,Philippines,Delivery_Center,1000-5000,"Customer service, back-office BPO​",Perplexity Research Jan 2025,2025-01
+VL-0426,VND-0048,Tech Mahindra,MY-CYB,Cyberjaya (Kuala Lumpur),Malaysia,Delivery_Center,500-1000,"ASEAN regional support, multilingual helpdesk​",Perplexity Research Jan 2025,2025-01
+VL-0427,VND-0048,Tech Mahindra,EG-CAI,Cairo,Egypt,Delivery_Center,500-1000,"Multilingual BPO, telecom and BFSI services​",Perplexity Research Jan 2025,2025-01
+VL-0428,VND-0048,Tech Mahindra,RO-BUC,Bucharest,Romania,Delivery_Center,500-1000,"Telecom network services, enterprise applications​",Perplexity Research Jan 2025,2025-01
+VL-0429,VND-0048,Tech Mahindra,IE-DUB,Dublin,Ireland,Delivery_Center,<500,"Telecom testing, UX/UI design​",Perplexity Research Jan 2025,2025-01
+VL-0430,VND-0048,Tech Mahindra,IE-COR,Cork,Ireland,Delivery_Center,<500,"IT services, support​",Perplexity Research Jan 2025,2025-01
+VL-0431,VND-0048,Tech Mahindra,MX-MEX,Mexico City,Mexico,Delivery_Center,500-1000,Nearshore telecom and IT services​,Perplexity Research Jan 2025,2025-01
+VL-0432,VND-0048,Tech Mahindra,MX-GDL,Guadalajara,Mexico,Delivery_Center,<500,"Application support, BPO​",Perplexity Research Jan 2025,2025-01
+VL-0433,VND-0048,Tech Mahindra,CA-TOR,Toronto,Canada,Delivery_Center,500-1000,Banking and telecom support​,Perplexity Research Jan 2025,2025-01
+VL-0434,VND-0048,Tech Mahindra,CA-MTL,Montreal,Canada,Delivery_Center,500-1000,"AI labs, telecom support​",Perplexity Research Jan 2025,2025-01
+VL-0435,VND-0132,TELUS Digital,US-LAS,"Las Vegas, Nevada",United States,Delivery_Center,1000-5000,"Customer care, technical support, sales support, digital CX solutions.​​",Perplexity Research Jan 2025,2025-01
+VL-0436,VND-0132,TELUS Digital,US-NOR,"North Charleston, South Carolina",United States,Delivery_Center,1000-5000,"Digital CX delivery (multichannel customer care, sales, support) for global brands.​",Perplexity Research Jan 2025,2025-01
+VL-0437,VND-0132,TELUS Digital,US-FOL,"Folsom, California",United States,Delivery_Center,500-1000,"Digital CX for tech clients, customer support, sales, back‑office.​​",Perplexity Research Jan 2025,2025-01
+VL-0438,VND-0132,TELUS Digital,CA-VAN,Vancouver,Canada,Delivery_Center,500-1000,"Corporate HQ, shared services, some CX/back‑office.​",Perplexity Research Jan 2025,2025-01
+VL-0439,VND-0132,TELUS Digital,XX-SAR,Sarajevo,Bosnia & Herzegovina,Delivery_Center,<500,"Multilingual CX, tech support, back‑office (European CoE).​",Perplexity Research Jan 2025,2025-01
+VL-0440,VND-0132,TELUS Digital,LV-RIX,Riga,Latvia,Delivery_Center,<500,Multilingual CX and back‑office for European clients.​,Perplexity Research Jan 2025,2025-01
+VL-0441,VND-0132,TELUS Digital,SK-BTS,Bratislava,Slovakia,Delivery_Center,<500,Multilingual CX and back‑office.​,Perplexity Research Jan 2025,2025-01
+VL-0442,VND-0132,TELUS Digital,XX-VAR,Various cities (per country list),Multiple,Delivery_Center,1000-5000,"Combined CX, tech support, content moderation, back‑office across global centers (Canada, USA, Central/South America, Europe, APAC, Africa/Middle East).​",Perplexity Research Jan 2025,2025-01
+VL-0443,VND-0133,Transcom,US-GRE,"Greenville, South Carolina",United States,Delivery_Center,500-1000,Multichannel customer service and support for US clients.​,Perplexity Research Jan 2025,2025-01
+VL-0444,VND-0133,Transcom,TN-TUN,Tunis,Tunisia,Delivery_Center,500-1000,"Multilingual CX (travel bookings, customer service) for European markets.​",Perplexity Research Jan 2025,2025-01
+VL-0445,VND-0133,Transcom,HU-BUD,Budapest,Hungary,Delivery_Center,500-1000,Multilingual CX and booking support for European travel client.​,Perplexity Research Jan 2025,2025-01
+VL-0446,VND-0133,Transcom,XX-OSI,Osijek,Croatia,Delivery_Center,<500,Multilingual CX for financial services credit card program.​,Perplexity Research Jan 2025,2025-01
+VL-0447,VND-0133,Transcom,RS-BEG,Belgrade,Serbia,Delivery_Center,<500,Multilingual CX for financial services.​,Perplexity Research Jan 2025,2025-01
+VL-0448,VND-0133,Transcom,HR-ZAG,Zagreb,Croatia,Delivery_Center,<500,Multilingual CX for financial services.​,Perplexity Research Jan 2025,2025-01
+VL-0449,VND-0133,Transcom,NL-UNS,Unspecified city,Netherlands,Delivery_Center,500-1000,Pan‑European multilingual CX using centralized Avaya‑based network.​,Perplexity Research Jan 2025,2025-01
+VL-0450,VND-0133,Transcom,XX-VAR,Various cities (21‑country network),Multiple,Delivery_Center,1000-5000,"Customer care, sales, technical support, collections, back‑office across 50+ centers.​",Perplexity Research Jan 2025,2025-01
+VL-0451,VND-0134,Startek,US-UNS,"Unspecified cities, SC/OH/TX",United States,Delivery_Center,500-1000,"Onshore CX voice and back‑office, bilingual English/Spanish.​",Perplexity Research Jan 2025,2025-01
+VL-0452,VND-0134,Startek,JM-KIN,Kingston,Jamaica,Delivery_Center,500-1000,"Nearshore English CX for North America, hospitality‑driven customer care.​",Perplexity Research Jan 2025,2025-01
+VL-0453,VND-0134,Startek,HN-SPS,San Pedro Sula,Honduras,Delivery_Center,500-1000,Bilingual Spanish‑English CX for US brands.​,Perplexity Research Jan 2025,2025-01
+VL-0454,VND-0134,Startek,HN-TGU,Tegucigalpa,Honduras,Delivery_Center,500-1000,Bilingual Spanish‑English CX for US brands.​,Perplexity Research Jan 2025,2025-01
+VL-0455,VND-0134,Startek,PH-MET,Metro Manila,Philippines,Delivery_Center,1000-5000,"Large‑scale offshore CX, tech support, back‑office.​",Perplexity Research Jan 2025,2025-01
+VL-0456,VND-0134,Startek,PH-ANG,Angeles,Philippines,Delivery_Center,500-1000,Offshore CX for global clients.​,Perplexity Research Jan 2025,2025-01
+VL-0457,VND-0134,Startek,PH-MAK,Makati,Philippines,Delivery_Center,500-1000,CX and back‑office.​,Perplexity Research Jan 2025,2025-01
+VL-0458,VND-0134,Startek,PH-FRO,Frontera Verde / Pasig,Philippines,Delivery_Center,500-1000,CX and digital CX services.​,Perplexity Research Jan 2025,2025-01
+VL-0459,VND-0134,Startek,ZA-JNB,Johannesburg,South Africa,Delivery_Center,500-1000,"Multilingual CX, collections, back‑office.​",Perplexity Research Jan 2025,2025-01
+VL-0460,VND-0134,Startek,ZA-DBN,Durban,South Africa,Delivery_Center,500-1000,CX and collections.​,Perplexity Research Jan 2025,2025-01
+VL-0461,VND-0134,Startek,ZA-PLZ,Port Elizabeth,South Africa,Delivery_Center,500-1000,CX and back‑office.​,Perplexity Research Jan 2025,2025-01
+VL-0462,VND-0134,Startek,AU-MEL,Melbourne,Australia,Delivery_Center,<500,"Onshore ANZ CX, voice and digital.​",Perplexity Research Jan 2025,2025-01
+VL-0463,VND-0135,iQor,XX-BAR,Barataria,Trinidad & Tobago,Delivery_Center,500-1000,"Nearshore omnichannel CX, sales, back‑office for US clients.​",Perplexity Research Jan 2025,2025-01
+VL-0464,VND-0135,iQor,TT-POS,Chaguanas,Trinidad & Tobago,Delivery_Center,500-1000,"Nearshore omnichannel CX; 600‑seat, 40,000 sq ft center.​",Perplexity Research Jan 2025,2025-01
+VL-0465,VND-0135,iQor,XX-WAL,Wallerfield,Trinidad & Tobago,Delivery_Center,500-1000,Nearshore CX for US brands.​,Perplexity Research Jan 2025,2025-01
+VL-0466,VND-0135,iQor,IN-DEL,Noida,India,Delivery_Center,500-1000,"Customer care, sales, retention, tech support, analytics, back‑office, receivables management.​",Perplexity Research Jan 2025,2025-01
+VL-0467,VND-0135,iQor,PH-DAS,Dasmariñas,Philippines,Delivery_Center,500-1000,"CX, sales, technical support (two mall‑based sites).​",Perplexity Research Jan 2025,2025-01
+VL-0468,VND-0135,iQor,PH-SRR,Santa Rosa (Laguna),Philippines,Delivery_Center,500-1000,Customer care and tech support.​,Perplexity Research Jan 2025,2025-01
+VL-0469,VND-0135,iQor,PH-CLA,Clark (Angeles),Philippines,Delivery_Center,500-1000,"CX for NA clients, tech support, back‑office.​",Perplexity Research Jan 2025,2025-01
+VL-0470,VND-0135,iQor,PH-FAI,Fairview (Quezon City),Philippines,Delivery_Center,500-1000,Multichannel CX.​,Perplexity Research Jan 2025,2025-01
+VL-0471,VND-0135,iQor,PH-DAV,Davao City,Philippines,Delivery_Center,500-1000,CX for NA/APAC; voice and digital.​,Perplexity Research Jan 2025,2025-01
+VL-0472,VND-0135,iQor,PH-ILO,Iloilo City,Philippines,Delivery_Center,<500,CX and back‑office.​,Perplexity Research Jan 2025,2025-01
+VL-0473,VND-0135,iQor,PH-BCB,Bacolod,Philippines,Delivery_Center,<500,CX and back‑office.​,Perplexity Research Jan 2025,2025-01
+VL-0474,VND-0135,iQor,PH-TAL,Talisay,Philippines,Delivery_Center,<500,CX and back‑office.​,Perplexity Research Jan 2025,2025-01
+VL-0475,VND-0135,iQor,US-FOR,Fort Lauderdale,United States,Delivery_Center,<500,HQ / support office; some CX and support functions.​,Perplexity Research Jan 2025,2025-01
+VL-0508,VND-0010,ADP,US-ROS,Roseland (NJ),United States,Delivery_Center,1000-5000,"Corporate operations, payroll processing, HR & tax compliance, product, and shared services.",Perplexity Research Jan 2025,2025-01
+VL-0509,VND-0010,ADP,US-AUG,Augusta (GA),United States,Delivery_Center,500-1000,"Payroll and HR call center, client support, implementation, and workforce management services.",Perplexity Research Jan 2025,2025-01
+VL-0510,VND-0010,ADP,CA-MTL,Montreal,Canada,Delivery_Center,500-1000,"Payroll processing, HR services, and regional client support.",Perplexity Research Jan 2025,2025-01
+VL-0511,VND-0010,ADP,XX-MIL,Milan,Italy,Delivery_Center,<500,Regional payroll and HR services for Italian and European clients.,Perplexity Research Jan 2025,2025-01
+VL-0512,VND-0011,Paychex,US-ROC,Rochester (NY),United States,Delivery_Center,5000-10000,"Headquarters; large hub for payroll processing, HR outsourcing, technology, client service, and corporate functions.",Perplexity Research Jan 2025,2025-01
+VL-0513,VND-0011,Paychex,US-WEB,Webster (NY),United States,Delivery_Center,500-1000,"Payroll operations, client service, and back-office processing supporting Rochester hub.​",Perplexity Research Jan 2025,2025-01
+VL-0514,VND-0011,Paychex,XX-COP,Copenhagen,Denmark,Delivery_Center,500-1000,"European HQ; payroll processing, HR services, and support for Northern Europe under Paychex/Lessor brand.​",Perplexity Research Jan 2025,2025-01
+VL-0515,VND-0011,Paychex,DE-HAM,Hamburg,Germany,Delivery_Center,500-1000,"Payroll processing, HR outsourcing, and customer service for German and EU clients.​",Perplexity Research Jan 2025,2025-01
+VL-0516,VND-0011,Paychex,NL-AMS,Amsterdam,Netherlands,Delivery_Center,<500,Regional payroll/HR operations and implementation support for Benelux and EU customers.​,Perplexity Research Jan 2025,2025-01
+VL-0517,VND-0135,Paylocity,US-SCH,Schaumburg (IL),United States,Delivery_Center,1000-5000,"Major operations and client services center for payroll, HR, and time & labor product support.",Perplexity Research Jan 2025,2025-01
+VL-0518,VND-0135,Paylocity,US-ROC,Rochester (NY),United States,Delivery_Center,500-1000,"Client services, payroll operations, and implementation support.",Perplexity Research Jan 2025,2025-01
+VL-0519,VND-0135,Paylocity,US-MER,Meridian (ID),United States,Delivery_Center,500-1000,Client services and payroll operations for western U.S. customers.,Perplexity Research Jan 2025,2025-01
+VL-0520,VND-0135,Paylocity,US-SPR,Springfield (NJ),United States,Delivery_Center,<500,Regional operations/support for payroll and HCM platform.,Perplexity Research Jan 2025,2025-01
+VL-0521,VND-0135,Paylocity,US-SEA,Seattle (WA),United States,Delivery_Center,<500,Regional client service and implementation support.,Perplexity Research Jan 2025,2025-01
+VL-0522,VND-0135,Paylocity,XX-PRA,Prague (Czech Republic)*,Czech Republic,Delivery_Center,500-1000,"Product development, engineering, mobile app development, and technology operations after SamePage integration.​",Perplexity Research Jan 2025,2025-01
+VL-0523,VND-0016,Ceridian (Dayforce),US-MIN,Minneapolis (MN),United States,Delivery_Center,1000-5000,"U.S. HQ; product development, payroll operations leadership, managed services, and corporate functions.​",Perplexity Research Jan 2025,2025-01
+VL-0524,VND-0016,Ceridian (Dayforce),CA-TOR,Toronto (ON),Canada,Delivery_Center,1000-5000,"Canadian HQ; product, payroll operations, support, and regional services.​",Perplexity Research Jan 2025,2025-01
+VL-0525,VND-0016,Ceridian (Dayforce),US-ROS,Rosemont (IL),United States,Delivery_Center,500-1000,Payroll delivery and processing center serving U.S. clients.,Perplexity Research Jan 2025,2025-01
+VL-0526,VND-0016,Ceridian (Dayforce),US-CHI,Chicago (IL),United States,Delivery_Center,500-1000,"Operations, client services, and implementation for Dayforce platform.",Perplexity Research Jan 2025,2025-01
+VL-0527,VND-0016,Ceridian (Dayforce),US-ATL,Atlanta (GA),United States,Delivery_Center,500-1000,"Payroll/HR service delivery, implementation, and customer support.",Perplexity Research Jan 2025,2025-01
+VL-0528,VND-0016,Ceridian (Dayforce),US-ALP,Alpharetta (GA),United States,Delivery_Center,500-1000,"Payroll delivery, HR services, and cloud operations support.",Perplexity Research Jan 2025,2025-01
+VL-0529,VND-0016,Ceridian (Dayforce),US-FOU,Fountain Valley (CA),United States,Delivery_Center,<500,Payroll processing and support for West Coast clients.,Perplexity Research Jan 2025,2025-01
+VL-0530,VND-0016,Ceridian (Dayforce),US-GAR,Gardena (CA),United States,Delivery_Center,<500,Payroll delivery and client support operations.,Perplexity Research Jan 2025,2025-01
+VL-0531,VND-0016,Ceridian (Dayforce),US-ST.,St. Petersburg (FL),United States,Delivery_Center,<500,Customer service and operations for payroll/HR services.,Perplexity Research Jan 2025,2025-01
+VL-0532,VND-0016,Ceridian (Dayforce),US-EAS,East Hanover (NJ),United States,Delivery_Center,<500,Regional operations and client support for Dayforce.,Perplexity Research Jan 2025,2025-01
+VL-0533,VND-0016,Ceridian (Dayforce),XX-GLA,Glasgow,United Kingdom (Scotland),Delivery_Center,<500,European operations and support for Dayforce payroll and HR.,Perplexity Research Jan 2025,2025-01
+VL-0534,VND-0016,Ceridian (Dayforce),AU-MEL,Melbourne,Australia,Delivery_Center,<500,APAC payroll/HR operations and support.,Perplexity Research Jan 2025,2025-01
+VL-0535,VND-0016,Ceridian (Dayforce),AU-ALE,Alexandria (NSW),Australia,Delivery_Center,<500,Regional operations and customer support.,Perplexity Research Jan 2025,2025-01
+VL-0536,VND-0016,Ceridian (Dayforce),XX-EBE,Ebene (Cyber City),Mauritius,Delivery_Center,<500,Global operations support and back-office processing.,Perplexity Research Jan 2025,2025-01
+VL-0537,VND-0012,UKG,US-LOW,Lowell (MA),United States,Delivery_Center,1000-5000,"Corporate HQ; product development, workforce management, payroll, and corporate functions.​",Perplexity Research Jan 2025,2025-01
+VL-0538,VND-0012,UKG,US-WES,Weston (FL),United States,Delivery_Center,1000-5000,"Co-HQ; HCM product, services, sales, and customer success.",Perplexity Research Jan 2025,2025-01
+VL-0539,VND-0012,UKG,US-ATL,Atlanta/Alpharetta (GA),United States,Delivery_Center,500-1000,"Customer experience, employer services, and engineering.​",Perplexity Research Jan 2025,2025-01
+VL-0540,VND-0012,UKG,IN-NOI,Noida (UP),India,Delivery_Center,1000-5000,"Major operations hub; engineering, customer success, and finance; part of 3,000+ India headcount.​",Perplexity Research Jan 2025,2025-01
+VL-0541,VND-0012,UKG,IN-PUN,Pune (MH),India,Delivery_Center,500-1000,"New Centre of Excellence; engineering, product development, and AI-powered workforce management solutions.​",Perplexity Research Jan 2025,2025-01
+VL-0542,VND-0012,UKG,IN-MUM,Mumbai,India,Delivery_Center,<500,Regional office supporting product and customer operations.,Perplexity Research Jan 2025,2025-01
+VL-0543,VND-0012,UKG,IN-BLR,Bengaluru,India,Delivery_Center,<500,Engineering and product-related operations.,Perplexity Research Jan 2025,2025-01
+VL-0544,VND-0012,UKG,XX-VAR,Varna,Bulgaria,Delivery_Center,500-1000,Product development and engineering teams.​,Perplexity Research Jan 2025,2025-01
+VL-0545,VND-0012,UKG,BG-SOF,Sofia,Bulgaria,Delivery_Center,<500,Product development and technology support.​,Perplexity Research Jan 2025,2025-01
+VL-0546,VND-0012,UKG,GB-BRA,Bracknell,United Kingdom,Delivery_Center,<500,"EMEA hub for sales, services, and customer support.",Perplexity Research Jan 2025,2025-01
+VL-0547,VND-0012,UKG,IE-KIL,Kilkenny,Ireland,Delivery_Center,<500,European operations and support.,Perplexity Research Jan 2025,2025-01
+VL-0548,VND-0012,UKG,NL-AMS,Amsterdam,Netherlands,Delivery_Center,<500,Regional HCM/payroll operations and services.,Perplexity Research Jan 2025,2025-01
+VL-0549,VND-0012,UKG,XX-PAR,Paris,France,Delivery_Center,<500,Regional HR/payroll services and customer support.,Perplexity Research Jan 2025,2025-01
+VL-0550,VND-0012,UKG,CA-MON,Montreal (QC),Canada,Delivery_Center,500-1000,Engineering and customer operations for workforce management.​,Perplexity Research Jan 2025,2025-01
+VL-0551,VND-0012,UKG,AU-SYD,Sydney,Australia,Delivery_Center,<500,APAC regional hub for HCM and workforce management services.,Perplexity Research Jan 2025,2025-01
+VL-0552,VND-0012,UKG,SG-SIN,Singapore,Singapore,Delivery_Center,<500,"APAC sales and services, customer support.",Perplexity Research Jan 2025,2025-01
+VL-0568,VND-0125,EPAM Systems,IN-BLR,Bengaluru,India,Delivery_Center,5000-10000,Software engineering; digital product development; cloud & DevOps; data & AI; consulting,Perplexity Research Jan 2025,2025-01
+VL-0569,VND-0125,EPAM Systems,IN-CHE,Chennai,India,Delivery_Center,1000-5000,Software engineering; platform development; QA & testing; cloud services,Perplexity Research Jan 2025,2025-01
+VL-0570,VND-0125,EPAM Systems,IN-CJB,Coimbatore,India,Delivery_Center,500-1000,Software engineering; application development; support & maintenance,Perplexity Research Jan 2025,2025-01
+VL-0571,VND-0125,EPAM Systems,IN-PUN,Pune,India,Delivery_Center,1000-5000,Product engineering; digital platforms; data & analytics,Perplexity Research Jan 2025,2025-01
+VL-0572,VND-0125,EPAM Systems,IN-HYD,Hyderabad,India,Delivery_Center,500-1000,Software engineering; cloud & infrastructure; managed services,Perplexity Research Jan 2025,2025-01
+VL-0573,VND-0125,EPAM Systems,IN-GGN,Gurugram,India,Delivery_Center,<500,Software engineering; client delivery support,Perplexity Research Jan 2025,2025-01
+VL-0574,VND-0125,EPAM Systems,UA-KYV,Kyiv,Ukraine,Delivery_Center,1000-5000,Software engineering; digital platforms; data & analytics; consulting,Perplexity Research Jan 2025,2025-01
+VL-0575,VND-0125,EPAM Systems,XX-LVI,Lviv (regional),Ukraine,Delivery_Center,1000-5000,Software engineering; product development; QA & testing,Perplexity Research Jan 2025,2025-01
+VL-0576,VND-0125,EPAM Systems,PL-KRA,Kraków,Poland,Delivery_Center,1000-5000,Software engineering; financial services solutions; cloud & DevOps,Perplexity Research Jan 2025,2025-01
+VL-0577,VND-0125,EPAM Systems,PL-WRO,Wrocław,Poland,Delivery_Center,1000-5000,Application development; product engineering; testing,Perplexity Research Jan 2025,2025-01
+VL-0578,VND-0125,EPAM Systems,PL-GDA,Gdańsk,Poland,Delivery_Center,500-1000,Software engineering; nearshore development,Perplexity Research Jan 2025,2025-01
+VL-0579,VND-0125,EPAM Systems,PL-POZ,Poznań,Poland,Delivery_Center,500-1000,Application development; support & maintenance,Perplexity Research Jan 2025,2025-01
+VL-0580,VND-0125,EPAM Systems,XX-MIN,Minsk,Belarus,Delivery_Center,1000-5000,Software engineering; enterprise platforms; QA,Perplexity Research Jan 2025,2025-01
+VL-0581,VND-0125,EPAM Systems,XX-BRE,Brest,Belarus,Delivery_Center,500-1000,Software engineering; nearshore delivery,Perplexity Research Jan 2025,2025-01
+VL-0582,VND-0125,EPAM Systems,XX-GOM,Gomel,Belarus,Delivery_Center,500-1000,Application development; maintenance,Perplexity Research Jan 2025,2025-01
+VL-0583,VND-0125,EPAM Systems,XX-GRO,Grodno,Belarus,Delivery_Center,<500,Software engineering; support,Perplexity Research Jan 2025,2025-01
+VL-0584,VND-0125,EPAM Systems,XX-MOG,Mogilev,Belarus,Delivery_Center,<500,Software engineering; support,Perplexity Research Jan 2025,2025-01
+VL-0585,VND-0125,EPAM Systems,XX-VIT,Vitebsk,Belarus,Delivery_Center,<500,Development; maintenance,Perplexity Research Jan 2025,2025-01
+VL-0586,VND-0125,EPAM Systems,US-NEW,Newtown (PA),United States,Delivery_Center,<500,Consulting; client management; architecture,Perplexity Research Jan 2025,2025-01
+VL-0587,VND-0125,EPAM Systems,US-BOS,Boston,United States,Delivery_Center,<500,Consulting; digital experience; engineering pods,Perplexity Research Jan 2025,2025-01
+VL-0588,VND-0125,EPAM Systems,US-SAN,San Jose,United States,Delivery_Center,<500,Product engineering; digital innovation,Perplexity Research Jan 2025,2025-01
+VL-0589,VND-0125,EPAM Systems,US-LOS,Los Angeles,United States,Delivery_Center,<500,Digital experience; media & entertainment solutions,Perplexity Research Jan 2025,2025-01
+VL-0590,VND-0125,EPAM Systems,US-BEL,Bellevue (WA),United States,Delivery_Center,<500,Cloud & platform engineering; consulting,Perplexity Research Jan 2025,2025-01
+VL-0591,VND-0128,Globant,AR-BUE,Buenos Aires,Argentina,Delivery_Center,1000-5000,Digital & cognitive transformation; product engineering; UX/UI; data & AI,Perplexity Research Jan 2025,2025-01
+VL-0592,VND-0128,Globant,AR-CÓR,Córdoba,Argentina,Delivery_Center,500-1000,Software engineering; digital platforms; QA,Perplexity Research Jan 2025,2025-01
+VL-0593,VND-0128,Globant,AR-ROS,Rosario,Argentina,Delivery_Center,500-1000,Application development; agile pods; testing,Perplexity Research Jan 2025,2025-01
+VL-0594,VND-0128,Globant,AR-TAN,Tandil,Argentina,Delivery_Center,500-1000,Nearshore development; product engineering,Perplexity Research Jan 2025,2025-01
+VL-0595,VND-0128,Globant,AR-MEN,Mendoza,Argentina,Delivery_Center,<500,Software engineering; support,Perplexity Research Jan 2025,2025-01
+VL-0596,VND-0128,Globant,CO-BOG,Bogotá,Colombia,Delivery_Center,500-1000,Digital transformation; cloud; data & analytics,Perplexity Research Jan 2025,2025-01
+VL-0597,VND-0128,Globant,CO-MED,Medellín,Colombia,Delivery_Center,500-1000,Software engineering; product development,Perplexity Research Jan 2025,2025-01
+VL-0598,VND-0128,Globant,PE-LIM,Lima,Peru,Delivery_Center,<500,Delivery center; software development,Perplexity Research Jan 2025,2025-01
+VL-0599,VND-0128,Globant,BR-SÃO,São Paulo,Brazil,Delivery_Center,500-1000,Digital platforms; cloud; CX solutions,Perplexity Research Jan 2025,2025-01
+VL-0600,VND-0128,Globant,BR-RIO,Rio de Janeiro,Brazil,Delivery_Center,<500,Software engineering; support,Perplexity Research Jan 2025,2025-01
+VL-0601,VND-0128,Globant,MX-MEX,Mexico City,Mexico,Delivery_Center,500-1000,Nearshore development; digital solutions,Perplexity Research Jan 2025,2025-01
+VL-0602,VND-0128,Globant,MX-GDL,Guadalajara,Mexico,Delivery_Center,<500,Product engineering; QA,Perplexity Research Jan 2025,2025-01
+VL-0603,VND-0128,Globant,US-NYC,New York,United States,Delivery_Center,<500,Delivery center; digital product development,Perplexity Research Jan 2025,2025-01
+VL-0604,VND-0128,Globant,GB-LON,London,United Kingdom,Delivery_Center,500-1000,Consulting; digital transformation; engineering,Perplexity Research Jan 2025,2025-01
+VL-0605,VND-0128,Globant,ES-MAD,Madrid,Spain,Delivery_Center,<500,Engineering; digital solutions,Perplexity Research Jan 2025,2025-01
+VL-0606,VND-0127,Endava,RO-BUC,Bucharest,Romania,Delivery_Center,1000-5000,Software engineering; agile development; cloud & DevOps; managed services,Perplexity Research Jan 2025,2025-01
+VL-0607,VND-0127,Endava,RO-CLJ,Cluj-Napoca,Romania,Delivery_Center,1000-5000,Product engineering; digital payments; QA,Perplexity Research Jan 2025,2025-01
+VL-0608,VND-0127,Endava,RO-BV,Brașov,Romania,Delivery_Center,500-1000,Software engineering; application maintenance,Perplexity Research Jan 2025,2025-01
+VL-0609,VND-0127,Endava,RO-IAS,Iași,Romania,Delivery_Center,500-1000,Development; testing; support,Perplexity Research Jan 2025,2025-01
+VL-0610,VND-0127,Endava,RO-TIM,Timișoara,Romania,Delivery_Center,500-1000,Embedded & automotive; software engineering,Perplexity Research Jan 2025,2025-01
+VL-0611,VND-0127,Endava,RO-PIT,Pitești,Romania,Delivery_Center,<500,Development; support services,Perplexity Research Jan 2025,2025-01
+VL-0612,VND-0127,Endava,RO-SUC,Suceava,Romania,Delivery_Center,<500,Software development; QA,Perplexity Research Jan 2025,2025-01
+VL-0613,VND-0127,Endava,RO-TÂR,Târgu Mureș,Romania,Delivery_Center,<500,Development; maintenance,Perplexity Research Jan 2025,2025-01
+VL-0614,VND-0127,Endava,BG-SOF,Sofia,Bulgaria,Delivery_Center,500-1000,Software engineering; nearshore development,Perplexity Research Jan 2025,2025-01
+VL-0615,VND-0127,Endava,XX-SKO,Skopje,North Macedonia,Delivery_Center,500-1000,Software engineering; agile delivery,Perplexity Research Jan 2025,2025-01
+VL-0616,VND-0127,Endava,RS-BEG,Belgrade,Serbia,Delivery_Center,500-1000,Product engineering; payments; digital,Perplexity Research Jan 2025,2025-01
+VL-0617,VND-0127,Endava,PL-KRA,Kraków,Poland,Delivery_Center,<500,Engineering; nearshore development,Perplexity Research Jan 2025,2025-01
+VL-0618,VND-0127,Endava,PL-WRO,Wrocław,Poland,Delivery_Center,<500,Software engineering; QA,Perplexity Research Jan 2025,2025-01
+VL-0619,VND-0127,Endava,GB-LON,London,United Kingdom,Delivery_Center,500-1000,Consulting; design; engineering leadership,Perplexity Research Jan 2025,2025-01
+VL-0620,VND-0127,Endava,AR-BUE,Buenos Aires,Argentina,Delivery_Center,500-1000,Nearshore delivery; digital engineering,Perplexity Research Jan 2025,2025-01
+VL-0621,VND-0127,Endava,XX-MON,Montevideo,Uruguay,Delivery_Center,500-1000,Software engineering; agile pods,Perplexity Research Jan 2025,2025-01
+VL-0622,VND-0127,Endava,CO-BOG,Bogotá,Colombia,Delivery_Center,<500,Nearshore development; support,Perplexity Research Jan 2025,2025-01
+VL-0623,VND-0127,Endava,MX-MEX,Mexico City,Mexico,Delivery_Center,<500,Development; client delivery,Perplexity Research Jan 2025,2025-01
+VL-0624,VND-0127,Endava,US-ATL,Atlanta,United States,Delivery_Center,<500,Consulting; agile delivery; engineering,Perplexity Research Jan 2025,2025-01
+VL-0625,VND-0127,Endava,US-NYC,New York,United States,Delivery_Center,<500,Consulting; product strategy; engineering,Perplexity Research Jan 2025,2025-01
+VL-0626,VND-0127,Endava,IN-BLR,Bengaluru,India,Delivery_Center,500-1000,Software engineering; cloud; QA,Perplexity Research Jan 2025,2025-01
+VL-0627,VND-0127,Endava,IN-HYD,Hyderabad,India,Delivery_Center,<500,Development; support,Perplexity Research Jan 2025,2025-01
+VL-0628,VND-0127,Endava,IN-DEL,Noida,India,Delivery_Center,<500,Application development; testing,Perplexity Research Jan 2025,2025-01
+VL-0629,VND-0169,SoftServe,XX-LVI,Lviv,Ukraine,Delivery_Center,1000-5000,Software engineering; product development; cloud; data & AI,Perplexity Research Jan 2025,2025-01
+VL-0630,VND-0169,SoftServe,UA-KYV,Kyiv,Ukraine,Delivery_Center,1000-5000,Application development; digital platforms,Perplexity Research Jan 2025,2025-01
+VL-0631,VND-0169,SoftServe,XX-KHA,Kharkiv,Ukraine,Delivery_Center,500-1000,Software engineering; QA,Perplexity Research Jan 2025,2025-01
+VL-0632,VND-0169,SoftServe,XX-OTH,Other regional cities (UA),Ukraine,Delivery_Center,500-1000,Engineering; support & maintenance,Perplexity Research Jan 2025,2025-01
+VL-0633,VND-0169,SoftServe,PL-WRO,Wrocław,Poland,Delivery_Center,500-1000,Nearshore development; cloud & DevOps,Perplexity Research Jan 2025,2025-01
+VL-0634,VND-0169,SoftServe,PL-GLI,Gliwice,Poland,Delivery_Center,500-1000,Engineering; QA; maintenance,Perplexity Research Jan 2025,2025-01
+VL-0635,VND-0169,SoftServe,PL-WAW,Warsaw,Poland,Delivery_Center,500-1000,Engineering; consulting; delivery,Perplexity Research Jan 2025,2025-01
+VL-0636,VND-0169,SoftServe,PL-BIA,Białystok,Poland,Delivery_Center,<500,Development; support,Perplexity Research Jan 2025,2025-01
+VL-0637,VND-0169,SoftServe,PL-GDA,Gdańsk,Poland,Delivery_Center,<500,Software engineering; testing,Perplexity Research Jan 2025,2025-01
+VL-0638,VND-0169,SoftServe,RO-BUC,Bucharest,Romania,Delivery_Center,500-1000,Delivery center; engineering; QA,Perplexity Research Jan 2025,2025-01
+VL-0639,VND-0169,SoftServe,US-AUS,Austin (TX),United States,Delivery_Center,500-1000,HQ; consulting; product development; cloud,Perplexity Research Jan 2025,2025-01
+VL-0640,VND-0169,SoftServe,US-FOR,Fort Myers (FL),United States,Delivery_Center,<500,Nearshore support; engineering,Perplexity Research Jan 2025,2025-01
+VL-0641,VND-0169,SoftServe,US-WES,Westborough (MA),United States,Delivery_Center,<500,Engineering; client services,Perplexity Research Jan 2025,2025-01
+VL-0642,VND-0169,SoftServe,US-LEH,Lehi (UT),United States,Delivery_Center,<500,Product engineering; cloud,Perplexity Research Jan 2025,2025-01
+VL-0643,VND-0169,SoftServe,US-CHI,"Chicago (Rosemont, IL)",United States,Delivery_Center,<500,Engineering; consulting,Perplexity Research Jan 2025,2025-01
+VL-0644,VND-0169,SoftServe,GB-LON,London,United Kingdom,Delivery_Center,<500,Consulting; architecture; design,Perplexity Research Jan 2025,2025-01
+VL-0645,VND-0169,SoftServe,NL-AMS,Amsterdam,Netherlands,Delivery_Center,<500,Digital consulting; engineering,Perplexity Research Jan 2025,2025-01
+VL-0646,VND-0169,SoftServe,DE-FRA,Frankfurt,Germany,Delivery_Center,<500,Engineering; client delivery,Perplexity Research Jan 2025,2025-01
+VL-0647,VND-0169,SoftServe,XX-STO,Stockholm,Sweden,Delivery_Center,<500,Consulting; nearshore coordination,Perplexity Research Jan 2025,2025-01
+VL-0648,VND-0169,SoftServe,CO-MED,Medellín,Colombia,Delivery_Center,<500,Nearshore engineering; support,Perplexity Research Jan 2025,2025-01
+VL-0649,VND-0169,SoftServe,MX-GDL,Guadalajara,Mexico,Delivery_Center,<500,Software development; QA,Perplexity Research Jan 2025,2025-01
+VL-0650,VND-0169,SoftServe,SG-SIN,Singapore,Singapore,Delivery_Center,<500,Cloud; data & analytics; consulting,Perplexity Research Jan 2025,2025-01
+VL-0651,VND-0049,Luxoft (DXC),PL-KRA,Kraków,Poland,Delivery_Center,1000-5000,Software engineering; automotive; financial services platforms,Perplexity Research Jan 2025,2025-01
+VL-0652,VND-0049,Luxoft (DXC),PL-WRO,Wrocław,Poland,Delivery_Center,1000-5000,Engineering; embedded & automotive; QA,Perplexity Research Jan 2025,2025-01
+VL-0653,VND-0049,Luxoft (DXC),PL-WAW,Warsaw,Poland,Delivery_Center,500-1000,Development; consulting; nearshore support,Perplexity Research Jan 2025,2025-01
+VL-0654,VND-0049,Luxoft (DXC),PL-GDA,Gdańsk,Poland,Delivery_Center,<500,Engineering; support,Perplexity Research Jan 2025,2025-01
+VL-0655,VND-0049,Luxoft (DXC),RS-BEG,Belgrade,Serbia,Delivery_Center,1000-5000,Automotive software; cloud; DevOps,Perplexity Research Jan 2025,2025-01
+VL-0656,VND-0049,Luxoft (DXC),BG-SOF,Sofia,Bulgaria,Delivery_Center,500-1000,Software engineering; QA; support,Perplexity Research Jan 2025,2025-01
+VL-0657,VND-0049,Luxoft (DXC),UA-KYV,Kyiv,Ukraine,Delivery_Center,500-1000,Engineering; maintenance,Perplexity Research Jan 2025,2025-01
+VL-0658,VND-0049,Luxoft (DXC),XX-ODE,Odesa,Ukraine,Delivery_Center,<500,Development; support,Perplexity Research Jan 2025,2025-01
+VL-0659,VND-0049,Luxoft (DXC),IN-BLR,Bangalore,India,Delivery_Center,500-1000,Software engineering; cloud; data,Perplexity Research Jan 2025,2025-01
+VL-0660,VND-0049,Luxoft (DXC),IN-HYD,Hyderabad,India,Delivery_Center,<500,Engineering; support,Perplexity Research Jan 2025,2025-01
+VL-0661,VND-0049,Luxoft (DXC),DE-MUN,Munich,Germany,Delivery_Center,500-1000,Automotive software; consulting,Perplexity Research Jan 2025,2025-01
+VL-0662,VND-0049,Luxoft (DXC),DE-BER,Berlin,Germany,Delivery_Center,500-1000,Engineering; digital platforms,Perplexity Research Jan 2025,2025-01
+VL-0663,VND-0049,Luxoft (DXC),DE-BRA,Braunschweig,Germany,Delivery_Center,<500,Automotive engineering,Perplexity Research Jan 2025,2025-01
+VL-0664,VND-0049,Luxoft (DXC),XX-TUR,Turin,Italy,Delivery_Center,<500,Automotive & mobility software,Perplexity Research Jan 2025,2025-01
+VL-0665,VND-0049,Luxoft (DXC),XX-ZUG,Zug,Switzerland,Delivery_Center,<500,HQ; management; consulting,Perplexity Research Jan 2025,2025-01
+VL-0666,VND-0049,Luxoft (DXC),US-NYC,New York,United States,Delivery_Center,<500,Consulting; financial services engineering,Perplexity Research Jan 2025,2025-01
+VL-0667,VND-0049,Luxoft (DXC),US-SEA,Seattle/Bellevue,United States,Delivery_Center,<500,Cloud & platform engineering,Perplexity Research Jan 2025,2025-01
+VL-0743,VND-0132,TELUS Digital AI Data Solutions,CA-VAN,Vancouver,Canada,Delivery_Center,10000+,"HQ; CX, data annotation, content moderation, AI transformation",Perplexity Research Jan 2025,2025-01
+VL-0744,VND-0132,TELUS Digital AI Data Solutions,US-LAS,Las Vegas,United States,Delivery_Center,500-1000,"1000+ seat CX/data hub; data annotation, CX, trust & safety",Perplexity Research Jan 2025,2025-01
+VL-0745,VND-0132,TELUS Digital AI Data Solutions,SV-SSA,San Salvador,El Salvador,Delivery_Center,500-1000,Nearshore delivery; CX and data annotation,Perplexity Research Jan 2025,2025-01
+VL-0746,VND-0132,TELUS Digital AI Data Solutions,GT-GUA,Guatemala City,Guatemala,Delivery_Center,500-1000,Nearshore delivery; CX and data annotation,Perplexity Research Jan 2025,2025-01
+VL-0747,VND-0132,TELUS Digital AI Data Solutions,CR-SAN,San José,Costa Rica,Delivery_Center,500-1000,Nearshore delivery; multilingual CX and data services,Perplexity Research Jan 2025,2025-01
+VL-0748,VND-0132,TELUS Digital AI Data Solutions,BR-SÃO,São Paulo,Brazil,Delivery_Center,500-1000,"Regional hub; CX, content moderation, data annotation",Perplexity Research Jan 2025,2025-01
+VL-0749,VND-0132,TELUS Digital AI Data Solutions,RO-BUC,Bucharest,Romania,Delivery_Center,500-1000,"European delivery; CX, data annotation, trust & safety",Perplexity Research Jan 2025,2025-01
+VL-0750,VND-0132,TELUS Digital AI Data Solutions,BG-SOF,Sofia,Bulgaria,Delivery_Center,500-1000,"European delivery; CX, data annotation",Perplexity Research Jan 2025,2025-01
+VL-0751,VND-0132,TELUS Digital AI Data Solutions,ES-BCN,Barcelona,Spain,Delivery_Center,500-1000,European delivery; multilingual CX & data services,Perplexity Research Jan 2025,2025-01
+VL-0752,VND-0132,TELUS Digital AI Data Solutions,ZA-JNB,Johannesburg,South Africa,Delivery_Center,500-1000,"African delivery; CX, content moderation, data annotation",Perplexity Research Jan 2025,2025-01
+VL-0753,VND-0132,TELUS Digital AI Data Solutions,MA-RBA,Rabat,Morocco,Delivery_Center,500-1000,Francophone delivery; CX and data services,Perplexity Research Jan 2025,2025-01
+VL-0754,VND-0132,TELUS Digital AI Data Solutions,XX-DUB,Dubai,United Arab Emirates,Delivery_Center,500-1000,"Regional hub; CX, data services for MEA",Perplexity Research Jan 2025,2025-01
+VL-0799,VND-0217,TIVIT,BR-SÃO,São Paulo (incl. Barueri),Brazil,Delivery_Center,1000-5000,"IT services, cloud & data center, applications, BPO ​",Perplexity Research Jan 2025,2025-01
+VL-0800,VND-0217,TIVIT,BR-RIO,Rio de Janeiro,Brazil,Delivery_Center,500-1000,Data center & IT infrastructure services ​,Perplexity Research Jan 2025,2025-01
+VL-0801,VND-0217,TIVIT,BR-CUR,Curitiba,Brazil,Delivery_Center,500-1000,"Application management, IT & BPO services ​",Perplexity Research Jan 2025,2025-01
+VL-0802,VND-0217,TIVIT,BR-BRA,Brasília,Brazil,Delivery_Center,<500,IT services and government-related solutions ​,Perplexity Research Jan 2025,2025-01
+VL-0803,VND-0217,TIVIT,BR-ILH,Ilhéus,Brazil,Delivery_Center,<500,Infrastructure / data center support ​,Perplexity Research Jan 2025,2025-01
+VL-0804,VND-0217,TIVIT,CO-BOG,Bogotá,Colombia,Delivery_Center,500-1000,"IT outsourcing, cloud & managed services ​",Perplexity Research Jan 2025,2025-01
+VL-0805,VND-0217,TIVIT,CL-SCL,Santiago,Chile,Delivery_Center,500-1000,"IT services, data center, cloud ​",Perplexity Research Jan 2025,2025-01
+VL-0806,VND-0217,TIVIT,AR-BUE,Buenos Aires,Argentina,Delivery_Center,500-1000,"AI, software development, IT operations (~250+ specialists) ​",Perplexity Research Jan 2025,2025-01
+VL-0807,VND-0217,TIVIT,XX-QUI,Quito (est.),Ecuador,Delivery_Center,<500,Regional IT/BPO operations ​,Perplexity Research Jan 2025,2025-01
+VL-0808,VND-0217,TIVIT,PA-PAN,Panama City (est.),Panama,Delivery_Center,<500,Nearshore IT & BPO services ​,Perplexity Research Jan 2025,2025-01
+VL-0809,VND-0217,TIVIT,XX-ASU,Asunción (est.),Paraguay,Delivery_Center,<500,IT/BPO for local and regional clients ​,Perplexity Research Jan 2025,2025-01
+VL-0810,VND-0217,TIVIT,XX-LIM,Lima (est.),Peru,Delivery_Center,<500,IT outsourcing & cloud ​,Perplexity Research Jan 2025,2025-01
+VL-0811,VND-0217,TIVIT,MX-MEX,Mexico City (est.),Mexico,Delivery_Center,<500,"IT services, applications, BPO ​",Perplexity Research Jan 2025,2025-01

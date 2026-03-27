@@ -1,0 +1,1066 @@
+Alias_ID,User_Term,Service_Type_ID,Service_Type_Name,Confidence,Source,Usage_Count,Created_Date,Is_Active,Tower_Code
+ALI-00011,access control,ST-FR-004-01-02,Access Control,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00016,account maintenance,ST-CO-005-01-03,Account Maintenance,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00017,account reconciliation,ST-FA-003-01-02,Account Reconciliation,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00019,accounts receivable,ST-FA-002-01-01,Customer Invoicing,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00025,adjudication,ST-HR-001-01-01,Medical Claims Adjudication,LOW,SEED,0,2025-01-01,TRUE,
+ALI-00053,ap,ST-FA-001-01-01,Invoice Processing,LOW,SEED,0,2025-01-01,TRUE,
+ALI-00054,ap processing,ST-FA-001-01-01,Invoice Processing,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-00055,api development & integration,ST-IT-001-01-03,API Development & Integration,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00065,ar,ST-FA-002-01-01,Customer Invoicing,LOW,SEED,0,2025-01-01,TRUE,
+ALI-00120,bpo,ST-CO-001-01-01,Tier 1 Voice Support,LOW,SEED,0,2025-01-01,TRUE,
+ALI-00128,budget development,ST-FA-008-01-01,Budget Development,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00129,budgeting support,ST-FA-009-01-01,Budgeting Support Services,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-00130,budgeting support services,ST-FA-009-01-01,Budgeting Support Services,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00137,business process outsourcing,ST-CO-001-01-01,Tier 1 Voice Support,LOW,SEED,0,2025-01-01,TRUE,
+ALI-00142,cafe,ST-FR-005-01-01,Cafe Management,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-00143,cafe management,ST-FR-005-01-01,Cafe Management,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00145,call center,ST-CO-001-01-01,Tier 1 Voice Support,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-00146,call center bpo,ST-CO-001-01-01,Tier 1 Voice Support,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-00163,carrier,ST-SC-005-01-04,Carrier Management,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-00165,carrier management,ST-SC-005-01-04,Carrier Management,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00166,cash application,ST-FA-002-01-02,Cash Application,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00169,cash forecasting,ST-FA-005-01-02,Cash Forecasting,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00174,category,ST-SC-001-01-02,Category Management,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-00175,category management,ST-SC-001-01-02,Category Management,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00191,chatbot,ST-CO-007-01-04,Chatbot Management,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-00192,chatbot management,ST-CO-007-01-04,Chatbot Management,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00214,cloud backup & recovery,ST-IT-004-01-03,Cloud Backup & Recovery,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00215,cloud cost optimization,ST-IT-004-01-02,Cloud Cost Optimization,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00216,cloud infrastructure,ST-IT-004-01-01,Cloud Infrastructure Management,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-00217,cloud infrastructure management,ST-IT-004-01-01,Cloud Infrastructure Management,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00230,code generation evaluation,ST-AI-002-01-04,Code Generation Evaluation,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00242,common area,ST-FR-002-01-02,Common Area Management,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-00243,common area management,ST-FR-002-01-02,Common Area Management,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00245,community,ST-CO-008-01-02,Community Management,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-00247,community management,ST-CO-008-01-02,Community Management,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00271,contact center,ST-CO-001-01-01,Tier 1 Voice Support,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-00282,content refresh,ST-COP-004-01-02,Content Refresh,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00287,contingent workforce,ST-HR-003-01-01,Contingent Workforce Management,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-00288,contingent workforce management,ST-HR-003-01-01,Contingent Workforce Management,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00303,corporate income tax compliance,ST-FA-006-01-01,Corporate Income Tax Compliance,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00326,custom application development,ST-IT-001-01-01,Custom Application Development,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00329,customer invoicing,ST-FA-002-01-01,Customer Invoicing,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00332,customer onboarding,ST-CO-004-01-01,Customer Onboarding,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00333,customer service,ST-CO-001-01-01,Tier 1 Voice Support,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-00334,customer support,ST-CO-001-01-01,Tier 1 Voice Support,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-00335,customer support,ST-CO-008-01-01,Social Customer Service,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-00336,customs brokerage,ST-SC-007-01-01,Customs Brokerage,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00337,cx,ST-CO-001-01-01,Tier 1 Voice Support,LOW,SEED,0,2025-01-01,TRUE,
+ALI-00338,cx,ST-CO-008-01-01,Social Customer Service,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-00342,daily cash positioning,ST-FA-005-01-01,Daily Cash Positioning,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00344,data center operations,ST-IT-002-01-01,Data Center Operations,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00348,data engineering,ST-IT-006-01-01,Data Engineering Services,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-00349,data engineering services,ST-IT-006-01-01,Data Engineering Services,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00354,data pipeline maintenance,ST-AI-003-01-02,Data Pipeline Maintenance,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00381,demand forecasting,ST-SC-006-01-02,Demand Forecasting,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00399,digital mailroom,ST-FR-006-01-03,Digital Mailroom,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00423,dpo data generation,ST-AI-002-01-03,DPO Data Generation,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00427,e-commerce,ST-SC-009-01-01,Fulfillment Services,LOW,SEED,0,2025-01-01,TRUE,
+ALI-00431,early-stage collections,ST-CO-006-01-01,Early-Stage Collections,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00439,edr,ST-IT-005-01-08,EDR Management,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-00440,edr management,ST-IT-005-01-08,EDR Management,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00443,electrical systems,ST-FR-003-01-02,Electrical Systems,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00492,etl pipeline development,ST-AI-003-01-01,ETL Pipeline Development,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00509,export compliance,ST-SC-007-01-04,Export Compliance,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00515,f&a,ST-FA-001-01-01,Invoice Processing,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-00517,fao,ST-FA-001-01-01,Invoice Processing,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-00518,faq development,ST-COP-001-01-02,FAQ Development,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00528,finance and accounting,ST-FA-001-01-01,Invoice Processing,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-00534,financial statement preparation,ST-FA-004-01-02,Financial Statement Preparation,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00544,fleet leasing,ST-SC-010-01-01,Fleet Leasing Services,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-00545,fleet leasing services,ST-SC-010-01-01,Fleet Leasing Services,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00551,forecasting,ST-FA-008-01-02,Forecasting,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00558,freight audit & payment,ST-SC-005-01-02,Freight Audit & Payment,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00559,freight forwarding,ST-SC-003-01-01,Freight Forwarding,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00564,fta,ST-SC-007-01-03,FTA Management,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-00565,fta management,ST-SC-007-01-03,FTA Management,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00569,fulfillment,ST-SC-009-01-01,Fulfillment Services,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-00570,fulfillment services,ST-SC-009-01-01,Fulfillment Services,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00611,health claims,ST-HR-001-01-01,Medical Claims Adjudication,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-00612,healthcare claims,ST-HR-001-01-01,Medical Claims Adjudication,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-00615,high-value customers,ST-CO-001-01-03,Premium/VIP Support,LOW,SEED,0,2025-01-01,TRUE,
+ALI-00617,hr advisory,ST-HR-002-01-01,HR Advisory Services,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-00618,hr advisory services,ST-HR-002-01-01,HR Advisory Services,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00626,hs classification,ST-SC-007-01-02,HS Classification,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00628,human evaluation,ST-AI-004-01-01,Human Evaluation,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00629,human translation,ST-COP-003-01-01,Human Translation,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00630,hvac maintenance,ST-FR-003-01-01,HVAC Maintenance,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00637,image bounding box annotation,ST-AI-001-01-01,Image Bounding Box Annotation,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00640,image moderation,ST-COP-002-01-02,Image Moderation,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00645,in-app messaging,ST-CO-007-01-03,In-App Messaging,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00648,inbound calls,ST-CO-001-01-01,Tier 1 Voice Support,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-00649,incident,ST-IT-003-01-01,Incident Management,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-00650,incident management,ST-IT-003-01-01,Incident Management,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00666,inquiry response,ST-CO-001-01-02,Inquiry Response,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00689,inventory planning,ST-SC-006-01-03,Inventory Planning,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00695,invoice,ST-FA-001-01-01,Invoice Processing,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-00696,invoice management,ST-FA-001-01-01,Invoice Processing,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-00697,invoice processing,ST-FA-001-01-01,Invoice Processing,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00698,invoicing,ST-FA-001-01-01,Invoice Processing,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-00699,ios/android,ST-IT-001-01-02,Mobile Application Development,LOW,SEED,0,2025-01-01,TRUE,
+ALI-00702,it help desk,ST-IT-002-01-01,Data Center Operations,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-00703,it managed services,ST-IT-002-01-01,Data Center Operations,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-00704,it outsourcing,ST-IT-001-01-01,Custom Application Development,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-00705,it services,ST-IT-001-01-01,Custom Application Development,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-00709,ito,ST-IT-001-01-01,Custom Application Development,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-00710,janitorial,ST-FR-001-01-01,Janitorial Services,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-00711,janitorial services,ST-FR-001-01-01,Janitorial Services,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00713,journal entry,ST-FA-003-01-01,Journal Entry Processing,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-00714,journal entry processing,ST-FA-003-01-01,Journal Entry Processing,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00717,kb maintenance,ST-COP-004-01-01,KB Maintenance,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00727,kitting/assembly,ST-SC-004-01-04,Kitting/Assembly,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00729,knowledge base creation,ST-COP-001-01-01,Knowledge Base Creation,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00752,lease,ST-FR-002-01-01,Lease Administration,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-00754,lease administration,ST-FR-002-01-01,Lease Administration,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00775,live chat support,ST-CO-007-01-01,Live Chat Support,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00776,live stream moderation,ST-COP-002-01-04,Live Stream Moderation,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00790,load planning,ST-SC-005-01-03,Load Planning,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00792,loyalty program support,ST-CO-004-01-02,Loyalty Program Support,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00793,ltl shipping,ST-SC-003-01-02,LTL Shipping,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00797,mailroom operations,ST-FR-006-01-01,Mailroom Operations,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00800,managed detection & response,ST-IT-005-01-05,Managed Detection & Response,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00801,managed services,ST-IT-002-01-01,Data Center Operations,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-00805,managers on employee relations matters,ST-HR-002-01-01,HR Advisory Services,LOW,SEED,0,2025-01-01,TRUE,
+ALI-00827,medical claims adjudication,ST-HR-001-01-01,Medical Claims Adjudication,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00865,mobile application development,ST-IT-001-01-02,Mobile Application Development,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00875,month-end close,ST-FA-004-01-01,Month-End Close Management,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-00876,month-end close management,ST-FA-004-01-01,Month-End Close Management,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00879,move,ST-FR-007-01-02,Move Management,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-00881,move management,ST-FR-007-01-02,Move Management,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00889,multi-cloud,ST-IT-004-01-04,Multi-Cloud Management,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-00890,multi-cloud management,ST-IT-004-01-04,Multi-Cloud Management,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00905,network security operations,ST-IT-005-01-09,Network Security Operations,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00914,object detection,ST-AI-001-01-01,Image Bounding Box Annotation,LOW,SEED,0,2025-01-01,TRUE,
+ALI-00922,onboarding/offboarding,ST-IT-003-01-07,Onboarding/Offboarding,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00927,order,ST-CO-002-01-01,Order Management,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-00928,order,ST-CO-005-01-01,Order Processing,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-00929,order management,ST-CO-002-01-01,Order Management,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00930,order processing,ST-CO-002-01-01,Order Management,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-00931,order processing,ST-CO-005-01-01,Order Processing,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00932,order processing,ST-FA-007-01-02,Purchase Order Management,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-00933,order to cash,ST-CO-002-01-01,Order Management,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-00934,order to cash,ST-FA-007-01-02,Purchase Order Management,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-00940,otc,ST-CO-002-01-01,Order Management,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-00941,otc,ST-FA-007-01-02,Purchase Order Management,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-00948,outsourcing,ST-CO-001-01-01,Tier 1 Voice Support,LOW,SEED,0,2025-01-01,TRUE,
+ALI-00955,pallet storage,ST-SC-004-01-03,Pallet Storage,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00960,password reset,ST-IT-003-01-03,Password Reset Services,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-00961,password reset services,ST-IT-003-01-03,Password Reset Services,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00970,payment,ST-FA-001-01-02,Payment Processing,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-00971,payment processing,ST-FA-001-01-02,Payment Processing,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00978,penetration testing,ST-IT-005-01-04,Penetration Testing,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00991,pick and pack,ST-SC-004-01-01,Pick and Pack,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-00999,plumbing systems,ST-FR-003-01-03,Plumbing Systems,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-01000,po,ST-SC-002-01-01,PO Processing,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-01002,po processing,ST-SC-002-01-01,PO Processing,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-01016,premium/vip support,ST-CO-001-01-03,Premium/VIP Support,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-01026,product refurbishment,ST-SC-008-01-02,Product Refurbishment,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-01046,proof of concept development,ST-IT-001-01-05,Proof of Concept Development,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-01057,purchase order,ST-FA-007-01-02,Purchase Order Management,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-01058,purchase order management,ST-FA-007-01-02,Purchase Order Management,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-01059,purchase requisition,ST-FA-007-01-01,Purchase Requisition Processing,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-01060,purchase requisition processing,ST-FA-007-01-01,Purchase Requisition Processing,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-01073,receiving operations,ST-FR-006-01-04,Receiving Operations,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-01074,receiving/put-away,ST-SC-004-01-02,Receiving/Put-Away,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-01075,reception,ST-FR-001-01-02,Reception Services,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-01077,reception services,ST-FR-001-01-02,Reception Services,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-01081,recycling,ST-FR-008-01-02,Recycling Management,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-01084,recycling management,ST-FR-008-01-02,Recycling Management,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-01100,remote desktop support,ST-IT-003-01-04,Remote Desktop Support,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-01110,response ranking,ST-AI-002-01-01,Response Ranking,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-01112,returns,ST-CO-005-01-02,Returns Processing,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-01113,returns,ST-SC-008-01-01,Returns Processing,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-01114,returns processing,ST-CO-005-01-02,Returns Processing,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-01115,returns processing,ST-SC-008-01-01,Returns Processing,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-01116,returns processing,ST-SC-011-01-01,Returns Processing Services,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-01117,returns processing services,ST-SC-011-01-01,Returns Processing Services,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-01119,review response,ST-CO-008-01-03,Review Response,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-01129,rma,ST-SC-008-01-03,RMA Management,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-01130,rma management,ST-SC-008-01-03,RMA Management,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-01159,sec filing support,ST-FA-010-01-01,SEC Filing Support Services,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-01160,sec filing support services,ST-FA-010-01-01,SEC Filing Support Services,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-01162,security awareness training,ST-IT-005-01-06,Security Awareness Training,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-01165,security incident response,ST-IT-005-01-02,Security Incident Response,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-01166,security operations center,ST-IT-005-01-01,Security Operations Center,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-01167,self-service portal,ST-IT-003-01-06,Self-Service Portal Management,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-01168,self-service portal management,ST-IT-003-01-06,Self-Service Portal Management,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-01169,semantic segmentation,ST-AI-001-01-02,Semantic Segmentation,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-01180,service desk,ST-IT-002-01-01,Data Center Operations,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-01181,service request fulfillment,ST-IT-003-01-02,Service Request Fulfillment,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-01182,sft data creation,ST-AI-002-01-02,SFT Data Creation,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-01183,shipping,ST-FR-006-01-02,Shipping Services,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-01184,shipping services,ST-FR-006-01-02,Shipping Services,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-01187,siem,ST-IT-005-01-07,SIEM Management,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-01188,siem management,ST-IT-005-01-07,SIEM Management,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-01189,siem platforms,ST-IT-005-01-07,SIEM Management,LOW,SEED,0,2025-01-01,TRUE,
+ALI-01202,sms support,ST-CO-007-01-02,SMS Support,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-01206,social customer,ST-CO-008-01-01,Social Customer Service,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-01207,social customer service,ST-CO-008-01-01,Social Customer Service,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-01215,software application support,ST-CO-003-01-02,Software Application Support,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-01223,space planning,ST-FR-007-01-01,Space Planning,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-01246,strategic sourcing,ST-SC-001-01-01,Strategic Sourcing,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-01267,supplier qualification,ST-SC-001-01-03,Supplier Qualification,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-01271,supply chain contract,ST-SC-001-01-04,Supply Chain Contract Management,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-01272,supply chain contract management,ST-SC-001-01-04,Supply Chain Contract Management,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-01281,sustainability reporting,ST-FR-008-01-01,Sustainability Reporting,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-01287,t&s,ST-COP-002-01-01,UGC Text Review,LOW,SEED,0,2025-01-01,TRUE,
+ALI-01293,tax provision,ST-FA-006-01-02,Tax Provision,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-01296,tech support,ST-CO-003-01-01,Tier 1 Technical Support,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-01299,technical feasibility validation,ST-IT-001-01-05,Proof of Concept Development,LOW,SEED,0,2025-01-01,TRUE,
+ALI-01300,technical help desk,ST-IT-002-01-01,Data Center Operations,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-01308,terminology,ST-COP-003-01-02,Terminology Management,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-01309,terminology management,ST-COP-003-01-02,Terminology Management,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-01317,tier 1 technical support,ST-CO-003-01-01,Tier 1 Technical Support,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-01318,tier 1 voice support,ST-CO-001-01-01,Tier 1 Voice Support,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-01326,tms managed,ST-SC-012-01-01,TMS Managed Services,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-01327,tms managed services,ST-SC-012-01-01,TMS Managed Services,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-01328,tms operations,ST-SC-005-01-01,TMS Operations,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-01352,trust and safety,ST-COP-002-01-01,UGC Text Review,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-01353,ugc text review,ST-COP-002-01-01,UGC Text Review,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-01354,ui/ux design,ST-IT-001-01-04,UI/UX Design Services,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-01355,ui/ux design services,ST-IT-001-01-04,UI/UX Design Services,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-01357,unemployment claims,ST-HR-004-01-01,Unemployment Claims Management,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-01358,unemployment claims management,ST-HR-004-01-01,Unemployment Claims Management,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-01361,uniformed officers,ST-FR-004-01-01,Uniformed Officers,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-01369,utility procurement,ST-FR-010-01-01,Utility Procurement Services,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-01370,utility procurement services,ST-FR-010-01-01,Utility Procurement Services,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-01383,vending,ST-FR-005-01-02,Vending Services,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-01384,vending services,ST-FR-005-01-02,Vending Services,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-01397,video moderation,ST-COP-002-01-03,Video Moderation,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-01401,vip/executive support,ST-IT-003-01-05,VIP/Executive Support,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-01407,vmi,ST-SC-006-01-01,VMI Services,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-01408,vmi services,ST-SC-006-01-01,VMI Services,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-01416,vulnerability,ST-IT-005-01-03,Vulnerability Management,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-01417,vulnerability management,ST-IT-005-01-03,Vulnerability Management,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-01420,warranty,ST-SC-008-01-04,Warranty Management,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-01421,warranty management,ST-SC-008-01-04,Warranty Management,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-01441,workers compensation,ST-HR-004-01-02,Workers Compensation Administration,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-01442,workers compensation administration,ST-HR-004-01-02,Workers Compensation Administration,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-01444,workplace strategy,ST-FR-009-01-01,Workplace Strategy Services,MEDIUM,SEED,0,2025-01-01,TRUE,
+ALI-01445,workplace strategy services,ST-FR-009-01-01,Workplace Strategy Services,HIGH,SEED,0,2025-01-01,TRUE,
+ALI-01446,synthetic data generation services,ST-AI-004-01-02,Synthetic Data Generation Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,AI
+ALI-01447,synthetic,ST-AI-004-01-02,Synthetic Data Generation Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,AI
+ALI-01448,data,ST-AI-004-01-02,Synthetic Data Generation Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,AI
+ALI-01449,customer experience analytics services,ST-CO-002-01-02,Customer Experience Analytics Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01450,customer,ST-CO-002-01-02,Customer Experience Analytics Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01451,experience,ST-CO-002-01-02,Customer Experience Analytics Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01452,customer experience training & nesting support,ST-CO-002-01-03,Customer Experience Training & Nesting Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01453,customer,ST-CO-002-01-03,Customer Experience Training & Nesting Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01454,experience,ST-CO-002-01-03,Customer Experience Training & Nesting Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01455,quality assurance & monitoring services,ST-CO-002-01-04,Quality Assurance & Monitoring Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01456,quality,ST-CO-002-01-04,Quality Assurance & Monitoring Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01457,assurance,ST-CO-002-01-04,Quality Assurance & Monitoring Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01458,workforce management & scheduling services,ST-CO-002-01-05,Workforce Management & Scheduling Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01459,workforce,ST-CO-002-01-05,Workforce Management & Scheduling Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01460,management,ST-CO-002-01-05,Workforce Management & Scheduling Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01461,customer inquiry & case resolution services,ST-CO-004-01-03,Customer Inquiry & Case Resolution Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01462,customer,ST-CO-004-01-03,Customer Inquiry & Case Resolution Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01463,inquiry,ST-CO-004-01-03,Customer Inquiry & Case Resolution Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01464,digital & messaging support,ST-CO-004-01-04,Digital & Messaging Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01465,digital,ST-CO-004-01-04,Digital & Messaging Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01466,messaging,ST-CO-004-01-04,Digital & Messaging Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01467,email & messaging support operations,ST-CO-004-01-05,Email & Messaging Support Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01468,email,ST-CO-004-01-05,Email & Messaging Support Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01469,messaging,ST-CO-004-01-05,Email & Messaging Support Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01470,escalations & complaints management,ST-CO-004-01-06,Escalations & Complaints Management,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01471,escalations,ST-CO-004-01-06,Escalations & Complaints Management,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01472,complaints,ST-CO-004-01-06,Escalations & Complaints Management,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01473,inbound contact center agent services,ST-CO-004-01-07,Inbound Contact Center Agent Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01474,inbound,ST-CO-004-01-07,Inbound Contact Center Agent Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01475,contact,ST-CO-004-01-07,Inbound Contact Center Agent Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01476,inbound voice support,ST-CO-004-01-08,Inbound Voice Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01477,inbound,ST-CO-004-01-08,Inbound Voice Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01478,voice,ST-CO-004-01-08,Inbound Voice Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01479,multilingual & overflow support services,ST-CO-004-01-09,Multilingual & Overflow Support Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01480,multilingual,ST-CO-004-01-09,Multilingual & Overflow Support Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01481,overflow,ST-CO-004-01-09,Multilingual & Overflow Support Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01482,outbound contact center sales & retention services,ST-CO-004-01-10,Outbound Contact Center Sales & Retention Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01483,outbound,ST-CO-004-01-10,Outbound Contact Center Sales & Retention Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01484,contact,ST-CO-004-01-10,Outbound Contact Center Sales & Retention Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01485,outbound customer contact services,ST-CO-004-01-11,Outbound Customer Contact Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01486,outbound,ST-CO-004-01-11,Outbound Customer Contact Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01487,customer,ST-CO-004-01-11,Outbound Customer Contact Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01488,customer renewal & expansion support,ST-CO-005-01-04,Customer Renewal & Expansion Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01489,customer,ST-CO-005-01-04,Customer Renewal & Expansion Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01490,renewal,ST-CO-005-01-04,Customer Renewal & Expansion Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01491,customer retention & win-back services,ST-CO-005-01-05,Customer Retention & Win-Back Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01492,customer,ST-CO-005-01-05,Customer Retention & Win-Back Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01493,retention,ST-CO-005-01-05,Customer Retention & Win-Back Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01494,proactive customer success management,ST-CO-005-01-06,Proactive Customer Success Management,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01495,proactive,ST-CO-005-01-06,Proactive Customer Success Management,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01496,customer,ST-CO-005-01-06,Proactive Customer Success Management,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01497,voice of customer & feedback operations,ST-CO-005-01-07,Voice of Customer & Feedback Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01498,voice,ST-CO-005-01-07,Voice of Customer & Feedback Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01499,customer,ST-CO-005-01-07,Voice of Customer & Feedback Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01500,billing & subscription support services,ST-CO-006-01-02,Billing & Subscription Support Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01501,billing,ST-CO-006-01-02,Billing & Subscription Support Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01502,subscription,ST-CO-006-01-02,Billing & Subscription Support Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01503,catalog & product content management,ST-CO-006-01-03,Catalog & Product Content Management,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01504,catalog,ST-CO-006-01-03,Catalog & Product Content Management,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01505,product,ST-CO-006-01-03,Catalog & Product Content Management,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01506,collections & receivables management,ST-CO-006-01-04,Collections & Receivables Management,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01507,collections,ST-CO-006-01-04,Collections & Receivables Management,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01508,receivables,ST-CO-006-01-04,Collections & Receivables Management,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01509,marketplace operations & seller support,ST-CO-006-01-05,Marketplace Operations & Seller Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01510,marketplace,ST-CO-006-01-05,Marketplace Operations & Seller Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01511,operations,ST-CO-006-01-05,Marketplace Operations & Seller Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01512,order management & fulfillment support,ST-CO-006-01-06,Order Management & Fulfillment Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01513,order,ST-CO-006-01-06,Order Management & Fulfillment Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01514,management,ST-CO-006-01-06,Order Management & Fulfillment Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01515,subscription & renewal management services,ST-CO-006-01-07,Subscription & Renewal Management Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01516,subscription,ST-CO-006-01-07,Subscription & Renewal Management Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01517,renewal,ST-CO-006-01-07,Subscription & Renewal Management Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01518,outbound telesales services,ST-CO-007-01-05,Outbound Telesales Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01519,outbound,ST-CO-007-01-05,Outbound Telesales Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01520,telesales,ST-CO-007-01-05,Outbound Telesales Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01521,quote-to-cash deal desk support,ST-CO-007-01-06,Quote-to-Cash Deal Desk Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01522,quote-to-cash,ST-CO-007-01-06,Quote-to-Cash Deal Desk Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01523,deal,ST-CO-007-01-06,Quote-to-Cash Deal Desk Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01524,sales enablement content & training support,ST-CO-007-01-07,Sales Enablement Content & Training Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01525,sales,ST-CO-007-01-07,Sales Enablement Content & Training Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01526,enablement,ST-CO-007-01-07,Sales Enablement Content & Training Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01527,sales support & proposal services,ST-CO-007-01-08,Sales Support & Proposal Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01528,sales,ST-CO-007-01-08,Sales Support & Proposal Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01529,support,ST-CO-007-01-08,Sales Support & Proposal Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01530,knowledge base & self-service content operations,ST-CO-008-01-04,Knowledge Base & Self-Service Content Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01531,knowledge,ST-CO-008-01-04,Knowledge Base & Self-Service Content Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01532,base,ST-CO-008-01-04,Knowledge Base & Self-Service Content Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01533,tier 1 technical support services,ST-CO-008-01-05,Tier 1 Technical Support Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01534,tier,ST-CO-008-01-05,Tier 1 Technical Support Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01535,technical,ST-CO-008-01-05,Tier 1 Technical Support Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,CO
+ALI-01536,child safety & exploitation response operations,ST-COP-003-01-03,Child Safety & Exploitation Response Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,COP
+ALI-01537,child,ST-COP-003-01-03,Child Safety & Exploitation Response Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,COP
+ALI-01538,safety,ST-COP-003-01-03,Child Safety & Exploitation Response Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,COP
+ALI-01539,"fraud, scam & abuse investigation services",ST-COP-003-01-04,"Fraud, Scam & Abuse Investigation Services",MEDIUM,GENERATED,0,2026-02-26,TRUE,COP
+ALI-01540,fraud,ST-COP-003-01-04,"Fraud, Scam & Abuse Investigation Services",MEDIUM,GENERATED,0,2026-02-26,TRUE,COP
+ALI-01541,scam,ST-COP-003-01-04,"Fraud, Scam & Abuse Investigation Services",MEDIUM,GENERATED,0,2026-02-26,TRUE,COP
+ALI-01542,policy enforcement operations,ST-COP-003-01-05,Policy Enforcement Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,COP
+ALI-01543,policy,ST-COP-003-01-05,Policy Enforcement Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,COP
+ALI-01544,enforcement,ST-COP-003-01-05,Policy Enforcement Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,COP
+ALI-01545,user appeals & escalations management,ST-COP-003-01-06,User Appeals & Escalations Management,MEDIUM,GENERATED,0,2026-02-26,TRUE,COP
+ALI-01546,user,ST-COP-003-01-06,User Appeals & Escalations Management,MEDIUM,GENERATED,0,2026-02-26,TRUE,COP
+ALI-01547,appeals,ST-COP-003-01-06,User Appeals & Escalations Management,MEDIUM,GENERATED,0,2026-02-26,TRUE,COP
+ALI-01548,csam & illegal content triage,ST-COP-004-01-03,CSAM & Illegal Content Triage,MEDIUM,GENERATED,0,2026-02-26,TRUE,COP
+ALI-01549,csam,ST-COP-004-01-03,CSAM & Illegal Content Triage,MEDIUM,GENERATED,0,2026-02-26,TRUE,COP
+ALI-01550,illegal,ST-COP-004-01-03,CSAM & Illegal Content Triage,MEDIUM,GENERATED,0,2026-02-26,TRUE,COP
+ALI-01551,image moderation services,ST-COP-004-01-04,Image Moderation Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,COP
+ALI-01552,image,ST-COP-004-01-04,Image Moderation Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,COP
+ALI-01553,moderation,ST-COP-004-01-04,Image Moderation Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,COP
+ALI-01554,text & comment moderation services,ST-COP-004-01-05,Text & Comment Moderation Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,COP
+ALI-01555,text,ST-COP-004-01-05,Text & Comment Moderation Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,COP
+ALI-01556,comment,ST-COP-004-01-05,Text & Comment Moderation Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,COP
+ALI-01557,ugc community review & forum moderation,ST-COP-004-01-06,UGC Community Review & Forum Moderation,MEDIUM,GENERATED,0,2026-02-26,TRUE,COP
+ALI-01558,ugc,ST-COP-004-01-06,UGC Community Review & Forum Moderation,MEDIUM,GENERATED,0,2026-02-26,TRUE,COP
+ALI-01559,community,ST-COP-004-01-06,UGC Community Review & Forum Moderation,MEDIUM,GENERATED,0,2026-02-26,TRUE,COP
+ALI-01560,video & live stream moderation services,ST-COP-004-01-07,Video & Live Stream Moderation Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,COP
+ALI-01561,video,ST-COP-004-01-07,Video & Live Stream Moderation Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,COP
+ALI-01562,live,ST-COP-004-01-07,Video & Live Stream Moderation Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,COP
+ALI-01563,ci/cd pipeline engineering & operations,ST-ENG-001-01-01,CI/CD Pipeline Engineering & Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01564,pipeline,ST-ENG-001-01-01,CI/CD Pipeline Engineering & Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01565,engineering,ST-ENG-001-01-01,CI/CD Pipeline Engineering & Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01566,cloud infrastructure build & migration services,ST-ENG-001-01-02,Cloud Infrastructure Build & Migration Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01567,cloud,ST-ENG-001-01-02,Cloud Infrastructure Build & Migration Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01568,infrastructure,ST-ENG-001-01-02,Cloud Infrastructure Build & Migration Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01569,cloud infrastructure engineering,ST-ENG-001-01-03,Cloud Infrastructure Engineering,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01570,cloud,ST-ENG-001-01-03,Cloud Infrastructure Engineering,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01571,infrastructure,ST-ENG-001-01-03,Cloud Infrastructure Engineering,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01572,devops & ci/cd pipeline services,ST-ENG-001-01-04,DevOps & CI/CD Pipeline Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01573,devops,ST-ENG-001-01-04,DevOps & CI/CD Pipeline Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01574,pipeline,ST-ENG-001-01-04,DevOps & CI/CD Pipeline Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01575,platform api & integration development services,ST-ENG-001-01-05,Platform API & Integration Development Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01576,platform,ST-ENG-001-01-05,Platform API & Integration Development Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01577,api,ST-ENG-001-01-05,Platform API & Integration Development Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01578,site reliability engineering (sre) services,ST-ENG-001-01-06,Site Reliability Engineering (SRE) Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01579,site,ST-ENG-001-01-06,Site Reliability Engineering (SRE) Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01580,reliability,ST-ENG-001-01-06,Site Reliability Engineering (SRE) Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01581,embedded software & firmware development,ST-ENG-002-01-01,Embedded Software & Firmware Development,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01582,embedded,ST-ENG-002-01-01,Embedded Software & Firmware Development,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01583,software,ST-ENG-002-01-01,Embedded Software & Firmware Development,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01584,embedded software development services,ST-ENG-002-01-02,Embedded Software Development Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01585,embedded,ST-ENG-002-01-02,Embedded Software Development Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01586,software,ST-ENG-002-01-02,Embedded Software Development Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01587,embedded systems engineering,ST-ENG-002-01-03,Embedded Systems Engineering,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01588,embedded,ST-ENG-002-01-03,Embedded Systems Engineering,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01589,systems,ST-ENG-002-01-03,Embedded Systems Engineering,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01590,hardware design verification & validation services,ST-ENG-002-01-04,Hardware Design Verification & Validation Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01591,hardware,ST-ENG-002-01-04,Hardware Design Verification & Validation Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01592,design,ST-ENG-002-01-04,Hardware Design Verification & Validation Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01593,hardware testing & certification support,ST-ENG-002-01-05,Hardware Testing & Certification Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01594,hardware,ST-ENG-002-01-05,Hardware Testing & Certification Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01595,testing,ST-ENG-002-01-05,Hardware Testing & Certification Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01596,pcb & hardware design services,ST-ENG-002-01-06,PCB & Hardware Design Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01597,pcb,ST-ENG-002-01-06,PCB & Hardware Design Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01598,hardware,ST-ENG-002-01-06,PCB & Hardware Design Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01599,simulation & cae services,ST-ENG-002-01-07,Simulation & CAE Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01600,simulation,ST-ENG-002-01-07,Simulation & CAE Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01601,cae,ST-ENG-002-01-07,Simulation & CAE Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01602,product management & roadmap support,ST-ENG-003-01-01,Product Management & Roadmap Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01603,product,ST-ENG-003-01-01,Product Management & Roadmap Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01604,management,ST-ENG-003-01-01,Product Management & Roadmap Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01605,product prototyping & wireframing,ST-ENG-003-01-02,Product Prototyping & Wireframing,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01606,product,ST-ENG-003-01-02,Product Prototyping & Wireframing,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01607,prototyping,ST-ENG-003-01-02,Product Prototyping & Wireframing,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01608,ui/ux design production services,ST-ENG-003-01-03,UI/UX Design Production Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01609,design,ST-ENG-003-01-03,UI/UX Design Production Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01610,production,ST-ENG-003-01-03,UI/UX Design Production Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01611,ui/ux design services,ST-ENG-003-01-04,UI/UX Design Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01612,design,ST-ENG-003-01-04,UI/UX Design Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01613,services,ST-ENG-003-01-04,UI/UX Design Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01614,ux research & usability testing,ST-ENG-003-01-05,UX Research & Usability Testing,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01615,research,ST-ENG-003-01-05,UX Research & Usability Testing,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01616,usability,ST-ENG-003-01-05,UX Research & Usability Testing,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01617,ux research operations & participant recruitment,ST-ENG-003-01-06,UX Research Operations & Participant Recruitment,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01618,research,ST-ENG-003-01-06,UX Research Operations & Participant Recruitment,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01619,operations,ST-ENG-003-01-06,UX Research Operations & Participant Recruitment,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01620,ux/ui design services,ST-ENG-003-01-07,UX/UI Design Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01621,design,ST-ENG-003-01-07,UX/UI Design Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01622,services,ST-ENG-003-01-07,UX/UI Design Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01623,product backlog administration & jira operations,ST-ENG-004-01-01,Product Backlog Administration & Jira Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01624,product,ST-ENG-004-01-01,Product Backlog Administration & Jira Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01625,backlog,ST-ENG-004-01-01,Product Backlog Administration & Jira Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01626,release planning & roadmap coordination,ST-ENG-004-01-02,Release Planning & Roadmap Coordination,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01627,release,ST-ENG-004-01-02,Release Planning & Roadmap Coordination,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01628,planning,ST-ENG-004-01-02,Release Planning & Roadmap Coordination,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01629,manual functional testing services,ST-ENG-005-01-01,Manual Functional Testing Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01630,manual,ST-ENG-005-01-01,Manual Functional Testing Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01631,functional,ST-ENG-005-01-01,Manual Functional Testing Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01632,manual qa & functional testing,ST-ENG-005-01-02,Manual QA & Functional Testing,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01633,manual,ST-ENG-005-01-02,Manual QA & Functional Testing,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01634,functional,ST-ENG-005-01-02,Manual QA & Functional Testing,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01635,performance & load testing services,ST-ENG-005-01-03,Performance & Load Testing Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01636,performance,ST-ENG-005-01-03,Performance & Load Testing Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01637,load,ST-ENG-005-01-03,Performance & Load Testing Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01638,security testing & code review services,ST-ENG-005-01-04,Security Testing & Code Review Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01639,security,ST-ENG-005-01-04,Security Testing & Code Review Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01640,testing,ST-ENG-005-01-04,Security Testing & Code Review Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01641,test automation engineering,ST-ENG-005-01-05,Test Automation Engineering,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01642,test,ST-ENG-005-01-05,Test Automation Engineering,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01643,automation,ST-ENG-005-01-05,Test Automation Engineering,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01644,test automation engineering services,ST-ENG-005-01-06,Test Automation Engineering Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01645,test,ST-ENG-005-01-06,Test Automation Engineering Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01646,automation,ST-ENG-005-01-06,Test Automation Engineering Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01647,api development & integration services,ST-ENG-006-01-01,API Development & Integration Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01648,api,ST-ENG-006-01-01,API Development & Integration Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01649,development,ST-ENG-006-01-01,API Development & Integration Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01650,application development (feature build) services,ST-ENG-006-01-02,Application Development (Feature Build) Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01651,application,ST-ENG-006-01-02,Application Development (Feature Build) Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01652,development,ST-ENG-006-01-02,Application Development (Feature Build) Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01653,application maintenance & l2/l3 engineering support,ST-ENG-006-01-03,Application Maintenance & L2/L3 Engineering Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01654,application,ST-ENG-006-01-03,Application Maintenance & L2/L3 Engineering Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01655,maintenance,ST-ENG-006-01-03,Application Maintenance & L2/L3 Engineering Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01656,application maintenance & support,ST-ENG-006-01-04,Application Maintenance & Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01657,application,ST-ENG-006-01-04,Application Maintenance & Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01658,maintenance,ST-ENG-006-01-04,Application Maintenance & Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01659,commercial software product development,ST-ENG-006-01-05,Commercial Software Product Development,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01660,commercial,ST-ENG-006-01-05,Commercial Software Product Development,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01661,software,ST-ENG-006-01-05,Commercial Software Product Development,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01662,custom application development,ST-ENG-006-01-06,Custom Application Development,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01663,custom,ST-ENG-006-01-06,Custom Application Development,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01664,application,ST-ENG-006-01-06,Custom Application Development,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01665,mobile application development,ST-ENG-006-01-07,Mobile Application Development,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01666,mobile,ST-ENG-006-01-07,Mobile Application Development,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01667,application,ST-ENG-006-01-07,Mobile Application Development,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01668,product qa & automated testing,ST-ENG-006-01-08,Product QA & Automated Testing,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01669,product,ST-ENG-006-01-08,Product QA & Automated Testing,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01670,automated,ST-ENG-006-01-08,Product QA & Automated Testing,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01671,api reference generation & documentation ops,ST-ENG-007-01-01,API Reference Generation & Documentation Ops,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01672,api,ST-ENG-007-01-01,API Reference Generation & Documentation Ops,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01673,reference,ST-ENG-007-01-01,API Reference Generation & Documentation Ops,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01674,technical writing & developer documentation services,ST-ENG-007-01-02,Technical Writing & Developer Documentation Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01675,technical,ST-ENG-007-01-02,Technical Writing & Developer Documentation Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01676,writing,ST-ENG-007-01-02,Technical Writing & Developer Documentation Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,ENG
+ALI-01677,contract negotiation support services,ST-FA-009-01-02,Contract Negotiation Support Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,FA
+ALI-01678,contract,ST-FA-009-01-02,Contract Negotiation Support Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,FA
+ALI-01679,negotiation,ST-FA-009-01-02,Contract Negotiation Support Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,FA
+ALI-01680,procurement analytics & reporting services,ST-FA-009-01-03,Procurement Analytics & Reporting Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,FA
+ALI-01681,procurement,ST-FA-009-01-03,Procurement Analytics & Reporting Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,FA
+ALI-01682,analytics,ST-FA-009-01-03,Procurement Analytics & Reporting Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,FA
+ALI-01683,purchase order & requisition processing,ST-FA-009-01-04,Purchase Order & Requisition Processing,MEDIUM,GENERATED,0,2026-02-26,TRUE,FA
+ALI-01684,purchase,ST-FA-009-01-04,Purchase Order & Requisition Processing,MEDIUM,GENERATED,0,2026-02-26,TRUE,FA
+ALI-01685,order,ST-FA-009-01-04,Purchase Order & Requisition Processing,MEDIUM,GENERATED,0,2026-02-26,TRUE,FA
+ALI-01686,strategic sourcing support services,ST-FA-009-01-05,Strategic Sourcing Support Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,FA
+ALI-01687,strategic,ST-FA-009-01-05,Strategic Sourcing Support Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,FA
+ALI-01688,sourcing,ST-FA-009-01-05,Strategic Sourcing Support Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,FA
+ALI-01689,supplier onboarding & enablement services,ST-FA-009-01-06,Supplier Onboarding & Enablement Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,FA
+ALI-01690,supplier,ST-FA-009-01-06,Supplier Onboarding & Enablement Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,FA
+ALI-01691,onboarding,ST-FA-009-01-06,Supplier Onboarding & Enablement Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,FA
+ALI-01692,supplier performance management support,ST-FA-009-01-07,Supplier Performance Management Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,FA
+ALI-01693,supplier,ST-FA-009-01-07,Supplier Performance Management Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,FA
+ALI-01694,performance,ST-FA-009-01-07,Supplier Performance Management Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,FA
+ALI-01695,supplier risk & compliance operations,ST-FA-009-01-08,Supplier Risk & Compliance Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,FA
+ALI-01696,supplier,ST-FA-009-01-08,Supplier Risk & Compliance Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,FA
+ALI-01697,risk,ST-FA-009-01-08,Supplier Risk & Compliance Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,FA
+ALI-01698,management reporting services,ST-FA-010-01-02,Management Reporting Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,FA
+ALI-01699,management,ST-FA-010-01-02,Management Reporting Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,FA
+ALI-01700,reporting,ST-FA-010-01-02,Management Reporting Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,FA
+ALI-01701,business license & permit fees administration,ST-FA-011-01-01,Business License & Permit Fees Administration,MEDIUM,GENERATED,0,2026-02-26,TRUE,FA
+ALI-01702,business,ST-FA-011-01-01,Business License & Permit Fees Administration,MEDIUM,GENERATED,0,2026-02-26,TRUE,FA
+ALI-01703,license,ST-FA-011-01-01,Business License & Permit Fees Administration,MEDIUM,GENERATED,0,2026-02-26,TRUE,FA
+ALI-01704,corporate income tax compliance,ST-FA-011-01-02,Corporate Income Tax Compliance,MEDIUM,GENERATED,0,2026-02-26,TRUE,FA
+ALI-01705,corporate,ST-FA-011-01-02,Corporate Income Tax Compliance,MEDIUM,GENERATED,0,2026-02-26,TRUE,FA
+ALI-01706,income,ST-FA-011-01-02,Corporate Income Tax Compliance,MEDIUM,GENERATED,0,2026-02-26,TRUE,FA
+ALI-01707,indirect tax & vat/sales tax compliance,ST-FA-011-01-03,Indirect Tax & VAT/Sales Tax Compliance,MEDIUM,GENERATED,0,2026-02-26,TRUE,FA
+ALI-01708,indirect,ST-FA-011-01-03,Indirect Tax & VAT/Sales Tax Compliance,MEDIUM,GENERATED,0,2026-02-26,TRUE,FA
+ALI-01709,tax,ST-FA-011-01-03,Indirect Tax & VAT/Sales Tax Compliance,MEDIUM,GENERATED,0,2026-02-26,TRUE,FA
+ALI-01710,statutory business taxes,ST-FA-011-01-04,Statutory Business Taxes,MEDIUM,GENERATED,0,2026-02-26,TRUE,FA
+ALI-01711,statutory,ST-FA-011-01-04,Statutory Business Taxes,MEDIUM,GENERATED,0,2026-02-26,TRUE,FA
+ALI-01712,business,ST-FA-011-01-04,Statutory Business Taxes,MEDIUM,GENERATED,0,2026-02-26,TRUE,FA
+ALI-01713,cash management & positioning,ST-FA-012-01-01,Cash Management & Positioning,MEDIUM,GENERATED,0,2026-02-26,TRUE,FA
+ALI-01714,cash,ST-FA-012-01-01,Cash Management & Positioning,MEDIUM,GENERATED,0,2026-02-26,TRUE,FA
+ALI-01715,management,ST-FA-012-01-01,Cash Management & Positioning,MEDIUM,GENERATED,0,2026-02-26,TRUE,FA
+ALI-01716,"payments, wires & bank operations",ST-FA-012-01-02,"Payments, Wires & Bank Operations",MEDIUM,GENERATED,0,2026-02-26,TRUE,FA
+ALI-01717,payments,ST-FA-012-01-02,"Payments, Wires & Bank Operations",MEDIUM,GENERATED,0,2026-02-26,TRUE,FA
+ALI-01718,wires,ST-FA-012-01-02,"Payments, Wires & Bank Operations",MEDIUM,GENERATED,0,2026-02-26,TRUE,FA
+ALI-01719,payroll processing services,ST-FA-012-01-03,Payroll Processing Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,FA
+ALI-01720,payroll,ST-FA-012-01-03,Payroll Processing Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,FA
+ALI-01721,processing,ST-FA-012-01-03,Payroll Processing Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,FA
+ALI-01722,payroll tax & statutory compliance services,ST-FA-012-01-04,Payroll Tax & Statutory Compliance Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,FA
+ALI-01723,payroll,ST-FA-012-01-04,Payroll Tax & Statutory Compliance Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,FA
+ALI-01724,tax,ST-FA-012-01-04,Payroll Tax & Statutory Compliance Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,FA
+ALI-01725,time & attendance administration,ST-FA-012-01-05,Time & Attendance Administration,MEDIUM,GENERATED,0,2026-02-26,TRUE,FA
+ALI-01726,time,ST-FA-012-01-05,Time & Attendance Administration,MEDIUM,GENERATED,0,2026-02-26,TRUE,FA
+ALI-01727,attendance,ST-FA-012-01-05,Time & Attendance Administration,MEDIUM,GENERATED,0,2026-02-26,TRUE,FA
+ALI-01728,workplace health & safety program support,ST-FR-002-01-03,Workplace Health & Safety Program Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,FR
+ALI-01729,workplace,ST-FR-002-01-03,Workplace Health & Safety Program Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,FR
+ALI-01730,health,ST-FR-002-01-03,Workplace Health & Safety Program Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,FR
+ALI-01731,workplace incident management services,ST-FR-002-01-04,Workplace Incident Management Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,FR
+ALI-01732,workplace,ST-FR-002-01-04,Workplace Incident Management Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,FR
+ALI-01733,incident,ST-FR-002-01-04,Workplace Incident Management Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,FR
+ALI-01734,soft facilities services management,ST-FR-006-01-05,Soft Facilities Services Management,MEDIUM,GENERATED,0,2026-02-26,TRUE,FR
+ALI-01735,soft,ST-FR-006-01-05,Soft Facilities Services Management,MEDIUM,GENERATED,0,2026-02-26,TRUE,FR
+ALI-01736,facilities,ST-FR-006-01-05,Soft Facilities Services Management,MEDIUM,GENERATED,0,2026-02-26,TRUE,FR
+ALI-01737,hvac maintenance & monitoring services,ST-FR-007-01-03,HVAC Maintenance & Monitoring Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,FR
+ALI-01738,hvac,ST-FR-007-01-03,HVAC Maintenance & Monitoring Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,FR
+ALI-01739,maintenance,ST-FR-007-01-03,HVAC Maintenance & Monitoring Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,FR
+ALI-01740,landscaping & grounds maintenance services,ST-FR-007-01-04,Landscaping & Grounds Maintenance Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,FR
+ALI-01741,landscaping,ST-FR-007-01-04,Landscaping & Grounds Maintenance Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,FR
+ALI-01742,grounds,ST-FR-007-01-04,Landscaping & Grounds Maintenance Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,FR
+ALI-01743,soft facilities (janitorial & cleaning) services,ST-FR-007-01-05,Soft Facilities (Janitorial & Cleaning) Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,FR
+ALI-01744,soft,ST-FR-007-01-05,Soft Facilities (Janitorial & Cleaning) Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,FR
+ALI-01745,facilities,ST-FR-007-01-05,Soft Facilities (Janitorial & Cleaning) Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,FR
+ALI-01746,property management services,ST-FR-008-01-03,Property Management Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,FR
+ALI-01747,property,ST-FR-008-01-03,Property Management Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,FR
+ALI-01748,management,ST-FR-008-01-03,Property Management Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,FR
+ALI-01749,real estate transaction support services,ST-FR-008-01-04,Real Estate Transaction Support Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,FR
+ALI-01750,real,ST-FR-008-01-04,Real Estate Transaction Support Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,FR
+ALI-01751,estate,ST-FR-008-01-04,Real Estate Transaction Support Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,FR
+ALI-01752,space & occupancy management,ST-FR-008-01-05,Space & Occupancy Management,MEDIUM,GENERATED,0,2026-02-26,TRUE,FR
+ALI-01753,space,ST-FR-008-01-05,Space & Occupancy Management,MEDIUM,GENERATED,0,2026-02-26,TRUE,FR
+ALI-01754,occupancy,ST-FR-008-01-05,Space & Occupancy Management,MEDIUM,GENERATED,0,2026-02-26,TRUE,FR
+ALI-01755,fire & life safety systems management,ST-FR-009-01-02,Fire & Life Safety Systems Management,MEDIUM,GENERATED,0,2026-02-26,TRUE,FR
+ALI-01756,fire,ST-FR-009-01-02,Fire & Life Safety Systems Management,MEDIUM,GENERATED,0,2026-02-26,TRUE,FR
+ALI-01757,life,ST-FR-009-01-02,Fire & Life Safety Systems Management,MEDIUM,GENERATED,0,2026-02-26,TRUE,FR
+ALI-01758,physical security & guard services,ST-FR-009-01-03,Physical Security & Guard Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,FR
+ALI-01759,physical,ST-FR-009-01-03,Physical Security & Guard Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,FR
+ALI-01760,security,ST-FR-009-01-03,Physical Security & Guard Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,FR
+ALI-01761,physical security guarding services,ST-FR-009-01-04,Physical Security Guarding Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,FR
+ALI-01762,physical,ST-FR-009-01-04,Physical Security Guarding Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,FR
+ALI-01763,security,ST-FR-009-01-04,Physical Security Guarding Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,FR
+ALI-01764,security monitoring & control room operations,ST-FR-009-01-05,Security Monitoring & Control Room Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,FR
+ALI-01765,security,ST-FR-009-01-05,Security Monitoring & Control Room Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,FR
+ALI-01766,monitoring,ST-FR-009-01-05,Security Monitoring & Control Room Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,FR
+ALI-01767,video surveillance & monitoring services,ST-FR-009-01-06,Video Surveillance & Monitoring Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,FR
+ALI-01768,video,ST-FR-009-01-06,Video Surveillance & Monitoring Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,FR
+ALI-01769,surveillance,ST-FR-009-01-06,Video Surveillance & Monitoring Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,FR
+ALI-01770,document printing & reprographics services,ST-FR-010-01-02,Document Printing & Reprographics Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,FR
+ALI-01771,document,ST-FR-010-01-02,Document Printing & Reprographics Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,FR
+ALI-01772,printing,ST-FR-010-01-02,Document Printing & Reprographics Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,FR
+ALI-01773,front desk & reception services,ST-FR-010-01-03,Front Desk & Reception Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,FR
+ALI-01774,front,ST-FR-010-01-03,Front Desk & Reception Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,FR
+ALI-01775,desk,ST-FR-010-01-03,Front Desk & Reception Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,FR
+ALI-01776,mailroom & document services,ST-FR-010-01-04,Mailroom & Document Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,FR
+ALI-01777,mailroom,ST-FR-010-01-04,Mailroom & Document Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,FR
+ALI-01778,document,ST-FR-010-01-04,Mailroom & Document Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,FR
+ALI-01779,mailroom operations & package handling,ST-FR-010-01-05,Mailroom Operations & Package Handling,MEDIUM,GENERATED,0,2026-02-26,TRUE,FR
+ALI-01780,mailroom,ST-FR-010-01-05,Mailroom Operations & Package Handling,MEDIUM,GENERATED,0,2026-02-26,TRUE,FR
+ALI-01781,operations,ST-FR-010-01-05,Mailroom Operations & Package Handling,MEDIUM,GENERATED,0,2026-02-26,TRUE,FR
+ALI-01782,reception & visitor management,ST-FR-010-01-06,Reception & Visitor Management,MEDIUM,GENERATED,0,2026-02-26,TRUE,FR
+ALI-01783,reception,ST-FR-010-01-06,Reception & Visitor Management,MEDIUM,GENERATED,0,2026-02-26,TRUE,FR
+ALI-01784,visitor,ST-FR-010-01-06,Reception & Visitor Management,MEDIUM,GENERATED,0,2026-02-26,TRUE,FR
+ALI-01785,"workplace moves, adds & changes (mac) services",ST-FR-010-01-07,"Workplace Moves, Adds & Changes (MAC) Services",MEDIUM,GENERATED,0,2026-02-26,TRUE,FR
+ALI-01786,workplace,ST-FR-010-01-07,"Workplace Moves, Adds & Changes (MAC) Services",MEDIUM,GENERATED,0,2026-02-26,TRUE,FR
+ALI-01787,moves,ST-FR-010-01-07,"Workplace Moves, Adds & Changes (MAC) Services",MEDIUM,GENERATED,0,2026-02-26,TRUE,FR
+ALI-01788,temp staffing services,ST-HR-001-01-02,Temp Staffing Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,HR
+ALI-01789,temp,ST-HR-001-01-02,Temp Staffing Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,HR
+ALI-01790,staffing,ST-HR-001-01-02,Temp Staffing Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,HR
+ALI-01791,workforce planning & forecasting services,ST-HR-002-01-02,Workforce Planning & Forecasting Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,HR
+ALI-01792,workforce,ST-HR-002-01-02,Workforce Planning & Forecasting Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,HR
+ALI-01793,planning,ST-HR-002-01-02,Workforce Planning & Forecasting Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,HR
+ALI-01794,recruitment process outsourcing (rpo),ST-HR-003-01-02,Recruitment Process Outsourcing (RPO),MEDIUM,GENERATED,0,2026-02-26,TRUE,HR
+ALI-01795,recruitment,ST-HR-003-01-02,Recruitment Process Outsourcing (RPO),MEDIUM,GENERATED,0,2026-02-26,TRUE,HR
+ALI-01796,process,ST-HR-003-01-02,Recruitment Process Outsourcing (RPO),MEDIUM,GENERATED,0,2026-02-26,TRUE,HR
+ALI-01797,leave administration services,ST-HR-004-01-03,Leave Administration Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,HR
+ALI-01798,leave,ST-HR-004-01-03,Leave Administration Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,HR
+ALI-01799,administration,ST-HR-004-01-03,Leave Administration Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,HR
+ALI-01800,soc operations & threat monitoring,ST-IT-001-01-06,SOC Operations & Threat Monitoring,MEDIUM,GENERATED,0,2026-02-26,TRUE,IT
+ALI-01801,soc,ST-IT-001-01-06,SOC Operations & Threat Monitoring,MEDIUM,GENERATED,0,2026-02-26,TRUE,IT
+ALI-01802,operations,ST-IT-001-01-06,SOC Operations & Threat Monitoring,MEDIUM,GENERATED,0,2026-02-26,TRUE,IT
+ALI-01803,security awareness program operations,ST-IT-001-01-07,Security Awareness Program Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,IT
+ALI-01804,security,ST-IT-001-01-07,Security Awareness Program Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,IT
+ALI-01805,awareness,ST-IT-001-01-07,Security Awareness Program Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,IT
+ALI-01806,vulnerability management & scanning services,ST-IT-001-01-08,Vulnerability Management & Scanning Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,IT
+ALI-01807,vulnerability,ST-IT-001-01-08,Vulnerability Management & Scanning Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,IT
+ALI-01808,management,ST-IT-001-01-08,Vulnerability Management & Scanning Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,IT
+ALI-01809,crm platform administration services,ST-IT-002-01-02,CRM Platform Administration Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,IT
+ALI-01810,crm,ST-IT-002-01-02,CRM Platform Administration Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,IT
+ALI-01811,platform,ST-IT-002-01-02,CRM Platform Administration Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,IT
+ALI-01812,custom software development,ST-IT-002-01-03,Custom Software Development,MEDIUM,GENERATED,0,2026-02-26,TRUE,IT
+ALI-01813,custom,ST-IT-002-01-03,Custom Software Development,MEDIUM,GENERATED,0,2026-02-26,TRUE,IT
+ALI-01814,software,ST-IT-002-01-03,Custom Software Development,MEDIUM,GENERATED,0,2026-02-26,TRUE,IT
+ALI-01815,erp implementation services,ST-IT-002-01-04,ERP Implementation Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,IT
+ALI-01816,erp,ST-IT-002-01-04,ERP Implementation Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,IT
+ALI-01817,implementation,ST-IT-002-01-04,ERP Implementation Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,IT
+ALI-01818,erp operations & ongoing support,ST-IT-002-01-05,ERP Operations & Ongoing Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,IT
+ALI-01819,erp,ST-IT-002-01-05,ERP Operations & Ongoing Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,IT
+ALI-01820,operations,ST-IT-002-01-05,ERP Operations & Ongoing Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,IT
+ALI-01821,enterprise collaboration platform administration,ST-IT-002-01-06,Enterprise Collaboration Platform Administration,MEDIUM,GENERATED,0,2026-02-26,TRUE,IT
+ALI-01822,enterprise,ST-IT-002-01-06,Enterprise Collaboration Platform Administration,MEDIUM,GENERATED,0,2026-02-26,TRUE,IT
+ALI-01823,collaboration,ST-IT-002-01-06,Enterprise Collaboration Platform Administration,MEDIUM,GENERATED,0,2026-02-26,TRUE,IT
+ALI-01824,managed application support,ST-IT-002-01-07,Managed Application Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,IT
+ALI-01825,managed,ST-IT-002-01-07,Managed Application Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,IT
+ALI-01826,application,ST-IT-002-01-07,Managed Application Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,IT
+ALI-01827,middleware & integration platform operations,ST-IT-002-01-08,Middleware & Integration Platform Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,IT
+ALI-01828,middleware,ST-IT-002-01-08,Middleware & Integration Platform Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,IT
+ALI-01829,integration,ST-IT-002-01-08,Middleware & Integration Platform Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,IT
+ALI-01830,saas application administration services,ST-IT-002-01-09,SaaS Application Administration Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,IT
+ALI-01831,saas,ST-IT-002-01-09,SaaS Application Administration Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,IT
+ALI-01832,application,ST-IT-002-01-09,SaaS Application Administration Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,IT
+ALI-01833,systems integration services,ST-IT-002-01-10,Systems Integration Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,IT
+ALI-01834,systems,ST-IT-002-01-10,Systems Integration Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,IT
+ALI-01835,integration,ST-IT-002-01-10,Systems Integration Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,IT
+ALI-01836,managed it operations,ST-IT-004-01-05,Managed IT Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,IT
+ALI-01837,managed,ST-IT-004-01-05,Managed IT Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,IT
+ALI-01838,operations,ST-IT-004-01-05,Managed IT Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,IT
+ALI-01839,service desk & l1 help desk operations,ST-IT-004-01-06,Service Desk & L1 Help Desk Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,IT
+ALI-01840,service,ST-IT-004-01-06,Service Desk & L1 Help Desk Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,IT
+ALI-01841,desk,ST-IT-004-01-06,Service Desk & L1 Help Desk Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,IT
+ALI-01842,unified communications administration,ST-IT-005-01-10,Unified Communications Administration,MEDIUM,GENERATED,0,2026-02-26,TRUE,IT
+ALI-01843,unified,ST-IT-005-01-10,Unified Communications Administration,MEDIUM,GENERATED,0,2026-02-26,TRUE,IT
+ALI-01844,communications,ST-IT-005-01-10,Unified Communications Administration,MEDIUM,GENERATED,0,2026-02-26,TRUE,IT
+ALI-01845,application performance monitoring (apm) services,ST-IT-006-01-02,Application Performance Monitoring (APM) Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,IT
+ALI-01846,application,ST-IT-006-01-02,Application Performance Monitoring (APM) Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,IT
+ALI-01847,performance,ST-IT-006-01-02,Application Performance Monitoring (APM) Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,IT
+ALI-01848,capacity planning & performance optimization,ST-IT-006-01-03,Capacity Planning & Performance Optimization,MEDIUM,GENERATED,0,2026-02-26,TRUE,IT
+ALI-01849,capacity,ST-IT-006-01-03,Capacity Planning & Performance Optimization,MEDIUM,GENERATED,0,2026-02-26,TRUE,IT
+ALI-01850,planning,ST-IT-006-01-03,Capacity Planning & Performance Optimization,MEDIUM,GENERATED,0,2026-02-26,TRUE,IT
+ALI-01851,it event & alert management services,ST-IT-006-01-04,IT Event & Alert Management Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,IT
+ALI-01852,event,ST-IT-006-01-04,IT Event & Alert Management Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,IT
+ALI-01853,alert,ST-IT-006-01-04,IT Event & Alert Management Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,IT
+ALI-01854,observability platform administration,ST-IT-006-01-05,Observability Platform Administration,MEDIUM,GENERATED,0,2026-02-26,TRUE,IT
+ALI-01855,observability,ST-IT-006-01-05,Observability Platform Administration,MEDIUM,GENERATED,0,2026-02-26,TRUE,IT
+ALI-01856,platform,ST-IT-006-01-05,Observability Platform Administration,MEDIUM,GENERATED,0,2026-02-26,TRUE,IT
+ALI-01857,brand strategy & positioning services,ST-MK-001-01-01,Brand Strategy & Positioning Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01858,brand,ST-MK-001-01-01,Brand Strategy & Positioning Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01859,strategy,ST-MK-001-01-01,Brand Strategy & Positioning Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01860,competitive & market research services,ST-MK-001-01-02,Competitive & Market Research Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01861,competitive,ST-MK-001-01-02,Competitive & Market Research Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01862,market,ST-MK-001-01-02,Competitive & Market Research Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01863,competitive intelligence & benchmarking services,ST-MK-001-01-03,Competitive Intelligence & Benchmarking Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01864,competitive,ST-MK-001-01-03,Competitive Intelligence & Benchmarking Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01865,intelligence,ST-MK-001-01-03,Competitive Intelligence & Benchmarking Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01866,market research & consumer insights,ST-MK-001-01-04,Market Research & Consumer Insights,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01867,market,ST-MK-001-01-04,Market Research & Consumer Insights,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01868,research,ST-MK-001-01-04,Market Research & Consumer Insights,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01869,content strategy & calendar management,ST-MK-002-01-01,Content Strategy & Calendar Management,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01870,content,ST-MK-002-01-01,Content Strategy & Calendar Management,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01871,strategy,ST-MK-002-01-01,Content Strategy & Calendar Management,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01872,content strategy & editorial planning services,ST-MK-002-01-02,Content Strategy & Editorial Planning Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01873,content,ST-MK-002-01-02,Content Strategy & Editorial Planning Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01874,strategy,ST-MK-002-01-02,Content Strategy & Editorial Planning Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01875,email marketing operations,ST-MK-002-01-03,Email Marketing Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01876,email,ST-MK-002-01-03,Email Marketing Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01877,marketing,ST-MK-002-01-03,Email Marketing Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01878,seo & content writing services,ST-MK-002-01-04,SEO & Content Writing Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01879,seo,ST-MK-002-01-04,SEO & Content Writing Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01880,content,ST-MK-002-01-04,SEO & Content Writing Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01881,seo content optimization services,ST-MK-002-01-05,SEO Content Optimization Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01882,seo,ST-MK-002-01-05,SEO Content Optimization Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01883,content,ST-MK-002-01-05,SEO Content Optimization Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01884,seo rank monitoring & reporting operations,ST-MK-002-01-06,SEO Rank Monitoring & Reporting Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01885,seo,ST-MK-002-01-06,SEO Rank Monitoring & Reporting Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01886,rank,ST-MK-002-01-06,SEO Rank Monitoring & Reporting Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01887,social media content operations,ST-MK-002-01-07,Social Media Content Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01888,social,ST-MK-002-01-07,Social Media Content Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01889,media,ST-MK-002-01-07,Social Media Content Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01890,technical seo audit & remediation support,ST-MK-002-01-08,Technical SEO Audit & Remediation Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01891,technical,ST-MK-002-01-08,Technical SEO Audit & Remediation Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01892,seo,ST-MK-002-01-08,Technical SEO Audit & Remediation Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01893,copywriting & editorial services,ST-MK-003-01-01,Copywriting & Editorial Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01894,copywriting,ST-MK-003-01-01,Copywriting & Editorial Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01895,editorial,ST-MK-003-01-01,Copywriting & Editorial Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01896,creative design & graphic production services,ST-MK-003-01-02,Creative Design & Graphic Production Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01897,creative,ST-MK-003-01-02,Creative Design & Graphic Production Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01898,design,ST-MK-003-01-02,Creative Design & Graphic Production Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01899,graphic design & visual production,ST-MK-003-01-03,Graphic Design & Visual Production,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01900,graphic,ST-MK-003-01-03,Graphic Design & Visual Production,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01901,design,ST-MK-003-01-03,Graphic Design & Visual Production,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01902,packaging & print design services,ST-MK-003-01-04,Packaging & Print Design Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01903,packaging,ST-MK-003-01-04,Packaging & Print Design Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01904,print,ST-MK-003-01-04,Packaging & Print Design Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01905,photography & image production services,ST-MK-003-01-05,Photography & Image Production Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01906,photography,ST-MK-003-01-05,Photography & Image Production Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01907,image,ST-MK-003-01-05,Photography & Image Production Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01908,video editing & motion graphics,ST-MK-003-01-06,Video Editing & Motion Graphics,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01909,video,ST-MK-003-01-06,Video Editing & Motion Graphics,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01910,editing,ST-MK-003-01-06,Video Editing & Motion Graphics,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01911,video production & motion graphics services,ST-MK-003-01-07,Video Production & Motion Graphics Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01912,video,ST-MK-003-01-07,Video Production & Motion Graphics Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01913,production,ST-MK-003-01-07,Video Production & Motion Graphics Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01914,event lead management & follow-up operations,ST-MK-004-01-01,Event Lead Management & Follow-Up Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01915,event,ST-MK-004-01-01,Event Lead Management & Follow-Up Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01916,lead,ST-MK-004-01-01,Event Lead Management & Follow-Up Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01917,event management & production services,ST-MK-004-01-02,Event Management & Production Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01918,event,ST-MK-004-01-02,Event Management & Production Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01919,management,ST-MK-004-01-02,Event Management & Production Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01920,event planning & logistics services,ST-MK-004-01-03,Event Planning & Logistics Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01921,event,ST-MK-004-01-03,Event Planning & Logistics Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01922,planning,ST-MK-004-01-03,Event Planning & Logistics Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01923,virtual event & webinar operations,ST-MK-004-01-04,Virtual Event & Webinar Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01924,virtual,ST-MK-004-01-04,Virtual Event & Webinar Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01925,event,ST-MK-004-01-04,Virtual Event & Webinar Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01926,campaign operations & production management,ST-MK-005-01-01,Campaign Operations & Production Management,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01927,campaign,ST-MK-005-01-01,Campaign Operations & Production Management,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01928,operations,ST-MK-005-01-01,Campaign Operations & Production Management,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01929,digital asset management operations,ST-MK-005-01-02,Digital Asset Management Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01930,digital,ST-MK-005-01-02,Digital Asset Management Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01931,asset,ST-MK-005-01-02,Digital Asset Management Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01932,marketing automation & campaign operations,ST-MK-005-01-03,Marketing Automation & Campaign Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01933,marketing,ST-MK-005-01-03,Marketing Automation & Campaign Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01934,automation,ST-MK-005-01-03,Marketing Automation & Campaign Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01935,marketing data & analytics services,ST-MK-005-01-04,Marketing Data & Analytics Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01936,marketing,ST-MK-005-01-04,Marketing Data & Analytics Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01937,data,ST-MK-005-01-04,Marketing Data & Analytics Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01938,attribution & marketing mix modeling support,ST-MK-006-01-01,Attribution & Marketing Mix Modeling Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01939,attribution,ST-MK-006-01-01,Attribution & Marketing Mix Modeling Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01940,marketing,ST-MK-006-01-01,Attribution & Marketing Mix Modeling Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01941,email deployment & deliverability management,ST-MK-006-01-02,Email Deployment & Deliverability Management,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01942,email,ST-MK-006-01-02,Email Deployment & Deliverability Management,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01943,deployment,ST-MK-006-01-02,Email Deployment & Deliverability Management,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01944,marketing analytics & attribution services,ST-MK-006-01-03,Marketing Analytics & Attribution Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01945,marketing,ST-MK-006-01-03,Marketing Analytics & Attribution Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01946,analytics,ST-MK-006-01-03,Marketing Analytics & Attribution Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01947,marketing automation & crm operations,ST-MK-006-01-04,Marketing Automation & CRM Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01948,marketing,ST-MK-006-01-04,Marketing Automation & CRM Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01949,automation,ST-MK-006-01-04,Marketing Automation & CRM Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01950,marketing automation platform operations,ST-MK-006-01-05,Marketing Automation Platform Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01951,marketing,ST-MK-006-01-05,Marketing Automation Platform Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01952,automation,ST-MK-006-01-05,Marketing Automation Platform Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01953,marketing performance reporting & dashboards,ST-MK-006-01-06,Marketing Performance Reporting & Dashboards,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01954,marketing,ST-MK-006-01-06,Marketing Performance Reporting & Dashboards,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01955,performance,ST-MK-006-01-06,Marketing Performance Reporting & Dashboards,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01956,web & landing page operations,ST-MK-006-01-07,Web & Landing Page Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01957,web,ST-MK-006-01-07,Web & Landing Page Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01958,landing,ST-MK-006-01-07,Web & Landing Page Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01959,affiliate & partnership marketing services,ST-MK-007-01-01,Affiliate & Partnership Marketing Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01960,affiliate,ST-MK-007-01-01,Affiliate & Partnership Marketing Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01961,partnership,ST-MK-007-01-01,Affiliate & Partnership Marketing Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01962,media planning & buying,ST-MK-007-01-02,Media Planning & Buying,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01963,media,ST-MK-007-01-02,Media Planning & Buying,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01964,planning,ST-MK-007-01-02,Media Planning & Buying,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01965,media planning & buying services,ST-MK-007-01-03,Media Planning & Buying Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01966,media,ST-MK-007-01-03,Media Planning & Buying Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01967,planning,ST-MK-007-01-03,Media Planning & Buying Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01968,performance marketing services,ST-MK-007-01-04,Performance Marketing Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01969,performance,ST-MK-007-01-04,Performance Marketing Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01970,marketing,ST-MK-007-01-04,Performance Marketing Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01971,programmatic advertising operations,ST-MK-007-01-05,Programmatic Advertising Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01972,programmatic,ST-MK-007-01-05,Programmatic Advertising Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01973,advertising,ST-MK-007-01-05,Programmatic Advertising Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01974,search engine marketing (sem) management services,ST-MK-007-01-06,Search Engine Marketing (SEM) Management Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01975,search,ST-MK-007-01-06,Search Engine Marketing (SEM) Management Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01976,engine,ST-MK-007-01-06,Search Engine Marketing (SEM) Management Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01977,executive communications production,ST-MK-008-01-01,Executive Communications Production,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01978,executive,ST-MK-008-01-01,Executive Communications Production,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01979,communications,ST-MK-008-01-01,Executive Communications Production,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01980,media relations & press office support,ST-MK-008-01-02,Media Relations & Press Office Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01981,media,ST-MK-008-01-02,Media Relations & Press Office Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01982,relations,ST-MK-008-01-02,Media Relations & Press Office Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01983,marketplace & partner listing optimization,ST-MK-009-01-01,Marketplace & Partner Listing Optimization,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01984,marketplace,ST-MK-009-01-01,Marketplace & Partner Listing Optimization,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01985,partner,ST-MK-009-01-01,Marketplace & Partner Listing Optimization,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01986,partner marketing content & mdf operations,ST-MK-009-01-02,Partner Marketing Content & MDF Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01987,partner,ST-MK-009-01-02,Partner Marketing Content & MDF Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01988,marketing,ST-MK-009-01-02,Partner Marketing Content & MDF Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01989,influencer & creator management services,ST-MK-010-01-01,Influencer & Creator Management Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01990,influencer,ST-MK-010-01-01,Influencer & Creator Management Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01991,creator,ST-MK-010-01-01,Influencer & Creator Management Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01992,influencer program operations,ST-MK-010-01-02,Influencer Program Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01993,influencer,ST-MK-010-01-02,Influencer Program Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01994,program,ST-MK-010-01-02,Influencer Program Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01995,social listening & reputation monitoring,ST-MK-010-01-03,Social Listening & Reputation Monitoring,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01996,social,ST-MK-010-01-03,Social Listening & Reputation Monitoring,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01997,listening,ST-MK-010-01-03,Social Listening & Reputation Monitoring,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01998,social media publishing & community management,ST-MK-010-01-04,Social Media Publishing & Community Management,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-01999,social,ST-MK-010-01-04,Social Media Publishing & Community Management,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-02000,media,ST-MK-010-01-04,Social Media Publishing & Community Management,MEDIUM,GENERATED,0,2026-02-26,TRUE,MK
+ALI-02001,board portal administration & meeting logistics,ST-RC-001-01-01,Board Portal Administration & Meeting Logistics,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02002,board,ST-RC-001-01-01,Board Portal Administration & Meeting Logistics,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02003,portal,ST-RC-001-01-01,Board Portal Administration & Meeting Logistics,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02004,entity management & corporate secretarial support,ST-RC-001-01-02,Entity Management & Corporate Secretarial Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02005,entity,ST-RC-001-01-02,Entity Management & Corporate Secretarial Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02006,management,ST-RC-001-01-02,Entity Management & Corporate Secretarial Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02007,data breach response & notification services,ST-RC-002-01-01,Data Breach Response & Notification Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02008,data,ST-RC-002-01-01,Data Breach Response & Notification Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02009,breach,ST-RC-002-01-01,Data Breach Response & Notification Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02010,privacy policy compliance monitoring,ST-RC-002-01-02,Privacy Policy Compliance Monitoring,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02011,privacy,ST-RC-002-01-02,Privacy Policy Compliance Monitoring,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02012,policy,ST-RC-002-01-02,Privacy Policy Compliance Monitoring,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02013,privacy program operations support,ST-RC-002-01-03,Privacy Program Operations Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02014,privacy,ST-RC-002-01-03,Privacy Program Operations Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02015,program,ST-RC-002-01-03,Privacy Program Operations Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02016,privacy request (dsar) operations,ST-RC-002-01-04,Privacy Request (DSAR) Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02017,privacy,ST-RC-002-01-04,Privacy Request (DSAR) Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02018,request,ST-RC-002-01-04,Privacy Request (DSAR) Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02019,esg data collection & reporting,ST-RC-003-01-01,ESG Data Collection & Reporting,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02020,esg,ST-RC-003-01-01,ESG Data Collection & Reporting,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02021,data,ST-RC-003-01-01,ESG Data Collection & Reporting,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02022,esg reporting & disclosure support,ST-RC-003-01-02,ESG Reporting & Disclosure Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02023,esg,ST-RC-003-01-02,ESG Reporting & Disclosure Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02024,reporting,ST-RC-003-01-02,ESG Reporting & Disclosure Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02025,sustainability program management support,ST-RC-003-01-03,Sustainability Program Management Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02026,sustainability,ST-RC-003-01-03,Sustainability Program Management Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02027,program,ST-RC-003-01-03,Sustainability Program Management Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02028,sustainability program operations support,ST-RC-003-01-04,Sustainability Program Operations Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02029,sustainability,ST-RC-003-01-04,Sustainability Program Operations Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02030,program,ST-RC-003-01-04,Sustainability Program Operations Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02031,compliance training administration,ST-RC-004-01-01,Compliance Training Administration,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02032,compliance,ST-RC-004-01-01,Compliance Training Administration,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02033,training,ST-RC-004-01-01,Compliance Training Administration,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02034,ethics hotline intake & case administration,ST-RC-004-01-02,Ethics Hotline Intake & Case Administration,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02035,ethics,ST-RC-004-01-02,Ethics Hotline Intake & Case Administration,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02036,hotline,ST-RC-004-01-02,Ethics Hotline Intake & Case Administration,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02037,forensic accounting & investigation support,ST-RC-005-01-01,Forensic Accounting & Investigation Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02038,forensic,ST-RC-005-01-01,Forensic Accounting & Investigation Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02039,accounting,ST-RC-005-01-01,Forensic Accounting & Investigation Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02040,risk advisory & controls consulting services,ST-RC-005-01-02,Risk Advisory & Controls Consulting Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02041,risk,ST-RC-005-01-02,Risk Advisory & Controls Consulting Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02042,advisory,ST-RC-005-01-02,Risk Advisory & Controls Consulting Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02043,transaction advisory & due diligence,ST-RC-005-01-03,Transaction Advisory & Due Diligence,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02044,transaction,ST-RC-005-01-03,Transaction Advisory & Due Diligence,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02045,advisory,ST-RC-005-01-03,Transaction Advisory & Due Diligence,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02046,valuation & financial modeling services,ST-RC-005-01-04,Valuation & Financial Modeling Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02047,valuation,ST-RC-005-01-04,Valuation & Financial Modeling Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02048,financial,ST-RC-005-01-04,Valuation & Financial Modeling Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02049,fraud investigation & case management,ST-RC-006-01-01,Fraud Investigation & Case Management,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02050,fraud,ST-RC-006-01-01,Fraud Investigation & Case Management,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02051,investigation,ST-RC-006-01-01,Fraud Investigation & Case Management,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02052,sanctions screening & list management,ST-RC-006-01-02,Sanctions Screening & List Management,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02053,sanctions,ST-RC-006-01-02,Sanctions Screening & List Management,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02054,screening,ST-RC-006-01-02,Sanctions Screening & List Management,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02055,audit planning & fieldwork support,ST-RC-007-01-01,Audit Planning & Fieldwork Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02056,audit,ST-RC-007-01-01,Audit Planning & Fieldwork Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02057,planning,ST-RC-007-01-01,Audit Planning & Fieldwork Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02058,continuous controls monitoring services,ST-RC-007-01-02,Continuous Controls Monitoring Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02059,continuous,ST-RC-007-01-02,Continuous Controls Monitoring Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02060,controls,ST-RC-007-01-02,Continuous Controls Monitoring Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02061,internal audit co-sourcing services,ST-RC-007-01-03,Internal Audit Co-Sourcing Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02062,internal,ST-RC-007-01-03,Internal Audit Co-Sourcing Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02063,audit,ST-RC-007-01-03,Internal Audit Co-Sourcing Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02064,internal controls testing & sox support,ST-RC-007-01-04,Internal Controls Testing & SOX Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02065,internal,ST-RC-007-01-04,Internal Controls Testing & SOX Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02066,controls,ST-RC-007-01-04,Internal Controls Testing & SOX Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02067,sox testing & compliance support,ST-RC-007-01-05,SOX Testing & Compliance Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02068,sox,ST-RC-007-01-05,SOX Testing & Compliance Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02069,testing,ST-RC-007-01-05,SOX Testing & Compliance Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02070,contract lifecycle management (clm) administration,ST-RC-008-01-01,Contract Lifecycle Management (CLM) Administration,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02071,contract,ST-RC-008-01-01,Contract Lifecycle Management (CLM) Administration,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02072,lifecycle,ST-RC-008-01-01,Contract Lifecycle Management (CLM) Administration,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02073,corporate entity management services,ST-RC-008-01-02,Corporate Entity Management Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02074,corporate,ST-RC-008-01-02,Corporate Entity Management Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02075,entity,ST-RC-008-01-02,Corporate Entity Management Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02076,intellectual property administration services,ST-RC-008-01-03,Intellectual Property Administration Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02077,intellectual,ST-RC-008-01-03,Intellectual Property Administration Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02078,property,ST-RC-008-01-03,Intellectual Property Administration Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02079,investigation case support & evidence management,ST-RC-008-01-04,Investigation Case Support & Evidence Management,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02080,investigation,ST-RC-008-01-04,Investigation Case Support & Evidence Management,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02081,case,ST-RC-008-01-04,Investigation Case Support & Evidence Management,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02082,legal case management services,ST-RC-008-01-05,Legal Case Management Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02083,legal,ST-RC-008-01-05,Legal Case Management Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02084,case,ST-RC-008-01-05,Legal Case Management Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02085,legal contract review & clm support,ST-RC-008-01-06,Legal Contract Review & CLM Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02086,legal,ST-RC-008-01-06,Legal Contract Review & CLM Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02087,contract,ST-RC-008-01-06,Legal Contract Review & CLM Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02088,legal intake triage & matter management,ST-RC-008-01-07,Legal Intake Triage & Matter Management,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02089,legal,ST-RC-008-01-07,Legal Intake Triage & Matter Management,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02090,intake,ST-RC-008-01-07,Legal Intake Triage & Matter Management,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02091,legal research & paralegal services,ST-RC-008-01-08,Legal Research & Paralegal Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02092,legal,ST-RC-008-01-08,Legal Research & Paralegal Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02093,research,ST-RC-008-01-08,Legal Research & Paralegal Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02094,ediscovery & litigation support services,ST-RC-008-01-09,eDiscovery & Litigation Support Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02095,ediscovery,ST-RC-008-01-09,eDiscovery & Litigation Support Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02096,litigation,ST-RC-008-01-09,eDiscovery & Litigation Support Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02097,ediscovery processing & review support,ST-RC-008-01-10,eDiscovery Processing & Review Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02098,ediscovery,ST-RC-008-01-10,eDiscovery Processing & Review Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02099,processing,ST-RC-008-01-10,eDiscovery Processing & Review Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02100,compliance program operations support,ST-RC-009-01-01,Compliance Program Operations Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02101,compliance,ST-RC-009-01-01,Compliance Program Operations Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02102,program,ST-RC-009-01-01,Compliance Program Operations Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02103,licensing & registration management,ST-RC-009-01-02,Licensing & Registration Management,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02104,licensing,ST-RC-009-01-02,Licensing & Registration Management,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02105,registration,ST-RC-009-01-02,Licensing & Registration Management,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02106,regulatory compliance monitoring services,ST-RC-009-01-03,Regulatory Compliance Monitoring Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02107,regulatory,ST-RC-009-01-03,Regulatory Compliance Monitoring Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02108,compliance,ST-RC-009-01-03,Regulatory Compliance Monitoring Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02109,regulatory monitoring & compliance reporting,ST-RC-009-01-04,Regulatory Monitoring & Compliance Reporting,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02110,regulatory,ST-RC-009-01-04,Regulatory Monitoring & Compliance Reporting,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02111,monitoring,ST-RC-009-01-04,Regulatory Monitoring & Compliance Reporting,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02112,regulatory reporting operations support,ST-RC-009-01-05,Regulatory Reporting Operations Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02113,regulatory,ST-RC-009-01-05,Regulatory Reporting Operations Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02114,reporting,ST-RC-009-01-05,Regulatory Reporting Operations Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02115,continuous third-party monitoring & alerts,ST-RC-010-01-01,Continuous Third-Party Monitoring & Alerts,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02116,continuous,ST-RC-010-01-01,Continuous Third-Party Monitoring & Alerts,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02117,third-party,ST-RC-010-01-01,Continuous Third-Party Monitoring & Alerts,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02118,enterprise risk management support,ST-RC-010-01-02,Enterprise Risk Management Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02119,enterprise,ST-RC-010-01-02,Enterprise Risk Management Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02120,risk,ST-RC-010-01-02,Enterprise Risk Management Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02121,third-party risk assessment services,ST-RC-010-01-03,Third-Party Risk Assessment Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02122,third-party,ST-RC-010-01-03,Third-Party Risk Assessment Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02123,risk,ST-RC-010-01-03,Third-Party Risk Assessment Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02124,vendor due diligence & background screening services,ST-RC-010-01-04,Vendor Due Diligence & Background Screening Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02125,vendor,ST-RC-010-01-04,Vendor Due Diligence & Background Screening Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02126,due,ST-RC-010-01-04,Vendor Due Diligence & Background Screening Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02127,vendor due diligence & risk assessments,ST-RC-010-01-05,Vendor Due Diligence & Risk Assessments,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02128,vendor,ST-RC-010-01-05,Vendor Due Diligence & Risk Assessments,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02129,due,ST-RC-010-01-05,Vendor Due Diligence & Risk Assessments,MEDIUM,GENERATED,0,2026-02-26,TRUE,RC
+ALI-02130,loan processing & underwriting support,ST-SC-001-01-05,Loan Processing & Underwriting Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02131,loan,ST-SC-001-01-05,Loan Processing & Underwriting Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02132,processing,ST-SC-001-01-05,Loan Processing & Underwriting Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02133,payment & transaction processing services,ST-SC-001-01-06,Payment & Transaction Processing Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02134,payment,ST-SC-001-01-06,Payment & Transaction Processing Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02135,transaction,ST-SC-001-01-06,Payment & Transaction Processing Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02136,electromechanical assembly services,ST-SC-002-01-02,Electromechanical Assembly Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02137,electromechanical,ST-SC-002-01-02,Electromechanical Assembly Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02138,assembly,ST-SC-002-01-02,Electromechanical Assembly Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02139,manufacturing process engineering support,ST-SC-002-01-03,Manufacturing Process Engineering Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02140,manufacturing,ST-SC-002-01-03,Manufacturing Process Engineering Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02141,process,ST-SC-002-01-03,Manufacturing Process Engineering Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02142,turnkey contract manufacturing,ST-SC-002-01-04,Turnkey Contract Manufacturing,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02143,turnkey,ST-SC-002-01-04,Turnkey Contract Manufacturing,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02144,contract,ST-SC-002-01-04,Turnkey Contract Manufacturing,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02145,pharmacovigilance case processing support,ST-SC-006-01-04,Pharmacovigilance Case Processing Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02146,pharmacovigilance,ST-SC-006-01-04,Pharmacovigilance Case Processing Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02147,case,ST-SC-006-01-04,Pharmacovigilance Case Processing Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02148,pharmacy benefit administration services,ST-SC-006-01-05,Pharmacy Benefit Administration Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02149,pharmacy,ST-SC-006-01-05,Pharmacy Benefit Administration Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02150,benefit,ST-SC-006-01-05,Pharmacy Benefit Administration Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02151,prior authorization & utilization review,ST-SC-006-01-06,Prior Authorization & Utilization Review,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02152,prior,ST-SC-006-01-06,Prior Authorization & Utilization Review,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02153,authorization,ST-SC-006-01-06,Prior Authorization & Utilization Review,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02154,policy administration services,ST-SC-007-01-05,Policy Administration Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02155,policy,ST-SC-007-01-05,Policy Administration Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02156,administration,ST-SC-007-01-05,Policy Administration Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02157,subrogation & recovery services,ST-SC-007-01-06,Subrogation & Recovery Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02158,subrogation,ST-SC-007-01-06,Subrogation & Recovery Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02159,recovery,ST-SC-007-01-06,Subrogation & Recovery Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02160,last-mile delivery management services,ST-SC-008-01-05,Last-Mile Delivery Management Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02161,last-mile,ST-SC-008-01-05,Last-Mile Delivery Management Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02162,delivery,ST-SC-008-01-05,Last-Mile Delivery Management Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02163,transportation management & route optimization,ST-SC-008-01-06,Transportation Management & Route Optimization,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02164,transportation,ST-SC-008-01-06,Transportation Management & Route Optimization,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02165,management,ST-SC-008-01-06,Transportation Management & Route Optimization,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02166,transportation management services,ST-SC-008-01-07,Transportation Management Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02167,transportation,ST-SC-008-01-07,Transportation Management Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02168,management,ST-SC-008-01-07,Transportation Management Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02169,production scheduling & shop floor control,ST-SC-009-01-02,Production Scheduling & Shop Floor Control,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02170,production,ST-SC-009-01-02,Production Scheduling & Shop Floor Control,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02171,scheduling,ST-SC-009-01-02,Production Scheduling & Shop Floor Control,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02172,media asset management services,ST-SC-010-01-02,Media Asset Management Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02173,media,ST-SC-010-01-02,Media Asset Management Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02174,asset,ST-SC-010-01-02,Media Asset Management Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02175,rights & royalties administration support,ST-SC-010-01-03,Rights & Royalties Administration Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02176,rights,ST-SC-010-01-03,Rights & Royalties Administration Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02177,royalties,ST-SC-010-01-03,Rights & Royalties Administration Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02178,rights & royalty administration services,ST-SC-010-01-04,Rights & Royalty Administration Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02179,rights,ST-SC-010-01-04,Rights & Royalty Administration Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02180,royalty,ST-SC-010-01-04,Rights & Royalty Administration Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02181,returns processing & reverse logistics operations,ST-SC-011-01-02,Returns Processing & Reverse Logistics Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02182,returns,ST-SC-011-01-02,Returns Processing & Reverse Logistics Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02183,processing,ST-SC-011-01-02,Returns Processing & Reverse Logistics Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02184,co-packing & kitting services,ST-SC-012-01-02,Co-Packing & Kitting Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02185,co-packing,ST-SC-012-01-02,Co-Packing & Kitting Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02186,kitting,ST-SC-012-01-02,Co-Packing & Kitting Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02187,citizen inquiry & contact center support,ST-SC-013-01-01,Citizen Inquiry & Contact Center Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02188,citizen,ST-SC-013-01-01,Citizen Inquiry & Contact Center Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02189,inquiry,ST-SC-013-01-01,Citizen Inquiry & Contact Center Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02190,government program administration support,ST-SC-013-01-02,Government Program Administration Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02191,government,ST-SC-013-01-02,Government Program Administration Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02192,program,ST-SC-013-01-02,Government Program Administration Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02193,government program application processing,ST-SC-013-01-03,Government Program Application Processing,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02194,government,ST-SC-013-01-03,Government Program Application Processing,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02195,program,ST-SC-013-01-03,Government Program Application Processing,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02196,public sector procurement & contracting support,ST-SC-013-01-04,Public Sector Procurement & Contracting Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02197,public,ST-SC-013-01-04,Public Sector Procurement & Contracting Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02198,sector,ST-SC-013-01-04,Public Sector Procurement & Contracting Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02199,quality control & inspection services,ST-SC-014-01-01,Quality Control & Inspection Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02200,quality,ST-SC-014-01-01,Quality Control & Inspection Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02201,control,ST-SC-014-01-01,Quality Control & Inspection Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02202,quality inspection & testing services,ST-SC-014-01-02,Quality Inspection & Testing Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02203,quality,ST-SC-014-01-02,Quality Inspection & Testing Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02204,inspection,ST-SC-014-01-02,Quality Inspection & Testing Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02205,supplier quality & incoming inspection,ST-SC-014-01-03,Supplier Quality & Incoming Inspection,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02206,supplier,ST-SC-014-01-03,Supplier Quality & Incoming Inspection,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02207,quality,ST-SC-014-01-03,Supplier Quality & Incoming Inspection,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02208,supplier quality management support,ST-SC-014-01-04,Supplier Quality Management Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02209,supplier,ST-SC-014-01-04,Supplier Quality Management Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02210,quality,ST-SC-014-01-04,Supplier Quality Management Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02211,demand forecasting & supply planning operations,ST-SC-015-01-01,Demand Forecasting & Supply Planning Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02212,demand,ST-SC-015-01-01,Demand Forecasting & Supply Planning Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02213,forecasting,ST-SC-015-01-01,Demand Forecasting & Supply Planning Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02214,demand planning & forecasting services,ST-SC-015-01-02,Demand Planning & Forecasting Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02215,demand,ST-SC-015-01-02,Demand Planning & Forecasting Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02216,planning,ST-SC-015-01-02,Demand Planning & Forecasting Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02217,inventory management & reconciliation,ST-SC-015-01-03,Inventory Management & Reconciliation,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02218,inventory,ST-SC-015-01-03,Inventory Management & Reconciliation,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02219,management,ST-SC-015-01-03,Inventory Management & Reconciliation,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02220,inventory replenishment & allocation operations,ST-SC-015-01-04,Inventory Replenishment & Allocation Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02221,inventory,ST-SC-015-01-04,Inventory Replenishment & Allocation Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02222,replenishment,ST-SC-015-01-04,Inventory Replenishment & Allocation Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02223,supply chain analytics & reporting services,ST-SC-015-01-05,Supply Chain Analytics & Reporting Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02224,supply,ST-SC-015-01-05,Supply Chain Analytics & Reporting Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02225,chain,ST-SC-015-01-05,Supply Chain Analytics & Reporting Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02226,supply chain network cost modeling advisory,ST-SC-015-01-06,Supply Chain Network Cost Modeling Advisory,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02227,supply,ST-SC-015-01-06,Supply Chain Network Cost Modeling Advisory,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02228,chain,ST-SC-015-01-06,Supply Chain Network Cost Modeling Advisory,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02229,supply chain spend analytics & cost reduction advisory,ST-SC-015-01-07,Supply Chain Spend Analytics & Cost Reduction Advisory,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02230,supply,ST-SC-015-01-07,Supply Chain Spend Analytics & Cost Reduction Advisory,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02231,chain,ST-SC-015-01-07,Supply Chain Spend Analytics & Cost Reduction Advisory,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02232,network operations center (noc) support,ST-SC-016-01-01,Network Operations Center (NOC) Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02233,network,ST-SC-016-01-01,Network Operations Center (NOC) Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02234,operations,ST-SC-016-01-01,Network Operations Center (NOC) Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02235,telecom service provisioning & activation,ST-SC-016-01-02,Telecom Service Provisioning & Activation,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02236,telecom,ST-SC-016-01-02,Telecom Service Provisioning & Activation,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02237,service,ST-SC-016-01-02,Telecom Service Provisioning & Activation,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02238,freight brokerage & carrier procurement,ST-SC-017-01-01,Freight Brokerage & Carrier Procurement,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02239,freight,ST-SC-017-01-01,Freight Brokerage & Carrier Procurement,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02240,brokerage,ST-SC-017-01-01,Freight Brokerage & Carrier Procurement,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02241,shipment tracking & exception management,ST-SC-017-01-02,Shipment Tracking & Exception Management,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02242,shipment,ST-SC-017-01-02,Shipment Tracking & Exception Management,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02243,tracking,ST-SC-017-01-02,Shipment Tracking & Exception Management,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02244,reservation & booking operations,ST-SC-018-01-01,Reservation & Booking Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02245,reservation,ST-SC-018-01-01,Reservation & Booking Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02246,booking,ST-SC-018-01-01,Reservation & Booking Operations,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02247,revenue management & yield optimization support,ST-SC-018-01-02,Revenue Management & Yield Optimization Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02248,revenue,ST-SC-018-01-02,Revenue Management & Yield Optimization Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02249,management,ST-SC-018-01-02,Revenue Management & Yield Optimization Support,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02250,cycle counting & inventory accuracy services,ST-SC-019-01-01,Cycle Counting & Inventory Accuracy Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02251,cycle,ST-SC-019-01-01,Cycle Counting & Inventory Accuracy Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02252,counting,ST-SC-019-01-01,Cycle Counting & Inventory Accuracy Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02253,inventory management & control services,ST-SC-019-01-02,Inventory Management & Control Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02254,inventory,ST-SC-019-01-02,Inventory Management & Control Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02255,management,ST-SC-019-01-02,Inventory Management & Control Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02256,pick-pack-ship labor services,ST-SC-019-01-03,Pick-Pack-Ship Labor Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02257,pick-pack-ship,ST-SC-019-01-03,Pick-Pack-Ship Labor Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02258,labor,ST-SC-019-01-03,Pick-Pack-Ship Labor Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02259,reverse logistics services,ST-SC-019-01-04,Reverse Logistics Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02260,reverse,ST-SC-019-01-04,Reverse Logistics Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02261,logistics,ST-SC-019-01-04,Reverse Logistics Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02262,warehouse management & operations services,ST-SC-019-01-05,Warehouse Management & Operations Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02263,warehouse,ST-SC-019-01-05,Warehouse Management & Operations Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02264,management,ST-SC-019-01-05,Warehouse Management & Operations Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02265,warehouse staffing & labor services,ST-SC-019-01-06,Warehouse Staffing & Labor Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02266,warehouse,ST-SC-019-01-06,Warehouse Staffing & Labor Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02267,staffing,ST-SC-019-01-06,Warehouse Staffing & Labor Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02268,warehousing & distribution services,ST-SC-019-01-07,Warehousing & Distribution Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02269,warehousing,ST-SC-019-01-07,Warehousing & Distribution Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC
+ALI-02270,distribution,ST-SC-019-01-07,Warehousing & Distribution Services,MEDIUM,GENERATED,0,2026-02-26,TRUE,SC

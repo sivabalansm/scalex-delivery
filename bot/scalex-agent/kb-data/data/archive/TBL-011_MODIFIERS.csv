@@ -1,0 +1,9 @@
+Modifier_Code,Modifier_Name,Question_Text,Value_Type,Common_Values,Triggers_For,Priority,Required_By_Default
+LANG,Language Requirement,What languages need to be supported?,multi_select,"English,Spanish,French,German,Mandarin,Japanese,Portuguese,Korean,Hindi,Arabic","CO,COP,ME",1,False
+SHIFT,Shift Coverage,"What hours of coverage do you need? (Business hours, 24x7, etc.)",single_select,"Business_Hours,Extended_Hours,24x5,24x7,Follow_the_Sun","CO,IT",2,False
+CERT,Compliance Certification,"What compliance certifications are required? (SOC 2, HIPAA, PCI, etc.)",multi_select,"SOC_1,SOC_2,HIPAA,PCI_DSS,ISO_27001,GDPR,FedRAMP,CMMI,HITRUST",ALL,3,False
+CLEAR,Security Clearance,What security clearance level is required?,single_select,"None,Public_Trust,Secret,Top_Secret,TS_SCI","IT,PS,CL",4,False
+REGION,Geographic Constraint,Where should services be delivered from?,single_select,"Onshore_US,Nearshore_LATAM,Offshore_APAC,Offshore_EMEA,Any",ALL,5,False
+DOMAIN,Industry Domain,What industry domain expertise is needed?,single_select,"Healthcare,Financial_Services,Retail,Manufacturing,Technology,Government,Life_Sciences,Insurance","CL,FA,EN,IV",6,False
+SCALE,Volume/Scale,What is your approximate transaction volume?,single_select,"Low_Under_1K,Medium_1K_10K,High_10K_100K,Very_High_Over_100K","CO,FA,HR",7,False
+SLA,SLA Requirements,Do you have specific SLA requirements beyond standard?,text,,ALL,8,False

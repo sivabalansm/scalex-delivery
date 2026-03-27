@@ -1,0 +1,39 @@
+@import "tailwindcss";
+
+:root {
+  /* Base typography */
+  font-family: "Inter", system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  /* Dark mode enforced */
+  color-scheme: dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #09090b;
+
+  /* Font rendering */
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  /* Design tokens */
+  --radius: 0.5rem;
+  --scalex-red: #ef3e34;
+  --scalex-red-dark: #d4342b;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+/* Minimal resets */
+button {
+  border: 1px solid transparent;
+  font-family: inherit;
+  cursor: pointer;
+}
